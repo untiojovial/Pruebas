@@ -6,6 +6,8 @@ Colores: amarillo = pasaje citado · naranja = frase clave · azul = lo que se r
 
 Todo junto en un PDF: [`capturas_ibn_hajar.pdf`](capturas_ibn_hajar.pdf).
 
+Las fuentes de la pestaña Historia, siglo a siglo, están en [`historia/`](historia/README.md).
+
 | # | Tema | Qué es | Fuente | Uso en el guion | Archivos |
 |---|---|---|---|---|---|
 | IH01 | Vídeo 1 | «Y es posible que sea la continuación de las palabras de Ibn Abbas» | Ibn Hajar, Fath al-Bari, vol. 13, p. 533 · [islamweb.net](https://www.islamweb.net/ar/library/content/52/13832/) | Vídeo 1 · captura 1 (bloques 0 y 2) | [árabe](IH01_ar.png) · [español](IH01_es.png) |
