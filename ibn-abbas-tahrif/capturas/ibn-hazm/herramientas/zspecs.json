@@ -1,0 +1,582 @@
+[
+ {
+  "id": "Z01",
+  "url": "https://shamela.ws/book/6521/85",
+  "titleSel": "h1",
+  "segments": [
+   {
+    "from": "وكل كتاب دون فيه الكذب",
+    "to": "كذب على الله تعالى وعلى الملائكة عليهم السلام",
+    "keys": [
+     "وكل كتاب دون فيه الكذب فهو باطل موضوع ليس من عند الله",
+     "يتيقن بذلك تحريفها وتبديله"
+    ],
+    "alts": []
+   }
+  ],
+  "css": " #bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}"
+ },
+ {
+  "id": "Z02",
+  "url": "https://shamela.ws/book/6521/152",
+  "titleSel": "h1",
+  "segments": [
+   {
+    "from": "كان أهل الكتاب يقرؤن التوراة بالعبرانية",
+    "to": "كما قلنا في نبوة من لم يتنا باسمه نص",
+    "keys": [
+     "وهذا نص قولنا",
+     "ما نزل القرآن والسنة عن النبي صلى الله عليه وسلم بتصديقه صدقنا به",
+     "وما نزل النص بتكذيبه أو ظهر كذبه كذبنا له"
+    ],
+    "alts": []
+   }
+  ],
+  "css": " #bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}"
+ },
+ {
+  "id": "Z03",
+  "url": "https://shamela.ws/book/6521/144",
+  "titleSel": "h1",
+  "segments": [
+   {
+    "from": "وأما التوراة فما وافقنا قط عليها",
+    "to": "ولا يعرفون التي نؤمن نحن بها",
+    "keys": [
+     "لأنه تعالى أخبرنا بذلك في كتابه",
+     "ونقطع بأنها ليست هذه التي بأيديهم"
+    ],
+    "alts": []
+   }
+  ],
+  "css": " #bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}"
+ },
+ {
+  "id": "Z04",
+  "url": "https://shamela.ws/book/6521/150",
+  "titleSel": "h1",
+  "segments": [
+   {
+    "from": "وأما استشهاد رسول الله صلى الله عليه وسلم بالتوراة في أمر رجم",
+    "to": "فخبر مكذوب موضوع",
+    "keys": [
+     "وإنما يحتج عليهم بهذا كله بعد إثبات رسالته صلى الله عليه وسلم بالبراهين",
+     "لا لحاجة منا الى ذلك"
+    ],
+    "alts": [
+     "أخذ التوراة وقال آمنت بما فيك فخبر مكذوب موضوع"
+    ]
+   }
+  ],
+  "css": " #bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}"
+ },
+ {
+  "id": "Z05",
+  "url": "https://shamela.ws/book/6521/152",
+  "titleSel": "h1",
+  "segments": [
+   {
+    "from": "ونقول لمن قال من المسلمين إن نقلهم نقل تواتر",
+    "to": "وقد اجتمعت المشاهدة والنص",
+    "keys": [
+     "لا ذكر فيه لمحمد صلى الله عليه وسلم أصلا",
+     "وليس شيء من هذا فيما بأيدي اليهود والنصارى",
+     "فلا بد لهؤلاء الجهال من تصديق ربهم",
+     "وقد اجتمعت المشاهدة والنص"
+    ],
+    "alts": []
+   }
+  ],
+  "css": " #bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}"
+ },
+ {
+  "id": "Z06",
+  "url": "https://shamela.ws/book/6521/96",
+  "titleSel": "h1",
+  "segments": [
+   {
+    "from": "وسادسها إخباره أنهم أكلوا الخبز",
+    "to": "هيهات نور الحق من ظلمات الكذب",
+    "keys": [
+     "أين هذا الكذب البارد الفاضح",
+     "من قول الله عز وجل في هذه القصة نفسها"
+    ],
+    "alts": []
+   }
+  ],
+  "css": " #bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}"
+ },
+ {
+  "id": "Z07a",
+  "url": "https://shamela.ws/book/6521/116",
+  "titleSel": "h1",
+  "segments": [
+   {
+    "from": "هذا الفصل عفا على ما قبله",
+    "to": "أمام العجل",
+    "keys": [
+     "أن يكون هارون وهو نبي مرسل يتعمد أن يعمل لقومه إلها"
+    ],
+    "alts": []
+   }
+  ],
+  "css": " #bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}"
+ },
+ {
+  "id": "Z07b",
+  "url": "https://shamela.ws/book/6521/117",
+  "titleSel": "h1",
+  "segments": [
+   {
+    "from": "أين هذا الهوس البارد والكذب المفترى",
+    "to": "من كذب الآفكين",
+    "keys": [
+     "من نور الحق الذي يشهد له العقل بالصحة الذي جاء به محمد",
+     "إنما عمل لهم العجل الكافر الضال السامري"
+    ],
+    "alts": []
+   }
+  ],
+  "css": " #bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}"
+ },
+ {
+  "id": "Z08a",
+  "url": "https://shamela.ws/book/6521/207",
+  "titleSel": "h1",
+  "segments": [
+   {
+    "from": "كيف يطلق لوقا",
+    "to": "حيث قال",
+    "keys": [
+     "أين هذا الزور المفتري من النور المقتفي قول الله حقا"
+    ],
+    "alts": []
+   }
+  ],
+  "css": " #bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}"
+ },
+ {
+  "id": "Z08b",
+  "url": "https://shamela.ws/book/6521/208",
+  "titleSel": "h1",
+  "segments": [
+   {
+    "from": "قال أبو محمد هذا هو الحق الواضح الذي يصدق بعضه بعضا",
+    "to": "لا يجوز أن يصدقها أحد",
+    "keys": [
+     "هذا هو الحق الواضح الذي يصدق بعضه بعضا"
+    ],
+    "alts": []
+   }
+  ],
+  "css": " #bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}"
+ },
+ {
+  "id": "Z09a",
+  "url": "https://shamela.ws/book/6521/97",
+  "titleSel": "h1",
+  "segments": [
+   {
+    "from": "في هذه الفصول فضائح وسوآت",
+    "to": "حقوق الأنبياء عليهم السلام",
+    "keys": [
+     "تقشعر من سماعها جلود المؤمنين"
+    ],
+    "alts": []
+   }
+  ],
+  "css": " #bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}"
+ },
+ {
+  "id": "Z09b",
+  "url": "https://shamela.ws/book/6521/98",
+  "titleSel": "h1",
+  "segments": [
+   {
+    "from": "على الله عز وجل من أنه أطلق نبيه ورسوله",
+    "to": "تعالى الله عن هذا علوا كبيرا",
+    "keys": [
+     "أطلق نبيه ورسوله صلى الله عليه وسلم على هذه الفاحشة العظيمة"
+    ],
+    "alts": []
+   }
+  ],
+  "css": " #bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}"
+ },
+ {
+  "id": "Z10a",
+  "url": "https://shamela.ws/book/6521/102",
+  "titleSel": "h1",
+  "segments": [
+   {
+    "from": "ذكر في هذا المكان أن يعقوب صارع الله",
+    "to": "حتى قالوا",
+    "keys": [
+     "أن يعقوب صارع الله عز وجل"
+    ],
+    "alts": []
+   }
+  ],
+  "css": " #bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}"
+ },
+ {
+  "id": "Z10b",
+  "url": "https://shamela.ws/book/6521/103",
+  "titleSel": "h1",
+  "segments": [
+   {
+    "from": "أن الله عز وجل عجز عن أن يصرع",
+    "to": "وصحة اليقين بأن توراتهم مبدلة",
+    "keys": [
+     "وصحة اليقين بأن توراتهم مبدلة"
+    ],
+    "alts": [
+     "قد رويتم أن نبيكم صارع ركانة"
+    ]
+   }
+  ],
+  "css": " #bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}"
+ },
+ {
+  "id": "Z11a",
+  "url": "https://shamela.ws/book/6521/87",
+  "titleSel": "h1",
+  "segments": [
+   {
+    "from": "اصنع بناء آدم كصورتنا كشبهنا",
+    "to": "وحاشى لله أن يكون له مثل أو شبه",
+    "keys": [
+     "لكن قوله كشبهنا منع التأويلات",
+     "وهذا يعلم بطلانه ببديهة العقل"
+    ],
+    "alts": []
+   }
+  ],
+  "css": " #bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}"
+ },
+ {
+  "id": "Z11b",
+  "url": "https://shamela.ws/book/6521/89",
+  "titleSel": "h1",
+  "segments": [
+   {
+    "from": "هذا آدم قد صار كواحد منا في معرفة الخير والشر",
+    "to": "بأنها من عند الله تعالى",
+    "keys": [
+     "مصيبة من مصائب الدهر",
+     "وموجب ضرورة أنهم آلهة أكثر من واحد"
+    ],
+    "alts": []
+   }
+  ],
+  "css": " #bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}"
+ },
+ {
+  "id": "Z12",
+  "url": "https://shamela.ws/book/6521/90",
+  "titleSel": "h1",
+  "segments": [
+   {
+    "from": "وبعد ذلك ذكر أن متوشالح",
+    "to": "فاضبطوا هذا",
+    "keys": [],
+    "alts": []
+   },
+   {
+    "from": "فوجب من هذا ضرورة لا محيد عنها أن متوشالح",
+    "to": "وفي هذا الفصل كفاية",
+    "keys": [
+     "أن متوشالح بن حنوك دخل السفينة وأنه فيها مات",
+     "فلاح الكذب البحت في نقل توراتهم"
+    ],
+    "alts": []
+   }
+  ],
+  "css": " #bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}"
+ },
+ {
+  "id": "Z13a",
+  "url": "https://shamela.ws/book/6521/132",
+  "titleSel": "h1",
+  "segments": [
+   {
+    "from": "ثم قال آخر توراتهم فتوفي موسى عبد الله",
+    "to": "ولم يخلف موسى في بني إسرائيل نبي مثله",
+    "keys": [
+     "فتوفي موسى عبد الله بذلك الموضع",
+     "ولم يعرف آدمي موضع قبره إلى اليوم"
+    ],
+    "alts": []
+   }
+  ],
+  "css": " #bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}"
+ },
+ {
+  "id": "Z13b",
+  "url": "https://shamela.ws/book/6521/133",
+  "titleSel": "h1",
+  "segments": [
+   {
+    "from": "قال أبو محمد رضي الله عنه هذا آخر توراتهم وتمامها",
+    "to": "وأنه تاريخ ألف بعد دهر طويل ولا بد",
+    "keys": [
+     "إذ لا يمكن أن يكون هذا الفصل منزلا على موسى في حياته",
+     "وأنه تاريخ ألف بعد دهر طويل"
+    ],
+    "alts": []
+   }
+  ],
+  "css": " #bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}"
+ },
+ {
+  "id": "Z14a",
+  "url": "https://shamela.ws/book/6521/139",
+  "titleSel": "h1",
+  "segments": [
+   {
+    "from": "وظهر يقينا أن بني يهوذا",
+    "to": "وقد قلنا أنها كتب مدخولة فاسدة",
+    "keys": [],
+    "alts": [
+     "وقد قلنا أنها كتب مدخولة فاسدة"
+    ]
+   },
+   {
+    "from": "منهم من نشر أسماء الله من التوراة ومنهم من أحرقها",
+    "to": "بغارة بختنصر",
+    "keys": [
+     "ومنهم من أحرقها وقطع أثرها"
+    ],
+    "alts": []
+   }
+  ],
+  "css": " #bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}"
+ },
+ {
+  "id": "Z14b",
+  "url": "https://shamela.ws/book/6521/140",
+  "titleSel": "h1",
+  "segments": [
+   {
+    "from": "إلى أن أملها عليهم من حفظه عزر الوراق",
+    "to": "وهذا يكفي",
+    "keys": [
+     "أملها عليهم من حفظه عزر الوراق الهاروني",
+     "وفيها خلل كثير فأصلحه"
+    ],
+    "alts": []
+   },
+   {
+    "from": "ففي دون هذا كفاية لمن عقل في أنها كتاب مبدل",
+    "to": "أتاهم به",
+    "keys": [
+     "في أنها كتاب مبدل مكذوب موضوع"
+    ],
+    "alts": []
+   }
+  ],
+  "css": " #bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}"
+ },
+ {
+  "id": "Z15",
+  "url": "https://shamela.ws/book/6521/170",
+  "titleSel": "h1",
+  "segments": [
+   {
+    "from": "فاعجبوا لهذه المصيبة",
+    "to": "ولا يمكن البتة أن يكون كلا النسبتين حقا",
+    "keys": [
+     "متى الكذاب ينسب المسيح إلى يوسف النجار",
+     "ولا يمكن البتة أن يكون كلا النسبتين حقا"
+    ],
+    "alts": []
+   },
+   {
+    "from": "وقال بعض أكابر من سلف منهم",
+    "to": "إلا أن يعضدها برهان",
+    "keys": [],
+    "alts": [
+     "أن أحد هذين النسبين هو نسب الولادة والنسب الآخر نسب إلى إنسان تبناه"
+    ]
+   }
+  ],
+  "css": " #bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}"
+ },
+ {
+  "id": "Z16",
+  "url": "https://shamela.ws/book/6521/82",
+  "titleSel": "h1",
+  "segments": [
+   {
+    "from": "مع ما في التوراة من الإنذار البين برسول الله",
+    "to": "فهذا نص على مبعث النبي صلى الله عليه وسلم",
+    "keys": [
+     "مع ما في التوراة من الإنذار البين برسول الله",
+     "فهذا نص على مبعث النبي"
+    ],
+    "alts": []
+   }
+  ],
+  "css": " #bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}"
+ },
+ {
+  "id": "Z17a",
+  "url": "https://shamela.ws/book/6521/81",
+  "titleSel": "h1",
+  "segments": [
+   {
+    "from": "وإنما فيها من أتاكم يدعي نبوة وهو كاذب",
+    "to": "هذا نص ما في التوراة",
+    "keys": [
+     "هذا نص ما في التوراة"
+    ],
+    "alts": []
+   }
+  ],
+  "css": " #bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}"
+ },
+ {
+  "id": "Z17b",
+  "url": "https://shamela.ws/book/6521/131",
+  "titleSel": "h1",
+  "segments": [
+   {
+    "from": "ثم ذكر في السفر الخامس فقال إن طلع فيكم نبي",
+    "to": "فلا تسمعوا له",
+    "keys": [
+     "فلا تسمعوا له"
+    ],
+    "alts": []
+   }
+  ],
+  "css": " #bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}"
+ },
+ {
+  "id": "Z17c",
+  "url": "https://shamela.ws/book/6521/132",
+  "titleSel": "h1",
+  "segments": [
+   {
+    "from": "وحاش لله أن يقول موسى عليه السلام هذا الكلام",
+    "to": "هذا كلام صحيح",
+    "keys": [
+     "والله ما قاله قط",
+     "هذا كلام صحيح"
+    ],
+    "alts": []
+   }
+  ],
+  "css": " #bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}"
+ },
+ {
+  "id": "Z18a",
+  "url": "https://shamela.ws/book/6521/147",
+  "titleSel": "h1",
+  "segments": [
+   {
+    "from": "على أن فيه بما أطلعهم الله على تبديل ما شاء رفعه",
+    "to": "وهذا إنذار بين برسول الله",
+    "keys": [
+     "وكف أيديهم عما شاء ابقاءه حجة لنا عليهم ومعجزة لنبينا"
+    ],
+    "alts": []
+   }
+  ],
+  "css": " #bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}"
+ },
+ {
+  "id": "Z18b",
+  "url": "https://shamela.ws/book/6521/149",
+  "titleSel": "h1",
+  "segments": [
+   {
+    "from": "فإن قيل فإنكم تقرون بالتوراة والانجيل",
+    "to": "فدرس ما بدلوا من الكتب المذكورة",
+    "keys": [
+     "وأبقى الله تعالى بعضها حجة عليهم كما شاء"
+    ],
+    "alts": [
+     "حاشا قوله عليه السلام آمنت بما فيك فإنه باطل لم يصح قط"
+    ]
+   }
+  ],
+  "css": " #bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}"
+ },
+ {
+  "id": "Z19",
+  "url": "https://shamela.ws/book/6521/208",
+  "titleSel": "h1",
+  "segments": [
+   {
+    "from": "وفي الباب الرابع من إنجيل لوقا",
+    "to": "وأبقاه الله عز وجل حجة عليهم",
+    "keys": [
+     "فهذا تحقيق أنه ولد النجار وحاشى لله من ذلك",
+     "وهذا الذي أفلت من تبديلهم"
+    ],
+    "alts": []
+   }
+  ],
+  "css": " #bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}"
+ },
+ {
+  "id": "Z20a",
+  "url": "https://shamela.ws/book/6521/150",
+  "titleSel": "h1",
+  "segments": [
+   {
+    "from": "وأما قوله تعالى {قل فأتوا بالتوراة فاتلوها",
+    "to": "فظهر كذبهم",
+    "keys": [
+     "إنما هو في كذب كذبوه ونسبوه إلى التوراة"
+    ],
+    "alts": []
+   }
+  ],
+  "css": " #bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}"
+ },
+ {
+  "id": "Z20b",
+  "url": "https://shamela.ws/book/6521/151",
+  "titleSel": "h1",
+  "segments": [
+   {
+    "from": "فنعم هذا حق على ظاهره كما هو",
+    "to": "وخالف القرآن",
+    "keys": [
+     "قبل حدوث التبديل"
+    ],
+    "alts": [
+     "فقد ظن الباطل وقال بالكذب"
+    ]
+   },
+   {
+    "from": "لأننا بالضرورة ندري أن معهم حقا وباطلا",
+    "to": "وزائد في خزيهم",
+    "keys": [
+     "وقد قلنا إن الله تعالى أبقى في التوراة والإنجيل حقا ليكون حجة عليهم"
+    ],
+    "alts": []
+   }
+  ],
+  "css": " #bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}"
+ },
+ {
+  "id": "Z21",
+  "url": "https://shamela.ws/book/6521/181",
+  "titleSel": "h1",
+  "segments": [
+   {
+    "from": "ونحن لا ننكر غلط الرواة إذا قام عليه البرهان",
+    "to": "وكل قضية يكذب بعضها بعضا",
+    "keys": [
+     "ولو قال النصارى واليهود مثل هذا في نقلة كتبهم ما عنفناهم"
+    ],
+    "alts": [
+     "وإنما ننكر عليهم أن ينسبوا يعني اليهود والنصارى إلى الله تعالى الكذب البحت"
+    ]
+   }
+  ],
+  "css": " #bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}"
+ }
+]

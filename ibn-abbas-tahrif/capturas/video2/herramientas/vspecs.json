@@ -1,0 +1,412 @@
+[
+ {
+  "id": "U07a",
+  "url": "https://hadithunlocked.com/bukhari:4485",
+  "minW": 200,
+  "segments": [
+   {
+    "from": "كان أهل الكتاب يقرءون التوراة بالعبرانية",
+    "to": "وما أنزل",
+    "keys": [
+     "يقرءون التوراة بالعبرانية ويفسرونها بالعربية لأهل الإسلام",
+     "لا تصدقوا أهل الكتاب ولا تكذبوهم"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "U07b",
+  "url": "https://hadithunlocked.com/bukhari:7542",
+  "minW": 200,
+  "segments": [
+   {
+    "from": "كان أهل الكتاب يقرءون التوراة بالعبرانية",
+    "to": "وما أنزل",
+    "keys": [
+     "يقرءون التوراة بالعبرانية ويفسرونها بالعربية لأهل الإسلام",
+     "لا تصدقوا أهل الكتاب ولا تكذبوهم"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "U09a",
+  "url": "https://hadithunlocked.com/bukhari:3461",
+  "minW": 200,
+  "segments": [
+   {
+    "from": "بلغوا عني ولو آية",
+    "to": "فليتبوأ مقعده من النار",
+    "keys": [
+     "وحدثوا عن بني إسرائيل ولا حرج"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "U09b",
+  "url": "https://hadithunlocked.com/abudawud:4449",
+  "minW": 200,
+  "segments": [
+   {
+    "from": "أتى نفر من يهود",
+    "to": "نحو حديث مالك عن نافع",
+    "keys": [
+     "ائتوني بالتوراة",
+     "فنزع الوسادة من تحته فوضع التوراة عليها ثم قال آمنت بك وبمن أنزلك"
+    ]
+   },
+   {
+    "from": "حسن ( الألباني ) صحيح ثابت",
+    "to": "شعيب الأرناؤوط",
+    "keys": [
+     "حسن ( الألباني )",
+     "صحيح ثابت"
+    ],
+    "alts": [
+     "ضعيف بهذه السياقة"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "U09c",
+  "url": "https://hadithunlocked.com/bukhari:3635",
+  "minW": 200,
+  "segments": [
+   {
+    "from": "أن اليهود جاءوا إلى رسول الله",
+    "to": "يقيها الحجارة",
+    "keys": [
+     "فوضع أحدهم يده على آية الرجم",
+     "فإذا فيها آية الرجم"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "U09d",
+  "url": "https://hadithunlocked.com/muslim:1700",
+  "minW": 200,
+  "segments": [
+   {
+    "from": "مر على النبي",
+    "to": "مكان الرجم",
+    "keys": [
+     "نجده الرجم ولكنه كثر في أشرافنا",
+     "فجعلنا التحميم والجلد مكان الرجم"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "U10a",
+  "url": "https://quran.ksu.edu.sa/tafseer/tabary/sura2-aya97.html",
+  "segments": [
+   {
+    "from": "1610 - حدثنا بشر بن معاذ",
+    "to": "ولكن جئت لأسمع منكم",
+    "keys": [
+     "ولكن جئت لأسمع منكم"
+    ]
+   },
+   {
+    "from": "1613 - حدثني موسى بن هارون",
+    "to": "إنا نجده مكتوبا عندنا",
+    "keys": [
+     "وكان كلما دخل عليهم سمع منهم",
+     "إنا نجده مكتوبا عندنا"
+    ]
+   },
+   {
+    "from": "1614 - حدثني المثنى قال، حدثنا إسحاق بن الحجاج",
+    "to": "هل تجدون محمدا في كتابكم؟ قالوا: نعم",
+    "keys": [
+     "عن مجالد, عن الشعبي",
+     "هل تجدون محمدا في كتابكم؟ قالوا: نعم"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "U10b",
+  "url": "https://quran.ksu.edu.sa/tafseer/tabary/sura2-aya98.html",
+  "segments": [
+   {
+    "from": "1635 - حدثت عن عن عمار",
+    "to": "فنـزلت على لسان عمر",
+    "keys": [
+     "عن عبد الرحمن بن أبي ليلى",
+     "فنـزلت على لسان عمر"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "U01a",
+  "url": "https://shamela.ws/book/12862/78",
+  "titleSel": "h1",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}",
+  "segments": [
+   {
+    "to": "ثنا خالد",
+    "keys": [],
+    "alts": [
+     "ثنا خالد"
+    ],
+    "from": "حدثنا عبد الواحد بن غياث"
+   }
+  ]
+ },
+ {
+  "id": "U01b",
+  "url": "https://shamela.ws/book/12862/79",
+  "titleSel": "h1",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}",
+  "segments": [
+   {
+    "to": "وقد رواه سعيد بن زيد، عن مجالد",
+    "keys": [
+     "نسخ عمر",
+     "كتابا من التوراة بالعربية",
+     "وإنكم إما أن تكذبوا بحق أو تصدقوا بباطل",
+     "لا نعلمه يروى عن جابر إلا بهذا الإسناد"
+    ],
+    "alts": [
+     "عن مجالد، عن عامر، عن جابر"
+    ],
+    "from": "حدثني عامر، ثنا جابر"
+   }
+  ]
+ },
+ {
+  "id": "U02a",
+  "url": "https://shamela.ws/book/25794/11466",
+  "titleSel": "h1",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}",
+  "segments": [
+   {
+    "to": "ما وسعه إلا أن يتبعني",
+    "keys": [
+     "بكتاب أصابه من بعض أهل الكتب",
+     "لقد جئتكم بها بيضاء نقية",
+     "لا تسألوهم عن شيء فيخبروكم بحق فتكذبوا به، أو بباطل فتصدقوا به",
+     "لو أن موسى كان حيا، ما وسعه إلا أن يتبعني"
+    ],
+    "alts": [
+     "أخبرنا مجالد"
+    ],
+    "from": "حدثنا سريج بن النعمان"
+   },
+   {
+    "to": "من طرق عن هشيم بن بشير، بهذا الإسناد",
+    "keys": [
+     "إسناده ضعيف لضعف مجالد"
+    ],
+    "alts": [
+     "والبزار (١٢٤- كشف الأستار)"
+    ],
+    "from": "إسناده ضعيف لضعف مجالد"
+   }
+  ]
+ },
+ {
+  "id": "U02b",
+  "url": "https://shamela.ws/book/61/169",
+  "titleSel": "h1",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}",
+  "segments": [
+   {
+    "to": "ضعفه أحمد ويحيى بن سعيد وغيرهما",
+    "keys": [
+     "وفيه مجالد بن سعيد، ضعفه أحمد ويحيى بن سعيد وغيرهما"
+    ],
+    "alts": [],
+    "from": "أن عمر بن الخطاب أتى النبي"
+   },
+   {
+    "to": "وهو ضعيف اتهم بالكذب",
+    "keys": [
+     "نسخ عمر كتابا من التوراة بالعربية",
+     "رواه البزار، وعند أحمد بعضه، وفيه جابر الجعفي، وهو ضعيف اتهم بالكذب"
+    ],
+    "alts": [],
+    "from": "وعن جابر أيضا قال"
+   }
+  ]
+ },
+ {
+  "id": "U03a",
+  "url": "https://shamela.ws/book/25794/12249",
+  "titleSel": "h1",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}",
+  "segments": [
+   {
+    "to": "وأنا حظكم من النبيين",
+    "keys": [
+     "إني مررت بأخ لي من قريظة",
+     "فكتب لي جوامع من التوراة",
+     "لو أصبح فيكم موسى ثم اتبعتموه، وتركتموني لضللتم"
+    ],
+    "alts": [
+     "عن جابر، عن الشعبي"
+    ],
+    "from": "حدثنا عبد الرزاق"
+   },
+   {
+    "to": "ولم يصح",
+    "keys": [
+     "إسناده ضعيف، لضعف جابر- وهو ابن يزيد الجعفي- وفيه اضطراب"
+    ],
+    "alts": [],
+    "from": "إسناده ضعيف، لضعف جابر"
+   }
+  ]
+ },
+ {
+  "id": "U03b",
+  "url": "https://shamela.ws/book/21795/496",
+  "titleSel": "h1",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}",
+  "segments": [
+   {
+    "to": "وأدرك نبوتي، لاتبعني",
+    "keys": [
+     "بنسخة من التوراة",
+     "ثكلتك الثواكل",
+     "لو بدا لكم موسى فاتبعتموه وتركتموني، لضللتم عن سواء السبيل"
+    ],
+    "alts": [],
+    "from": "أخبرنا محمد بن العلاء، حدثنا ابن نمير، عن مجالد"
+   }
+  ]
+ },
+ {
+  "id": "U03c",
+  "url": "https://www.islamicbook.ws/hadeth/snn-aldarmi-001.html",
+  "segments": [
+   {
+    "to": "ولكن الحديث حسن",
+    "keys": [
+     "إسناده ضعيف لضعف مجالد"
+    ],
+    "alts": [
+     "ولكن الحديث حسن"
+    ],
+    "from": "أخبرنا محمد بن العلاء ثنا بن نمير عن مجالد عن عامر عن جابر"
+   }
+  ]
+ },
+ {
+  "id": "U03d",
+  "url": "https://shamela.ws/book/36114/182",
+  "titleSel": "h1",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}",
+  "segments": [
+   {
+    "to": "إتحاف ٢٨٢٦",
+    "keys": [
+     "بنسخة من التوراة"
+    ],
+    "alts": [
+     "د ٤٤٩، ع ٤٣٥"
+    ],
+    "from": "أخبرنا محمد بن العلاء، ثنا ابن نمير، عن مجالد"
+   },
+   {
+    "to": "وهو هنا محتمل",
+    "keys": [
+     "ليس بالقوي، وهو هنا محتمل"
+    ],
+    "alts": [],
+    "from": "فيه مجالد بن سعيد الهمداني"
+   }
+  ]
+ },
+ {
+  "id": "U04",
+  "url": "https://www.islamweb.net/ar/fatwa/32293/",
+  "segments": [
+   {
+    "to": "من طرق أخرى ضعيفة",
+    "keys": [
+     "إنا نسمع أحاديث من يهود تعجبنا، أفترى أن نكتب بعضها؟",
+     "وهو حديث حسن"
+    ],
+    "alts": [
+     "ورد الحديث من طرق أخرى ضعيفة"
+    ],
+    "from": "أبحث عن حديث وأتذكر جزءا منه"
+   }
+  ]
+ },
+ {
+  "id": "U12a",
+  "url": "https://shamela.ws/book/2247/10",
+  "titleSel": "h1",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}",
+  "segments": [
+   {
+    "to": "لكنه لم يدرك عمر",
+    "keys": [
+     "فيسمع من التوارة فيتعجب كيف تصدق ما في القرآن",
+     "وإسناده صحيح إلى الشعبي"
+    ],
+    "alts": [
+     "لكنه لم يدرك عمر"
+    ],
+    "from": "وأخرج إسحق بن راهوية في مسنده"
+   }
+  ]
+ },
+ {
+  "id": "U12b",
+  "url": "https://shamela.ws/book/2247/11",
+  "titleSel": "h1",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}",
+  "segments": [
+   {
+    "to": "على أن سبب نزول الآية ذلك",
+    "keys": [
+     "فهذه طرق يقوي بعضها بعضا"
+    ],
+    "alts": [
+     "وهما أيضا منقطعان"
+    ],
+    "from": "وقد أخرجه ابن أبي"
+   }
+  ]
+ },
+ {
+  "id": "U13a",
+  "url": "https://shamela.ws/book/5825/314",
+  "titleSel": "h1",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}",
+  "segments": [
+   {
+    "to": "لا يكاد يرسل إلا صحيحا",
+    "keys": [
+     "مرسل الشعبي صحيح لا يكاد يرسل إلا صحيحا"
+    ],
+    "alts": [],
+    "from": "عامر بن شراحيل الشعبي"
+   }
+  ]
+ },
+ {
+  "id": "U13b",
+  "url": "https://www.islamweb.net/ar/library/content/1001/3295/",
+  "titleSel": "h3.txt-blue",
+  "titleUp": 3,
+  "segments": [
+   {
+    "to": "لا يكاد يرسل إلا صحيحا",
+    "keys": [
+     "ومرسل الشعبي صحيح ، لا يكاد يرسل إلا صحيحا"
+    ],
+    "alts": [],
+    "from": "وقال أحمد بن عبد الله العجلي"
+   }
+  ]
+ }
+]
