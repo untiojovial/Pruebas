@@ -578,5 +578,107 @@
    }
   ],
   "css": " #bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}"
+ },
+ {
+  "id": "Z22a",
+  "url": "https://shamela.ws/book/6521/148",
+  "titleSel": "h1",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}",
+  "segments": [
+   {
+    "from": "وقد اعترض بعضهم فيما كان يدعي عليهم من تبديل التوراة",
+    "to": "من العارض في النقل إلى موسى عليه السلام",
+    "keys": [
+     "ومن المحال أن يقرأ أولئك الأنبياء على تبديلها",
+     "وأيضا فليس كل نبي يبعث بتصحيح كتاب من قبله",
+     "وإن كان نصرانيا يقر بالمسيح وزكريا ويحيى",
+     "إن المسيح بلا شك كانت عنده التوراة المنزلة كما أنزلها الله تعالى وكان عنده الإنجيل المنزل"
+    ],
+    "alts": [
+     "مات دانيال",
+     "إلا أنه عرض في النقل عنه بعد رفعه عارض"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "Z22b",
+  "url": "https://shamela.ws/book/6521/149",
+  "titleSel": "h1",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}",
+  "segments": [
+   {
+    "from": "وهؤلاء كلهم كذابون",
+    "to": "فبطل الإنجيل والتوراة برفع المسيح عليه السلام بطلانا كليا",
+    "keys": [
+     "فبطل الإنجيل والتوراة برفع المسيح عليه السلام بطلانا كليا"
+    ],
+    "alts": []
+   }
+  ]
+ },
+ {
+  "id": "Z23",
+  "url": "https://ar.wikisource.org/wiki/%D8%A7%D8%A8%D9%86_%D8%AD%D8%B2%D9%85_-_%D8%A7%D9%84%D8%A5%D8%AD%D9%83%D8%A7%D9%85_%D9%81%D9%8A_%D8%A3%D8%B5%D9%88%D9%84_%D8%A7%D9%84%D8%A3%D8%AD%D9%83%D8%A7%D9%85/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A/%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%A3%D9%88%D9%84/%D8%A7%D9%84%D8%A8%D8%A7%D8%A8_%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB_%D9%88%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D9%88%D9%86",
+  "titleSel": "h1#firstHeading",
+  "segments": [
+   {
+    "from": "واحتج الموجبون للأخذ بشرائع الأنبياء",
+    "to": "وصح أنهم أنبياء بني إسرائيل فقط",
+    "keys": [
+     "أن هذا منسوخ",
+     "وهذا إنما عني الله تعالى به أنبياء بني إسرائيل لا محمدا",
+     "ونحن ليس لنا نبيون وإنما لنا نبي واحد",
+     "وصح أنهم أنبياء بني إسرائيل فقط"
+    ],
+    "alts": []
+   },
+   {
+    "from": "قلنا لهم: هذا حجة عليكم لا لكم",
+    "to": "إنما يعني التوحيد الذي لم يختلفوا فيه أصلا",
+    "keys": [
+     "ومصدقا لما بين يدي من التوراة ولأحل لكم بعض الذي حرم عليكم",
+     "إنما يعني التوحيد الذي لم يختلفوا فيه أصلا"
+    ],
+    "alts": []
+   }
+  ]
+ },
+ {
+  "id": "Z24",
+  "url": "https://ar.wikisource.org/wiki/%D8%A7%D8%A8%D9%86_%D8%AD%D8%B2%D9%85_-_%D8%A7%D9%84%D8%A5%D8%AD%D9%83%D8%A7%D9%85_%D9%81%D9%8A_%D8%A3%D8%B5%D9%88%D9%84_%D8%A7%D9%84%D8%A3%D8%AD%D9%83%D8%A7%D9%85/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A/%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%A3%D9%88%D9%84/%D8%A7%D9%84%D8%A8%D8%A7%D8%A8_%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB_%D9%88%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D9%88%D9%86",
+  "titleSel": "h1#firstHeading",
+  "segments": [
+   {
+    "from": "ومن شريعة زكريا عليه السلام",
+    "to": "وبالجملة فلم نؤمر بالصمت",
+    "keys": [
+     "ومن شريعة زكريا عليه السلام"
+    ],
+    "alts": []
+   },
+   {
+    "from": "ومن شريعة أهل زمان زكريا عليه السلام",
+    "to": "وهذا غير جائز عندنا أصلا",
+    "keys": [
+     "ومن شريعة أهل زمان زكريا عليه السلام"
+    ],
+    "alts": []
+   }
+  ]
+ },
+ {
+  "id": "Z25",
+  "url": "https://quran.ksu.edu.sa/tafseer/tabary/sura19-aya12.html",
+  "segments": [
+   {
+    "from": "يقول تعالى ذكره: فولد لزكريا يحيى",
+    "to": "وهو التوراة بقوة، يقول: بجد",
+    "keys": [
+     "يعني كتاب الله الذي أنزله على موسى، وهو التوراة"
+    ],
+    "alts": []
+   }
+  ]
  }
 ]
