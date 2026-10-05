@@ -680,5 +680,106 @@
     "alts": []
    }
   ]
+ },
+ {
+  "id": "Z26",
+  "url": "https://shamela.ws/book/6521/161",
+  "titleSel": "h1",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}",
+  "segments": [
+   {
+    "from": "واعلموا أن أمر النصارى أضعف من أمر اليهود بكثير",
+    "to": "إلى أن تلفت دولتهم على ذلك",
+    "keys": [
+     "كموسى ويوشع وشموال وداود وسليمان",
+     "وإنما دخلت الداخلة في التوراة بعد سليمان عليه السلام"
+    ],
+    "alts": []
+   }
+  ]
+ },
+ {
+  "id": "Z27a",
+  "url": "https://shamela.ws/book/6521/51",
+  "titleSel": "h1",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}",
+  "segments": [
+   {
+    "from": "وإن قالوا ببطلان النبوة بعد عيسى",
+    "to": "بخلاف كل ما هم عليه اليوم",
+    "keys": [
+     "أنه عليه السلام قال لم آت لأغير شيئا من شرائع التوراة",
+     "وأنه كان يلتزم هو وأصحابه بعده السبت وأعياد اليهود"
+    ],
+    "alts": []
+   }
+  ]
+ },
+ {
+  "id": "Z27b",
+  "url": "https://shamela.ws/book/6521/177",
+  "titleSel": "h1",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}",
+  "segments": [
+   {
+    "from": "وهم لا يرون الختان",
+    "to": "بعد رفع المسيح",
+    "keys": [
+     "والختان كان ملة المسيح وكان مختونا",
+     "لم يزالوا إلى أن ماتوا يصومون صوم اليهود ويفصحون فصحهم ويلتزمون السبت"
+    ],
+    "alts": []
+   }
+  ]
+ },
+ {
+  "id": "Z28a",
+  "url": "https://shamela.ws/book/767/2368",
+  "titleSel": "h1",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}",
+  "segments": [
+   {
+    "from": "وقد قال أبو ثور: يلزمه ترك الكلام",
+    "to": "عن ترك الكلام كما ذكرنا",
+    "keys": [
+     "هذه شريعة زكريا، ومريم",
+     "ولا يلزمنا شريعة غير نبينا"
+    ],
+    "alts": []
+   }
+  ]
+ },
+ {
+  "id": "Z28b",
+  "url": "https://shamela.ws/book/767/3731",
+  "titleSel": "h1",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}",
+  "segments": [
+   {
+    "from": "فقال بعضهم بآبدة مهلكة",
+    "to": "فصح أنه غير معني بهذه الآية",
+    "keys": [
+     "فإنما هي خبر عن النبيين السالفين فيهم",
+     "لأنهم ليسوا لنا نبيين، إنما لنا نبي واحد"
+    ],
+    "alts": []
+   }
+  ]
+ },
+ {
+  "id": "Z29",
+  "url": "https://shamela.ws/book/767/4920",
+  "titleSel": "h1",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important}",
+  "segments": [
+   {
+    "from": "فلزم الطائفة الأولى",
+    "to": "وجدوه مكتوبا عندهم في التوراة، والإنجيل",
+    "keys": [
+     "وجدوه مكتوبا عندهم في التوراة، والإنجيل"
+    ],
+    "alts": []
+   }
+  ]
  }
 ]

@@ -215,5 +215,41 @@ ZCARDS += [
   ojo="Es la explicación de al-Tabari (m. 310 H), no de Ibn Hazm."),
 ]
 
+MH = "https://shamela.ws/book/767/"
+MSITE = "shamela.ws (Maktaba Shamila; al-Muhalla, ed. al-Bundari, Dar al-Fikr; paginación igual a la impresa)"
+def mref(p): return f"Ibn Hazm, al-Muhalla bi-l-athar, {p}"
+MAR = "المحلى بالآثار لابن حزم "
+ZCARDS += [
+ dict(id="Z26", tag=P5, chip="Tipo: su propia cronología", specs=["Z26"],
+  title="Cuándo entró la alteración: «después de Salomón»",
+  ref=ref("vol. 2, p. 4"), ar_ref=AR+"٢/٤", site=SITE, url=B+"161",
+  es=["…Y sabed que el asunto de los cristianos es mucho más débil que el de los judíos, porque los judíos tuvieron un reino y una gran comunidad con Moisés —la paz sea con él— y después de él, y hubo entre ellos muchos profetas visibles, que mandaban y eran obedecidos, [[k:como Moisés, Josué, Samuel, David y Salomón]] —la paz sea con ellos—. [[k:La corrupción entró en la Torá después de Salomón]] —la paz sea con él—, cuando apareció entre ellos la incredulidad, el culto a los ídolos, el asesinato de los profetas, la quema de la Torá y el saqueo del Templo una y otra vez, y la incredulidad de todos ellos continuó hasta que se perdió su reino."],
+  prueba="Aquí Ibn Hazm pone fecha: la alteración entra en la Torá después de Salomón, con los reyes idólatras. Encaja con su lista de 5:44 (Z20): los que juzgaron por la Torá son Moisés, Aarón, David, Salomón y los profetas de entre ellos, «antes del cambio».",
+  ojo="Combínalo con Z22: si la alteración empieza después de Salomón, pero Jesús, siglos después, «tenía la Torá tal como Dios la reveló» y la pérdida total llega «con la elevación del Mesías», Ibn Hazm admite que, siglos después de los reyes idólatras y de Esdras, la Torá auténtica seguía existiendo, al menos en manos de Jesús (según él, porque Dios se la enseñó)."),
+
+ dict(id="Z27", tag=P5, chip="Tipo: su propia cronología", specs=["Z27a", "Z27b"],
+  title="Jesús y la Ley: «no vine a cambiar nada de las leyes de la Torá»; «la circuncisión era la religión del Mesías»",
+  ref=ref("vol. 1, p. 59, y vol. 2, p. 20"), ar_ref=AR+"١/٥٩ و٢/٢٠", site=SITE, url=B+"51",
+  es=["Y si dicen que la profecía terminó después de Jesús —la paz sea con él—, tienen que abandonar todas sus leyes: su oración, su veneración del domingo, su ayuno, su abstinencia de carne, sus matrimonios, sus fiestas, que permitan el cerdo, la carne muerta y la sangre, que dejen la circuncisión y que prohíban el matrimonio a la gente de los barcos en su religión; porque nada de todo eso está en sus cuatro Evangelios. Al contrario: sus Evangelios anulan todo lo que hoy practican, porque en ellos se dice [[k:que él —la paz sea con él— dijo: «No vine a cambiar nada de las leyes de la Torá»]], [[k:y que él y sus compañeros después de él guardaban el sábado y las fiestas de los judíos]], como la Pascua y otras, al contrario de todo lo que hoy practican…",
+      "…Y no admiten la circuncisión, [[k:y la circuncisión era la religión del Mesías, que estaba circuncidado]]; y el Mesías y sus discípulos [[k:no dejaron, hasta que murieron, de ayunar el ayuno de los judíos, celebrar su Pascua y guardar el sábado]] hasta su muerte. Y ellos han cambiado todo esto: pusieron el domingo en lugar del sábado y crearon otro ayuno más de cien años después de la elevación del Mesías."],
+  prueba="Ibn Hazm usa contra los cristianos que Jesús vivió según la ley de la Torá: el sábado, la Pascua, el ayuno judío y la circuncisión, y que dijo que no venía a cambiar sus leyes. Lo presenta como algo que «ninguno de ellos puede negar».",
+  ojo="Lo dice como argumento contra los cristianos, a partir de los Evangelios, que él considera poco fiables. En 2/18–19 también afirma que, según esos Evangelios, Jesús cambió leyes de la Torá (el divorcio, el talión) para señalar una contradicción. Página 2/20: https://shamela.ws/book/6521/177"),
+
+ dict(id="Z28", tag=P5, chip="Tipo: al-Muhalla, Zacarías y 5:44", specs=["Z28a", "Z28b"],
+  title="al-Muhalla: «esta es la ley de Zacarías y de María» y 5:44 es «noticia de los profetas pasados»",
+  ref=mref("vol. 6, p. 247, y vol. 8, p. 522"), ar_ref=MAR+"٦/٢٤٧ و٨/٥٢٢", site=MSITE, url=MH+"2368",
+  es=["Abu Thawr dijo que [quien hace voto de silencio] debe dejar de hablar, y argumentó con Su palabra: «He prometido al Misericordioso un ayuno, y hoy no hablaré con nadie» (19:26), y con Su palabra: «Tu señal será que no hablarás a la gente durante tres noches seguidas» (19:10). Dijo ʿAli [Ibn Hazm]: [[k:esta es la ley de Zacarías y de María]] —la paz sea con ellos—, [[k:y no nos obliga una ley distinta de la de nuestro Profeta]] ﷺ; además, lo de ellos fue un signo de la profecía, y los signos no son para nosotros; y el Mensajero de Dios ﷺ prohibió dejar de hablar, como hemos mencionado.",
+      "Algunos dijeron una barbaridad: que el Mensajero de Dios ﷺ ejecutó la lapidación según el juicio de la Torá, como dice: «por ella juzgaban los profetas que se sometieron, para los judíos» (5:44). Les dijimos: esto es incredulidad de quien lo diga, porque lo convierte ﷺ en ejecutor del juicio de los judíos, dejando de ejecutar el juicio de Dios; lejos de él tal cosa. Además, suponiendo que fuera como decís, lapidadlos vosotros también de la misma manera, o habréis acusado de injusto al Mensajero de Dios ﷺ. En cuanto al versículo, [[k:es solo una noticia sobre los profetas pasados entre ellos]], [[k:porque no son profetas nuestros: nosotros tenemos un solo profeta]]; así que es seguro que él no está incluido en este versículo."],
+  prueba="En al-Muhalla repite lo de al-Ihkam: 5:44 habla de «los profetas pasados» de Israel, no de Muhammad. Y vuelve a nombrar a Zacarías con una «ley» propia (con María), sin relacionarla con la Torá.",
+  ojo="Tampoco aquí dice que Zacarías o Yahya juzgaran por la Torá. Página 8/522: https://shamela.ws/book/767/3731"),
+
+ dict(id="Z29", tag=P4, chip=SEL, specs=["Z29"],
+  title="Otra vez: los judíos y cristianos «lo encontraron escrito en su Torá y su Evangelio»",
+  ref=mref("vol. 12, p. 9 (los vols. 11–12 de esta edición proceden de su al-Isal)"), ar_ref=MAR+"١٢/٩", site=MSITE, url=MH+"4920",
+  es=["A la primera facción se le sigue que Iblís es creyente, y que los judíos y los cristianos que combatieron al Mensajero de Dios ﷺ son creyentes, amigos de Dios, gente del Paraíso, porque todos ellos conocieron a Dios con su corazón y conocieron con su corazón la verdad de la profecía de Su Mensajero ﷺ: [[k:lo encontraron escrito entre ellos en la Torá y el Evangelio]]…"],
+  prueba="Aquí, discutiendo qué es la fe, da por hecho que los judíos y cristianos de tiempos del Profeta lo encontraban escrito en su Torá y su Evangelio. Es la misma tensión que Z05 frente a Z16: en 1/160 lo que transmiten «no menciona en absoluto a Muhammad».",
+  ojo="Es un argumento sobre la fe, no sobre la alteración, y se apoya en el Corán (2:146, 7:157). Los volúmenes 11–12 de esta edición del Muhalla se completaron con al-Isal, otro libro de Ibn Hazm."),
+]
+
 for c in ZCARDS:
     c.setdefault('uso', "Pestaña Ibn Hazm · " + c['tag'])
