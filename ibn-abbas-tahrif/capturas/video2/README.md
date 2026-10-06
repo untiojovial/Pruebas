@@ -29,6 +29,7 @@ Algunas tarjetas reutilizan capturas de otras series: U05, U08 y U11 son de la s
 | 11 | 8 | U11 | Umar en la escuela judía: «vías que se fortalecen unas a otras» | Ibn Hajar, Fath al-Bari, vol. 8, p. 16 en la edición de islamweb (capítulo «Quien sea enemigo de Gabriel») · [islamweb.net](https://www.islamweb.net/ar/library/content/52/8064/) | [original](U11_ar.png) · [español](U11_es.png) |
 | 12 | 8 | U12 | al-Suyuti: «su cadena es auténtica hasta al-Shaʿbi, pero no conoció a Umar»… «vías que se fortalecen unas a otras» | al-Suyuti, Lubab al-nuqul fi asbab al-nuzul, sobre el Corán 2:97–98, pp. 12–13 (ed. Dar al-Kutub al-ʿIlmiyya) · [shamela.ws](https://shamela.ws/book/2247/10) | [original](U12_ar.png) · [español](U12_es.png) |
 | 13 | 8 | U13 | al-ʿIjli: «el mursal de al-Shaʿbi es auténtico; casi nunca transmite un mursal que no sea auténtico» | al-ʿIjli, Maʿrifat al-thiqat, ed. al-Bastawi, vol. 2, p. 12, n.º 823; y al-Mizzi, Tahdhib al-Kamal, ed. Bashshar ʿAwwad, vol. 14, p. 35 · [shamela.ws](https://shamela.ws/book/5825/314) | [original](U13_ar.png) · [español](U13_es.png) |
+| 14 | 2 | U14 | al-Albani, Irwaʾ al-Ghalil 1589: «hasan»… «esta cadena tiene debilidad, por Mujalid», pero «tiene muchos testimonios» | al-Albani, Irwaʾ al-Ghalil fi tajrij ahadith Manar al-sabil, n.º 1589, vol. 6, pp. 34–38 (al-Maktab al-Islami, Beirut, 2.ª ed., 1405/1985) · [usul.ai](https://usul.ai/t/irwa-al-ghalil-fi-takhrij-ahadith-manar-al-sabil/1914) | [original](U14_ar.png) · [español](U14_es.png) |
 
 ## Avisos que conviene tener presentes
 
