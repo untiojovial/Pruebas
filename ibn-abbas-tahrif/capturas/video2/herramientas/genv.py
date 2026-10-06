@@ -8,7 +8,7 @@ import sys
 ONLY=sys.argv[1:]
 specs = {}
 man = {}
-for sf, mf in [('specs.json','raw/manifest.json'),('hspecs.json','rawh/manifest.json'),('vspecs.json','rawv/manifest.json'),('zspecs.json','rawz/manifest.json')]:
+for sf, mf in [('specs.json','raw/manifest.json'),('hspecs.json','rawh/manifest.json'),('vspecs.json','rawv/manifest.json'),('zspecs.json','rawz/manifest.json'),('v1specs.json','rawv/manifest.json'),('kspecs.json','rawv/manifest.json')]:
     if os.path.exists(sf): specs.update({s['id']: s for s in json.load(open(sf))})
     if os.path.exists(mf): man.update(json.load(open(mf)))
 
