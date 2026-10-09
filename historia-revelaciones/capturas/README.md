@@ -4,7 +4,7 @@ Pack histórico: cómo narraron los autores musulmanes, del siglo I al XIV de la
 
 Colores: amarillo = pasaje citado · naranja = frase clave · azul = matiz, concesión o lo que juega en contra.
 
-Todo junto en un PDF: [`historia_revelaciones_capturas.pdf`](historia_revelaciones_capturas.pdf). Las herramientas de captura están en `herramientas/` (las tarjetas reutilizadas de packs anteriores dependen de `zcards_data.py`, `hcards_data.py` y `kcards_data.py`).
+Todo junto en un PDF: [`historia_revelaciones_capturas.pdf`](historia_revelaciones_capturas.pdf) (34 MB), o en versión ligera: [`historia_revelaciones_capturas_ligero.pdf`](historia_revelaciones_capturas_ligero.pdf) (23 MB). Las herramientas de captura están en `herramientas/` (las tarjetas reutilizadas de packs anteriores dependen de `zcards_data.py`, `hcards_data.py` y `kcards_data.py`).
 
 Avisos: R13 (Sayf ibn ʿUmar) es texto OCR sin corregir de archive.org; R17–R19, R23 y R25 vienen de ketabonline.com (copia de la Shamela con paginación automática; para la captura se forzó la fuente Amiri porque la del sitio se renderizaba mal); R43 (al-Juwayni) es de Wikisource, sin paginación impresa.
 
