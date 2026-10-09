@@ -24,9 +24,9 @@ for i, c in enumerate(C, 1):
     c['id'] = f"R{i:02d}"
     c['tag'] = f"{SECN[c['sec']]} · {c.pop('tag_who')}"
     if 'orig' in c:
-        c['uso'] = f"Pack histórico · sección {c['sec'] + 1} ({SECN[c['sec']]}) · ya capturada como {c['orig']}"
+        c['uso'] = f"Pack histórico · sección {c['sec']} ({SECN[c['sec']]}) · ya capturada como {c['orig']}"
     else:
-        c['uso'] = f"Pack histórico · sección {c['sec'] + 1} ({SECN[c['sec']]})"
+        c['uso'] = f"Pack histórico · sección {c['sec']} ({SECN[c['sec']]})"
     if not c.get('ojo'): c.pop('ojo', None)
     RCARDS.append(c)
 import re as _re
