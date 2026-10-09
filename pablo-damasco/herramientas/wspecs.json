@@ -1,0 +1,131 @@
+[
+ {
+  "id": "W-yq",
+  "url": "https://raw.githubusercontent.com/OpenITI/0300AH/master/data/0292Yacqubi/0292Yacqubi.Tarikh/0292Yacqubi.Tarikh.Zaydiyya0000057-ara1",
+  "css": "html,body,*{scroll-behavior:auto!important} pre{white-space:pre-wrap!important;direction:rtl!important;text-align:right!important;unicode-bidi:plaintext!important;font-family:'Amiri',serif!important;font-size:22px!important;line-height:1.9!important;max-width:1100px}",
+  "minW": 500,
+  "segments": [
+   {
+    "from": "الكتاب : تاريخ اليعقوبي",
+    "to": "ترقيم الكتاب موافق للمطبوع",
+    "keys": [
+     "الناشر : (دار صادر)",
+     "ترقيم الكتاب موافق للمطبوع"
+    ]
+   },
+   {
+    "from": "وكان بولس أشد الناس عليهم",
+    "to": "وصيروه رأسهم",
+    "keys": [
+     "فسمع صوتا يناديه: يا بولس، كم تضطهدني",
+     "ففزع حتى لم يبصر، ثم جاءه",
+     "حنانيا، فقدس عليه حتى انصرف، وبرأت عينه",
+     "حتى قدمه الحواريون جميعا على أنفسهم، وصيروه رأسهم"
+    ],
+    "alts": [
+     "PageV01P079 80"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "W-ia1",
+  "url": "https://shamela.ws/book/71/6817",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "١٨٢٥ - حنينا أحد صديقي المسيح",
+    "to": "ورحمه حتى مات فمن",
+    "keys": [
+     "قرأت بخط أبي محمد بن صابر",
+     "عن أبي إلياس إدريس ابن بنت وهب بن منبه عن وهب بن منبه قال",
+     "فلقيه بكوكبا فضربه ملك بجناحه فأعماه",
+     "فقال له المسيح كم تسعى في أذاي وأذى من هو معي",
+     "وتصير إلى حنينا",
+     "فأتاه عند الكنيسة المصلبة وهي الكنيسة المنسوبة إليه اليوم",
+     "وكان بولس قد أخذ ابن أخيه وكان قد آمن بالمسيح فحلق وسط رأسه فنادى عليه ورحمه حتى مات"
+    ],
+    "alts": [
+     "جاء في بعض الآثار أنه كان بدمشق"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "W-ia2",
+  "url": "https://shamela.ws/book/71/6818",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "ثم أخذ النصارى حلق وسط رؤوسهم",
+    "to": "لا كالعيب لمن آمن بالمسيح عليه السلام",
+    "keys": [
+     "ثم أخذ النصارى حلق وسط رؤوسهم للتأسي بذلك"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "W-im1",
+  "url": "https://shamela.ws/book/3118/2478",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "حنينا أحد صديقي المسيح",
+    "to": "وخذ في السوق الطويل الممدود في وسط",
+    "keys": [
+     "قال وهب بن منبه",
+     "فضربه ملك بجناحه، فأعماه",
+     "كم تسعى في أذاي وأذى من هو معي"
+    ],
+    "alts": [
+     "قيل: إنه كان بدمشق"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "W-im2",
+  "url": "https://shamela.ws/book/3118/2479",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "المدينة، يعني دمشق",
+    "to": "لا كالعيب لمن آمن بالمسيح عليه السلام",
+    "keys": [
+     "وتصير إلى حنينا",
+     "فأتاه عند الكنيسة المصلبة وهي الكنيسة المنسوبة إليه اليوم",
+     "فحلق وسط رأسه ونادى عليه ورحمه حتى مات",
+     "فمن ثم أخذ النصارى حلق وسط رؤوسهم"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "W-ik",
+  "url": "https://shamela.ws/book/8376/509",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وكان ممن آمن بالمسيح وصدقه من أهل دمشق",
+    "to": "حتى خربت",
+    "keys": [
+     "رجل يقال له ضينا",
+     "وكان ظالما غاشما مبغضا للمسيح",
+     "وطاف به في البلد. ثم رجمه حتى مات",
+     "جاء إليه ملك فضرب وجهه بطرف جناحه فأعماه",
+     "وحسن إيمان بولص بالمسيح",
+     "أنه عبد الله ورسوله وبنيت له كنيسة باسمه فهي كنيسة بولص المشهورة بدمشق"
+    ],
+    "alts": [
+     "قد توجه نحو دمشق"
+    ]
+   }
+  ]
+ }
+]
