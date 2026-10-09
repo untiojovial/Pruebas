@@ -1,0 +1,1768 @@
+[
+ {
+  "id": "TQ1",
+  "url": "https://ar.wikisource.org/wiki/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D8%AF%D8%A9",
+  "css": "html,body,*{scroll-behavior:auto!important} html body div.mw-parser-output div.soura-block.quran-KFGQPC, html body div.mw-parser-output div.soura-block.quran-KFGQPC *{font-family:'Amiri',serif!important;font-size:27px!important;line-height:2.4!important} #mw-head,#mw-panel,.vector-header-container,.vector-column-start,.mw-footer{display:none!important}",
+  "minW": 500,
+  "segments": [
+   {
+    "from": "لقد كفر الذين قالوا ان الله هو المسيح ابن مريم قل فمن يملك",
+    "to": "ومن في الارض جميعا",
+    "keys": [
+     "ان اراد ان يهلك المسيح ابن مريم وامه"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "TQ2",
+  "url": "https://ar.wikisource.org/wiki/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D8%AF%D8%A9",
+  "css": "html,body,*{scroll-behavior:auto!important} html body div.mw-parser-output div.soura-block.quran-KFGQPC, html body div.mw-parser-output div.soura-block.quran-KFGQPC *{font-family:'Amiri',serif!important;font-size:27px!important;line-height:2.4!important} #mw-head,#mw-panel,.vector-header-container,.vector-column-start,.mw-footer{display:none!important}",
+  "minW": 500,
+  "segments": [
+   {
+    "from": "لقد كفر الذين قالوا ان الله هو المسيح ابن مريم وقال المسيح",
+    "to": "ثم انظر اني يوفكون",
+    "keys": [
+     "لقد كفر الذين قالوا ان الله ثالث ثلثه",
+     "ما المسيح ابن مريم الا رسول",
+     "وامه صديقه كانا ياكلان الطعام"
+    ],
+    "alts": [
+     "اعبدوا الله ربي وربكم"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "TQ3",
+  "url": "https://ar.wikisource.org/wiki/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D8%AF%D8%A9",
+  "css": "html,body,*{scroll-behavior:auto!important} html body div.mw-parser-output div.soura-block.quran-KFGQPC, html body div.mw-parser-output div.soura-block.quran-KFGQPC *{font-family:'Amiri',serif!important;font-size:27px!important;line-height:2.4!important} #mw-head,#mw-panel,.vector-header-container,.vector-column-start,.mw-footer{display:none!important}",
+  "minW": 500,
+  "segments": [
+   {
+    "from": "واذ قال الله يعيسي ابن مريم",
+    "to": "انت علي كل شيء شهيد",
+    "keys": [
+     "ءانت قلت للناس اتخذوني وامي الهين من دون الله"
+    ],
+    "alts": [
+     "ما قلت لهم الا"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "TQ4",
+  "url": "https://ar.wikisource.org/wiki/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D9%86%D8%B3%D8%A7%D8%A1",
+  "css": "html,body,*{scroll-behavior:auto!important} html body div.mw-parser-output div.soura-block.quran-KFGQPC, html body div.mw-parser-output div.soura-block.quran-KFGQPC *{font-family:'Amiri',serif!important;font-size:27px!important;line-height:2.4!important} #mw-head,#mw-panel,.vector-header-container,.vector-column-start,.mw-footer{display:none!important}",
+  "minW": 500,
+  "segments": [
+   {
+    "from": "ياهل الكتب لا تغلوا في دينكم ولا تقولوا",
+    "to": "وكفي بالله وكيلا",
+    "keys": [
+     "وكلمته القيه",
+     "ولا تقولوا ثلثه انتهوا خيرا لكم",
+     "سبحنه ان يكون له ولد"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "TQ5",
+  "url": "https://ar.wikisource.org/wiki/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D8%A3%D9%86%D8%B9%D8%A7%D9%85",
+  "css": "html,body,*{scroll-behavior:auto!important} html body div.mw-parser-output div.soura-block.quran-KFGQPC, html body div.mw-parser-output div.soura-block.quran-KFGQPC *{font-family:'Amiri',serif!important;font-size:27px!important;line-height:2.4!important} #mw-head,#mw-panel,.vector-header-container,.vector-column-start,.mw-footer{display:none!important}",
+  "minW": 500,
+  "segments": [
+   {
+    "from": "وجعلوا لله شرك",
+    "to": "وهو بكل شيء عليم",
+    "keys": [
+     "اني يكون له ولد ولم تكن له صحبه"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "TQ6",
+  "url": "https://ar.wikisource.org/wiki/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D8%AC%D9%86",
+  "css": "html,body,*{scroll-behavior:auto!important} html body div.mw-parser-output div.soura-block.quran-KFGQPC, html body div.mw-parser-output div.soura-block.quran-KFGQPC *{font-family:'Amiri',serif!important;font-size:27px!important;line-height:2.4!important} #mw-head,#mw-panel,.vector-header-container,.vector-column-start,.mw-footer{display:none!important}",
+  "minW": 500,
+  "segments": [
+   {
+    "from": "وانه تعلي جد ربنا",
+    "to": "ما اتخذ صحبه ولا ولدا",
+    "keys": [
+     "ما اتخذ صحبه ولا ولدا"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "TQ7",
+  "url": "https://ar.wikisource.org/wiki/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D8%AA%D9%88%D8%A8%D8%A9",
+  "css": "html,body,*{scroll-behavior:auto!important} html body div.mw-parser-output div.soura-block.quran-KFGQPC, html body div.mw-parser-output div.soura-block.quran-KFGQPC *{font-family:'Amiri',serif!important;font-size:27px!important;line-height:2.4!important} #mw-head,#mw-panel,.vector-header-container,.vector-column-start,.mw-footer{display:none!important}",
+  "minW": 500,
+  "segments": [
+   {
+    "from": "وقالت اليهود عزير ابن الله",
+    "to": "سبحنه عما يشركون",
+    "keys": [
+     "اتخذوا احبارهم ورهبنهم اربابا من دون الله والمسيح ابن مريم"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T1-03",
+  "url": "https://shamela.ws/book/23614/326",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "قالوا: إن عيسى ابن الله. وقالت: المار يعقوبية",
+    "to": "لَمْ يَلِدْ وَلَمْ يُولَدْ وَلَمْ يَكُنْ لَهُ كُفُواً أَحَدٌ",
+    "keys": [
+     "وقالت عبادة الملك: إن اللَّه- عَزَّ وَجَلّ- ثالث ثلاثة- هو إله وعِيسَى إله، ومريم إله"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T1-01",
+  "url": "https://shamela.ws/book/23614/357",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "نزلت فى نصارى نجران المار يعقوبيين منهم السيد والعاقب",
+    "to": "ثالِثُ ثَلاثَةٍ يعنى الملكانيين قالوا: الله",
+    "keys": [
+     "نزلت فى نصارى نجران المار يعقوبيين",
+     "ثالِثُ ثَلاثَةٍ يعنى الملكانيين قالوا: الله"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T1-02",
+  "url": "https://shamela.ws/book/23614/358",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "والمسيح ومريم",
+    "to": "والآلهة لا تأكل الطعام",
+    "keys": [
+     "يَقُولُ اللَّه- عَزَّ وَجَلّ- تكذيبا لقولهم",
+     "فلو كانا إلهين ما أكلا الطعام",
+     "فِي أمر عِيسَى ومريم أنهم كانا يأكلان الطعام"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T1-07",
+  "url": "https://shamela.ws/book/43/5752",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وقد قال جماعة من أهل التأويل بنحو قولنا",
+    "to": "قال مجاهد:\"لقد كفر الذين قالوا إن الله ثالث ثلاثة\"، نحوه.",
+    "keys": [
+     "قالت النصارى:\"هو والمسيح وأمه\"، فذلك قول الله تعالى",
+     "حدثنا أسباط، عن السدي"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T1-08",
+  "url": "https://shamela.ws/book/43/6082",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وقيل: إن الله قال هذا القولَ لعيسى",
+    "to": "وزعموا أنّ عيسى أمرَهم بذلك",
+    "keys": [
+     "لما رفع الله عيسى ابن مريم إليه، قالت النصارى ما قالت، وزعموا أنّ عيسى أمرَهم بذلك"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T1-06",
+  "url": "https://shamela.ws/book/43/5751",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وهذا قولٌ كان عليه جماهير النصارى",
+    "to": "ولم يدخل فيهم القائلون:\"المسيح هو الله\".",
+    "keys": [
+     "وهذا قولٌ كان عليه جماهير النصارى قبل افتراق اليعقوبية والملكية والنَّسطورية",
+     "الإله القديم جوهر واحد يعم ثلاثة أقانيم: أبًا والدًا غير مولود، وابنًا مولودًا غير والد،"
+    ],
+    "alts": [
+     "وزوجًا متتبَّعة بينهما"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T1-09",
+  "url": "https://shamela.ws/book/43/6085",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "قال أبو جعفر: وأما تأويل الكلام، فإنه",
+    "to": "مما قالت فيه وفي أمه الكفرةُ من النصارى",
+    "keys": [
+     "أي: معبودين تعبدونهما من دون الله",
+     "لأني عبد مخلوق، وأمي أمَةٌ لك، وكيف يكون للعبد والأمة ادّعاء ربوبية؟",
+     "مما قالت فيه وفي أمه الكفرةُ من النصارى"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T1-10",
+  "url": "https://shamela.ws/book/43/5105",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "قال أبو جعفر: يعني بقوله جل ثناؤه:\"فآمنوا بالله ورسله\"",
+    "to": "يعني: ولا تقولوا: الأربابُ ثلاثة.",
+    "keys": [
+     "أن الله واحد لا شريك له، ولا صاحبة له، لا ولد له",
+     "ولا تقولوا: الأربابُ ثلاثة"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T1-11",
+  "url": "https://shamela.ws/book/8658/1169",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "٦٦٤٥ - حَدَّثَنَا أَبِي، ثنا أَبُو حُذَيْفَةَ",
+    "to": "فجعلوا لله تَبَارَكَ وَتَعَالَى ثَالِثَ ثَلاثَةٍ",
+    "keys": [
+     "إِنَّ اللَّهَ هُوَ الْمَسِيحُ وَأُمُّهُ فَذَلِكَ قَوْلُهُ",
+     "تفرقت بنوا إِسْرَائِيلَ ثَلاثَ فِرَقٍ فِي عِيسَى"
+    ],
+    "alts": [
+     "هُوَ قَوْلُ الْيَهُودِ عُزَيْرٌ ابْنُ اللَّهِ وَقَوْلُ النَّصَارَى الْمَسِيحُ ابْنُ الله"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T1-12",
+  "url": "https://shamela.ws/book/18686/5890",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "يعني: الملكانية، {وَقَالَ الْمَسِيحُ",
+    "to": "وروحًا قدسًا",
+    "keys": [],
+    "alts": [
+     "يعني: النسطورية، وذلك أنَّهم قالوا: أبًا، وابنًا",
+     "وروحًا قدسًا"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T1-15",
+  "url": "https://shamela.ws/book/13231/4116",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "فأما معنى قول النصارى لعنهم الله",
+    "to": "إِلَهَيْنِ مِنْ دُونِ} [المائدة: ١١٦]",
+    "keys": [
+     "الأظهر والأوفق للفظ طريق المفسرين",
+     "أرادت النصارى بقولهم: (ثالث ثلاثة) الله ومريم وعيسى، زعموا أن الإلهية بين الثلاثة"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T1-16",
+  "url": "https://shamela.ws/book/13231/4117",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "ففي هذا بيان أنهم كانوا يشركون مريم وعيسى في الإلهية",
+    "to": "وزعموا أن الأب إله والابن إله والروح إله، وهو إله",
+    "keys": [
+     "ففي هذا بيان أنهم كانوا يشركون مريم وعيسى في الإلهية",
+     "وهذا القول اختيار الزجاج"
+    ],
+    "alts": [
+     "والمتكلمون حكوا عن النصارى في قولهم التثليث أنهم يقولون إن الباري سبحانه جوهر واحد، وأنه ثلاثة أقانيم: أب وابن وروح قدس"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T1-17",
+  "url": "https://shamela.ws/book/13231/4118",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وليس هذا موضع بسط الكلام في الرد عليهم",
+    "to": "وذهب من المفسرين إلى هذا الطريق: الكلبي",
+    "keys": [],
+    "alts": [
+     "لأنهم وإن لم يصرحوا بأنه واحد من ثلاثة آلهة فذلك لازم لهم، وإنما يمتنعون من العبارة",
+     "صح أن يُخْبَر عنهم من مذهبهم ما يلزمهم"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T1-18",
+  "url": "https://shamela.ws/book/13231/4240",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "الأنباري: لما قال الله تعالى لعيسى",
+    "to": "يوجب أن النصارى حكوا عنه أنه أمر بذلك",
+    "keys": [],
+    "alts": [
+     "وليس في الآية أنهم اتخذوا عيسى وأمه إلهين، إنما هو استفهام عن عيسى هل أمر بذلك؟"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T1-13",
+  "url": "https://shamela.ws/book/8320/1261",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "قَوْله - تَعَالَى -: {لقد كفر الَّذين قَالُوا إِن الله ثَالِث ثَلَاثَة} فِيهِ حذف",
+    "to": "وَكَذَلِكَ الابْن، وَالله مَجْمُوع الْكل",
+    "keys": [],
+    "alts": [
+     "هُوَ قَوْلهم: أَب، وَابْن وروح الْقُدس، وَهَذَا قَول اليعقوبية مِنْهُم",
+     "أَي: ثَالِث ثَلَاثَة آلِهَة"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T1-14",
+  "url": "https://shamela.ws/book/8320/1330",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "يَعْنِي: إِذا جزى {أَأَنْت قلت للنَّاس",
+    "to": "فكأنهم اتَّخذُوا أمه إِلَهًا؛ فَقَالَ: {إِلَهَيْنِ من دون الله}",
+    "keys": [
+     "فَإِن قَالَ قَائِل: هم لم يتخذوا أمه إِلَيْهَا؛ فَمَا معنى قَوْله",
+     "لما أَرَادَ ذكر عِيسَى مَعَ أمه، قَالَ: إِلَهَيْنِ، وَهَذَا كَمَا يُقَال عِنْد ذكر أبي بكر وَعمر مَعًا: عمرَان",
+     "إِن عِيسَى كَانَ بَعْضًا لِمَرْيَم، فَلَمَّا اتخذوه إِلَهًا؛ فكأنهم اتَّخذُوا أمه إِلَهًا"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T1-19",
+  "url": "https://shamela.ws/book/41/846",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وَهُمُ الْمَلْكَانِيَّةُ وَالْيَعْقُوبِيَّةُ مِنْهُمْ",
+    "to": "اتَّخِذُونِي وَأُمِّيَ إِلَهَيْنِ مِنْ دُونِ اللَّهِ\"؟ (الْمَائِدَةِ، ١١٦)",
+    "keys": [
+     "يَعْنِي: الْمُرْقُوسِيَّةَ",
+     "الْإِلَهِيَّةُ مُشْتَرَكَةٌ بَيْنَ اللَّهِ تَعَالَى وَمَرْيَمَ وَعِيسَى، وَكُلُّ وَاحِدٍ مِنْ هَؤُلَاءِ إِلَهٌ فَهُمْ ثَلَاثَةُ آلِهَةٍ"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T1-20",
+  "url": "https://shamela.ws/book/23627/596",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "ثَلاثَةٌ خبر مبتدإ محذوف",
+    "to": "والذي يدل عليه القرآن التصريح منهم بأن اللَّه والمسيح",
+    "keys": [],
+    "alts": [
+     "فإن صحت الحكاية عنهم أنهم يقولون: هو جوهر واحد ثلاثة أقانيم، أقنوم الأب، وأقنوم الابن، وأقنوم روح القدس",
+     "فتقديره اللَّه ثلاثة وإلا فتقديره: الآلهة ثلاثة"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T1-21",
+  "url": "https://shamela.ws/book/23627/597",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "ومريم ثلاثة آلهة، وأنّ المسيح ولد اللَّه من مريم",
+    "to": "وحكاية اللَّه أوثق من حكاية غيره.",
+    "keys": [
+     "ومريم ثلاثة آلهة، وأنّ المسيح ولد اللَّه من مريم",
+     "والمشهور المستفيض عنهم أنهم يقولون: في المسيح لاهوتية وناسوتية من جهة الأب والأم",
+     "وحكاية اللَّه أوثق من حكاية غيره"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T1-22",
+  "url": "https://shamela.ws/book/23635/2071",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "الْمَسْأَلَةُ الثَّانِيَةُ: فِي تَفْسِيرِ قَوْلِ النَّصَارَى",
+    "to": "ثَلَاثَةُ أَقَانِيمَ أَبٌ، وَابْنٌ،",
+    "keys": [
+     "قَوْلُ بَعْضِ الْمُفَسِّرِينَ، وَهُوَ أَنَّهُمْ أَرَادُوا بِذَلِكَ أَنَّ اللَّه وَمَرْيَمَ وَعِيسَى آلِهَةٌ ثَلَاثَةٌ",
+     "وَالطَّرِيقُ الثَّانِي: أَنَّ الْمُتَكَلِّمِينَ حَكَوْا عَنِ النَّصَارَى"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T1-23",
+  "url": "https://shamela.ws/book/23635/2072",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وَرُوحُ الْقُدُسِ، وَهَذِهِ الثَّلَاثَةُ إِلَهٌ وَاحِدٌ",
+    "to": "أَشَدُّ فَسَادًا وَأَظْهَرُ بُطْلَانًا مِنْ مَقَالَةِ النَّصَارَى.",
+    "keys": [],
+    "alts": [
+     "وَعَنُوا بِالْأَبِ الذَّاتَ، وَبِالِابْنِ الْكَلِمَةَ، وَبِالرُّوحِ الْحَيَاةَ",
+     "وَزَعَمُوا أَنَّ الْأَبَ إِلَهٌ، وَالِابْنَ إِلَهٌ، وَالرُّوحَ إِلَهٌ، وَالْكُلَّ إِلَهٌ وَاحِدٌ"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T1-24",
+  "url": "https://shamela.ws/book/23635/2128",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "الْمَسْأَلَةُ الثَّانِيَةُ: فِي قَوْلِهِ أَأَنْتَ قُلْتَ لِلنَّاسِ",
+    "to": "فَصَحَّ بِهَذَا التَّأْوِيلِ هَذِهِ الْحِكَايَةُ وَالرِّوَايَةُ.",
+    "keys": [
+     "إِنَّ أَحَدًا مِنَ النَّصَارَى لَمْ يَذْهَبْ إِلَى الْقَوْلِ بِإِلَهِيَّةِ عِيسَى وَمَرْيَمَ مَعَ الْقَوْلِ بِنَفْيِ إِلَهِيَّةِ اللَّه تَعَالَى",
+     "وَالنَّصَارَى يَعْتَقِدُونَ أَنَّ خَالِقَ الْمُعْجِزَاتِ الَّتِي ظَهَرَتْ عَلَى يَدِ عِيسَى وَمَرْيَمَ هُوَ عِيسَى عَلَيْهِ السَّلَامُ وَمَرْيَمُ",
+     "أَثْبَتُوا فِي حَقِّ بَعْضِ الْأَشْيَاءِ كَوْنَ عِيسَى وَمَرْيَمَ إِلَهَيْنِ لَهُ"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T1-25",
+  "url": "https://shamela.ws/book/23635/1936",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "الْمَسْأَلَةُ الْأُولَى: الْمَعْنَى: وَلَا تَقُولُوا",
+    "to": "يُجَوِّزُونَ عَلَيْهَا الْحُلُولَ فِي عِيسَى وَفِي مَرْيَمَ",
+    "keys": [],
+    "alts": [
+     "وَلَا تَقُولُوا إِنَّ اللَّه سُبْحَانَهُ وَاحِدٌ بِالْجَوْهَرِ ثَلَاثَةٌ بِالْأَقَانِيمِ",
+     "وَاعْلَمْ أَنَّ مَذْهَبَ النَّصَارَى مَجْهُولٌ جِدًّا"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T1-26",
+  "url": "https://shamela.ws/book/23635/1937",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "الْمَسْأَلَةُ الثَّانِيَةُ: قَوْلُهُ ثَلاثَةٌ خَبَرُ مُبْتَدَأٍ مَحْذُوفٍ",
+    "to": "يُوهِمُ كَوْنَهُمَا إِلَهَيْنِ",
+    "keys": [
+     "أَيْ وَلَا تَقُولُوا الْأَقَانِيمُ ثَلَاثَةٌ",
+     "قَالَ الزَّجَّاجُ: وَلَا تَقُولُوا آلِهَتُنَا ثَلَاثَةٌ، وَذَلِكَ لِأَنَّ الْقُرْآنَ يَدُلُّ عَلَى أَنَّ النَّصَارَى يَقُولُونَ: إِنَّ اللَّه وَالْمَسِيحَ وَمَرْيَمَ ثَلَاثَةُ آلِهَةٍ"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T1-27",
+  "url": "https://shamela.ws/book/20855/2120",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "(وَلا تَقُولُوا) آلِهَتُنَا\" ثَلاثَةٌ\" عَنِ الزَّجَّاجِ",
+    "to": "فَيَجْعَلُونَ كُلَّ أُقْنُومٍ إِلَهًا",
+    "keys": [
+     "قَالَ ابْنُ عَبَّاسٍ: يُرِيدُ بِالتَّثْلِيثِ اللَّهَ تَعَالَى وَصَاحِبَتَهُ وَابْنَهُ"
+    ],
+    "alts": [
+     "وَالنَّصَارَى مَعَ فِرَقِهِمْ مُجْمِعُونَ عَلَى التَّثْلِيثِ وَيَقُولُونَ: إِنَّ اللَّهَ جَوْهَرٌ وَاحِدٌ وَلَهُ ثَلَاثَةُ أَقَانِيمَ"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T1-28",
+  "url": "https://shamela.ws/book/20855/2346",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وَهَذَا قَوْلُ فِرَقِ النَّصَارَى مِنَ الْمَلِكِيَّةِ",
+    "to": "وَإِنَّمَا يَمْتَنِعُونَ مِنَ الْعِبَارَةِ وَهِيَ لَازِمَةٌ لَهُمْ.",
+    "keys": [],
+    "alts": [
+     "لِأَنَّهُمْ يَقُولُونَ أَبٌ وَابْنٌ وَرُوحُ الْقُدُسِ إِلَهٌ وَاحِدٌ، وَلَا يَقُولُونَ ثَلَاثَةَ آلِهَةٍ"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T1-29",
+  "url": "https://shamela.ws/book/20855/2472",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وَاخْتَلَفَ أَهْلُ التَّأْوِيلِ فِي مَعْنَى هَذَا السُّؤَالِ",
+    "to": "فَصَارُوا حِينَ لَزِمَهُمْ ذَلِكَ بِمَثَابَةِ الْقَائِلِينَ لَهُ.",
+    "keys": [
+     "فَإِنْ قِيلَ: فَالنَّصَارَى لَمْ يَتَّخِذُوا مَرْيَمَ إِلَهًا فَكَيْفَ قَالَ ذَلِكَ فِيهِمْ؟",
+     "لَمَّا كَانَ مِنْ قَوْلِهِمْ إِنَّهَا لَمْ تَلِدْ بَشَرًا وَإِنَّمَا وَلَدَتْ إِلَهًا لَزِمَهُمْ أَنْ يَقُولُوا إِنَّهَا لِأَجْلِ الْبَعْضِيَّةِ بِمَثَابَةِ مَنْ وَلَدَتْهُ"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T1-36",
+  "url": "https://shamela.ws/book/23588/270",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وَلا تَقُولُوا ثَلاثَةٌ أي الآلهة ثلاثة الله والمسيح ومريم",
+    "to": "وبروح القدس الحياة.",
+    "keys": [
+     "أي الآلهة ثلاثة الله والمسيح ومريم، ويشهد عليه قوله تعالى",
+     "أو الله ثلاثة إن صح أنهم يقولون الله ثلاثة أقانيم الأب والابن وروح القدس"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T1-37",
+  "url": "https://shamela.ws/book/23588/297",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "أي أحد ثلاثة، وهو حكاية عما قاله النسطورية",
+    "to": "وما سبق قول اليعقوبية القائلين بالاتحاد.",
+    "keys": [],
+    "alts": [
+     "وهو حكاية عما قاله النسطورية والملكانية منهم القائلون بالأقانيم الثلاثة"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T1-38",
+  "url": "https://shamela.ws/book/23588/310",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "يريد به توبيخ الكفرة وتبكيتهم",
+    "to": "اتخذوني وأمي إلهين متوصلين بنا إلى الله سبحانه وتعالى.",
+    "keys": [
+     "فإنهم لم يعتقدوا أنهما مستقلان باستحقاق العبادة وإنما زعموا أن عبادتهما توصل إلى عبادة الله سبحانه وتعالى"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T1-30",
+  "url": "https://shamela.ws/book/8473/1423",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وهذا قول غريب في تفسير الآية",
+    "to": "وهذا القول هو الأظهر، والله أعلم.",
+    "keys": [
+     "وقال السُّدِّي وغيره: نزلت في جعلهم المسيح وأمه إلهين مع الله، فجعلوا الله",
+     "وهذا القول هو الأظهر، والله أعلم."
+    ],
+    "alts": [
+     "المراد بذلك كفارهم في قولهم بالأقانيم الثلاثة، وهو أقنوم الأب، وأقنوم الابن، وأقنوم الكلمة المنبثقة"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T1-31",
+  "url": "https://shamela.ws/book/8473/1261",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وقوله: (فَآمِنُوا بِاللَّهِ وَرُسُلِهِ) أي: فصدقوا",
+    "to": "ومنهم من يعتقده شريكا، ومنهم من يعتقده ولدًا.",
+    "keys": [
+     "(وَلا تَقُولُوا ثَلاثَةٌ) أي: لا تجعلوا عيسى وأمه مع الله شريكين",
+     "فالنصارى -عليهم لعنة الله-من جهلهم ليس لهم ضابط"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T1-32",
+  "url": "https://shamela.ws/book/8473/1497",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "هذا أيضًا مما يخاطب الله تعالى به عبده ورسوله",
+    "to": "وهذا تهديد للنصارى وتوبيخ وتقريع على رؤوس الأشهاد.",
+    "keys": [
+     "قائلا له يوم القيامة بحضرة من اتخذه وأمه إلهين من دون الله"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T1-33",
+  "url": "https://shamela.ws/book/23591/2477",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "هَؤُلَاءِ هُمُ الْمَلْكِيَّةُ مِنَ النَّصَارَى",
+    "to": "وَأُمَّهُ آلِهَةٌ ثَلَاثَةٌ، وَيُؤَكِّدُهُ",
+    "keys": [
+     "هَؤُلَاءِ هُمُ الْمَلْكِيَّةُ مِنَ النَّصَارَى الْقَائِلُونَ بِالتَّثْلِيثِ",
+     "قَالَ الْمُفَسِّرُونَ: أَرَادُوا بِذَلِكَ أن الله تعالى وعيسى وَأُمَّهُ آلِهَةٌ ثَلَاثَةٌ"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T1-34",
+  "url": "https://shamela.ws/book/23591/2478",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وَحَكَى الْمُتَكَلِّمُونَ عَنِ النَّصَارَى أَنَّهُمْ يَقُولُونَ",
+    "to": "وَأَنَّ الْوَاحِدَ لَا يَكُونُ ثَلَاثَةً",
+    "keys": [],
+    "alts": [
+     "جَوْهَرٌ وَاحِدٌ ثَلَاثَةُ أَقَانِيمَ: أَبٌ، وَابْنٌ، وَرُوحُ قُدُسٍ",
+     "وَزَعَمُوا أَنَّ الْأَبَ إِلَهٌ، وَالِابْنَ إِلَهٌ، وَالرُّوحَ إِلَهٌ، وَالْكُلُّ إِلَهٌ وَاحِدٌ"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T1-35",
+  "url": "https://shamela.ws/book/23591/2564",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وَذَكَرَ الْمُفَسِّرُونَ أَنَّهُ لَمْ يَقُلْ أَحَدٌ",
+    "to": "وَلَا يَلْزَمُ مِنْ صُدُورِ الْقَوْلِ وُجُودُ الِاتِّخَاذِ.",
+    "keys": [
+     "لَمْ يَقُلْ أَحَدٌ مِنَ النَّصَارَى بِإِلَهِيَّةِ مَرْيَمَ، فَكَيْفَ قِيلَ إِلهَيْنِ",
+     "لَمَّا قَالُوا لَمْ تَلِدْ بَشَرًا وَإِنَّمَا وَلَدَتْ إِلَهًا",
+     "وَلَا يَلْزَمُ مِنْ صُدُورِ الْقَوْلِ وُجُودُ الِاتِّخَاذِ"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T1-39",
+  "url": "https://shamela.ws/book/12876/789",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "{فَآمِنُوا بِاَللَّهِ وَرُسُله وَلَا تَقُولُوا} الْآلِهَة",
+    "to": "اللَّه وَعِيسَى وَأُمّه",
+    "keys": [
+     "الْآلِهَة {ثَلَاثَة} اللَّه وَعِيسَى وَأُمّه"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T1-40",
+  "url": "https://shamela.ws/book/12876/881",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "{لَقَدْ كَفَرَ الَّذِينَ قَالُوا إنَّ اللَّه ثَالِث} آلِهَة",
+    "to": "وَهُمْ فِرْقَة مِنْ النَّصَارَى",
+    "keys": [
+     "أَيْ أَحَدهَا وَالْآخَرَانِ عِيسَى وَأُمّه وَهُمْ فِرْقَة مِنْ النَّصَارَى"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T1-41",
+  "url": "https://shamela.ws/book/22835/1391",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وعنوا بالثلاثة- على ما روي عن السدي- الباري عز اسمه",
+    "to": "إِلهَيْنِ مِنْ دُونِ اللَّهِ [المائدة: ١١٦] ، وهو المتبادر من ظاهر قوله تعالى",
+    "keys": [
+     "وعنوا بالثلاثة- على ما روي عن السدي- الباري عز اسمه، وعيسى وأمه عليهما السلام فكل من الثلاثة إله بزعمهم"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T1-43",
+  "url": "https://shamela.ws/book/22835/1220",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "ثم اختلفوا فذهب الملكانية أصحاب ملكا",
+    "to": "واتفقوا على أن اتحاد اللاهوت بالمسيح دون مريم",
+    "keys": [
+     "وأن مريم ولدت إلها أزليا"
+    ],
+    "alts": [
+     "وصرحوا بإثبات التثليث، وقالوا: إن الله ثالث ثلاثة",
+     "واتفقوا على أن اتحاد اللاهوت بالمسيح دون مريم"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T1-42",
+  "url": "https://shamela.ws/book/22835/1456",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "واستشكلت الآية بأنه لا يعلم أن أحدا من النصارى",
+    "to": "ولم ينقله أحد ممن يوثق به عنهم أصلا.",
+    "keys": [
+     "واستشكلت الآية بأنه لا يعلم أن أحدا من النصارى اتخذ مريم عليها السلام إلها",
+     "أنهم لما عظموها تعظيم الإله أطلق عليها اسم الإله",
+     "ما حكاه أبو جعفر الإمامي عن بعض النصارى أنه قد كان فيما مضى قوم يقال لهم: المريمية يعتقدون في مريم أنها إله",
+     "وهو أولى الأوجه عندي"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "tYq3",
+  "url": "https://ketabonline.com/ar/books/18614/read?part=1&page=60",
+  "css": "html,body,*{scroll-behavior:auto!important} .g-paragraph{font-family:'Amiri',serif!important;text-align:right!important;font-size:22px!important;line-height:2!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "وكان أول من ملك من ملوك الروم، فخرج من مقالة اليونانية إلى النصرانية",
+    "to": "ولكن وافقوا على أن الأب الإله والابن إله منه",
+    "keys": [
+     "فمنها قول من قال إن المسيح وأمه كانا الهين",
+     "فرأى في منامه كان رماحا نزل بها من السماء عليها صلبان",
+     "واجتمع بنيقيه ثلاثمائة وثمانية عشر أسقفا",
+     "فوجد ثلاث عشرة مقالة",
+     "ومنها مقالة من قال: هو نبي من الأنبياء",
+     "ولم يذكروا روح القدس، ولا أثبتوه خالقا ولا مخلوقا"
+    ]
+   }
+  ],
+  "wait": 9000,
+  "js": "ketabonline.com"
+ },
+ {
+  "id": "T4-29",
+  "url": "https://shamela.ws/book/23833/598",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وَهُمْ مِنْ النَّصْرَانِيَّةِ عَلَى دِينِ الْمَلِكِ",
+    "to": "وَلَكِنَّهُ هُوَ وَعِيسَى وَمَرْيَمُ.",
+    "keys": [
+     "يَقُولُونَ: هُوَ اللَّهُ، وَيَقُولُونَ: هُوَ وَلَدُ اللَّهِ، وَيَقُولُونَ: هُوَ ثَالِثُ ثَلَاثَةٍ",
+     "وَيَحْتَجُّونَ فِي قَوْلِهِمْ: «إنَّهُ ثَالِثُ ثَلَاثَةٍ» بِقَوْلِ اللَّهِ: فَعَلْنَا، وَأَمَرْنَا",
+     "وَلَكِنَّهُ هُوَ وَعِيسَى وَمَرْيَمُ"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T2-22",
+  "url": "https://shamela.ws/book/37716/2",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وذكرتم أنهم قالوا: إن الدليل على أن كتابنا باطل",
+    "to": "اتخذوني وأمي إلهين من دون الله}،",
+    "keys": [
+     "أننا ندعي عليهم ما لا يعرفونه فيما بينهم، ولا يعرفونه من أسلافهم",
+     "أأنت قلت للناس اتخذوني وأمي إلهين من دون الله"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T2-23",
+  "url": "https://shamela.ws/book/37716/3",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وأنهم زعموا أنهم لم يدينوا قط بأن مريم إله في سرهم",
+    "to": "ولا يعرف في شيء من الأديان.",
+    "keys": [
+     "لم يدينوا قط بأن مريم إله في سرهم، ولا ادعوا ذلك قط في علانيتهم",
+     "أنا ادعينا عليهم ما لا يعرفون"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T2-02",
+  "url": "https://shamela.ws/book/170/1554",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "فَبَعَثَ \" \" قُسْطَنْطِينُ \" \" الْمَلِكُ إِلَى جَمِيعِ الْبُلْدَانِ",
+    "to": "وَيُسَمَّوْنَ \" الْمَرْيَمِيِّينَ \".",
+    "keys": [
+     "وَكَانُوا مُخْتَلِفِي الْآرَاءِ مُخْتَلِفِي الْأَدْيَانِ",
+     "فَمِنْهُمْ مَنْ يَقُولُ: الْمَسِيحُ وَمَرْيَمُ إِلَهَانِ مِنْ دُونِ اللَّهِ",
+     "وَهُمُ \" الْمَرْيَمَانِيَّةُ \""
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T2-38",
+  "url": "https://shamela.ws/book/12318/702",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "فأما الملكانية واليعقوبية والنسطورية فمتفقون",
+    "to": "هذا الذي يجمعهم اعتقاده",
+    "keys": [],
+    "alts": [
+     "فمتفقون على أن معبودهم ثلاثة أقانيم",
+     "ومعناه أب وابن وروح القدس إله واحد",
+     "فتدرع جسدا من مريم"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T2-24",
+  "url": "https://shamela.ws/book/9789/153",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وقد قال صاحبكم في كتابكم",
+    "to": "وكل جوهر لا يقبل",
+    "keys": [
+     "فقالت النصارى: فهذا كذب، فانا وإن قلنا فيه انه إله فما قلنا في امه انها إله",
+     "قيل له: ما خبر عنهم انهم قالوا ذلك",
+     "وإنما معناه التقرير لاستخراج الجواب من المسؤول",
+     "وأيضا ففي النصارى من قد قال بمعنى هذا وان لم يصرح بلفظه"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T2-25",
+  "url": "https://shamela.ws/book/9789/154",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "إلا ما في جوهره وسنخه",
+    "to": "لجاز في",
+    "keys": [
+     "انت لا تنكر ان البتول الطاهرة إله كما تراه انت، بل إنسان كما نراه نحن",
+     "وهذا تصريح من هؤلاء بأن مريم إله والنسطورية تخالفهم في ذلك",
+     "وأنها على العرش جالسة عن يسار الرب والد ابنها، وابنها عن يمينه",
+     "وهم يدعونها ويسألونها سعة الرزق"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T2-26",
+  "url": "https://shamela.ws/book/9789/155",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "لغة العرب بل في كل لغة ان يقال قد اتخذه إلها.",
+    "to": "وأنكم تقاربون المسلمين في التوحيد.",
+    "keys": [
+     "ان يقال قد اتخذه إلها",
+     "فلو لم يكن معنا تلك النصوص فيمن قال منهم إنها إله",
+     "يا مريم يا والدة المسيح كوني لنا سورا وسندا وذخرا وركنا",
+     "لا تقولوا/ يا والدة الله وقولوا يا والدة المسيح"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T2-04",
+  "url": "https://shamela.ws/book/6521/39",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وَالنَّصَارَى فرق مِنْهُم أَصْحَاب أريوس",
+    "to": "وهم يَقُولُونَ أَن عِيسَى وَأمه إلهان من دون الله عز وَجل",
+    "keys": [
+     "وَمِنْهُم البربرانية وهم يَقُولُونَ أَن عِيسَى وَأمه إلهان من دون الله عز وَجل"
+    ],
+    "alts": [
+     "وَكَانَ قَوْله التَّوْحِيد الْمُجَرّد الصَّحِيح"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T2-05",
+  "url": "https://shamela.ws/book/6521/40",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وَهَذِه الْفرْقَة قد بادت وعمدتهم الْيَوْم ثَلَاث فرق",
+    "to": "وأنهما مَعًا شيءٌ وَاحِد ابْن الله تَعَالَى الله عَن كفرهم",
+    "keys": [
+     "وَهَذِه الْفرْقَة قد بادت"
+    ],
+    "alts": [
+     "ثَلَاثَة أَسبَاب أَب وَابْن وروح الْقُدس كلهَا لم تزل",
+     "وَأَن مَرْيَم ولدت الْإِلَه وَالْإِنْسَان"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T2-10",
+  "url": "https://shamela.ws/book/11812/263",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "بالنفس، لا التحيز والحجمية.",
+    "to": "وإنما العلم تدرع وتجسد دون سائر الأقانيم.",
+    "keys": [],
+    "alts": [
+     "فهو واحد بالجوهرية، ثلاثة بالأقنومية",
+     "ويعنون بالأقانيم الصفات كالوجود والحياة والعلم",
+     "وسموها الأب والابن، وروح القدس"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T2-11",
+  "url": "https://shamela.ws/book/11812/265",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وصرحت الملكانية بأن الجوهر غير الأقانيم",
+    "to": "وقد ولدت مريم عليها السلام إلها أزليا",
+    "keys": [],
+    "alts": [
+     "وعن هذا صرحوا بإثبات التثليث وأخبر عنهم القرآن",
+     "وقد ولدت مريم عليها السلام إلها أزليا"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T2-12",
+  "url": "https://shamela.ws/book/170/399",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "فَقَدْ فَسَّرُوهُ بِالتَّثْلِيثِ الْمَشْهُورِ عَنْهُمُ الْمَذْكُورِ فِي أَمَانَتِهِمْ",
+    "to": "وَقَدْ فَسَّرَهُ طَائِفَةٌ بِجَعْلِهِمْ عِيسَى وَأُمَّهُ إِلَهَيْنِ يُعْبَدَانِ مِنْ دُونِ اللَّهِ.",
+    "keys": [
+     "وَقَدْ فَسَّرَهُ طَائِفَةٌ بِجَعْلِهِمْ عِيسَى وَأُمَّهُ إِلَهَيْنِ يُعْبَدَانِ مِنْ دُونِ اللَّهِ"
+    ],
+    "alts": [
+     "هُوَ قَوْلُ النَّصَارَى الَّذِينَ يَقُولُونَ بِالْآبِ وَالِابْنِ وَالرُّوحِ الْقُدُسِ",
+     "وَسَمَّوْا كُلَّ وَاحِدٍ مِنَ الثَّلَاثَةِ بِالْإِلَهِ وَالرَّبِّ"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T2-13",
+  "url": "https://shamela.ws/book/170/400",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "قَالَ: قَالَتِ النَّصَارَى إِنَّ اللَّهَ هُوَ الْمَسِيحُ وَأُمُّهُ",
+    "to": "أَنَّ مِنْهُمْ طَائِفَةً يُقَالُ لَهُمُ",
+    "keys": [
+     "قَالَتِ النَّصَارَى إِنَّ اللَّهَ هُوَ الْمَسِيحُ وَأُمُّهُ فَذَلِكَ قَوْلُهُ",
+     "وَقَدْ ذَكَرَ سَعِيدُ بْنُ الْبِطْرِيقِ فِي أَخْبَارِ النَّصَارَى",
+     "وَهَذَا ضَعِيفٌ"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T2-14",
+  "url": "https://shamela.ws/book/170/401",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "الْمَرْيَمِيُّونَ يَقُولُونَ إِنَّ مَرْيَمَ إِلَهٌ وَإِنَّ عِيسَى إِلَهٌ.",
+    "to": "فَذَكَرَ سُبْحَانَهُ فِي هَذِهِ الْآيَةِ التَّثْلِيثَ وَالِاتِّحَادَ وَنَهَاهُمْ عَنْهُمَا",
+    "keys": [
+     "الْمَرْيَمِيُّونَ يَقُولُونَ إِنَّ مَرْيَمَ إِلَهٌ وَإِنَّ عِيسَى إِلَهٌ"
+    ],
+    "alts": [
+     "وَأَمَّا الْأَوَّلُ فَمُتَوَجَّهٌ",
+     "فَإِنَّ النَّصَارَى الْمُتَّفِقِينَ عَلَى الْأَمَانَةِ كُلَّهُمْ يَقُولُونَ إِنَّ اللَّهَ ثَالِثُ ثَلَاثَةٍ"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T2-17",
+  "url": "https://shamela.ws/book/170/1589",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "فَذَكَرَ سُبْحَانَهُ وَتَعَالَى: أَنَّهُمَا كَانَا يَأْكُلَانِ الطَّعَامَ",
+    "to": "كَثِيرٌ مِنْهُمْ يَطْلُبُ مِنْهَا كُلَّ مَا يُطْلَبُ",
+    "keys": [
+     "وَذَكَرَ مَرْيَمَ مَعَ الْمَسِيحِ ; لِأَنَّ مِنَ النَّصَارَى مَنِ اتَّخَذَهَا إِلَهًا آخَرَ فَعَبَدَهَا كَمَا عَبَدَ الْمَسِيحَ",
+     "وَالَّذِينَ لَا يَقُولُونَ بِهَذَا"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T2-18",
+  "url": "https://shamela.ws/book/170/1590",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "مِنَ اللَّهِ حَتَّى يَقُولَ لَهَا: اغْفِرِي لِي وَارْحَمِينِي",
+    "to": "لَمْ يَحْكِ هَذَا عَنْ جَمِيعِ النَّصَارَى، بَلْ سَأَلَ",
+    "keys": [
+     "فَتَارَةً يَقُولُونَ: يَا وَالِدَةَ الْإِلَهِ، اشْفَعِي لَنَا إِلَى الْإِلَهِ",
+     "وَآخَرُونَ يَعْبُدُونَهَا كَمَا يَعْبُدُونَ الْمَسِيحَ",
+     "فَمِنْهُمْ مَنْ يَقُولُ: الْمَسِيحُ وَأُمُّهُ إِلَهَانِ مِنْ دُونِ اللَّهِ، وَهُمُ الْمَرْيَمَانِيُّونَ",
+     "كَذَلِكَ قَالَ ابْنُ حَزْمٍ",
+     "لَمْ يَحْكِ هَذَا عَنْ جَمِيعِ النَّصَارَى"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T2-19",
+  "url": "https://shamela.ws/book/170/1591",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "الْمَسِيحَ سُؤَالًا يُقَرِّعُ بِهِ مَنِ اتَّخَذَهُ",
+    "to": "وَأُمَّهُ إِلَهَيْنِ مِنْ دُونِ اللَّهِ.",
+    "keys": [
+     "سُؤَالًا يُقَرِّعُ بِهِ مَنِ اتَّخَذَهُ وَأُمَّهُ إِلَهَيْنِ مِنْ دُونِ اللَّهِ"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T2-20",
+  "url": "https://shamela.ws/book/170/1820",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وَمِمَّا يُوَضِّحُ ذَلِكَ، أَنَّ خَوَاصَّ النَّصَارَى وَعُلَمَاءَهُمْ",
+    "to": "وَجَعَلُوا الْمَسِيحَ ابْنَ",
+    "keys": [
+     "يَلْزَمُهُمْ أَنْ تَكُونَ مَرْيَمُ صَاحِبَةَ اللَّهِ وَامْرَأَتَهُ",
+     "كَمَا قَالَ ذَلِكَ مَنْ يَغْلُو مِنْهُمْ",
+     "وَمِنْهُمْ مَنْ يَجْعَلُ مَرْيَمَ إِلَهًا مَعَ اللَّهِ، كَمَا جَعَلَ الْمَسِيحَ إِلَهًا"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T2-21",
+  "url": "https://shamela.ws/book/170/1821",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "مَرْيَمَ وَأُمَّهُ إِلَهَيْنِ مِنْ دُونِ اللَّهِ، كَمَا فَعَلَ ذَلِكَ مَنْ فَعَلَهُ مِنْهُمْ.",
+    "to": "إِنَّهَا صَاحِبَةُ اللَّهِ - سُبْحَانَهُ وَتَعَالَى -.",
+    "keys": [
+     "فَإِنَّهُمْ يَعْبُدُونَ مَرْيَمَ وَيَدْعُونَهَا بِمَا يَدْعُونَ بِهِ اللَّهَ",
+     "وَيَجْعَلُونَهَا إِلَهًا كَمَا يَجْعَلُونَ الْمَسِيحَ إِلَهًا",
+     "يَا وَالِدَةَ الْإِلَهِ، اغْفِرِي لَنَا وَارْحَمِينَا",
+     "وَمِنْهُمْ مَنْ يَقُولُ عَنْ مَرْيَمَ: إِنَّهَا صَاحِبَةُ اللَّهِ"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T2-27",
+  "url": "https://shamela.ws/book/5705/85",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "فقل ما شئت في طائفةٍ أصلُ عقيدتها",
+    "to": "يا والدة الإله ارزقينا، واغفري لنا وارحمينا.",
+    "keys": [
+     "أصلُ عقيدتها أنَّ الله ثالث ثلاثة، وأنَّ مريم صاحبته، وأنَّ المسيح ابنُه",
+     "والتحم ببطن الصَّاحبة",
+     "يقولون في دعائهم: يا والدة الإله ارزقينا، واغفري لنا وارحمينا"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T2-01",
+  "url": "https://shamela.ws/book/11566/1729",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "واجتمعوا بعد ستة أشهر بمدينة نيقية",
+    "to": "وهذا قول الثلاثمائة وثمانية عشر",
+    "keys": [
+     "ومنهم من قال المسيح وأمه إلهان من دون اللّه",
+     "وهذا قول المرائمة من فرق النصارى"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T2-29",
+  "url": "https://shamela.ws/book/6517/68",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وَذَلِكَ أَن الأقانيم الثَّلَاثَة عنْدكُمْ آلِهَة",
+    "to": "فَتكون الْآلهَة عِنْد هَذِه الطَّائِفَة سِتَّة",
+    "keys": [
+     "أَن الأقانيم الثَّلَاثَة عنْدكُمْ آلِهَة وَعِيسَى إِلَه رَابِع",
+     "ومنكم طائقة تدعى أَن مَرْيَم إِلَه"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T2-30",
+  "url": "https://shamela.ws/book/6517/203",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "فنزه الله الْمَسِيح وَأمه على لِسَان نبيه",
+    "to": "وَأمه صديقَة}",
+    "keys": [
+     "وَذَلِكَ أَن مِنْكُم طَائِفَة يَقُولُونَ إِن مَرْيَم إِلَه",
+     "وَقد أطبقتم على أَن الْمَسِيح إِلَه وإبن الْإِلَه"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T2-36",
+  "url": "https://shamela.ws/book/12002/593",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "واعلم أن هذه الصلاة أيضاً مقصورة على عبادة مريم",
+    "to": "وخالفوا أهل ملتهم من القدماء.",
+    "keys": [
+     "لأن جسد مريم لم يتّحد به شيء عند كافة النصارى بل جسدها كسائر أجساد بني آدم",
+     "فقد زاد النصارى على الثالوث",
+     "إلهاً رابعاً وخالفوا أهل ملتهم من القدماء"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T2-37",
+  "url": "https://shamela.ws/book/12002/599",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وقد زادوا في هذه الصلاة إلهاً سادساً",
+    "to": "والمسيح ومريم والمعمداني.",
+    "keys": [
+     "فصارت الآلهة ستة: الآب والابن وروح القدس والمسيح ومريم والمعمداني"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T2-34",
+  "url": "https://shamela.ws/book/12002/565",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "ومن النصارى فرقة تعرف بالمريمية",
+    "to": "عدةأولاد من يوسف",
+    "keys": [
+     "فرقة تعرف بالمريمية",
+     "يزعمون أن مريم حين ولدت المسيح لم تكن عذراء"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T2-35",
+  "url": "https://shamela.ws/book/12002/565",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وقد ذكر ابن البطريق هذه الطائفة في كتابه",
+    "to": "وتؤمن بأن العذراء مريم إنسانة بشرية.",
+    "keys": [
+     "وقد ذكرها ابن حزم باسم (البربرانية) وبأنها قد بادت",
+     "ومع أن النصارى يقولون بانقراض هذه الفرقة وأن الكنيسة لا تعترف بألوهية مريم"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T4-24",
+  "url": "https://shamela.ws/book/1681/11051",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "فَيُقَالُ لِلْيَهُودِ: مَا كُنْتُمْ تَعْبُدُونَ؟",
+    "to": "عُزَيْرَ بْنَ اللهِ، فَيُقَالُ: كَذَبْتُمْ،",
+    "keys": [
+     "كُنَّا نَعْبُدُ عُزَيْرَ بْنَ اللهِ"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T4-25",
+  "url": "https://shamela.ws/book/1681/11051",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "لَمْ يَكُنْ لِلهِ صَاحِبَةٌ وَلَا وَلَدٌ، فَمَا تُرِيدُونَ؟",
+    "to": "كَذَبْتُمْ، لَمْ يَكُنْ لِلهِ صَاحِبَةٌ وَلَا وَلَدٌ،",
+    "keys": [
+     "ثُمَّ يُقَالُ لِلنَّصَارَى: مَا كُنْتُمْ تَعْبُدُونَ؟",
+     "كُنَّا نَعْبُدُ الْمَسِيحَ بْنَ اللهِ"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T3-01",
+  "url": "https://archive.org/download/epiphanius-panarion-and-ancoratus-greek-critical-edition-3-vols-in-1-holl-1915-1922-1933/Epiphanius%2C%20Panarion%20and%20Ancoratus%2C%20Greek%20critical%20edition%203%20vols%20in%201%20%28Holl%201915%2C%201922%2C%201933%29_djvu.txt",
+  "css": "html,body,*{scroll-behavior:auto!important} pre{white-space:pre-wrap!important;font-size:19px!important;line-height:1.6!important;max-width:1100px}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "ὡς δὲ τοῦτό φαμεν «τεϑαυμακέναι»",
+    "to": "ἐνέργημα καὶ πνεύματος ἀκαϑάρτου διδασκαλίαν.",
+    "keys": [
+     "ἀντὶ ϑεοῦ ταύτην παρεισάγειν",
+     "διηγοῦνται γὰρ",
+     "ὥς τινες γυναῖκες ἐκεῖσε ἐν τῇ ᾿Αραβίᾳ ἀπὸ τῶν μερῶν τῆς Θράκης",
+     "κολλυρίδα τινὰ ἐπιτελεῖν καὶ συνάγεσθαι ἐπὶ τὸ αὐτὸ",
+     "καὶ εἰς ὄνομα αὐτῆς ἱερουργεῖν διὰ"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T3-02",
+  "url": "https://archive.org/download/epiphanius-panarion-and-ancoratus-greek-critical-edition-3-vols-in-1-holl-1915-1922-1933/Epiphanius%2C%20Panarion%20and%20Ancoratus%2C%20Greek%20critical%20edition%203%20vols%20in%201%20%28Holl%201915%2C%201922%2C%201933%29_djvu.txt",
+  "css": "html,body,*{scroll-behavior:auto!important} pre{white-space:pre-wrap!important;font-size:19px!important;line-height:1.6!important;max-width:1100px}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "Κολλυριδιανοί, οἱ εἰς ὄνομα τῆς αὐτῆς Μαρίας",
+    "to": "Κολλυριδιανοὺς αὐτοὺς ὀνομάσαντες.",
+    "keys": [
+     "ἀποτεταγμένῃ κολλυοίδα τινὰ προσφέροντες, οἷς ἐπεϑέμεϑα",
+     "ὄνομα τῇ πράξει αὐτῶν ἀκόύλουϑον"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T3-03",
+  "url": "https://archive.org/download/epiphanius-panarion-and-ancoratus-greek-critical-edition-3-vols-in-1-holl-1915-1922-1933/Epiphanius%2C%20Panarion%20and%20Ancoratus%2C%20Greek%20critical%20edition%203%20vols%20in%201%20%28Holl%201915%2C%201922%2C%201933%29_djvu.txt",
+  "css": "html,body,*{scroll-behavior:auto!important} pre{white-space:pre-wrap!important;font-size:19px!important;line-height:1.6!important;max-width:1100px}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "\"Εξῆς δὲ ταύτῃ «ἄλλη» εἰς φήμην πέφηνεν αἵρεσις,",
+    "to": "καὶ τῶν ἄνω μερῶν τῆς Σκυ|ϑίας ἀνεδείχϑη",
+    "keys": [
+     "εἰς φήμην πέφηνεν αἵρεσις",
+     "διὰ τῆς εἷς ᾿Αραβίαν γραφείσης",
+     "ἐν τῇ ᾿Αραβίᾳ ἀπὸ τῆς Θράμης καὶ τῶν ἄνω μερῶν τῆς Σκυ|ϑίας ἀνεδείχϑη"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T3-04",
+  "url": "https://archive.org/download/epiphanius-panarion-and-ancoratus-greek-critical-edition-3-vols-in-1-holl-1915-1922-1933/Epiphanius%2C%20Panarion%20and%20Ancoratus%2C%20Greek%20critical%20edition%203%20vols%20in%201%20%28Holl%201915%2C%201922%2C%201933%29_djvu.txt",
+  "css": "html,body,*{scroll-behavior:auto!important} pre{white-space:pre-wrap!important;font-size:19px!important;line-height:1.6!important;max-width:1100px}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "καὶ εἰς ἡμῶν ἀκοὰς ἀνηνέχθη\"",
+    "to": "περὶ τούτου διελέχϑημεν.",
+    "keys": [
+     "καὶ εἰς ἡμῶν ἀκοὰς ἀνηνέχθη",
+     "τῶν δὲ πάλιν ὑπὲρ τὸ δέον δοξαζόντω»",
+     "διδάσκοντες τίνες εἰσὶν ἀλλ᾽ ἢ γυναῖκες;",
+     "ἄρτον προτιϑέασι καὶ ἀναφέρουσιν εἷς ὄνομα τῆς Μαρίας, αἱ πᾶσαι",
+     "δὲ ἀπὸ τοῦ ἄρτου μεταλαμβάνουσιν"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T3-05",
+  "url": "https://archive.org/download/epiphanius-panarion-and-ancoratus-greek-critical-edition-3-vols-in-1-holl-1915-1922-1933/Epiphanius%2C%20Panarion%20and%20Ancoratus%2C%20Greek%20critical%20edition%203%20vols%20in%201%20%28Holl%201915%2C%201922%2C%201933%29_djvu.txt",
+  "css": "html,body,*{scroll-behavior:auto!important} pre{white-space:pre-wrap!important;font-size:19px!important;line-height:1.6!important;max-width:1100px}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "πόϑεν γὰρ οὐ» ἐμβρόντητον",
+    "to": "ἐκ κόλπων πατρῴων παραγενόμενον.",
+    "keys": [
+     "οὐκ εἰδωλοποιὸν τὸ ἐπιτήδευμα καὶ τὸ ἐγχείρημα διαβολικόν;",
+     "τὴν ϑνητὴν φύσιν ϑεοποιῶν",
+     "τῆς Μαρίας, οὐ μὴν ϑεός,",
+     "ἀλλ᾽ οὐκ εἰς προσκύνησιν ἡμῖν δοϑεῖσα,"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T3-06",
+  "url": "https://archive.org/download/epiphanius-panarion-and-ancoratus-greek-critical-edition-3-vols-in-1-holl-1915-1922-1933/Epiphanius%2C%20Panarion%20and%20Ancoratus%2C%20Greek%20critical%20edition%203%20vols%20in%201%20%28Holl%201915%2C%201922%2C%201933%29_djvu.txt",
+  "css": "html,body,*{scroll-behavior:auto!important} pre{white-space:pre-wrap!important;font-size:19px!important;line-height:1.6!important;max-width:1100px}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "ἐν τιμῇ ἔστω Μαρία, ὁ δὲ πατὴρ καὶ υἱὸς",
+    "to": "ἀλλ᾽ οὐ εἰς τὸ προσκυνεῖσθαι.",
+    "keys": [
+     "ἐν τιμῇ ἔστω Μαρία",
+     "τὴν Μαρίαν μηδεὶς προσκυνείτω.",
+     "ϑεῷ προστέτακται «προσφέρειν»",
+     "οὐδὲ ἄγγελοι χωροῦσι δοξολογίαν τοιαύτην."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T3-07",
+  "url": "https://archive.org/download/epiphanius-panarion-and-ancoratus-greek-critical-edition-3-vols-in-1-holl-1915-1922-1933/Epiphanius%2C%20Panarion%20and%20Ancoratus%2C%20Greek%20critical%20edition%203%20vols%20in%201%20%28Holl%201915%2C%201922%2C%201933%29_djvu.txt",
+  "css": "html,body,*{scroll-behavior:auto!important} pre{white-space:pre-wrap!important;font-size:19px!important;line-height:1.6!important;max-width:1100px}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "Αὗται δὲ πάλιν νἀνακαινίζουσι τῇ Τύχη",
+    "to": "ποιῆσαι χαυῶνας τῇ στρατιᾷ",
+    "keys": [
+     "Αὗται δὲ πάλιν νἀνακαινίζουσι τῇ Τύχη τὸ κέρασμα",
+     "καὶ σιτοῦνται σῖτα ἀσεβείας",
+     "ποιῆσαι χαυῶνας τῇ στρατιᾷ"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T3-08",
+  "url": "https://archive.org/download/epiphanius-panarion-and-ancoratus-greek-critical-edition-3-vols-in-1-holl-1915-1922-1933/Epiphanius%2C%20Panarion%20and%20Ancoratus%2C%20Greek%20critical%20edition%203%20vols%20in%201%20%28Holl%201915%2C%201922%2C%201933%29_djvu.txt",
+  "css": "html,body,*{scroll-behavior:auto!important} pre{white-space:pre-wrap!important;font-size:19px!important;line-height:1.6!important;max-width:1100px}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "τοῦ οὐραχοῦ«. φιμούσϑωσαν ὑπὸ ᾿Ἱερεμίου",
+    "to": "τὰ σώματα ὑποδέχεσϑαι εἰς σῆψιν.",
+    "keys": [
+     "φιμούσϑωσαν ὑπὸ ᾿Ἱερεμίου αἱ τοιαῦται γυναῖκες",
+     "ντιμῶμεν τὴν βασίλισσαν",
+     "οἶδε γὰρ Ταφνὰς ταύτας τιμωρεῖσϑαι"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T3-09",
+  "url": "https://archive.org/download/epiphanius-panarion-and-ancoratus-greek-critical-edition-3-vols-in-1-holl-1915-1922-1933/Epiphanius%2C%20Panarion%20and%20Ancoratus%2C%20Greek%20critical%20edition%203%20vols%20in%201%20%28Holl%201915%2C%201922%2C%201933%29_djvu.txt",
+  "css": "html,body,*{scroll-behavior:auto!important} pre{white-space:pre-wrap!important;font-size:19px!important;line-height:1.6!important;max-width:1100px}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "καὶ πόσα ἔστι λέγειν;",
+    "to": "ἡ Μαρία ἐν τιμῇ, ὁ κύριος προσκυνείσϑω.",
+    "keys": [
+     "ἤτοι γὰρ ὡς αὐτὴν προσκυνοῦντες",
+     "τὴν Μαρίαν αὐτῇ προσφέρουσι τὴν κολλυρίδα αἱ ἀργαὶ αὗται γυναῖκες",
+     "ἤτοι ὑπὲρ αὐτῆς προσφέρειν ἐπιχειροῦσι",
+     "ἡ Μαρία ἐν τιμῇ, ὁ κύριος προσκυνείσϑω."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T3-10",
+  "url": "https://archive.org/download/patrologicursus53migngoog/patrologicursus53migngoog_djvu.txt",
+  "css": "html,body,*{scroll-behavior:auto!important} pre{white-space:pre-wrap!important;font-size:19px!important;line-height:1.6!important;max-width:1100px}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "οθ’. Κολλυριδιανοΐ\" ol εἷς ὄνομα τῆς αὑτῆς Μαρίας",
+    "to": "νοῖς.",
+    "keys": [
+     "ἐν ἡμέρᾳ τινὶ τοῦ ἔτους ἀποτεταγμένῃ, χολλυρίδα",
+     "τινὰ προσφέφοντες οἷς ἐπεθέμεθα ὄνομα"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T3-11",
+  "url": "https://archive.org/download/corporishaereseo01epipuoft/corporishaereseo01epipuoft_djvu.txt",
+  "css": "html,body,*{scroll-behavior:auto!important} pre{white-space:pre-wrap!important;font-size:19px!important;line-height:1.6!important;max-width:1100px}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "Antidicomaritae appellati sunt haeretici qui Mariae virginitati",
+    "to": "quod nomen ex lingua Syra est.",
+    "keys": [
+     "Antidicomaritae appellati sunt haeretici",
+     "Postremam ponit Epiphanius"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T3-12",
+  "url": "https://archive.org/download/corporishaereseo01epipuoft/corporishaereseo01epipuoft_djvu.txt",
+  "css": "html,body,*{scroll-behavior:auto!important} pre{white-space:pre-wrap!important;font-size:19px!important;line-height:1.6!important;max-width:1100px}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "Usque ad istos ergo de haeresibus opus suum perduxit",
+    "to": "et aliqua non posui quae ipse posuit;",
+    "keys": [
+     "non modum, sed ordinem sum secutus.",
+     "et aliqua ex aliis posui quae ipse non posuit, et aliqua non posui"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T3-13",
+  "url": "https://www.thelatinlibrary.com/isidore/8.shtml",
+  "css": "html,body,*{scroll-behavior:auto!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "[46] Antidicomaritae appellati sunt pro eo,",
+    "to": "quia AGGOS Graece vas dicitur.",
+    "keys": [
+     "Antidicomaritae appellati sunt pro eo, quod Mariae virginitati contradicunt",
+     "[47] Metangismonitae ideo tale nomen acceperunt"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T3-14",
+  "url": "https://en.wikipedia.org/wiki/Collyridianism",
+  "css": "html,body,*{scroll-behavior:auto!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "The existence of the Collyridians is doubtful:",
+    "to": "and was supposedly composed entirely of women.",
+    "keys": [
+     "they are only mentioned in the Panarion of Epiphanius and possibly in the Quran",
+     "originated in Thrace and Scythia before spreading to Arabia"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T3-15",
+  "url": "https://en.wikipedia.org/wiki/Collyridianism",
+  "css": "html,body,*{scroll-behavior:auto!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "The existence of this sect is seen as doubtful by many scholars.",
+    "to": "reason to doubt that this movement ever existed.",
+    "keys": [
+     "The theologian Karl Gerok strongly disputed the existence of the Collyridians",
+     "the only source for the existence of this sect being a heresiographical tractate by Epiphanius",
+     "Samuel Zwemer"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T4-05",
+  "url": "https://ablibrary.net/book_content/b/16720/35",
+  "css": "html,body,*{scroll-behavior:auto!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "الرواية الثالثة - روى سيف في كتاب الردّة والفتوح",
+    "to": "اقتلوا النصارى ، فهربوا ،",
+    "keys": [
+     "حدتنا السريّ قال حدّثنا شعيب قال حدّثنا سيف عن عطيّة عن يزيد الفقعسي عن ابن عبّاس قال",
+     "فقال بولس - وكان يكّنى : أبا شاؤل ، وهو الملك يومئذ"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T4-07",
+  "url": "https://ablibrary.net/book_content/b/16720/38",
+  "css": "html,body,*{scroll-behavior:auto!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "وكان مهرب المؤمنين منهم إلى جزيرة العرب",
+    "to": "ص 136 - 139 ، ح 133 .",
+    "keys": [
+     "ومثله في هذه الأمّة مثل ابن سبأ",
+     "روايات سيف الثلاثة في ما اختلقه من اخبار السبئية",
+     "الردّة والفتوح لسيف بن عمر ص 136 - 139 ، ح 133"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T4-08",
+  "url": "https://shamela.ws/book/9783/2229",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "فيما كتب به إلي السري، عن شعيب،",
+    "to": "ثُمَّ الْكُوفَة، ثُمَّ الشام،",
+    "keys": [
+     "عَنْ سَيْفٍ، عَنْ عَطِيَّةَ، عَنْ يَزِيدَ الْفَقْعَسِيِّ، قَالَ",
+     "كَانَ عَبْد اللَّهِ بن سبأ يهوديا من أهل صنعاء"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T4-09",
+  "url": "https://shamela.ws/book/2170/1862",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "١١٩٨ - سيف بن عمر الضبي",
+    "to": "يشبه حديثه حديث الواقدي.",
+    "keys": [
+     "عن يحيى بن معين أنه قال: سيف بن عمر الضبي الذي يحدث عنه المحاربي ضعيف الحديث",
+     "فقال: متروك الحديث، يشبه حديثه حديث الواقدي"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T4-10",
+  "url": "https://shamela.ws/book/5834/246",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "• سيف بْن عُمَر الضَّبِّيّ الأسيدي",
+    "to": "جَعْفَرَ بْنَ أَبَانٍ يَقُول سَمِعت",
+    "keys": [
+     "أتهم بالزندقة",
+     "يَرْوِي الموضوعات عَن الْأَثْبَات"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T4-11",
+  "url": "https://shamela.ws/book/5834/247",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "ابْنَ نُمَيْرٍ يَقُولُ سَيْفٌ الضَّبِّيُّ",
+    "to": "وَكَانَ قداتهم بالزندقة",
+    "keys": [
+     "وَكَانَ سيف يضع الحَدِيث",
+     "وَكَانَ قداتهم بالزندقة"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T4-16",
+  "url": "https://shamela.ws/book/12579/2083",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "٨٥١- سيف بْن عُمَر الضبي كوفي.",
+    "to": "فقال فَلْسٌ خيرٌ منه.",
+    "keys": [
+     "قَالَ: سيف بْن عُمَر الضبي ضعيف.",
+     "فقال فَلْسٌ خيرٌ منه."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T4-17",
+  "url": "https://shamela.ws/book/12579/2084",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "قال الشَّيْخ: ولسيف بْن عُمَر أحاديث",
+    "to": "إلى الضعف أقرب منه إلى الصدق",
+    "keys": [
+     "وعامتها منكرة لم يتابع عليها",
+     "وَهو إلى الضعف أقرب منه إلى الصدق"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T4-12",
+  "url": "https://shamela.ws/book/1692/922",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "٣٦٣٧ - سيف بن عمر [ت] الضبي",
+    "to": "وقال ابن عدي: عامة حديثه منكر.",
+    "keys": [
+     "مصنف الفتوح والردة وغير ذلك. هو كالواقدي.",
+     "كان أخباريا عارفا.",
+     "قال عباس، عن يحيى: ضعيف.",
+     "وقال أبو حاتم: متروك.",
+     "وقال ابن حبان: اتهم بالزندقة."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T4-13",
+  "url": "https://shamela.ws/book/8609/188",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "٢٧٢٤- سيف ابن عمر التميمي صاحب كتاب الردة",
+    "to": "مات في زمن الرشيد ت",
+    "keys": [
+     "صاحب كتاب الردة",
+     "ضعيف [في] الحديث عمدة في التاريخ",
+     "افحش ابن حبان القول فيه"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "T4-15",
+  "url": "https://shamela.ws/book/3310/1751",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "والدارقطني ضعيف وقال ابن عدي",
+    "to": "بخط الذهبي مات سيف زمن الرشيد*",
+    "keys": [
+     "وقال ابن حبان يروي الموضوعات عن الأثبات",
+     "بقية كلام ابن حبان اتهم بالزندقة",
+     "وقال الحاكم اتهم بالزندقة وهو في الرواية ساقط"
+    ]
+   }
+  ]
+ }
+]
