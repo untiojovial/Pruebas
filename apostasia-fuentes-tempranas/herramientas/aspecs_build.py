@@ -15,7 +15,7 @@ def norm(s):
         elif o and o[-1] != ' ': o.append(' ')
     return ''.join(o).strip()
 PASS = {}
-for d in ['Zloc', 'Z1', 'Z2', 'Z3', 'Z4', 'Z5', 'Z6', 'Z7', 'Z8']:
+for d in ['Zloc', 'Zloc2', 'Z1', 'Z2', 'Z3', 'Z4', 'Z5', 'Z6', 'Z7', 'Z8']:
     f = f'{HP}/{d}/passages.json'
     if os.path.exists(f):
         for p in json.load(open(f)):
