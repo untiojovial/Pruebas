@@ -1,0 +1,637 @@
+[
+ {
+  "id": "AP-b6922",
+  "url": "https://hadithunlocked.com/bukhari:6922",
+  "css": "html,body,*{scroll-behavior:auto!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "حدثنا أبو النعمان محمد بن الفضل حدثنا حماد بن زيد",
+    "to": "من بدل دينه فاقتلوه",
+    "keys": [
+     "ولقتلتهم لقول رسول الله",
+     "من بدل دينه فاقتلوه"
+    ],
+    "alts": [
+     "لو كنت أنا لم أحرقهم لنهى رسول الله"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "AP-b3017",
+  "url": "https://hadithunlocked.com/bukhari:3017",
+  "css": "html,body,*{scroll-behavior:auto!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "حدثنا علي بن عبد الله حدثنا سفيان عن أيوب عن عكرمة أن عليا",
+    "to": "من بدل دينه فاقتلوه",
+    "keys": [
+     "ولقتلتهم كما قال النبي",
+     "من بدل دينه فاقتلوه"
+    ],
+    "alts": [
+     "لا تعذبوا بعذاب الله"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "AP-b6878",
+  "url": "https://hadithunlocked.com/bukhari:6878",
+  "css": "html,body,*{scroll-behavior:auto!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "حدثنا عمر بن حفص حدثنا أبي حدثنا الأعمش",
+    "to": "التارك الجماعة",
+    "keys": [
+     "لا يحل دم امرئ مسلم",
+     "والمارق من الدين التارك الجماعة"
+    ],
+    "alts": [
+     "يشهد أن لا إله إلا الله وأني رسول الله"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "AP-b6923",
+  "url": "https://hadithunlocked.com/bukhari:6923",
+  "css": "html,body,*{scroll-behavior:auto!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "ولكن اذهب أنت يا أبا موسى",
+    "to": "فأمر به فقتل",
+    "keys": [
+     "كان يهوديا فأسلم ثم تهود",
+     "لا أجلس حتى يقتل قضاء الله ورسوله",
+     "فأمر به فقتل"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "AP-m1676",
+  "url": "https://hadithunlocked.com/muslim:1676",
+  "css": "html,body,*{scroll-behavior:auto!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "حدثنا أبو بكر بن أبي شيبة حدثنا حفص بن غياث",
+    "to": "المفارق للجماعة",
+    "keys": [
+     "لا يحل دم امرئ مسلم",
+     "والتارك لدينه المفارق للجماعة"
+    ],
+    "alts": [
+     "يشهد أن لا إله إلا الله وأني رسول الله"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "AP-ist151",
+  "url": "https://shamela.ws/book/1722/3117",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "مالك عن زيد بن أسلم أن رسول الله صلى الله عليه وسلم قال",
+    "to": "وأظهر ذلك فإنه يستتاب",
+    "keys": [
+     "من غير دينه فاضربوا عنقه",
+     "والصحيح فيه حديث بن عباس",
+     "إلا أن الصحابة قالوا إنه يستتاب فإن تاب وإلا قتل",
+     "مثل الزنادقة وأشباههم",
+     "قتلوا ولم يستتابوا"
+    ],
+    "alts": [
+     "هكذا روى هذا الحديث جماعة رواة الموطأ عن مالك مرسلا",
+     "فكأن الحديث عندهم خرج على من بدل دينه وتمادى على ذلك"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "AP-ist152",
+  "url": "https://shamela.ws/book/1722/3118",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "لو أن قوما كانوا على ذلك رأيت أن يدعوا إلى الإسلام",
+    "to": "لا خلاف بين العلماء فيما وصفنا",
+    "keys": [
+     "وإن لم يتوبوا قتلوا",
+     "فمن خرج من الإسلام إلى غيره وأظهر ذلك فذلك الذي عنى به",
+     "لا خلاف بين العلماء فيما وصفنا"
+    ],
+    "alts": [
+     "أنه لا يقتل إن كان ذميا"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "AP-umm",
+  "url": "https://ar.wikisource.org/wiki/%D9%83%D8%AA%D8%A7%D8%A8_%D8%A7%D9%84%D8%A3%D9%85/%D9%83%D8%AA%D8%A7%D8%A8_%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF/%D8%A8%D8%A7%D8%A8_%D8%A7%D9%84%D9%85%D8%B1%D8%AA%D8%AF_%D8%A7%D9%84%D9%83%D8%A8%D9%8A%D8%B1",
+  "css": ".mw-parser-output, .mw-parser-output *{font-family:'Noto Naskh Arabic','Amiri',serif !important;} .mw-parser-output{font-size:21px !important; line-height:2 !important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "أخبرنا الثقة عن حماد بن زيد عن يحيى بن سعيد",
+    "to": "حتى يسلم أو يقتل",
+    "keys": [
+     "كفر بعد إيمان وزنا بعد إحصان وقتل نفس بغير نفس",
+     "فلم يختلف المسلمون أنه لا يحل أن يفادى بمرتد بعد إيمانه",
+     "ولا يترك بحال حتى يسلم أو يقتل"
+    ],
+    "alts": [
+     "إلا أن يتوب صاحبه",
+     "إذا لم يتب من الكفر"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "AP-mab98",
+  "url": "https://shamela.ws/book/5423/2103",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وإذا ارتد المسلم عرض عليه الإسلام",
+    "to": "ومعاذ وغيرهم من الصحابة",
+    "keys": [
+     "فإن أسلم وإلا قتل مكانه",
+     "والأصل في وجوب قتل المرتدين",
+     "من بدل دينه فاقتلوه",
+     "مروي عن علي وابن مسعود ومعاذ"
+    ],
+    "alts": [
+     "إلا أن يطلب أن يؤجل فإذا طلب ذلك أجل ثلاثة أيام"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "AP-mab110",
+  "url": "https://shamela.ws/book/5423/2115",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "على ظاهره فالتبديل يتحقق من الكافر إذا أسلم",
+    "to": "بطريق المصلحة والسياسة",
+    "keys": [
+     "فنخصه ونحمله على الرجال",
+     "فإن أم مروان كانت تقاتل وتحرض على القتال"
+    ],
+    "alts": [
+     "ويحتمل أنه كان ذلك من الصديق رضي الله عنه بطريق المصلحة والسياسة"
+    ]
+   },
+   {
+    "from": "وهذا لأن القتل ليس بجزاء على الردة",
+    "to": "فيقتل لدفع المحاربة",
+    "keys": [
+     "القتل ليس بجزاء على الردة بل هو مستحق باعتبار الإصرار على الكفر",
+     "وبالإصرار على الكفر يكون محاربا للمسلمين فيقتل لدفع المحاربة"
+    ],
+    "alts": [
+     "فالجزاء عليها مؤخر إلى دار الجزاء"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "AP-sar322",
+  "url": "https://shamela.ws/book/7344/322",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وأما قوله صلى الله عليه وسلم من بدل دينه فاقتلوه",
+    "to": "ممن ارتد وقتل وأخذ المال",
+    "keys": [
+     "فنقول بموجبه فإنما يكون مبدلا إذا دام على ذلك واستمر عليه"
+    ],
+    "alts": [
+     "قد يفسر بالمحارب قاطع الطريق",
+     "أو يكون المراد به من ارتد وحارب كالعرنيين ومقيس بن حبابة"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "AP-sar324",
+  "url": "https://shamela.ws/book/7344/324",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "فإن الذي عليه جماهير أهل العلم أن المرتد يستتاب",
+    "to": "ولم يأمر باستتابته",
+    "keys": [
+     "أن المرتد يستتاب",
+     "وذهب عبيد بن عمير وطاوس إلى أنه يقتل ولا يستتاب"
+    ],
+    "alts": [
+     "ومذهب مالك وأحمد أنه يستتاب ويؤجل بعد الاستتابة ثلاثة أيام",
+     "وقال الثوري يؤجل ما رجيت توبته"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "AP-sar325",
+  "url": "https://shamela.ws/book/7344/325",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "ويدل على ذلك أيضا أن النبي صلى الله عليه وسلم أهدر يوم الفتح",
+    "to": "وأنه لا يستتاب",
+    "keys": [
+     "أهدر يوم الفتح مكة دم عبد الله بن سعد بن أبي سرح ودم مقيس بن حبابة ودم عبد الله بن خطل وكانوا مرتدين",
+     "فعلم أن قتل المرتد جائز ما لم يسلم وأنه لا يستتاب"
+    ],
+    "alts": [
+     "وتوقف صلى الله عليه وسلم عن مبايعة بن أبي سرح لعل بعض المسلمين يقتله"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "AP-ias1",
+  "url": "https://shamela.ws/book/333/35483",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "حدثنا ابن عيينة عن محمد بن عبد الرحمن عن أبيه قال لما قدم على عمر فتح تستر",
+    "to": "اللهم لم أشهد ولم آمر",
+    "keys": [
+     "أفلا أدخلتموه بيتا وأغلقتم عليه بابا وأطعمتموه كل يوم رغيفا",
+     "فإن تاب وإلا قتلتموه",
+     "اللهم لم أشهد ولم آمر"
+    ]
+   },
+   {
+    "from": "ضعيف محمد هو ابن أبي ليلى",
+    "to": "سيئ الحفظ",
+    "keys": [],
+    "alts": [
+     "ضعيف محمد هو ابن أبي ليلى سيئ الحفظ"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "AP-ias2",
+  "url": "https://shamela.ws/book/333/35484",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "حدثنا حفص بن غياث عن أشعث عن الشعبي قال قال علي",
+    "to": "فإن عاد",
+    "keys": [
+     "يستتاب المرتد ثلاثا",
+     "فإن عاد"
+    ]
+   },
+   {
+    "from": "ضعيف لضعف أشعث",
+    "to": "لضعف أشعث",
+    "keys": [],
+    "alts": [
+     "ضعيف لضعف أشعث"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "AP-ias3",
+  "url": "https://shamela.ws/book/333/35488",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "حدثنا عباد بن العوام عن سعيد عن قتادة عن حميد بن هلال",
+    "to": "حتى أضرب عنقه",
+    "keys": [
+     "أن معاذ بن جبل أتى أبا موسى",
+     "وقد استتابه أبو موسى شهرين",
+     "لا أجلس حتى أضرب عنقه"
+    ]
+   },
+   {
+    "from": "ضعيف منقطع حميد بن هلال لم يسمع من معاذ وأبي موسى",
+    "to": "اختلط",
+    "keys": [],
+    "alts": [
+     "ضعيف منقطع حميد بن هلال لم يسمع من معاذ وأبي موسى"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "AP-ias4",
+  "url": "https://shamela.ws/book/333/40131",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "حدثنا أبو معاوية عن الأعمش عن أبي عمرو الشيباني عن علي",
+    "to": "صحيح",
+    "keys": [
+     "أنه أتي بمستورد العجلي وقد ارتد فعرض عليه الإسلام فأبى",
+     "فقتله وجعل ميراثه بين ورثته المسلمين"
+    ],
+    "alts": [
+     "صحيح"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "AP-ias5",
+  "url": "https://shamela.ws/book/333/40105",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "حدثنا عبد الرحيم بن سليمان عن حجاج عن عمرو بن شعيب",
+    "to": "فاضرب عنقه",
+    "keys": [
+     "أن رجلا يبدل بالكفر بعد الإيمان",
+     "استتبه فإن تاب فاقبل منه وإلا فاضرب عنقه"
+    ]
+   },
+   {
+    "from": "منقطع حكما حجاج مدلس",
+    "to": "حجاج مدلس",
+    "keys": [],
+    "alts": [
+     "منقطع حكما حجاج مدلس"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "AP-ad4356",
+  "url": "https://hadithunlocked.com/abudawud:4356",
+  "css": "html,body,*{scroll-behavior:auto!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "حدثنا محمد بن العلاء حدثنا حفص حدثنا الشيباني",
+    "to": "لم يذكر الاستتابة",
+    "keys": [
+     "فدعاه عشرين ليلة أو قريبا منها",
+     "فجاء معاذ فدعاه فأبى فضرب عنقه"
+    ],
+    "alts": [
+     "ورواه عبد الملك بن عمير عن أبي بردة لم يذكر الاستتابة"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "AP-ad4502",
+  "url": "https://hadithunlocked.com/abudawud:4502",
+  "css": "html,body,*{scroll-behavior:auto!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "كنا مع عثمان وهو محصور في الدار",
+    "to": "فبم يقتلونني",
+    "keys": [
+     "لا يحل دم امرئ مسلم إلا بإحدى ثلاث كفر بعد إسلام أو زنا بعد إحصان أو قتل نفس بغير نفس",
+     "ولا أحببت أن لي بديني بدلا منذ هداني الله"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "AP-ad4359",
+  "url": "https://hadithunlocked.com/abudawud:4359",
+  "css": "html,body,*{scroll-behavior:auto!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "لما كان يوم فتح مكة اختبأ عبد الله بن سعد بن أبي سرح عند عثمان بن عفان",
+    "to": "خائنة الأعين",
+    "keys": [
+     "فبايعه بعد ثلاث",
+     "أما كان فيكم رجل رشيد يقوم إلى هذا حيث رآني كففت يدي عن بيعته فيقتله",
+     "إنه لا ينبغي لنبي أن تكون له خائنة الأعين"
+    ],
+    "alts": [
+     "كل ذلك يأبى"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "AP-ad2762",
+  "url": "https://hadithunlocked.com/abudawud:2762",
+  "css": "html,body,*{scroll-behavior:auto!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "أنه أتى عبد الله فقال ما بيني وبين أحد من العرب حنة",
+    "to": "ابن النواحة قتيلا بالسوق",
+    "keys": [
+     "فاستتابهم غير ابن النواحة",
+     "لولا أنك رسول لضربت عنقك",
+     "فأمر قرظة بن كعب فضرب عنقه في السوق"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "AP-tr1458",
+  "url": "https://hadithunlocked.com/tirmidhi:1458",
+  "css": "html,body,*{scroll-behavior:auto!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "أن عليا حرق قوما ارتدوا عن الإسلام",
+    "to": "وغيره من أهل الكوفة",
+    "keys": [
+     "لو كنت أنا لقتلتهم لقول رسول الله",
+     "فبلغ ذلك عليا فقال صدق ابن عباس",
+     "والعمل على هذا عند أهل العلم في المرتد"
+    ],
+    "alts": [
+     "واختلفوا في المرأة إذا ارتدت عن الإسلام",
+     "وقالت طائفة منهم تحبس ولا تقتل وهو قول سفيان الثوري"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "AP-ns4068",
+  "url": "https://hadithunlocked.com/nasai:4068",
+  "css": "html,body,*{scroll-behavior:auto!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "كان رجل من الأنصار أسلم ثم ارتد ولحق بالشرك",
+    "to": "فأرسل إليه فأسلم",
+    "keys": [
+     "كان رجل من الأنصار أسلم ثم ارتد ولحق بالشرك",
+     "هل لي من توبة",
+     "فأرسل إليه فأسلم"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "AP-tb386",
+  "url": "https://quran-tafsir.net/tabary/sura3-aya86.html",
+  "css": "html.dark-mode, html.dark-mode body, html.dark-mode body *{background:#fff!important;color:#000!important;text-shadow:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "اختلف أهل التأويل فيمن عنى بهذه الآية",
+    "to": "فأرسل إليه قومه فأسلم",
+    "keys": [
+     "نزلت في الحارث بن سويد الأنصاري وكان مسلما فارتد بعد إسلامه",
+     "كان رجل من الأنصار أسلم ثم ارتد ولحق بالشرك ثم ندم",
+     "هل لي من توبة",
+     "فأرسل إليه قومه فأسلم"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "AP-tb4137",
+  "url": "https://quran-tafsir.net/tabary/sura4-aya137.html",
+  "css": "html.dark-mode, html.dark-mode body, html.dark-mode body *{background:#fff!important;color:#000!important;text-shadow:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "وقد ذهب قوم إلى أن المرتد يستتاب ثلاثا انتزاعا منهم بهذه الآية",
+    "to": "وأن إسلامه حقن له دمه",
+    "keys": [
+     "إن كنت لمستتيب المرتد ثلاثا",
+     "يستتاب المرتد كلما ارتد",
+     "قال أبو جعفر وفي قيام الحجة بأن المرتد يستتاب المرة الأولى",
+     "وأن إسلامه حقن له دمه"
+    ],
+    "alts": [
+     "وخالفهم على ذلك آخرون"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "AP-qr217",
+  "url": "https://quran.ksu.edu.sa/tafseer/qortobi/sura2-aya217.html",
+  "css": "html,body,*{scroll-behavior:auto!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "واختلف العلماء في المرتد هل يستتاب أم لا",
+    "to": "وتقتل الزنادقة ولا يستتابون",
+    "keys": [
+     "قالت طائفة يستتاب فإن تاب وإلا قتل",
+     "يقتل المرتد ولا يستتاب",
+     "لا أجلس حتى يقتل قضاء الله ورسوله",
+     "وقال مالك وتقتل الزنادقة ولا يستتابون"
+    ],
+    "alts": [
+     "ساعة واحدة",
+     "يستتاب مائة مرة"
+    ]
+   },
+   {
+    "from": "واختلفوا في المرتدة فقال مالك والأوزاعي والشافعي والليث بن سعد",
+    "to": "فعم كل من كفر بعد إيمانه وهو أصح",
+    "keys": [
+     "تقتل كما يقتل المرتد سواء",
+     "فعم كل من كفر بعد إيمانه وهو أصح"
+    ],
+    "alts": [
+     "وقال الثوري وأبو حنيفة وأصحابه لا تقتل المرتدة",
+     "ثم إن ابن عباس لم يقتل المرتدة"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "AP-ias6",
+  "url": "https://shamela.ws/book/333/35495",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "حدثنا عبد الرحيم بن سليمان ووكيع عن أبي حنيفة عن عاصم عن أبي رزين عن ابن عباس قال",
+    "to": "إلى الإسلام",
+    "keys": [
+     "لا يقتلن النساء إذا هن ارتددن عن الإسلام"
+    ]
+   },
+   {
+    "from": "ضعيف لضعف عاصم في أبي رزين",
+    "to": "في أبي رزين",
+    "keys": [],
+    "alts": [
+     "ضعيف لضعف عاصم في أبي رزين"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "AP-ias7",
+  "url": "https://shamela.ws/book/333/35505",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "حدثنا عبد الصمد عن هشام عن حماد عن إبراهيم قال",
+    "to": "تقتل",
+    "keys": [
+     "تقتل"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "AP-ias8",
+  "url": "https://shamela.ws/book/333/35503",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "في المرأة ترتد عن الإسلام قال",
+    "to": "فإن تابت وإلا قتلت",
+    "keys": [
+     "تستتاب فإن تابت وإلا قتلت"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "AP-ias9",
+  "url": "https://shamela.ws/book/333/35499",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "عن الحسن في المرأة ترتد عن الإسلام قال",
+    "to": "لا تقتل تحبس",
+    "keys": [],
+    "alts": [
+     "لا تقتل تحبس"
+    ]
+   }
+  ]
+ }
+]
