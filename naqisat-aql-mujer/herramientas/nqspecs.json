@@ -1,0 +1,1243 @@
+[
+ {
+  "id": "NQ-b304",
+  "url": "https://hadithunlocked.com/bukhari:304",
+  "css": "html,body,*{scroll-behavior:auto!important} div,p,span,li{line-height:2.3!important;max-height:none!important;height:auto!important;overflow:visible!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "حدثنا سعيد بن أبي مريم قال أخبرنا محمد بن جعفر قال أخبرني زيد هو ابن أسلم",
+    "to": "فذلك من نقصان دينها",
+    "keys": [
+     "ما رأيت من ناقصات عقل ودين أذهب للب الرجل الحازم من إحداكن",
+     "فذلك من نقصان عقلها",
+     "فذلك من نقصان دينها"
+    ],
+    "alts": [
+     "أليس شهادة المرأة مثل نصف شهادة الرجل",
+     "أليس إذا حاضت لم تصل ولم تصم"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-m79",
+  "url": "https://hadithunlocked.com/muslim:79",
+  "css": "html,body,*{scroll-behavior:auto!important} div,p,span,li{line-height:2.3!important;max-height:none!important;height:auto!important;overflow:visible!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "محمد بن رمح بن المهاجر المصري أخبرنا الليث عن ابن الهاد",
+    "to": "فهذا نقصان الدين",
+    "keys": [
+     "ما رأيت من ناقصات عقل ودين أغلب لذي لب منكن",
+     "أما نقصان العقل فشهادة امرأتين تعدل شهادة رجل"
+    ],
+    "alts": [
+     "فقالت امرأة منهن جزلة",
+     "وتمكث الليالي ما تصلي وتفطر في رمضان فهذا نقصان الدين"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-b2658",
+  "url": "https://hadithunlocked.com/bukhari:2658",
+  "css": "html,body,*{scroll-behavior:auto!important} div,p,span,li{line-height:2.3!important;max-height:none!important;height:auto!important;overflow:visible!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "حدثنا ابن أبي مريم أخبرنا محمد بن جعفر قال أخبرني زيد عن عياض",
+    "to": "فذلك من نقصان عقلها",
+    "keys": [
+     "فذلك من نقصان عقلها"
+    ],
+    "alts": [
+     "أليس شهادة المرأة مثل نصف شهادة الرجل"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-b1462",
+  "url": "https://hadithunlocked.com/bukhari:1462",
+  "css": "html,body,*{scroll-behavior:auto!important} div,p,span,li{line-height:2.3!important;max-height:none!important;height:auto!important;overflow:visible!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "يا معشر النساء تصدقن فإني رأيتكن أكثر أهل النار",
+    "to": "صدق ابن مسعود زوجك وولدك أحق من تصدقت به عليهم",
+    "keys": [
+     "ما رأيت من ناقصات عقل ودين أذهب للب الرجل الحازم من إحداكن"
+    ],
+    "alts": [
+     "جاءت زينب امرأة ابن مسعود تستأذن عليه",
+     "صدق ابن مسعود زوجك وولدك أحق من تصدقت به عليهم"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-ad4679",
+  "url": "https://hadithunlocked.com/abudawud:4679",
+  "css": "html,body,*{scroll-behavior:auto!important} div,p,span,li{line-height:2.3!important;max-height:none!important;height:auto!important;overflow:visible!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "حدثنا أحمد بن عمرو بن السرح حدثنا ابن وهب عن بكر بن مضر",
+    "to": "وتقيم أياما لا تصلي",
+    "keys": [
+     "ما رأيت من ناقصات عقل ولا دين أغلب لذي لب منكن",
+     "أما نقصان العقل فشهادة امرأتين شهادة رجل"
+    ],
+    "alts": [
+     "وأما نقصان الدين فإن إحداكن تفطر رمضان وتقيم أياما لا تصلي"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-t2613",
+  "url": "https://hadithunlocked.com/tirmidhi:2613",
+  "css": "html,body,*{scroll-behavior:auto!important} div,p,span,li{line-height:2.3!important;max-height:none!important;height:auto!important;overflow:visible!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "حدثنا أبو عبد الله هريم بن مسعر الأزدي الترمذي",
+    "to": "الثلاث والأربع لا تصلي",
+    "keys": [
+     "ما رأيت من ناقصات عقل ودين أغلب لذوي الألباب وذوي الرأي منكن",
+     "شهادة امرأتين منكن بشهادة رجل"
+    ],
+    "alts": [
+     "لكثرة لعنكن يعني وكفركن العشير",
+     "ونقصان دينكن الحيضة"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-ah8862",
+  "url": "https://hadithunlocked.com/ahmad:8862",
+  "css": "html,body,*{scroll-behavior:auto!important} div,p,span,li{line-height:2.3!important;max-height:none!important;height:auto!important;overflow:visible!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "حدثنا سليمان أخبرنا إسماعيل أخبرني عمرو يعني ابن أبي عمرو",
+    "to": "إنما شهادة المرأة نصف شهادة",
+    "keys": [
+     "ما رأيت من نواقص عقول ودين أذهب لقلوب ذوي الألباب منكن",
+     "وأما ما ذكرت من نقصان عقولكن فشهادتكن إنما شهادة المرأة نصف شهادة"
+    ],
+    "alts": [
+     "وكان في النساء امرأة عبد الله بن مسعود",
+     "فقال ابن مسعود فأين تذهبين بهذا الحلي"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-ih3323",
+  "url": "https://hadithunlocked.com/ibnhibban:3323",
+  "css": "html,body,*{scroll-behavior:auto!important} div,p,span,li{line-height:2.3!important;max-height:none!important;height:auto!important;overflow:visible!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "أخبرنا الفضل بن الحباب حدثنا محمد بن بشار",
+    "to": "لا تصلي فيه صلاة واحدة",
+    "keys": [
+     "قال عبد الله ما من ناقصات العقل والدين أغلب على الرجال ذوي الأمر على أمرهم من النساء",
+     "أما نقصان عقلها فإن شهادة امرأتين بشهادة رجل"
+    ],
+    "alts": [
+     "إنكن تكثرن اللعن وتكفرن العشير"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-ias31048",
+  "url": "https://hadithunlocked.com/ibnabishaybah:31048",
+  "css": "html,body,*{scroll-behavior:auto!important} div,p,span,li{line-height:2.3!important;max-height:none!important;height:auto!important;overflow:visible!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "حدثنا أبو معاوية عن الأعمش عن ذر عن وائل بن مهانة قال قال عبد الله",
+    "to": "إلا بشهادة رجل",
+    "keys": [
+     "ما رأيت من ناقص الدين والرأي أغلب للرجال ذوي الأمر على أمرهم من النساء"
+    ],
+    "alts": [
+     "تركها الصلاة أيام حيضها",
+     "لا تجوز شهادة امرأتين إلا بشهادة رجل"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-ns4805",
+  "url": "https://hadithunlocked.com/nasai:4805",
+  "css": "html,body,*{scroll-behavior:auto!important} div,p,span,li{line-height:2.3!important;max-height:none!important;height:auto!important;overflow:visible!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "أخبرنا عيسى بن يونس قال حدثنا ضمرة عن إسماعيل بن عياش",
+    "to": "حتى يبلغ الثلث من ديتها",
+    "keys": [
+     "عقل المرأة مثل عقل الرجل حتى يبلغ الثلث من ديتها"
+    ],
+    "alts": [
+     "عن إسماعيل بن عياش عن ابن جريج"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-by16407",
+  "url": "https://hadithunlocked.com/bayhaqi:16407",
+  "css": "html,body,*{scroll-behavior:auto!important} div,p,span,li{line-height:2.3!important;max-height:none!important;height:auto!important;overflow:visible!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "أخبرنا أبو سعيد بن أبي عمرو ثنا أبو العباس الأصم",
+    "to": "في النفس وفيما دونها",
+    "keys": [
+     "عقل المرأة على النصف من عقل الرجل في النفس وفيما دونها"
+    ],
+    "alts": [
+     "أنبأ أبو حنيفة عن حماد عن إبراهيم"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-b4425",
+  "url": "https://hadithunlocked.com/bukhari:4425",
+  "css": "html,body,*{scroll-behavior:auto!important} div,p,span,li{line-height:2.3!important;max-height:none!important;height:auto!important;overflow:visible!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "حدثنا عثمان بن الهيثم حدثنا عوف عن الحسن عن أبي بكرة",
+    "to": "ولوا أمرهم امرأة",
+    "keys": [
+     "لن يفلح قوم ولوا أمرهم امرأة"
+    ],
+    "alts": [
+     "أيام الجمل",
+     "أن أهل فارس قد ملكوا عليهم بنت كسرى"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-ad236",
+  "url": "https://hadithunlocked.com/abudawud:236",
+  "css": "html,body,*{scroll-behavior:auto!important} div,p,span,li{line-height:2.3!important;max-height:none!important;height:auto!important;overflow:visible!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "حدثنا قتيبة بن سعيد حدثنا حماد بن خالد الخياط",
+    "to": "إنما النساء شقائق الرجال",
+    "keys": [
+     "إنما النساء شقائق الرجال"
+    ],
+    "alts": [
+     "فقالت أم سليم المرأة ترى ذلك أعليها غسل قال نعم"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-b2731",
+  "url": "https://hadithunlocked.com/bukhari:2731",
+  "css": "html,body,*{scroll-behavior:auto!important} div,p,span,li{line-height:2.3!important;max-height:none!important;height:auto!important;overflow:visible!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "فلما لم يقم منهم أحد دخل على أم سلمة",
+    "to": "حتى كاد بعضهم يقتل بعضا غما",
+    "keys": [
+     "فقالت أم سلمة يا نبي الله أتحب ذلك اخرج ثم لا تكلم أحدا منهم كلمة حتى تنحر بدنك وتدعو حالقك فيحلقك"
+    ],
+    "alts": [
+     "فخرج فلم يكلم أحدا منهم حتى فعل ذلك",
+     "فلما رأوا ذلك قاموا فنحروا"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-t3883",
+  "url": "https://hadithunlocked.com/tirmidhi:3883",
+  "css": "html,body,*{scroll-behavior:auto!important} div,p,span,li{line-height:2.3!important;max-height:none!important;height:auto!important;overflow:visible!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "حدثنا حميد بن مسعدة قال حدثنا زياد بن الربيع",
+    "to": "إلا وجدنا عندها منه علما",
+    "keys": [
+     "فسألنا عائشة إلا وجدنا عندها منه علما"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-ar15478",
+  "url": "https://hadithunlocked.com/abdalrazzaq:15478",
+  "css": "html,body,*{scroll-behavior:auto!important} div,p,span,li{line-height:2.3!important;max-height:none!important;height:auto!important;overflow:visible!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "أخبرنا عبد الرزاق قال أخبرنا الحسن بن عمارة عن الحكم بن عتيبة أن علي بن أبي طالب قال",
+    "to": "والحدود والدماء",
+    "keys": [
+     "لا تجوز شهادة النساء في الطلاق والنكاح والحدود والدماء"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-ar15486",
+  "url": "https://hadithunlocked.com/abdalrazzaq:15486",
+  "css": "html,body,*{scroll-behavior:auto!important} div,p,span,li{line-height:2.3!important;max-height:none!important;height:auto!important;overflow:visible!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "أخبرنا عبد الرزاق قال أخبرنا ابن جريج قال أخبرني ابن حجير",
+    "to": "حتى يقيمه",
+    "keys": [
+     "تجوز شهادة النساء مع الرجال في كل شيء إلا في الزنا"
+    ],
+    "alts": [
+     "من أجل أنه كان لا ينبغي لهن أن ينظرن إلى ذلك"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-ar15487",
+  "url": "https://hadithunlocked.com/abdalrazzaq:15487",
+  "css": "html,body,*{scroll-behavior:auto!important} div,p,span,li{line-height:2.3!important;max-height:none!important;height:auto!important;overflow:visible!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "أخبرنا عبد الرزاق قال أخبرنا ابن جريج عن عطاء قال",
+    "to": "رأيا منه",
+    "keys": [
+     "تجوز شهادة النساء مع الرجال في كل شيء"
+    ],
+    "alts": [
+     "وتجوز على الزنا امرأتان مع ثلاث رجال"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-qt1292",
+  "url": "https://shamela.ws/book/23790/1292",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "عن وهب بن منبه قال عاقب الله المرأة بعشر خصال",
+    "to": "شدة النفاس",
+    "keys": [
+     "عاقب الله المرأة بعشر خصال"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-qt1293",
+  "url": "https://shamela.ws/book/23790/1293",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وبالحيض وبالنجاسة في بطنها وفرجها",
+    "to": "ولا تسافر إلا بولي",
+    "keys": [
+     "وجعلها ناقصة العقل والدين لا تصلي أيام حيضها",
+     "ولا يكون منهن نبي"
+    ],
+    "alts": [
+     "وجعل ميراث امرأتين ميراث رجل واحد وشهادة امرأتين كشهادة رجل",
+     "ولا يسلم على النساء وليس عليهن جمعة ولا جماعة"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-tb282",
+  "url": "https://quran.ksu.edu.sa/tafseer/tabary/sura2-aya282.html",
+  "css": "html,body,*{scroll-behavior:auto!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "وأما ما حكي عن ابن عيينة من التأويل الذي ذكرناه",
+    "to": "بنسيانها إياها",
+    "keys": [
+     "إنما هو خطؤها عنها بنسيانها إياها"
+    ],
+    "alts": [
+     "فتأويل خطأ لا معنى له لوجوه شتى",
+     "أنه خلاف لقول جميع أهل التأويل"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-ik282",
+  "url": "https://quran.ksu.edu.sa/tafseer/katheer/sura2-aya282.html",
+  "css": "html,body,*{scroll-behavior:auto!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "وهذا إنما يكون في الأموال وما يقصد به المال",
+    "to": "فهذا نقصان الدين",
+    "keys": [
+     "وإنما أقيمت المرأتان مقام الرجل لنقصان عقل المرأة",
+     "أما نقصان عقلها فشهادة امرأتين تعدل شهادة رجل"
+    ],
+    "alts": [
+     "وهذا إنما يكون في الأموال وما يقصد به المال"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-bd282",
+  "url": "https://quran-tafsir.net/baidawy/sura2-aya282.html",
+  "css": "html.dark-mode, html.dark-mode body, html.dark-mode body *{background:#fff!important;color:#000!important;text-shadow:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "علة اعتبار العدد أي لأجل أن إحداهما إن ضلت الشهادة",
+    "to": "نقصان عقلهن وقلة ضبطهن",
+    "keys": [
+     "وفيه إشعار بنقصان عقلهن وقلة ضبطهن"
+    ],
+    "alts": [
+     "بأن نسيتها ذكرتها الأخرى",
+     "والعلة في الحقيقة التذكير"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-rz282",
+  "url": "https://quran-tafsir.net/alrazy/sura2-aya282.html",
+  "css": "html.dark-mode, html.dark-mode body, html.dark-mode body *{background:#fff!important;color:#000!important;text-shadow:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "والمعنى أن النسيان غالب طباع النساء",
+    "to": "فأقيمت المرأتان مقام الرجل الواحد",
+    "keys": [
+     "أن النسيان غالب طباع النساء لكثرة البرد والرطوبة في أمزجتهن"
+    ],
+    "alts": [
+     "واجتماع المرأتين على النسيان أبعد في العقل"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-rz434",
+  "url": "https://quran-tafsir.net/alrazy/sura4-aya34.html",
+  "css": "html.dark-mode, html.dark-mode body, html.dark-mode body *{background:#fff!important;color:#000!important;text-shadow:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "واعلم أن فضل الرجال على النساء حاصل من وجوه كثيرة",
+    "to": "في العقل والحزم والقوة",
+    "keys": [
+     "ولا شك أن عقول الرجال وعلومهم أكثر"
+    ],
+    "alts": [
+     "فلهذين السببين حصلت الفضيلة للرجال على النساء في العقل والحزم والقوة"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-mt282",
+  "url": "https://quran-tafsir.net/maturidy/sura2-aya282.html",
+  "css": "html.dark-mode, html.dark-mode body, html.dark-mode body *{background:#fff!important;color:#000!important;text-shadow:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "ولأنهن جعلن على السهو والغفلة ونقصان العقل والدين",
+    "to": "ناقصات عقل ودين",
+    "keys": [
+     "ولأنهن جعلن على السهو والغفلة ونقصان العقل والدين"
+    ],
+    "alts": [
+     "إنهن ناقصات عقل ودين"
+    ]
+   },
+   {
+    "from": "أورث ذلك شبهة في الحدود",
+    "to": "والحدود مما فيه الدرء",
+    "keys": [
+     "أورث ذلك شبهة في الحدود"
+    ],
+    "alts": [
+     "والحدود مما فيه الدرء"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-al434",
+  "url": "https://quran-tafsir.net/alusy/sura4-aya34.html",
+  "css": "html.dark-mode, html.dark-mode body, html.dark-mode body *{background:#fff!important;color:#000!important;text-shadow:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "وقيل للإبهام للإشارة إلى أن بعض النساء أفضل من كثير من الرجال وليس بشيء",
+    "to": "وبالإمامة الكبرى والصغرى",
+    "keys": [
+     "وقد ورد أنهن ناقصات عقل ودين والرجال بعكسهن كما لا يخفى"
+    ],
+    "alts": [
+     "وقيل للإبهام للإشارة إلى أن بعض النساء أفضل من كثير من الرجال وليس بشيء",
+     "ولذا خصوا بالرسالة والنبوة على الأشهر"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-kh219",
+  "url": "https://shamela.ws/book/16946/219",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وفي الحديث دليل على أن النقص من الطاعات نقص من الدين",
+    "to": "في الدين والأمانة",
+    "keys": [
+     "وفي الحديث دليل على أن النقص من الطاعات نقص من الدين",
+     "ملاك الشهادة العقل مع اعتبار الأمانة والصدق"
+    ],
+    "alts": [
+     "وأن شهادة المغفل من الناس ضعيفة وإن كان رضيا في الدين والأمانة"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-fb892",
+  "url": "https://shamela.ws/book/1673/892",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "قوله من ناقصات صفة موصوف محذوف",
+    "to": "بل سياق الكلام يأباه",
+    "keys": [
+     "من غير تعنيف ولا لوم",
+     "لأن الاستظهار بأخرى مؤذن بقلة ضبطها وهو مشعر بنقص عقلها"
+    ],
+    "alts": [
+     "قال الطيبي في قوله ما رأيت من ناقصات إلخ زيادة على الجواب تسمى الاستتباع",
+     "وحكى ابن التين عن بعضهم أنه حمل العقل هنا على الدية",
+     "قلت بل سياق الكلام يأباه"
+    ]
+   },
+   {
+    "from": "وأن العقل يقبل الزيادة والنقصان",
+    "to": "تحذير من الافتتان بهن",
+    "keys": [
+     "لأنه من أصل الخلقة"
+    ],
+    "alts": [
+     "وليس المقصود بذكر النقص في النساء لومهن على ذلك",
+     "تحذير من الافتتان بهن"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-fb893",
+  "url": "https://shamela.ws/book/1673/893",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "ولهذا رتب العذاب على ما ذكر من الكفران وغيره لا على النقص",
+    "to": "لكنها ناقصة عن المصلي",
+    "keys": [
+     "ولهذا رتب العذاب على ما ذكر من الكفران وغيره لا على النقص"
+    ],
+    "alts": [
+     "وليس نقص الدين منحصرا فيما يحصل",
+     "بل في أعم من ذلك",
+     "لأنه أمر نسبي فالكامل مثلا ناقص عن الأكمل"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-nw310",
+  "url": "https://shamela.ws/book/1711/310",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وقوله جزلة بفتح الجيم وإسكان الزاي أي ذات عقل ورأي",
+    "to": "أي علامة نقصانه",
+    "keys": [
+     "فهذا نقصان العقل",
+     "أي علامة نقصانه"
+    ],
+    "alts": [
+     "أي ذات عقل ورأي",
+     "اللب فهو العقل والمراد كمال العقل"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-nw311",
+  "url": "https://shamela.ws/book/1711/311",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "قال الإمام أبو عبد الله المازري رحمه الله قوله",
+    "to": "قال وقد",
+    "keys": [
+     "أنهن قليلات الضبط"
+    ],
+    "alts": [
+     "تنبيه منه"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-nw312",
+  "url": "https://shamela.ws/book/1711/312",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "اختلف الناس في العقل ما هو",
+    "to": "هو في الرأس والله أعلم",
+    "keys": [
+     "فقيل هو العلم وقيل بعض العلوم الضرورية وقيل قوة يميز بها بين حقائق المعلومات"
+    ]
+   },
+   {
+    "from": "النساء بنقصان الدين لتركهن الصلاة والصوم في زمن الحيض فقد يستشكل معناه وليس بمشكل",
+    "to": "كترك الحائض الصلاة والصوم",
+    "keys": [
+     "وليس بمشكل بل هو ظاهر"
+    ],
+    "alts": [
+     "وقد يكون على وجه لا إثم فيه",
+     "وقد يكون على وجه هو مكلف به"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-ay897",
+  "url": "https://shamela.ws/book/5756/897",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وحكى ابن التين عن بعضهم أن المراد من العقل الدية",
+    "to": "ظاهر الحديث يأباه",
+    "keys": [
+     "ظاهر الحديث يأباه"
+    ],
+    "alts": [
+     "أن المراد من العقل الدية"
+    ]
+   },
+   {
+    "from": "قال الطيبي الجواب من الأسلوب الحكيم",
+    "to": "منقادا للنساء الناقصات",
+    "keys": [
+     "الذم بالنقصان استتبع للذم بأمر آخر غريب"
+    ],
+    "alts": [
+     "منقادا للنساء الناقصات"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-mg4569",
+  "url": "https://shamela.ws/book/8463/4569",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وحكي عن ابن جرير أنه لا تشترط الذكورية",
+    "to": "ولا لتولية البلدان",
+    "keys": [
+     "والمرأة ناقصة العقل قليلة الرأي ليست أهلا للحضور في محافل الرجال ولا تقبل شهادتها ولو كان معها ألف امرأة مثلها ما لم يكن معهن رجل"
+    ],
+    "alts": [
+     "لأن المرأة يجوز أن تكون مفتية فيجوز أن تكون قاضية",
+     "يجوز أن تكون قاضية في غير الحدود",
+     "وقد نبه الله تعالى على ضلالهن ونسيانهن"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-ih3696",
+  "url": "https://shamela.ws/book/767/3696",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "ووجدناه عليه الصلاة والسلام قال ما رويناه من طريق مسلم بن الحجاج",
+    "to": "وهكذا ما زاد",
+    "keys": [
+     "فقطع عليه الصلاة والسلام بأن شهادة امرأتين تعدل شهادة رجل"
+    ],
+    "alts": [
+     "أليس شهادة المرأة مثل نصف شهادة الرجل"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-ih3697",
+  "url": "https://shamela.ws/book/767/3697",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وأما الخبر الذي صدرنا به من قول الزهري",
+    "to": "وهو مجهول",
+    "keys": [
+     "فبلية لأنه منقطع من طريق إسماعيل بن عياش وهو ضعيف عن الحجاج بن أرطاة وهو هالك"
+    ],
+    "alts": [
+     "مضت السنة من النبي صلى الله عليه وسلم ومن أبي بكر وعمر",
+     "فهو عن الحارث الغنوي وهو مجهول"
+    ]
+   },
+   {
+    "from": "وبضرورة العقل يدري كل أحد",
+    "to": "ثماني نسوة منها على شهادة أربعة رجال",
+    "keys": [
+     "وبضرورة العقل يدري كل أحد أنه لا فرق بين امرأة وبين رجل وبين رجلين وبين امرأتين وبين أربعة رجال وبين أربع نسوة في جواز تعمد الكذب والتواطؤ عليهم وكذلك الغفلة"
+    ],
+    "alts": [
+     "لكن النفس أطيب على شهادة ثماني نسوة منها على شهادة أربعة رجال"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-ih3737",
+  "url": "https://shamela.ws/book/767/3737",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "لن يفلح قوم أسندوا أمرهم إلى امرأة",
+    "to": "وبالله تعالى التوفيق",
+    "keys": [
+     "في الأمر العام الذي هو الخلافة"
+    ],
+    "alts": [
+     "ولم يأت نص من منعها أن تلي بعض الأمور"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-tq126",
+  "url": "https://shamela.ws/book/11495/124",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "قيل القرآن لا يدل على ذلك فإن هذا أمر لأصحاب الحقوق",
+    "to": "دون حفظ الرجال وضبطهم",
+    "keys": [
+     "لأن النساء يتعذر غالبا حضورهن مجالس الحكام وحفظهن وضبطهن دون حفظ الرجال وضبطهم"
+    ],
+    "alts": [
+     "فإن شهادة الرجل الواحد أقوى من شهادة المرأتين"
+    ]
+   },
+   {
+    "from": "وقد جعل سبحانه المرأة على النصف من الرجل في عدة أحكام",
+    "to": "والخامس في العتق",
+    "keys": [
+     "وقد جعل سبحانه المرأة على النصف من الرجل في عدة أحكام"
+    ],
+    "alts": [
+     "هذا",
+     "في الميراث",
+     "في الدية",
+     "في العقيقة"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-tq127",
+  "url": "https://shamela.ws/book/11495/125",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "فإنه سبحانه جعل ذلك علة للضلال الذي هو ضد الذكر",
+    "to": "ذكرتها الأخرى فذكرت",
+    "keys": [
+     "جعل ذلك علة للضلال الذي هو ضد الذكر"
+    ],
+    "alts": [
+     "فإذا ضلت أو نسيت ذكرتها الأخرى فذكرت"
+    ]
+   },
+   {
+    "from": "قال شيخنا ابن تيمية رحمه الله تعالى",
+    "to": "وأما نقصان",
+    "keys": [
+     "إنما هو لإذكار إحداهما الأخرى إذا ضلت",
+     "وهو النسيان وعدم الضبط"
+    ],
+    "alts": [
+     "وإلى هذا المعنى أشار النبي"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-tq128",
+  "url": "https://shamela.ws/book/11495/126",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "عقلهن فشهادة امرأتين بشهادة رجل",
+    "to": "لم تكن فيه على نصف رجل",
+    "keys": [
+     "فبين أن شطر شهادتهن إنما هو لضعف العقل لا لضعف الدين",
+     "لم تكن فيه على نصف رجل"
+    ],
+    "alts": [
+     "فعلم بذلك أن عدل النساء بمنزلة عدل الرجال",
+     "وإنما عقلها ينقص عنه",
+     "فما كان من الشهادات لا يخاف فيه الضلال في العادة"
+    ]
+   },
+   {
+    "from": "وما تقبل فيها شهادتهن منفردات",
+    "to": "والعيوب تحت الثياب",
+    "keys": [
+     "من غير توقف على عقل"
+    ],
+    "alts": [
+     "كالولادة والاستهلال والارتضاع والحيض والعيوب تحت الثياب"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-mn897",
+  "url": "https://shamela.ws/book/12304/897",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "ثم بين علة جعل المرأتين بمنزلة رجل واحد",
+    "to": "كما فهم كثير من المفسرين",
+    "keys": [
+     "أي تخطئ لعدم ضبطها وقلة عنايتها",
+     "فتكون شهادتها متممة لشهادتها"
+    ],
+    "alts": [
+     "وليس المعنى لئلا تنسى واحدة فتذكرها الثانية"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-mn898",
+  "url": "https://shamela.ws/book/12304/898",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وقد علل بعضهم كون النساء عرضة للضلال أو النسيان",
+    "to": "وبالأصل فيها",
+    "keys": [
+     "والسبب الصحيح أن المرأة ليس من شأنها الاشتغال بالمعاملات المالية ونحوها من المعاوضات",
+     "فإنها فيها أقوى ذاكرة من الرجل"
+    ],
+    "alts": [
+     "بأنهن ناقصات عقل ودين",
+     "وهذا غير متحقق",
+     "والأحكام العامة إنما تناط بالأكثر في الأشياء وبالأصل فيها"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-fs12",
+  "url": "https://shamela.ws/book/6521/629",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "هذا فصل لا نعلمه حدث التنازع العظيم فيه",
+    "to": "دون الرسالة",
+    "keys": [
+     "طائفة ذهبت إلى إبطال كون النبوة في النساء جملة",
+     "وذهب طائفة إلى القول بأنه قد كانت في النساء نبوة"
+    ],
+    "alts": [
+     "ولم يدع أحد أن الله تعالى أرسل امرأة",
+     "وإنما الكلام في النبوة دون الرسالة"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-fs13",
+  "url": "https://shamela.ws/book/6521/630",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "فقد جاء القرآن بأن الله عز وجل أرسل الملائكة إلى نساء",
+    "to": "ورسالة من الله تعالى إليها",
+    "keys": [
+     "فقد جاء القرآن بأن الله عز وجل أرسل الملائكة إلى نساء",
+     "فهذه نبوة صحيحة بوحي صحيح"
+    ],
+    "alts": [
+     "فبشروا أم إسحاق بإسحاق عن الله تعالى",
+     "إنما أنا رسول ربك لأهب لك غلاما زكيا"
+    ]
+   },
+   {
+    "from": "ووجدنا أم موسى عليهما الصلاة والسلام قد أوحى الله إليها",
+    "to": "فصحت نبوتهن بيقين",
+    "keys": [
+     "فصحت نبوتهن بيقين"
+    ],
+    "alts": [
+     "فهذه نبوة لا شك فيها"
+    ]
+   },
+   {
+    "from": "ويلحق بهن عليهن السلام في ذلك امرأة فرعون",
+    "to": "وإن كن بنصوص القرآن نبيات",
+    "keys": [
+     "وإن كن بنصوص القرآن نبيات"
+    ],
+    "alts": [
+     "كمل من الرجال كثيرون ولم يكمل من النساء إلا مريم بنت عمران وآسية بنت مزاحم"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-qr342",
+  "url": "https://quran.ksu.edu.sa/tafseer/qortobi/sura3-aya42.html",
+  "css": "html,body,*{scroll-behavior:auto!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "وروى مسلم عن أبي موسى قال",
+    "to": "والصحيح أن مريم نبية",
+    "keys": [
+     "كمل من الرجال كثير ولم يكمل من النساء غير مريم بنت عمران وآسية امرأة فرعون",
+     "والصحيح أن مريم نبية"
+    ],
+    "alts": [
+     "وإن فضل عائشة على النساء كفضل الثريد على سائر الطعام",
+     "فيلزم عليه أن تكون مريم عليها السلام وآسية نبيتين وقد قيل بذلك"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-qr282",
+  "url": "https://quran.ksu.edu.sa/tafseer/qortobi/sura2-aya282.html",
+  "css": "html,body,*{scroll-behavior:auto!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "السادسة والثلاثون أن تضل إحداهما",
+    "to": "فليس يقال ضل فيها",
+    "keys": [
+     "معنى تضل تنسى",
+     "والضلال عن الشهادة إنما هو نسيان جزء منها وذكر جزء"
+    ],
+    "alts": [
+     "ومن نسي الشهادة جملة فليس يقال ضل فيها"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-ik434",
+  "url": "https://quran.ksu.edu.sa/tafseer/katheer/sura4-aya34.html",
+  "css": "html,body,*{scroll-behavior:auto!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "أي لأن الرجال أفضل من النساء",
+    "to": "وكذا منصب القضاء وغير ذلك",
+    "keys": [
+     "لأن الرجال أفضل من النساء والرجل خير من المرأة",
+     "ولهذا كانت النبوة مختصة بالرجال"
+    ],
+    "alts": [
+     "لن يفلح قوم ولوا أمرهم امرأة",
+     "وكذا منصب القضاء وغير ذلك"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-bd434",
+  "url": "https://quran-tafsir.net/baidawy/sura4-aya34.html",
+  "css": "html.dark-mode, html.dark-mode body, html.dark-mode body *{background:#fff!important;color:#000!important;text-shadow:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "بسبب تفضيله تعالى الرجال على النساء بكمال العقل وحسن التدبير",
+    "to": "والاستبداد بالفراق",
+    "keys": [
+     "بكمال العقل وحسن التدبير",
+     "ولذلك خصوا بالنبوة والإمامة والولاية"
+    ],
+    "alts": [
+     "والشهادة في مجامع القضايا",
+     "وزيادة السهم في الميراث"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-b3411",
+  "url": "https://hadithunlocked.com/bukhari:3411",
+  "css": "html,body,*{scroll-behavior:auto!important} div,p,span,li{line-height:2.3!important;max-height:none!important;height:auto!important;overflow:visible!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "حدثنا يحيى بن جعفر حدثنا وكيع عن شعبة",
+    "to": "كفضل الثريد على سائر الطعام",
+    "keys": [
+     "كمل من الرجال كثير ولم يكمل من النساء إلا آسية امرأة فرعون ومريم بنت عمران"
+    ],
+    "alts": [
+     "وإن فضل عائشة على النساء كفضل الثريد على سائر الطعام"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-sh282",
+  "url": "https://quran-tafsir.net/shawkany/sura2-aya282.html",
+  "css": "html.dark-mode, html.dark-mode body, html.dark-mode body *{background:#fff!important;color:#000!important;text-shadow:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "فالمعنى إن ضلت هذه ذكرتها هذه",
+    "to": "بخلاف الرجال",
+    "keys": [
+     "لما يلحقهما من ضعف النساء بخلاف الرجال"
+    ],
+    "alts": [
+     "إن ضلت إحدى المرأتين ذكرتها المرأة الأخرى"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-sh434",
+  "url": "https://quran-tafsir.net/shawkany/sura4-aya34.html",
+  "css": "html.dark-mode, html.dark-mode body, html.dark-mode body *{background:#fff!important;color:#000!important;text-shadow:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "أي إنما استحقوا هذه المزية لتفضيل الله للرجال على النساء",
+    "to": "وغير ذلك من الأمور",
+    "keys": [
+     "من كون فيهم الخلفاء والسلاطين والحكام والأمراء والغزاة"
+    ],
+    "alts": [
+     "وغير ذلك من الأمور"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-sd282",
+  "url": "https://quran-tafsir.net/seddiq/sura2-aya282.html",
+  "css": "html.dark-mode, html.dark-mode body, html.dark-mode body *{background:#fff!important;color:#000!important;text-shadow:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "قال أبو عبيد معنى تضل تنسى",
+    "to": "وذكر جزء",
+    "keys": [
+     "أي لنقص عقلهن وضبطهن"
+    ],
+    "alts": [
+     "والضلال عن الشهادة إنما هو نسيان جزء منها وذكر جزء"
+    ]
+   },
+   {
+    "from": "وإنما اعتبر فيهما هذا التذكير",
+    "to": "بخلاف الرجال",
+    "keys": [
+     "لما يلحقهما من ضعف النساء بخلاف الرجال"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-sd434",
+  "url": "https://quran-tafsir.net/seddiq/sura4-aya34.html",
+  "css": "html.dark-mode, html.dark-mode body, html.dark-mode body *{background:#fff!important;color:#000!important;text-shadow:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "أي إنما استحقوا هذه المزية لتفضيل الله إياهم عليهن",
+    "to": "فضل الرجال على النساء",
+    "keys": [
+     "وزيادة العقل والدين والشهادة والجمعة والجماعات"
+    ],
+    "alts": [
+     "من كون فيهم الأنبياء والخلفاء والسلاطين والحكام والأئمة والغزاة"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-tq129",
+  "url": "https://shamela.ws/book/11495/127",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وشهادة النساء نوعان نوع تقبل فيه النساء منفردات",
+    "to": "ولا الحدود",
+    "keys": [
+     "وشهادة النساء نوعان",
+     "وقال ابن عمر لا تجوز شهادة النساء وحدهن إلا فيما لا يطلع عليه غيرهن",
+     "وقال عمر وعلي رضي الله عنهما لا تجوز شهادة النساء في الطلاق ولا النكاح ولا الدماء ولا الحدود"
+    ],
+    "alts": [
+     "نوع تقبل فيه النساء منفردات ونوع لا يقبلن فيه إلا مع الرجال",
+     "وقد اختلف السلف في ذلك في مواضع",
+     "وقال علي بن أبي طالب لا تجوز شهادة النساء بحتا حتى يكون معهن رجل"
+    ]
+   },
+   {
+    "from": "وقال الزهري مضت السنة من رسول الله",
+    "to": "شهادة رجل وامرأتين",
+    "keys": [
+     "مضت السنة من رسول الله صلى الله عليه وسلم والخليفتين بعده ألا تجوز شهادة النساء في الحدود والنكاح والطلاق"
+    ],
+    "alts": [
+     "وصح عن شريح أنه أجاز في عتاقة شهادة رجل وامرأتين"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-tq130",
+  "url": "https://shamela.ws/book/11495/128",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وقال أبو عبيد حدثنا يزيد بن هارون",
+    "to": "وفرق بينهما",
+    "keys": [
+     "فأجاز شهادة النسوة وفرق بينهما"
+    ],
+    "alts": [
+     "أن سكرانا طلق امرأته ثلاثا",
+     "فشهد عليه أربع نسوة"
+    ]
+   },
+   {
+    "from": "وذكر سفيان بن عيينة أن امرأة وطئت صبيا",
+    "to": "وأعانها بألفين",
+    "keys": [
+     "فأجاز علي بن أبي طالب شهادتهن",
+     "فقضى عليها بالدية"
+    ],
+    "alts": [
+     "فشهد عند علي رضي الله عنه عشر نسوة"
+    ]
+   },
+   {
+    "from": "وقال محمد بن المثنى",
+    "to": "بالزنا لرجمتها",
+    "keys": [
+     "لو شهد عندي ثمان نسوة على امرأة بالزنا لرجمتها"
+    ],
+    "alts": [
+     "عن عطاء بن أبي رباح"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-tq131",
+  "url": "https://shamela.ws/book/11495/129",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وقال مالك لا يقبل النساء مع رجل ولا بدونه في قصاص",
+    "to": "والرضاع والاستهلال",
+    "keys": [
+     "لا يقبل النساء مع رجل ولا بدونه في قصاص ولا حد ولا نكاح ولا طلاق",
+     "وتجوز شهادتهن مع رجل في الديون والأموال"
+    ],
+    "alts": [
+     "ويقبلن منفردات في عيوب النساء والولادة والرضاع والاستهلال"
+    ]
+   },
+   {
+    "from": "قال ابن حزم وروينا ذلك عن أبي بكر وعمر",
+    "to": "وورث عمر به",
+    "keys": [
+     "وروينا ذلك عن أبي بكر وعمر رضي الله عنهما في الاستهلال وورث عمر به"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "NQ-nh80",
+  "url": "https://forums.alkafeel.net/archive/index.php/t-39824.html",
+  "css": "html,body,*{scroll-behavior:auto!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "معاشر الناس إن النساء نواقص الايمان",
+    "to": "حتى لا يطمعن في المنكر",
+    "keys": [
+     "إن النساء نواقص الايمان نواقص الحظوظ نواقص العقول",
+     "وأما نقصان عقولهن فشهادة امرأتين كشهادة الرجل الواحد"
+    ],
+    "alts": [
+     "فأما نقصان إيمانهن فقعودهن عن الصلاة والصيام في أيام حيضهن",
+     "وأما نقصان حظوظهن فمواريثهن على الانصاف من مواريث الرجال"
+    ]
+   }
+  ]
+ }
+]

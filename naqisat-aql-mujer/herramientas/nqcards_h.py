@@ -1,0 +1,13 @@
+# -*- coding: utf-8 -*-
+# Pack NQ — bloque H (añadido al final): Nahj al-balāgha 80, transcripción en un foro (NQ53)
+from nqcards_a import USO
+NQH = [
+ dict(id='NQ53', key='NH80', tag='Atribuido a ʿAli · Nahj al-balagha, sermón 80 · transcripción en un foro', specs=['NQ-nh80'], secondary=True,
+  title='Nahj al-balagha, sermón 80 (atribuido a ʿAli, tras la batalla del Camello): «las mujeres son deficientes en fe, en parte y en razones»; la «razón» = el testimonio de dos mujeres',
+  ref='Sermón 80 del Nahj al-balagha (compilación de al-Sharif al-Radi, m. 406 H), según la cita de un usuario en el foro de la Atabat al-ʿAbbasiyya («Minbar al-Kafil»); edición y página del Nahj no identificadas',
+  ar_ref='نهج البلاغة، الخطبة ٨٠', site='forums.alkafeel.net (versión de archivo de un hilo de foro; NO es una edición del Nahj)', url='https://forums.alkafeel.net/archive/index.php/t-39824.html',
+  es=['«¡Oh gentes! [[k:Las mujeres son deficientes en fe, deficientes en parte [de bienes], deficientes en razones.]] [[a:En cuanto a la deficiencia de su fe: es que se quedan sin rezar ni ayunar en los días de su menstruación;]] [[a:en cuanto a la deficiencia de su parte: es que sus herencias son la mitad de las herencias de los hombres;]] [[k:y en cuanto a la deficiencia de sus razones: el testimonio de dos mujeres es como el testimonio de un solo hombre.]] Guardaos, pues, de las peores de las mujeres, y estad en guardia contra las mejores de ellas, y no las obedezcáis en lo reconocido [bueno], para que no se animen en lo reprobable.»'],
+  prueba='Es el texto sobre el mismo tema que viene de la tradición chií: el sermón 80, que el Nahj al-balagha atribuye a ʿAli «después de la batalla del Camello, en censura de las mujeres». Explica la «deficiencia de las razones» con la misma regla que los hadices sunníes (el testimonio de dos mujeres vale por uno de un hombre) y añade una «deficiencia de parte» (la herencia, la mitad) y la de la fe (menstruación): tres «deficiencias» definidas por reglas legales.',
+  ojo='Fuente débil: es una transcripción en un foro (el que lo cita es un usuario que lo usa para explicar el texto con el propio texto), no una edición del Nahj; no pude leerlo en una página de una edición con volumen y página. La atribución a ʿAli la da la compilación de al-Radi (m. 406 H, siglos después de ʿAli); no sé cómo la evalúan los críticos. Va después de la batalla del Camello (36 H), de modo que es un texto con marco polémico («en censura de las mujeres»). Lo añado porque es el texto chií más citado sobre el tema, pero no lo uso como evidencia temprana firme.',
+  uso=USO),
+]
