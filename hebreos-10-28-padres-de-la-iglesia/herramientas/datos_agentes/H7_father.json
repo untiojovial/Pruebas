@@ -1,0 +1,42 @@
+{
+  "id": "athanasius",
+  "name_es": "Atanasio de Alejandría",
+  "name_en": "Athanasius of Alexandria",
+  "name_orig": "Ἀθανάσιος ὁ Ἀλεξανδρείας",
+  "born": "c. 296/298, Alexandria (background, not read in a source in this run; approximate)",
+  "died": "2 May 373, Alexandria (background, not read in a source in this run)",
+  "language": "Greek",
+  "role_place": "Bishop of Alexandria (328–373); defender of the Nicene homoousios against the Arians (background; the Nicene and Arian context is confirmed in the texts read)",
+  "why_relevant": "Hist. Arian. §33 and §67 say the Arian party's use of force in matters of faith is alien to Christ and that true godliness does not compel but persuades (N); but in De Decretis 28 he asks, rhetorically, who would not stone such 'madmen' (X), and Apol. ad Const. 30 quotes an imperial letter ordering executions of his own clergy (X, quoted opponent).",
+  "image": {
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Ikone_Athanasius_von_Alexandria.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Ikone_Athanasius_von_Alexandria.jpg",
+    "local": "dl/img_athanasius.jpg",
+    "title": "Ikone Athanasius von Alexandria.jpg (the icon's Greek inscription reads ὁ Ἅγιος Ἀθανάσιος ὁ Μέγας)",
+    "artist_date": "Artist unknown; undated icon (Byzantine style). The Commons file page gives no date for the icon; the file was uploaded in 2003 from de.wikipedia.",
+    "license": "'Public domain' (Commons licence box). Page text: 'This is a faithful photographic reproduction of a two-dimensional, public domain work of art'; 'This work is in the public domain in its country of origin ... life plus 100 years or fewer'; 'This work is in the public domain in the United States because it was published (or registered with the U.S. Copyright Office) before January 1, 1931.' Categories: PD-old, CC-PD-Mark, PD-old-100-exp.",
+    "note": "Original file, 764 x 1025 px (no 1000 px derivative exists or was needed). Icon, not a contemporary portrait: there is no contemporary likeness of Athanasius; this is traditional iconography.",
+    "check": "Viewed: a half-length icon of a bald, bearded bishop with a halo, a dark omophorion with crosses, a patterned vestment and a closed red book, on a gold background; Greek letters ΑΓΙΟΣ / ΑΘΑΝΑΣΙΟΣ / Ο ΜΕΓΑΣ. Matches the title."
+  },
+  "image2": {
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Saint_Athanasius.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Saint_Athanasius.jpg",
+    "local": "dl/img_athanasius_2.jpg",
+    "title": "Saint Athanasius.jpg (Commons description: French 'Saint Athanase au concile de Nicée')",
+    "artist_date": "Author: 'Anonymous / Unknown author'. Date: 'Anonymous; 13th century' (Commons date tag, uploader's estimate, not verified). Source given as an external forum image, not a museum record.",
+    "license": "'Public domain' (Commons licence box). Page text: 'This work is in the public domain in its country of origin and other countries and areas where the copyright term is the author's life plus 70 years or fewer'; a US public-domain tag is also required by the page; PDM 1.0 tag: 'This file has been identified as being free of known restrictions under copyright law'.",
+    "note": "Wide scene: a manuscript-style miniature of seated churchmen in a council setting (the Nicene scene). Only 459 x 309 px exists on Commons, below the 800-1200 px target; it is the only size available. Weak provenance: the source is a forum upload, so the attribution to a 13th-century manuscript is unverified. Athanasius is not clearly identifiable from the image itself (no halo visible at this size), so the caption is the uploader's identification.",
+    "check": "Viewed: a council scene with about six men on a bench under a red-and-green canopy; a figure in the centre with a red robe and a halo is not clearly visible at this size. The title identifies the scene, but I cannot confirm from the picture alone that Athanasius is the figure shown."
+  },
+  "image3_alt": {
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Athanasius_I.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Athanasius_I.jpg",
+    "local": "dl/img_athanasius_3.jpg",
+    "title": "Athanasius I.jpg (Commons: 'Icon of St. Athanasius of Alexandria')",
+    "artist_date": "Unknown author; Commons date '17th century' (uploader's estimate); source: Varna Archaeological Museum, Varna, Bulgaria",
+    "license": "'Public domain' (Commons licence box). Page text: 'This work is in the public domain in its country of origin and other countries and areas where the copyright term is the author's life plus 70 years or fewer'; a US public-domain tag is also required.",
+    "note": "Second portrait-style icon, 600 x 852 px (original). Downloaded and viewed; offered as an alternative to the first icon.",
+    "check": "Viewed: a bearded bishop with halo and black-cross omophorion, raised right hand, closed book with Greek text, gold background; Greek inscription ΑΓΙΟΣ ΑΘΑΝΑΣΙΟΣ at top. Matches the title."
+  },
+  "background_note": "Dates, Bishop-of-Alexandria office and Nicene role are standard background and were not read from a fetched source in this run (UNVERIFIED here). The works quoted below were read at newadvent.org (NPNF2 vol. 4 and related pages)."
+}

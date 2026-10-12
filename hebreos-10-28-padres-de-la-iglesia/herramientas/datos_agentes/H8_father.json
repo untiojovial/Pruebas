@@ -1,0 +1,22 @@
+{
+  "id": "jerome",
+  "name_es": "Jerónimo",
+  "name_en": "Jerome",
+  "name_orig": "Sophronius Eusebius Hieronymus",
+  "born": "c. 347 (Stridon, Dalmatia/Pannonia)",
+  "died": "30 September 420 (Bethlehem)",
+  "language": "Latin (also Greek and Hebrew scholar)",
+  "role_place": "Biblical scholar and translator (Vulgate); monk and presbyter in Bethlehem; the letters and polemical works of the NPNF2-06 volume.",
+  "why_relevant": "Source of the Galatians commentary text (tares/leaven material) that Gratian and Aquinas cite and of Letter 109 (Deut 13 cited to justify shedding blood); also the source of the NT 'spiritual sword' contrast with the Old Law in Letter 14.",
+  "image": {
+    "commons_page": "PENDING (Commons API returned HTTP 429 rate limit repeatedly; candidate: Dürer engraving 'Der heilige Hieronymus im Gehäus', 1514, file title probably 'Dürer-Hieronymus-im-Gehäus.jpg' - NOT VERIFIED on Commons)",
+    "image_url": "",
+    "local": "",
+    "title": "",
+    "artist_date": "",
+    "license": "NOT VERIFIED",
+    "note": "No contemporary portrait of Jerome exists; the Dürer 1514 engraving is a traditional depiction of Jerome in his study, not a portrait.",
+    "check": "Not downloaded yet."
+  },
+  "image2": null
+}

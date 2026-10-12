@@ -1,0 +1,31 @@
+{
+  "id": "lactantius",
+  "name_es": "Lucio Cecilio Firmiano Lactancio",
+  "name_en": "Lucius Caecilius Firmianus Lactantius",
+  "name_orig": "L. Caecilius Firmianus Lactantius",
+  "born": "c. 240 (Latin Library index); the brief says c. 250; not resolved",
+  "died": "c. 320 (Latin Library index); the brief says c. 325; not resolved",
+  "language": "Latin",
+  "role_place": "Rhetor and Latin Christian apologist; wrote the Divine Institutes, the Epitome, and De mortibus persecutorum; addressed the Institutes to Constantine (confirmed by the Institutes' opening chapter). The brief's 'adviser to Constantine' is not checked here.",
+  "why_relevant": "Latin Christian writer who addresses coercion of religion (N), the Law vs the new covenant (D), and the adverse side (X: pagan objections, divine vengeance on persecutors); no comment on Hebrews as a letter (H).",
+  "image": {
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Lactantius.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Lactantius.jpg",
+    "local": "/tmp/claude-0/-home-user-Pruebas/978f574d-1019-54bc-bb45-9f4fddd102bb/scratchpad/hb/H6/dl/img_lactantius.jpg",
+    "title": "Lactantius (Commons ObjectName)",
+    "artist_date": "Unknown author; wall painting, 4th century (Commons description); uploaded 2014-06-23",
+    "license": "Public domain (Commons extmetadata LicenseShortName: 'Public domain'; License: pd)",
+    "note": "Commons description: 'Probably portrait of Lucius Cecilio Firmiano Lattanzio. Wall painting from the fourth century.' The identification is only probable. Size 350x261 px; no larger version obtained. There is no contemporary portrait of Lactantius (traditional iconography only, not verified here).",
+    "check": "Viewed with the Read tool: half-length bearded male head and shoulders in a damaged, cracked fresco with a teal and dark-green background. It shows a human figure in portrait style, consistent with the Commons title."
+  },
+  "image2": {
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Lactantius,_Divinarum_institutionum_..._liber_primus,_manuscript,_Florence_1420-1430_ca.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lactantius%2C_Divinarum_institutionum_..._liber_primus%2C_manuscript%2C_Florence_1420-1430_ca.jpg",
+    "local": null,
+    "title": "Lactantius, Divinarum institutionum ... liber primus, manuscript, Florence 1420-1430 ca",
+    "artist_date": "Commons: 'Guglielmino Tanaglia (main writer, 1391-1460)'; date between 1420 and 1430",
+    "license": "Public domain (Commons extmetadata LicenseShortName: 'Public domain'; License: pd)",
+    "note": "A 15th-century manuscript copy of the Divine Institutes (beginning of Book I), not a portrait of Lactantius and not a contemporary image. Wikimedia's upload host returned HTTP 429 (rate limit) on every attempt, so the file was NOT downloaded and NOT viewed.",
+    "check": "NOT VIEWED: no local file. Commons metadata (798x1297 px) only."
+  }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "augustine",
+ "name_es": "Agustín de Hipona",
+ "name_en": "Augustine of Hippo",
+ "name_orig": "Aurelius Augustinus",
+ "born": "13 Nov 354, Thagaste (Numidia)",
+ "died": "28 Aug 430, Hippo Regius",
+ "language": "Latin",
+ "role_place": "Bishop of Hippo Regius (North Africa) from 395/396; main anti-Donatist polemicist and theologian of the Latin West.",
+ "why_relevant": "The one Father who both pleads against executing Donatists and defends imperial fines and exile for them; he also approves the death penalty for pagan sacrifice (idolatry) in Letter 93.10.",
+ "image": {
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_St_Augustine_-_WGA02709.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Sandro_Botticelli_-_St_Augustine_-_WGA02709.jpg",
+  "local": "dl/img_augustine.jpg",
+  "title": "Sandro Botticelli - St Augustine - WGA02709.jpg",
+  "artist_date": "Sandro Botticelli (1445-1510); fresco, c. 1480, Ognissanti church, Florence (152 x 112 cm, per Commons)",
+  "license": "Public domain (Commons licence box: \"The author died in 1510, so this work is in the public domain in its country of origin and other countries and areas where the copyright term is the author's life plus 100 years or fewer.\" Tags PD-old-100-expired, PD-Art)",
+  "note": "Fresco of Augustine seated at his desk in his study (not a contemporary portrait). Downloaded original, 725 x 1165 px (no 1000px thumb: upload.wikimedia.org thumbnail returned HTTP 400). Traditional iconography; there is no contemporary portrait of Augustine.",
+  "check": "Viewed the file: a bearded bishop in red cope and white alb, seated at a desk with a mitre, open books, a celestial globe and a shelf of books behind him, in a fresco frame. Matches the title (Augustine in his study)."
+ },
+ "image2": {
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Vittore_carpaccio,_visione_di_sant'agostino_01.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Vittore_carpaccio%2C_visione_di_sant%27agostino_01.jpg",
+  "local": "dl/img_augustine_2.jpg",
+  "title": "Vittore carpaccio, visione di sant'agostino 01.jpg",
+  "artist_date": "Vittore Carpaccio (c. 1465-1526); tempera on canvas, 1502 ('Vision of St Augustine', Scuola di San Giorgio degli Schiavoni, Venice; 141 x 210 cm, per Commons)",
+  "license": "Public domain (Commons licence box: \"This work is in the public domain in its country of origin and other countries and areas where the copyright term is the author's life plus 100 years or fewer.\" Tags PD-old-100-expired, PD-Art)",
+  "note": "Wide scene (Augustine in his study receiving a vision of Jerome's death), not a portrait. Commons original 1059 x 700 px.",
+  "check": "Not confirmed by viewing: download was refused (HTTP 429 from upload.wikimedia.org, repeated), so this entry is UNVERIFIED for content. Commons metadata only."
+ },
+ "no_contemporary_portrait": "There is no contemporary portrait of Augustine; the images are traditional iconography (later paintings/frescoes)."
+}

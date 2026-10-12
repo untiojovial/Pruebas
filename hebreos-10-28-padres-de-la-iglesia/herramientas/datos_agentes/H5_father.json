@@ -1,0 +1,32 @@
+{
+ "id": "tertullian",
+ "name_es": "Tertuliano de Cartago",
+ "name_en": "Tertullian of Carthage",
+ "name_orig": "Quintus Septimius Florens Tertullianus",
+ "born": "c. 155 (Carthage)",
+ "died": "c. 220 (exact date uncertain; not verified in a source read)",
+ "language": "Latin",
+ "role_place": "Latin Christian apologist and polemicist at Carthage; Catholic in the early works, Montanist (New Prophecy) in the later ones.",
+ "why_relevant": "The main Latin apologist and polemicist of the 2nd-3rd century: his own works give the clearest early evidence on persecution (To Scapula 2; Apology 24 and 28), on the Law and the Gospel (Against Marcion; Answer to the Jews 3; Veiling of Virgins 1), and he cites Hebrews (as Barnabas) in On Modesty 20 but never Heb 10:28 in the works read.",
+ "image": {
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Tertullian.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Tertullian.jpg",
+  "local": "/tmp/claude-0/-home-user-Pruebas/978f574d-1019-54bc-bb45-9f4fddd102bb/scratchpad/hb/H5/dl/img_tertullian.jpg",
+  "title": "File:Tertullian.jpg (Commons). Description: 'Allegoric wood engraving featuring Tertullian, excerpt from Vrais pourtraits et vies des hommes illustres grecz, latins et payens by Andre Thevet (Lyons, 1584).' Earlier description: 'Quintus Florens Tertullian, 160-220, church father and theologian.'",
+  "artist_date": "Engraver not named on the page (Commons: 'Files with no machine-readable author'); book by Andre Thevet, Lyon, 1584 (from the description).",
+  "license": "Public domain (Commons licensing block: 'Public domain' and 'Creative Commons Public Domain Mark 1.0'; hidden category PD-old)",
+  "note": "Not a contemporary portrait: a 1584 engraving (described in the file as allegorical). The current version is 1,181 x 1,424 px (uploaded 2011 'Higher quality'); downloaded the original file because the 1000px thumbnail was rate-limited (HTTP 429). Traditional iconography only, no contemporary likeness exists.",
+  "check": "Viewed the downloaded file (Read tool): a human figure, half-length in three-quarter profile, bearded, wearing a turban and loose robes, writing on a scroll at a desk with a quill and inkwell. Matches the title (a portrait-style engraving of a writer)."
+ },
+ "image2": {
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Tertullien,_PA02213.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Tertullien%2C_PA02213.jpg",
+  "local": null,
+  "title": "File:Tertullien, PA02213.jpg (Commons)",
+  "artist_date": "Author: Bonnart, Henri (artist) (Henri I or II Bonnart), per Commons; date 's.d.' (sans date) on the page; source: KU Leuven library catalogue record.",
+  "license": "Public domain (Commons licensing block: 'Public domain' and 'Creative Commons Public Domain Mark 1.0')",
+  "note": "Second candidate: a printed engraving by Henri Bonnart (Commons author field), date s.d. (undated); original 1,672 x 2,183 px. Not a wider scene; a portrait-style engraving, unchecked.",
+  "check": "UNVERIFIED: not downloaded (upload.wikimedia.org returned HTTP 429 on every attempt in this run); not viewed. Commons file page was read and the licence line recorded."
+ },
+ "_status": "Complete except image2 (download rate-limited; unverified)."
+}

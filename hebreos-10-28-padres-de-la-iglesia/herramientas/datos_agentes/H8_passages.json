@@ -1,0 +1,127 @@
+[
+  {
+    "id": "jerome-ep109-s3-deut13",
+    "father": "jerome",
+    "work": "jerome-ep109-riparius",
+    "theme": "X",
+    "ref": "Letter 109 (To Riparius), section 3",
+    "url": "https://www.newadvent.org/fathers/3001109.htm",
+    "quote_en": "There is no cruelty in regard for God's honour. Wherefore also in the Law it is said: If your brother or your friend or the wife of your bosom entice you from the truth, your hand shall be upon them and you shall shed their blood, Deuteronomy 13:6-9 and so shall you put the evil away from the midst of Israel.",
+    "quote_orig": "",
+    "orig_url": "",
+    "to": "the evil away from the midst of Israel.",
+    "keys": [
+      "There is no cruelty in regard for God's honour.",
+      "your hand shall be upon them and you shall shed their blood",
+      "so shall you put the evil away"
+    ],
+    "context": "Jerome to Riparius (c. 404), answering a request about Vigilantius, who attacked the veneration of relics of martyrs. In section 3 Jerome defends zeal against those who oppose God's honour: he cites Phinehas, Elijah, Simon the zealot, Peter (Ananias and Sapphira) and Paul (Elymas), then the Law of Deuteronomy 13. The Law's text says that the enticer to idolatry (brother, friend or wife) is to be struck down: 'your hand shall be upon them and you shall shed their blood'. He is speaking of the Law and of zeal for God, and applies it to Vigilantius only by implication; he does not cite Heb 10:28 in this letter.",
+    "caveat": "Jerome presents Deut 13 as a model of zeal for God's honour; he does not state a legal conclusion for Christian rulers in this letter; it is his own voice (not a quoted opponent). The reference 'Deuteronomy 13:6-9' is printed inline in the NPNF text and is included as printed. In this letter the death-penalty language is about the OT law and zeal; Vigilantius himself is not sentenced in it. Latin not read.",
+    "stance": "own view",
+    "from_": "There is no cruelty in regard for God's"
+  },
+  {
+    "id": "jerome-ep109-s2-deliver",
+    "father": "jerome",
+    "work": "jerome-ep109-riparius",
+    "theme": "X",
+    "ref": "Letter 109 (To Riparius), section 2",
+    "url": "https://www.newadvent.org/fathers/3001109.htm",
+    "quote_en": "I am surprised that the reverend bishop in whose diocese he is said to be a presbyter acquiesces in this his mad preaching, and that he does not rather with apostolic rod, nay with a rod of iron, shatter this useless vessel and deliver him for the destruction of the flesh that the spirit may be saved.",
+    "quote_orig": "",
+    "orig_url": "",
+    "to": "the flesh that the spirit may be saved.",
+    "keys": [
+      "does not rather with apostolic rod, nay with a rod of iron",
+      "deliver him for the destruction of the flesh",
+      "that the spirit may be saved"
+    ],
+    "context": "Same letter. Jerome is angry that the bishop of Vigilantius's diocese tolerates his teaching, and says the bishop should use the apostolic rod to 'deliver him for the destruction of the flesh' (1 Cor 5:5, the Pauline excommunication formula, which Jerome elsewhere uses for ecclesiastical discipline). In the same section he also writes 'The wretch's tongue should be cut out, or he should be put under treatment for insanity.'",
+    "caveat": "The phrase 'destruction of the flesh' is the Pauline formula for handing over to Satan (1 Cor 5:5); whether Jerome means excommunication or physical death is not explicit. The 'rod of iron' and 'shatter' language is metaphorical. The 'tongue should be cut out' remark is a rhetorical outburst. Not a call for execution in plain terms, but it is harsh and adverse.",
+    "stance": "own view",
+    "from_": "I am surprised that the reverend bishop in"
+  },
+  {
+    "id": "jerome-ep14-s8-old-law",
+    "father": "jerome",
+    "work": "jerome-ep14-heliodorus",
+    "theme": "D",
+    "ref": "Letter 14 (To Heliodorus), section 8",
+    "url": "https://www.newadvent.org/fathers/3001014.htm",
+    "quote_en": "Under the old law he who disobeyed the priests was put outside the camp and stoned by the people, or else he was beheaded and expiated his contempt with his blood. Deuteronomy 17:5, 12 But now the disobedient person is cut down with the spiritual sword, or he is expelled from the church and torn to pieces by ravening demons.",
+    "quote_orig": "",
+    "orig_url": "",
+    "to": "church and torn to pieces by ravening demons.",
+    "keys": [
+      "Under the old law he who disobeyed the priests",
+      "cut down with the spiritual sword",
+      "expelled from the church"
+    ],
+    "context": "Letter to the monk Heliodorus (c. 373-374), urging him to leave his family and devote himself to the ascetic life. Section 8 is a warning about obedience: under the old law a disobedient person was stoned or beheaded (Deut 17), but 'now' the disobedient is 'cut down with the spiritual sword' or expelled from the church. The sentence contrasts an old penalty with a present one.",
+    "caveat": "This is a contrast of penalties for disobedience to clergy, in a monastic exhortation; it concerns the disobedient Christian, not heretics or apostates. 'Spiritual sword' is figurative, and Jerome does not explicitly say that the OT penalty is abrogated; the contrast is implied. Still, it shows him describing the death penalty of the Law as no longer the Church's way. Latin not read.",
+    "stance": "own view",
+    "from_": "Under the old law he who disobeyed the"
+  },
+  {
+    "id": "jerome-ep22-s21-old-law-ideal",
+    "father": "jerome",
+    "work": "jerome-ep22-eustochium",
+    "theme": "D",
+    "ref": "Letter 22 (To Eustochium), section 21",
+    "url": "https://www.newadvent.org/fathers/3001022.htm",
+    "quote_en": "The old law had a different ideal of blessedness, for therein it is said: Blessed is he who has seed in Zion and a family in Jerusalem: and Cursed is the barren who bears not: and Your children shall be like olive-plants round about your table. Riches too are promised to the faithful and we are told that there was not one feeble person among their tribes. But now even to eunuchs it is said, Say not, behold I am a dry tree, Isaiah 56:3 for instead of sons and daughters you have a place forever in heaven. Now the poor are blessed, now Lazarus is set before Dives in his purple. Now he who is weak is counted strong.",
+    "quote_orig": "",
+    "orig_url": "",
+    "to": "Now he who is weak is counted strong.",
+    "keys": [
+      "The old law had a different ideal of blessedness",
+      "But now even to eunuchs it is said",
+      "Now he who is weak is counted strong."
+    ],
+    "context": "Letter 22, the famous treatise on virginity written to Eustochium (Rome, 384). Jerome argues that the Old Testament valued children and wealth as blessings, and that the Gospel brings a higher ideal; he treats the OT as a stage in a process ('gradually the crop grew up'). This is the Law/Gospel distinction in the moral sphere.",
+    "caveat": "Jerome speaks of the Old Law's 'ideal of blessedness', not of its penalties, so this does not bear on Heb 10:28 or on the death penalty. Inline scripture references are part of the NPNF page text and are quoted as printed. Latin not read.",
+    "stance": "own view",
+    "from_": "The old law had a different ideal of"
+  },
+  {
+    "id": "jerome-dial-lucif-s19",
+    "father": "jerome",
+    "work": "jerome-dial-luciferians",
+    "theme": "N",
+    "ref": "Dialogue Against the Luciferians, section 19",
+    "url": "https://ccel.org/ccel/schaff/npnf206/npnf206.vi.iv.html",
+    "quote_en": "That is to say, with senseless cruelty they would have surrendered the whole world to the devil. Why condemn those who were not Arians? Why rend the Church when it was continuing in the harmony of the faith?",
+    "quote_orig": "",
+    "orig_url": "",
+    "to": "was continuing in the harmony of the faith?",
+    "keys": [
+      "with senseless cruelty they would have surrendered the whole world to the devil",
+      "Why condemn those who were not Arians?",
+      "Why rend the Church when it was continuing"
+    ],
+    "context": "In section 19 the dialogue argues against the Luciferians' severity toward bishops who had signed the Ariminum creed and later repented. The speaker asks what should have been done with them; the answer is that deposing them would have been 'senseless cruelty', and that the Church should not condemn those who were not Arians or rend the Church. The sentence just before says the bishops 'should have kept to themselves within their own communion' (text not quoted above). The mob's readiness 'to stone and slay those who attempted to deprive them' is described in the same section.",
+    "caveat": "The speaker tags (orthodox speaker vs Luciferian) are not visible in the NPNF text dump; the orthodox voice is Jerome's mouthpiece, UNVERIFIED on this text. The passage is about deposition and ecclesiastical peace, not civil force against heretics, and it does not say killing is wrong in general. The stoning mob is described, not endorsed. Latin not read.",
+    "stance": "own view",
+    "from_": "That is to say, with senseless cruelty they"
+  },
+  {
+    "id": "jerome-gal-5-12-abscindantur",
+    "father": "jerome",
+    "work": "jerome-comm-galatians",
+    "theme": "X",
+    "ref": "Commentary on Galatians, Gal 5:12 gloss (Cologne 1616 ed., p. 238; PL 26 col. not determined)",
+    "url": "https://digital.ub.uni-paderborn.de/download/pdf/7289182.pdf",
+    "quote_en": "",
+    "quote_orig": "Vtinam abscindantur qui vos conturbant. Si putant sibi hoc prodesse, non solum circumcidantur, sed etiam abscindantur: si enim expoliatio membri proficit, multo magis ablatio. Quidam dicunt: Vtinam errore abscissi veritatis radicibus inserantur.",
+    "orig_url": "https://digital.ub.uni-paderborn.de/download/pdf/7289182.pdf",
+    "to": "",
+    "keys": [
+      "non solum circumcidantur, sed etiam abscindantur",
+      "multo magis ablatio"
+    ],
+    "context": "Jerome's gloss on Gal 5:12 ('Would that those who unsettle you would cut themselves off'). He adds that if removing a limb helps, removal is much more beneficial, i.e. the troublemakers should be cut off. In the Latin, 'abscindantur' carries the sense of cutting away, the same metaphor as the 'cut off' of Gal 5:12 and the 'excision' of the Church.",
+    "caveat": "NO PUBLIC-DOMAIN ENGLISH TRANSLATION was found (Cain and Scheck are copyrighted), so quote_en is empty and the Latin was read from the scan (visually, not OCR-verified). Likely excommunication/ecclesiastical excision as metaphor; it is not explicitly death. Still an adverse 'cut off' rhetoric. PL 26 column not verified.",
+    "stance": "own view",
+    "from_": ""
+  }
+]

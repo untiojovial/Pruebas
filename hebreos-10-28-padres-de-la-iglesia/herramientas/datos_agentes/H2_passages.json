@@ -1,0 +1,323 @@
+[
+ {
+  "id": "p01_ep100_1",
+  "father": "augustine",
+  "work": "ep100",
+  "theme": "N",
+  "ref": "Letter 100 (to Donatus, proconsul), §1 (NPNF1-01 numbering; PL 33 col. 0366)",
+  "url": "https://www.newadvent.org/fathers/1102100.htm",
+  "quote_en": "It is not their death, but their deliverance from error, that we seek to accomplish by the help of the terror of judges and of laws, whereby they may be preserved from falling under the penalty of eternal judgment; we do not wish either to see the exercise of discipline towards them neglected, or, on the other hand, to see them subjected to the severer punishments which they deserve.",
+  "quote_orig": "Unde ex occasione terribilium judicum ac legum, ne in aeterni judicii poenas incidant, corrigi eos cupimus, non necari; nec disciplinam circa eos negligi volumus, nec suppliciis quibus digni sunt exerceri.",
+  "orig_url": "https://catholiclibrary.org/library/view?docId=%2FFathers-OR%2FPL.033.html&chunk.id=00000817",
+  "from_": "It is not their death, but",
+  "to": "the severer punishments which they deserve.",
+  "keys": [
+   "It is not their death, but their deliverance from error",
+   "we do not wish either to see the exercise of discipline towards them neglected"
+  ],
+  "context": "Augustine, bishop of Hippo, writes to the proconsul Donatus (c. 409) asking him not to execute Donatists convicted of violence against Catholics. He asks that the laws be used so that the offenders may repent. The same sentence says he does not want discipline towards them neglected, nor that they be subjected to \"the severer punishments which they deserve\".",
+  "caveat": "Pleads against death but accepts \"discipline\" and deserved \"severer punishments\" in the same sentence; the letter is a petition to a magistrate, not a general principle. Latin column marker 0367A falls in §2, so the §1 quote is in col. 0366.",
+  "stance": "own view"
+ },
+ {
+  "id": "p02_ep139_2",
+  "father": "augustine",
+  "work": "ep139",
+  "theme": "N",
+  "ref": "Letter 139 (to Marcellinus), §2 (PL 33 col. 0535)",
+  "url": "https://www.newadvent.org/fathers/1102139.htm",
+  "quote_en": "As to the punishment of these men, I beseech you to make it something less severe than sentence of death, although they have, by their own confession, been guilty of such grievous crimes.",
+  "quote_orig": "Poena sane illorum, quamvis de tantis sceleribus confessorum, rogo te ut praeter supplicium mortis sit,",
+  "orig_url": "https://catholiclibrary.org/library/view?docId=%2FFathers-OR%2FPL.033.html&chunk.id=00001015",
+  "from_": "As to the punishment of these",
+  "to": "been guilty of such grievous crimes.",
+  "keys": [
+   "I beseech you to make it something less severe than sentence of death",
+   "something less severe than sentence of death"
+  ],
+  "context": "Augustine to Marcellinus, the imperial commissioner, c. 412, after the Donatist Circumcelliones confessed to killing and maiming Catholic clergy. He asks that the sentence be less than death, arguing that a lenient outcome will show Catholic clemency. Earlier in the letter he hopes the trial records will be published.",
+  "caveat": "The same letter (§2) accepts that the men are guilty of grave crimes and that some punishment is due; he also says that if the proconsul insists on death, the judges should be given his letters so the sentence can be softened. The quote asks for a sentence \"less severe than\" death, not for abolition of penalties. Latin read in PL 33 (col. 0535-0536 by marker); the English is NPNF1-01.",
+  "stance": "own view"
+ },
+ {
+  "id": "p03_ep133_1",
+  "father": "augustine",
+  "work": "ep133",
+  "theme": "N",
+  "ref": "Letter 133 (to Marcellinus), §1 (PL 33, col. not recorded)",
+  "url": "https://www.newadvent.org/fathers/1102133.htm",
+  "quote_en": "we do not wish to have the sufferings of the servants of God avenged by the infliction of precisely similar injuries in the way of retaliation. Not, of course, that we object to the removal from these wicked men of the liberty to perpetrate further crimes; but our desire is rather that justice be satisfied without the taking of their lives or the maiming of their bodies in any part, and that, by such coercive measures as may be in accordance with the laws, they be turned from their insane frenzy to the quietness of men in their sound judgment, or compelled to give up mischievous violence and betake themselves to some useful labour.",
+  "quote_orig": "nolumus tamen passiones servorum Dei, quasi vice talionis, paribus suppliciis vindicari. Non quo scelestis hominibus licentiam facinorum prohibeamus auferri; sed hoc magis sufficere volumus ut vivi et nulla corporis parte truncati, vel ab inquietudine insana ad sanitatis otium legum coercitione dirigantur, vel a malignis operibus alicui utili operi deputentur.",
+  "orig_url": "https://catholiclibrary.org/library/view?docId=%2FFathers-OR%2FPL.033.html&chunk.id=00000985",
+  "from_": "we do not wish to have",
+  "to": "betake themselves to some useful labour.",
+  "keys": [
+   "our desire is rather that justice be satisfied without the taking of their lives",
+   "without the taking of their lives or the maiming of their bodies in any part"
+  ],
+  "context": "Augustine, c. 412, asks the tribune Marcellinus not to avenge the Catholic clergy's injuries by retaliating in kind against the Circumcelliones who confessed. He wants justice without killing or maiming, but the same passage accepts \"coercive measures\" in accordance with the laws.",
+  "caveat": "This is the key N text of the letter, and it is also X: the same sentence endorses \"such coercive measures as may be in accordance with the laws\" and calls the penalty \"discipline\". The Migne argument heading (\"puniat citra supplicium capitis\") is an editorial summary, not Augustine's words.",
+  "stance": "own view"
+ },
+ {
+  "id": "p04_petil_II87_191",
+  "father": "augustine",
+  "work": "petil",
+  "theme": "N",
+  "ref": "Contra litteras Petiliani, Book II, ch. 87, §191 (NPNF1-04 numbering)",
+  "url": "https://www.ccel.org/ccel/schaff/npnf104.all.html",
+  "quote_en": "If God was unwilling that death should be inflicted on him who slew his brother, preferring that he should continue to exist in his murderer’s life, see whether this be not the cause why, seeing that the heart of the king is in the hand of God, whereby he has himself enacted many laws for your correction and reproof, yet no law of the king has commanded that you should be put to death, perhaps with this very object, that any one of you who persists in the obstinate self-will of his sacrilegious madness should be tortured with the punishment of the fratricide Cain, that is to say, with the life of a murderer.",
+  "quote_orig": "",
+  "orig_url": "",
+  "from_": "If God was unwilling that death",
+  "to": "with the life of a murderer.",
+  "keys": [
+   "no law of the king has commanded that you should be put to death",
+   "with the life of a murderer"
+  ],
+  "context": "Augustine replies to the Donatist bishop Petilian, who had argued from Gen 4 (Cain) that God does not delight in human blood. Augustine says that no imperial law has ordered the Donatists put to death and suggests this may be so that the guilty live on under the \"punishment of Cain\".",
+  "caveat": "Polemical and self-serving: it reads the absence of death sentences as mercy and, in the same breath, as a way of tormenting the Donatists. It is not a general doctrine against capital punishment. Latin not read (Migne PL 43).",
+  "stance": "own view"
+ },
+ {
+  "id": "p05_serm_I2",
+  "father": "augustine",
+  "work": "serm",
+  "theme": "D",
+  "ref": "De sermone Domini in monte I, ch. 1-2 (NPNF1-06 \"Chapter 1\" §2 in Findlay numbering)",
+  "url": "https://www.newadvent.org/fathers/16011.htm",
+  "quote_en": "Yet it is one God who, through His holy prophets and servants, according to a thoroughly arranged distribution of times, gave the lesser precepts to a people who as yet required to be bound by fear; and who, through His Son, gave the greater ones to a people whom it had now become suitable to set free by love.",
+  "quote_orig": "",
+  "orig_url": "",
+  "from_": "Yet it is one God who,",
+  "to": "suitable to set free by love.",
+  "keys": [
+   "gave the lesser precepts to a people who as yet required to be bound by fear",
+   "gave the greater ones to a people whom it had now become suitable to set free by love"
+  ],
+  "context": "Augustine comments on Matthew 5:1, the mountain on which Jesus teaches. He reads the sermon as the \"greater precepts of righteousness\", set against \"lesser ones which were given to the Jews\". He ascribes both sets to the same God, sent at different times.",
+  "caveat": "The D reading is real but partial: Augustine says the lesser precepts came from the same God and are not abolished; he also says Christ came \"to fulfil\" the Law, not to destroy it (I.20-21). He does not say the OT punishments are void. Latin not read (PL 34).",
+  "stance": "own view"
+ },
+ {
+  "id": "p06_serm_I57",
+  "father": "augustine",
+  "work": "serm",
+  "theme": "D",
+  "ref": "De sermone Domini in monte I, §57 (Findlay numbering; Matt 5:38-42)",
+  "url": "https://www.newadvent.org/fathers/16011.htm",
+  "quote_en": "And therefore he who pays back just as much as he has received already forgives something: for the party who injures does not deserve merely as much punishment as the man who was injured by him has innocently suffered. And accordingly this incomplete, by no means severe, but [rather] merciful justice, is carried to perfection by Him who came to fulfil the law, not to destroy it.",
+  "quote_orig": "",
+  "orig_url": "",
+  "from_": "And therefore he who pays back",
+  "to": "the law, not to destroy it.",
+  "keys": [
+   "this incomplete, by no means severe, but [rather] merciful justice",
+   "is carried to perfection by Him who came to fulfil the law, not to destroy it"
+  ],
+  "context": "On Matthew 5:38-42 (eye for eye, turning the other cheek). Augustine calls the law of retaliation (lex talionis) a measure that restrained revenge, and says Christ carries the justice of the Law \"to perfection\".",
+  "caveat": "Augustine speaks of the Law's \"incomplete\" justice, but he treats the Law as a real step of righteousness given by the same God, and the sentence is about personal revenge, not state punishment. Latin not read.",
+  "stance": "own view"
+ },
+ {
+  "id": "p07_faustum22_77",
+  "father": "augustine",
+  "work": "faustum",
+  "theme": "D",
+  "ref": "Contra Faustum Manichaeum, Book XXII, §77 (NPNF1-04)",
+  "url": "https://www.ccel.org/ccel/schaff/npnf104.all.html",
+  "quote_en": "If the Manichæans found passages in the Old and New Testaments differing in this way, they would proclaim it as a proof that the Testaments are opposed to each other. But here the difference is in the utterances of one and the same person. At one time He says, \"I sent you without scrip, or purse, or shoes, and ye lacked nothing;\" at another, \"Now let him that hath a scrip take it, and also a purse; and he that hath a tunic, let him sell it and buy a sword.\" Does not this show how, without any inconsistency, precepts and counsels and permissions may be changed, as different times require different arrangements?",
+  "quote_orig": "",
+  "orig_url": "",
+  "from_": "If the Manichæans found passages in",
+  "to": "as different times require different arrangements?",
+  "keys": [
+   "precepts and counsels and permissions may be changed",
+   "as different times require different arrangements"
+  ],
+  "context": "Faustus the Manichaean objected that the Old Testament commands contradict the Gospel. Augustine answers that Christ himself gave different instructions at different times (no purse or sword, then a purse and a sword: Luke 22:35-36), so the change of precepts is not a contradiction.",
+  "caveat": "Argues that precepts change with the times, which supports D; but in the same book (§§74-76) Augustine defends OT wars and killings done by divine command as \"righteous retribution\", which is adverse (see X in summary). Latin not read.",
+  "stance": "own view"
+ },
+ {
+  "id": "p08_ep93_5",
+  "father": "augustine",
+  "work": "ep93",
+  "theme": "X",
+  "ref": "Letter 93 (to Vincentius), §5 (PL 33 cols. 0323-0324)",
+  "url": "https://www.newadvent.org/fathers/1102093.htm",
+  "quote_en": "You are of opinion that no one should be compelled to follow righteousness; and yet you read that the householder said to his servants, Whomsoever you shall find, compel them to come in.",
+  "quote_orig": "Putas neminem debere cogi ad justitiam, cum legas patremfamilias dixisse servis, Quoscumque inveneritis cogite intrare",
+  "orig_url": "https://catholiclibrary.org/library/view?docId=%2FFathers-OR%2FPL.033.html&chunk.id=00000781",
+  "from_": "You are of opinion that no",
+  "to": "find, compel them to come in.",
+  "keys": [
+   "you read that the householder said to his servants, Whomsoever you shall find, compel them to come in",
+   "no one should be compelled to follow righteousness"
+  ],
+  "context": "Augustine, c. 408, answers the Donatist Vincentius, who had objected that no one should be forced into righteousness. Augustine cites Luke 14:23 (\"compel them to come in\") and Paul's conversion as examples of God's \"coercion\". This is the locus classicus of the \"compelle intrare\" argument.",
+  "caveat": "Augustine argues by analogy from God's own acts; the text does not mention death. Latin read in catholiclibrary (Migne text).",
+  "stance": "own view"
+ },
+ {
+  "id": "p09_ep93_8",
+  "father": "augustine",
+  "work": "ep93",
+  "theme": "X",
+  "ref": "Letter 93 (to Vincentius), §8 (PL 33 col. 0325)",
+  "url": "https://www.newadvent.org/fathers/1102093.htm",
+  "quote_en": "But the truth is, that always both the bad have persecuted the good, and the good have persecuted the bad: the former doing harm by their unrighteousness, the latter seeking to do good by the administration of discipline; the former with cruelty, the latter with moderation; the former impelled by lust, the latter under the constraint of love. For he whose aim is to kill is not careful how he wounds, but he whose aim is to cure is cautious with his lancet; for the one seeks to destroy what is sound, the other that which is decaying. The wicked put prophets to death; prophets also put the wicked to death. The Jews scourged Christ; Christ also scourged the Jews.",
+  "quote_orig": "Sed plane semper, et mali persecuti sunt bonos, et boni persecuti sunt malos: illi nocendo per injustitiam, illi consulendo per disciplinam; illi immaniter, illi temperanter; illi servientes cupiditati, illi charitati. Nam qui trucidat, non considerat quemadmodum laniet; qui autem curat, considerat quemadmodum secet: ille enim persequitur sanitatem, ille putredinem. Occiderunt impii Prophetas, occiderunt impios et Prophetae. Flagellaverunt Judaei Christum, Judaeos flagellavit et Christus.",
+  "orig_url": "https://catholiclibrary.org/library/view?docId=%2FFathers-OR%2FPL.033.html&chunk.id=00000781",
+  "from_": "But the truth is, that always",
+  "to": "Christ; Christ also scourged the Jews.",
+  "keys": [
+   "The wicked put prophets to death; prophets also put the wicked to death.",
+   "the good have persecuted the bad"
+  ],
+  "context": "Augustine argues that persecution can be done by the good as well as the bad, and that only the cause and intention matter. He gives the example of the prophets putting the wicked to death, and Christ scourging the Jews. The passage ends by asking \"who were on the side of truth, and who on the side of iniquity\".",
+  "caveat": "Rhetorical generalisation. \"Prophets also put the wicked to death\" is a claim about OT figures who killed, offered as an example. It does not itself say that Christians should kill. Still an explicit approval of killing by \"prophets\".",
+  "stance": "own view"
+ },
+ {
+  "id": "p10_ep93_10",
+  "father": "augustine",
+  "work": "ep93",
+  "theme": "X",
+  "ref": "Letter 93 (to Vincentius), §10 (PL 33 cols. 0325-0326)",
+  "url": "https://www.newadvent.org/fathers/1102093.htm",
+  "quote_en": "when by punishments, such as exile and fines, they are admonished to consider what they suffer, and wherefore, and are taught to prefer the Scriptures which they read to human legends and calumnies. For which of us, yea, which of you, does not speak well of the laws issued by the emperors against heathen sacrifices? In these, assuredly, a penalty much more severe has been appointed, for the punishment of that impiety is death.",
+  "quote_orig": "coercitione exsiliorum atque damnorum, admoneantur considerare quid et quare patiantur, et discant praeponere rumoribus et calumniis hominum Scripturas quas legunt. Quis enim nostrum, quis vestrum non laudat leges ab imperatoribus datas adversus sacrificia Paganorum? Et certe longe ibi poena severior constituta est; illius quippe impietatis capitale supplicium est.",
+  "orig_url": "https://catholiclibrary.org/library/view?docId=%2FFathers-OR%2FPL.033.html&chunk.id=00000783",
+  "from_": "when by punishments, such as exile",
+  "to": "punishment of that impiety is death.",
+  "keys": [
+   "by punishments, such as exile and fines",
+   "the laws issued by the emperors against heathen sacrifices",
+   "the punishment of that impiety is death"
+  ],
+  "context": "Augustine explains that Donatists are restrained by \"comparatively gentle severity\" (exile, fines) and that the Catholic Church is \"admonishing\" them. He then approves the imperial laws against pagan sacrifice, under which the penalty is death.",
+  "caveat": "This is his explicit approval of death for idolatry (pagan sacrifice), not for heretics; he says the Donatist sin may be \"even a greater sin than idolatry\" but says the Donatists \"are all alike restrained with a comparatively gentle severity\". Important as the closest text to \"death for idolaters\" in the Letter 93 corpus. Latin read.",
+  "stance": "own view"
+ },
+ {
+  "id": "p11_ep93_17",
+  "father": "augustine",
+  "work": "ep93",
+  "theme": "X",
+  "ref": "Letter 93 (to Vincentius), §17 (PL 33 cols. 0329-0330, marker 0330 in the Latin removed here)",
+  "url": "https://www.newadvent.org/fathers/1102093.htm",
+  "quote_en": "For originally my opinion was, that no one should be coerced into the unity of Christ, that we must act only by words, fight only by arguments, and prevail by force of reason, lest we should have those whom we knew as avowed heretics feigning themselves to be Catholics. But this opinion of mine was overcome not by the words of those who controverted it, but by the conclusive instances to which they could point.",
+  "quote_orig": "Nam mea primitus sententia non erat, nisi neminem ad unitatem Christi esse cogendum; verbo esse agendum, disputatione pugnandum, ratione vincendum, 0330 ne fictos catholicos haberemus, quos apertos haereticos noveramus. Sed haec opinio mea, non contradicentium verbis, sed demonstrantium superabatur exemplis.",
+  "orig_url": "https://catholiclibrary.org/library/view?docId=%2FFathers-OR%2FPL.033.html&chunk.id=00000787",
+  "from_": "For originally my opinion was, that",
+  "to": "instances to which they could point.",
+  "keys": [
+   "For originally my opinion was, that no one should be coerced into the unity of Christ",
+   "But this opinion of mine was overcome not by the words of those who controverted it"
+  ],
+  "context": "Augustine explains his change of mind. He had held that no one should be coerced into Christ's unity, but a town of his own was \"brought over to the Catholic unity by fear of the imperial edicts\", and the testimony of the cases persuaded him. The passage is the clearest statement that his earlier position was abandoned.",
+  "caveat": "This is Augustine's own explanation of the change (not Letter 185.7, which does not describe a change of mind; it argues the laws are the Donatists' \"truest friends\"). The quote is his account, and the \"fear\" he describes is that of imperial laws. Latin read; the column marker 0330 was removed.",
+  "stance": "own view"
+ },
+ {
+  "id": "p12_ep93_19",
+  "father": "augustine",
+  "work": "ep93",
+  "theme": "X",
+  "ref": "Letter 93 (to Vincentius), §19 (PL 33 col. 0331)",
+  "url": "https://www.newadvent.org/fathers/1102093.htm",
+  "quote_en": "Your predecessors exposed Cæcilianus and his companions to be punished by the kings of the earth for crimes with which they were falsely charged: let the lions now be turned to break in pieces the bones of the calumniators, and let no intercession for them be made by Daniel when he has been proved innocent, and set free from the den in which they meet their doom;",
+  "quote_orig": "Majores vestri Caecilianum et socios ejus regibus terrae puniendos falsis criminibus objecerunt; convertantur leones ad comminuenda ossa calumniantium, nec Daniel ipse intercedat, innocens comprobatus, et de lacu quo illi pereunt liberatus",
+  "orig_url": "https://catholiclibrary.org/library/view?docId=%2FFathers-OR%2FPL.033.html&chunk.id=00000787",
+  "from_": "Your predecessors exposed Cæcilianus and his",
+  "to": "in which they meet their doom;",
+  "keys": [
+   "let the lions now be turned to break in pieces the bones of the calumniators",
+   "let no intercession for them be made by Daniel"
+  ],
+  "context": "Augustine turns the Donatist appeal to the kings of the earth against them: the Donatists had accused Caecilian before the emperor, so let the \"lions\" (Dan 6) break the bones of their accusers. The rhetoric is of destruction, not a stated legal demand.",
+  "caveat": "Rhetorical and imprecatory: the \"lions\" are a figure from Daniel 6 in his argument, not a stated legal demand. It is not a formal call for death sentences, but it is violent in tone. Latin read.",
+  "stance": "own view"
+ },
+ {
+  "id": "p13_ep93_28",
+  "father": "augustine",
+  "work": "ep93",
+  "theme": "X",
+  "ref": "Letter 93 (to Vincentius), §28 (PL 33 cols. 0331-0336; Psalm 54/55 applied to the schismatics)",
+  "url": "https://www.newadvent.org/fathers/1102093.htm",
+  "quote_en": "You were a man, mine equal, my guide, my acquaintance, who took sweet food together with me; we walked unto the house of God in company. Let death seize upon them, and let them go down quick into hell, like Dathan and Abiram, the authors of an impious schism.",
+  "quote_orig": "Tu vero unanimis meus, et dux meus, et notus meus, qui simul mecum dulces capiebas cibos; in domo Domini ambulavimus cum consensu. Veniat mors super illos, et descendant in infernum viventes (Psal. LIV, 14-16) , sicut Dathan et Abiron, impiae separationis auctores.",
+  "orig_url": "https://catholiclibrary.org/library/view?docId=%2FFathers-OR%2FPL.033.html&chunk.id=00000795",
+  "from_": "You were a man, mine equal,",
+  "to": "the authors of an impious schism.",
+  "keys": [
+   "Let death seize upon them, and let them go down quick into hell",
+   "like Dathan and Abiram, the authors of an impious schism"
+  ],
+  "context": "Augustine quotes Psalm 55 (Vulgate 54) against Donatist former friends who share the sacraments with him, and then prays that death come upon them (Num 16 applied to the schismatics).",
+  "caveat": "This is an imprecation (a curse, a prayer for their destruction), not a demand for a human sentence. It is still adverse rhetoric in the letter that also pleads for fines and exile. It is Augustine's own application of a psalm imprecation to the schismatics, not a command to officials.",
+  "stance": "quoting Scripture (own use)"
+ },
+ {
+  "id": "p14_ep185_26",
+  "father": "augustine",
+  "work": "ep185",
+  "theme": "X",
+  "ref": "Letter 185 (to Boniface), §26 (PL 33, col. not recorded)",
+  "url": "https://www.newadvent.org/fathers/1102185.htm",
+  "quote_en": "For a law had already been published, that the heresy of the Donatists, being of so savage a description that mercy towards it really involved greater cruelty than its very madness wrought, should for the future be prevented not only from being violent, but from existing with impunity at all; but yet no capital punishment was imposed upon it, that even in dealing with those who were unworthy, Christian gentleness might be observed, but a pecuniary fine was ordained, and sentence of exile was pronounced against their bishops or ministers.",
+  "quote_orig": "Jam enim lex fuerat promulgata, ut tantae immanitatis haeresis Donatistarum, cui crudelius parci videbatur quam ipsa saeviebat, non tantum violenta esse, sed omnino esse non sineretur impune: non tamen supplicio capitali, propter servandam etiam circa indignos mansuetudinem christianam, sed pecuniariis damnis propositis, et in episcopos vel ministros eorum exsilio constituto.",
+  "orig_url": "https://catholiclibrary.org/library/view?docId=%2FFathers-OR%2FPL.033.html&chunk.id=00001363",
+  "from_": "For a law had already been",
+  "to": "pronounced against their bishops or ministers.",
+  "keys": [
+   "but yet no capital punishment was imposed upon it",
+   "but a pecuniary fine was ordained, and sentence of exile was pronounced"
+  ],
+  "context": "Augustine, writing to the Count Boniface (c. 417), describes the imperial law already promulgated against the Donatists, which made them punishable by fines and exile. He reports that no capital punishment was imposed \"even in dealing with those who were unworthy\", and presents the fines and exile as the measure the law chose.",
+  "caveat": "This is the central text for the \"no death\" claim: the law he describes has no death penalty. It is also the central X text: he approves fines and exile for heretics . Latin read; NPNF1-01 translation by J.R. King.",
+  "stance": "own view"
+ },
+ {
+  "id": "p15_ep185_21",
+  "father": "augustine",
+  "work": "ep185",
+  "theme": "X",
+  "ref": "Letter 185 (to Boniface), §21 (PL 33, col. not recorded)",
+  "url": "https://www.newadvent.org/fathers/1102185.htm",
+  "quote_en": "For many have found advantage (as we have proved, and are daily proving by actual experiment), in being first compelled by fear or pain, so that they might afterwards be influenced by teaching, or might follow out in act what they had already learned in word.",
+  "quote_orig": "Multis enim profuit (quod experimentis probavimus et probamus) prius timore vel dolore cogi, ut postea possent doceri, aut quod jam verbis didicerant, opere sectari.",
+  "orig_url": "https://catholiclibrary.org/library/view?docId=%2FFathers-OR%2FPL.033.html&chunk.id=00001361",
+  "from_": "For many have found advantage (as",
+  "to": "they had already learned in word.",
+  "keys": [
+   "in being first compelled by fear or pain",
+   "so that they might afterwards be influenced by teaching"
+  ],
+  "context": "Augustine concedes that persuasion by teaching is better than fear, but argues that many people benefit from being \"first compelled by fear or pain\" and then taught. In the same section he cites Prov 29:19 and 1 John 4:18 (\"Timor non est in charitate\").",
+  "caveat": "He states the concession \"it is indeed better ... that men should be led ... by teaching\" before the adverse claim. Latin read.",
+  "stance": "own view"
+ },
+ {
+  "id": "p16_ep185_23",
+  "father": "augustine",
+  "work": "ep185",
+  "theme": "X",
+  "ref": "Letter 185 (to Boniface), §23 (PL 33, col. not recorded)",
+  "url": "https://www.newadvent.org/fathers/1102185.htm",
+  "quote_en": "Why, therefore, should not the Church use force in compelling her lost sons to return, if the lost sons compelled others to their destruction? Although even men who have not been compelled, but only led astray, are received by their loving mother with more affection if they are recalled to her bosom through the enforcement of terrible but salutary laws, and are the objects of far more deep congratulation than those whom she had never lost.",
+  "quote_orig": "Cur ergo non cogeret Ecclesia perditos filios ut redirent, si perditi filii coegerunt alios ut perirent? Quamvis etiam illos quos non coegerunt, sed tantummodo seduxerunt, si per terribiles sed salubres leges in ejus gremium revocentur, blandius pia mater amplectitur, et de illis multo amplius quam de his quos nunquam perdiderat, gratulatur.",
+  "orig_url": "https://catholiclibrary.org/library/view?docId=%2FFathers-OR%2FPL.033.html&chunk.id=00001361",
+  "from_": "Why, therefore, should not the Church",
+  "to": "those whom she had never lost.",
+  "keys": [
+   "Why, therefore, should not the Church use force in compelling her lost sons to return",
+   "through the enforcement of terrible but salutary laws"
+  ],
+  "context": "Augustine argues that the Church may use force to bring back \"her lost sons\", as a shepherd uses the whip to recover sheep. He says the Church follows Christ's own example (\"Paul was compelled by Christ\").",
+  "caveat": "This is the clearest text in which the \"compel\" argument is made explicit against Donatists. It does not mention death. Latin read.",
+  "stance": "own view"
+ }
+]

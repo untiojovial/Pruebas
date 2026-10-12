@@ -1,0 +1,195 @@
+[
+  {
+    "id": "inst5-violence-words",
+    "father": "lactantius",
+    "work": "div_inst",
+    "theme": "N",
+    "ref": "Divine Institutes V.20 (ANF numbering; Latin V.19.11)",
+    "url": "https://www.newadvent.org/fathers/07015.htm",
+    "quote_en": "There is no occasion for violence and injury, for religion cannot be imposed by force; the matter must be carried on by words rather than by blows, that the will may be affected. Let them unsheath the weapon of their intellect; if their system is true, let it be asserted. We are prepared to hear, if they teach; while they are silent, we certainly pay no credit to them, as we do not yield to them even in their rage.",
+    "quote_orig": "non est opus ui et iniuria, quia religio cogi non potest, uerbis potius quam uerberibus res agenda est, ut sit uoluntas. destringant aciem ingeniorum suorum: si ratio eorum uera est, adseratur. parati sumus audire, si doceant: tacentibus certe nihil credimus, sicut ne saeuientibus quidem cedimus.",
+    "orig_url": "https://la.wikisource.org/wiki/Divinae_institutiones/Liber_V",
+    "from_": "There is no occasion for violence and injury,",
+    "to": "not yield to them even in their rage.",
+    "keys": [
+      "religion cannot be imposed by force",
+      "the matter must be carried on by words rather than by blows",
+      "that the will may be affected"
+    ],
+    "context": "Lactantius addresses Constantine. He challenges pagan priests and philosophers to come forward and explain their rites by argument, and says that the matter must be handled by words, not by violence (the sentence is the Christian method he proposes). It is not written about heretics or apostates: the target is pagan worship.",
+    "caveat": "Scope: about persuading pagans to worship the true God; applying it to heretics is an inference by analogy, which the text does not make. The brief's phrase 'religion cannot be forced' is not the ANF wording; ANF reads 'religion cannot be imposed by force'. The Latin word 'cogi' ('compelled') is the source of 'imposed by force'.",
+    "stance": "own view",
+    "words": 80
+  },
+  {
+    "id": "inst5-defended-by-dying",
+    "father": "lactantius",
+    "work": "div_inst",
+    "theme": "N",
+    "ref": "Divine Institutes V.20 (ANF numbering; Latin V.19.22-23)",
+    "url": "https://www.newadvent.org/fathers/07015.htm",
+    "quote_en": "For religion is to be defended, not by putting to death, but by dying; not by cruelty, but by patient endurance; not by guilt, but by good faith: for the former belong to evils, but the latter to goods; and it is necessary for that which is good to have place in religion, and not that which is evil. For if you wish to defend religion by bloodshed, and by tortures, and by guilt, it will no longer be defended, but will be polluted and profaned. For nothing is so much a matter of free-will as religion; in which, if the mind of the worshipper is disinclined to it, religion is at once taken away, and ceases to exist.",
+    "quote_orig": "defendenda enim religio est non occidendo sed moriendo, non saeuitia sed patientia, non scelere sed fide: illa enim malorum sunt, haec bonorum, et necesse est bonum in religione uersari, non malum. nam si sanguine, si tormentis, si malo religionem defendere uelis, iam non defendetur illa, sed polluetur atque uiolabitur. nihil est enim tam uoluntarium quam religio, in qua si animus sacrificantis auersus est, iam sublata, iam nulla est.",
+    "orig_url": "https://la.wikisource.org/wiki/Divinae_institutiones/Liber_V",
+    "from_": "For religion is to be defended, not by",
+    "to": "at once taken away, and ceases to exist.",
+    "keys": [
+      "not by putting to death, but by dying",
+      "not by cruelty, but by patient endurance",
+      "nothing is so much a matter of free-will as religion"
+    ],
+    "context": "Same chapter as P1, after a passage on the pagans who think their religion must be defended by blood and torture. Lactantius replies that religion is defended by dying and patient endurance, because religion is a matter of the will: forced worship is not worship. The passage is about Christian martyrdom versus violent defence, not about heretics.",
+    "caveat": "The brief's paraphrase ('Religion is to be defended not by killing but by dying') is not verbatim; ANF reads 'not by putting to death, but by dying'. Pagan context. Authoritative Latin read (Wikisource, V.19.22-23).",
+    "stance": "own view",
+    "words": 119
+  },
+  {
+    "id": "inst6-thou-shalt-not-kill",
+    "father": "lactantius",
+    "work": "div_inst",
+    "theme": "N",
+    "ref": "Divine Institutes VI.20 (ANF and Latin numbering agree; Latin VI.20.15-17)",
+    "url": "https://www.newadvent.org/fathers/07016.htm",
+    "quote_en": "For when God forbids us to kill, He not only prohibits us from open violence, which is not even allowed by the public laws, but He warns us against the commission of those things which are esteemed lawful among men. Thus it will be neither lawful for a just man to engage in warfare, since his warfare is justice itself, nor to accuse any one of a capital charge, because it makes no difference whether you put a man to death by word, or rather by the sword, since it is the act of putting to death itself which is prohibited. Therefore, with regard to this precept of God, there ought to be no exception at all; but that it is always unlawful to put to death a man, whom God willed to be a sacred animal.",
+    "quote_orig": "[20.15] huius igitur publici homicidii socios et participes esse non conuenit eos qui iustitiae uiam tenere nituntur. non enim cum occidere deus uetat, latrocinari nos tantum prohibet, quod ne per leges quidem publicas licet, sed ea quoque ne fiant monet quae aput homines pro licitis habentur. [20.16] ita neque militare iusto licebit, cuius militia est ipsa iustitia, neque uero accusare quemquam crimine capitali, quia nihil distat utrumne ferro an uerbo potius occidas, quoniam occisio ipsa prohibetur. [20.17] itaque in hoc dei praecepto nullam prorsus exceptionem fieri oportet, quin occidere hominem sit semper nefas, quem deus sacrosanctum animal esse uoluit.",
+    "orig_url": "https://la.wikisource.org/wiki/Divinae_institutiones/Liber_VI",
+    "from_": "For when God forbids us to kill, He",
+    "to": "whom God willed to be a sacred animal.",
+    "keys": [
+      "it is always unlawful to put to death a man",
+      "nor to accuse any one of a capital charge",
+      "there ought to be no exception at all"
+    ],
+    "context": "Book VI on true worship and justice. Lactantius has just criticised public spectacles with executions and gladiatorial killing. He then states that God's prohibition of killing binds the just man: he may not serve as a soldier, nor bring a capital accusation, 'because it makes no difference whether you put a man to death by word, or rather by the sword'. The next paragraph turns to infanticide.",
+    "caveat": "Strongest N statement in the sources read, but it is a rigorist moral rule for the 'just man' (Christians), not a claim about what a Christian state may do. It does not name heretics or idolaters; the ANF text has no scripture citation for the commandment. This is not a claim about the Law (no Old Testament penalty is discussed).",
+    "stance": "own view",
+    "words": 137
+  },
+  {
+    "id": "inst4-old-testament-imperfect",
+    "father": "lactantius",
+    "work": "div_inst",
+    "theme": "D",
+    "ref": "Divine Institutes IV.20 (ANF; Latin IV.20.10)",
+    "url": "https://www.newadvent.org/fathers/07014.htm",
+    "quote_en": "For that which He said above, that He would make a new testament to the house of Judah, shows that the old testament which was given by Moses was not perfect; but that that which was to be given by Christ would be complete.",
+    "quote_orig": "nam quod superius ait consummaturum se domui Iuda testamentum nouum, ostendit uetus illut testamentum quod per Moysen datum est non fuisse perfectum, id autem quod per Christum dari haberet consummatum fore.",
+    "orig_url": "https://la.wikisource.org/wiki/Divinae_institutiones/Liber_IV",
+    "from_": "For that which He said above, that He",
+    "to": "to be given by Christ would be complete.",
+    "keys": [
+      "the old testament which was given by Moses was not perfect",
+      "but that that which was to be given by Christ would be complete"
+    ],
+    "context": "Book IV ch. 20, 'Of the Departure of Jesus into Galilee ... and of the Two Testaments, the Old and the New'. Lactantius argues that the Old Testament (Law and Prophets) is the first testament and the New (post-resurrection writings) the second, and cites Jeremiah 31:31-32 for a new testament. The sentence is his gloss on Jeremiah, and it is the closest he comes to saying the Mosaic law was provisional.",
+    "caveat": "Supersessionist: he calls the Jews 'deprived and disinherited' and the Christians heirs of Judah, so this is a theology of replacement. The text says the Old Testament was 'not perfect' but does NOT discuss stoning, idolatry or blasphemy penalties, and Hebrews is not cited in this chapter. The brief's 'shadow' and 'provisional' words do not appear here.",
+    "stance": "own view",
+    "words": 44
+  },
+  {
+    "id": "epitome-54-freedom-of-religion",
+    "father": "lactantius",
+    "work": "epitome",
+    "theme": "N",
+    "ref": "Epitome of the Divine Institutes, ch. LIV (Fletcher numbering; Latin not read)",
+    "url": "https://www.ewtn.com/catholicism/library/epitome-of-the-divine-institutes-divinae-institutiones-11481",
+    "quote_en": "But it is religion alone in which freedom has placed its dwelling. For it is a matter which is voluntary above all others, nor can necessity be imposed upon any, so as to worship that which he does not wish to worship.",
+    "quote_orig": "",
+    "orig_url": "",
+    "from_": "But it is religion alone in which freedom",
+    "to": "that which he does not wish to worship.",
+    "keys": [
+      "freedom has placed its dwelling",
+      "nor can necessity be imposed upon any",
+      "so as to worship that which he does not wish to worship"
+    ],
+    "context": "Epitome ch. LIV, 'Of the freedom of religion in the worship of God', addressed to Pentadius. Lactantius answers those who think freedom diminishes authority: religion alone is a matter of free will, and no one can be forced to worship what he does not wish. In the same chapter (not quoted, because the page carries an endnote marker) he says that people who sacrificed under torture and later return to God are not refused pardon: 'pardon is not denied to those who make satisfaction'. That is directly relevant to apostates.",
+    "caveat": "Translation is Fletcher's (ANF), read on the EWTN host page; Latin not read. The passage is about pagan persecution; it does not discuss heretics. It is a statement that apostates who repent should be pardoned, which the sources read do support; the words are verified in the page read.",
+    "stance": "own view",
+    "words": 42
+  },
+  {
+    "id": "inst5-no-prisons-swords",
+    "father": "lactantius",
+    "work": "div_inst",
+    "theme": "X",
+    "ref": "Divine Institutes V.8 (ANF; Latin V.8.9)",
+    "url": "https://www.newadvent.org/fathers/07015.htm",
+    "quote_en": "In short, there would be no need of so many and varying laws to rule men, since the law of God alone would be sufficient for perfect innocence; nor would there be any need of prisons, or the swords of rulers, or the terror of punishments, since the wholesomeness of the divine precepts infused into the breasts of men would of itself instruct them to works of justice. But now men are wicked through ignorance of what is right and good.",
+    "quote_orig": "demque ad regendos homines non opus esset tam multis et tam uariis legibus, cum ad perfectam innocentiam dei lex una sufficeret, neque carceribus neque gladiis praesidum neque terrore poenarum, cum praeceptorum caelestium saluhritas humanis pectoribus infusa ultro ad iustitiae opera homines erudiret. nunc autem mali sunt ignoratione recti ac boni.",
+    "orig_url": "https://la.wikisource.org/wiki/Divinae_institutiones/Liber_V",
+    "from_": "In short, there would be no need of",
+    "to": "through ignorance of what is right and good.",
+    "keys": [
+      "nor would there be any need of prisons, or the swords of rulers, or the terror of punishments",
+      "But now men are wicked through ignorance of what is right and good"
+    ],
+    "context": "Book V ch. 8, 'Of Justice Known to All, But Not Embraced'. He describes what the world would be like if the law of God were followed by all: then there would be no need of many laws, prisons, rulers' swords or the terror of punishments. The contrast with 'But now men are wicked' implies that in the present world rulers' swords and punishments exist.",
+    "caveat": "ADVERSE (mild): it concedes that rulers' swords and punishments exist in the present, and it is a counterfactual. It does not approve killing or compelling heretics or idolaters, and it does not name them. The Latin transcription at V.8.9 has 'saluhritas' (a typo for 'salubritas' in the transcription, not in Lactantius).",
+    "stance": "own view",
+    "words": 81
+  },
+  {
+    "id": "inst5-opponents-must-be-punished",
+    "father": "lactantius",
+    "work": "div_inst",
+    "theme": "X",
+    "ref": "Divine Institutes V.21 (ANF; Latin V.20.12)",
+    "url": "https://www.newadvent.org/fathers/07015.htm",
+    "quote_en": "But they who destroy religious systems must be punished. Have we destroyed them in a worse manner than the nation of the Egyptians, who worship the most disgraceful figures of beasts and cattle, and adore as gods some things which it is even shameful to speak of?",
+    "quote_orig": "at enim puniendi sunt qui destruunt religiones. num peius nos destruimus quam natio Aegyptiorum, qui turpissimas bestiarum ac pecudum figuras colunt, quaedam etiam pudenda dictu tamquam deos adorant?",
+    "orig_url": "https://la.wikisource.org/wiki/Divinae_institutiones/Liber_V",
+    "from_": "But they who destroy religious systems must be",
+    "to": "which it is even shameful to speak of?",
+    "keys": [
+      "But they who destroy religious systems must be punished",
+      "Have we destroyed them in a worse manner than the nation of the Egyptians"
+    ],
+    "context": "Book V ch. 21. Lactantius quotes an objection from pagan opponents (Latin 'at enim', a formula that introduces an objection): those who destroy religious systems must be punished. He answers with rhetorical questions (are Christians worse than Egyptians who worship animals?). Just before, in the same paragraph, he says: 'we do not require that any one should be compelled, whether he is willing or unwilling, to worship our God'.",
+    "caveat": "ADVERSE, but QUOTING AN OPPONENT: the 'must be punished' premise is the pagans' and Lactantius refutes it. It is about pagan religions, not heretics or apostates. It is reported here because the brief asked for every adverse passage found.",
+    "stance": "quoting opponent",
+    "words": 47
+  },
+  {
+    "id": "dm-47-divine-vengeance-persecutor",
+    "father": "lactantius",
+    "work": "de_mort",
+    "theme": "X",
+    "ref": "De mortibus persecutorum ch. 47 (ANF)",
+    "url": "https://www.newadvent.org/fathers/0705.htm",
+    "quote_en": "The Supreme God did so place their necks under the sword of their foes, that they seemed to have entered the field, not as combatants, but as men devoted to death.",
+    "quote_orig": "",
+    "orig_url": "",
+    "from_": "The Supreme God did so place their necks",
+    "to": "as combatants, but as men devoted to death.",
+    "keys": [
+      "The Supreme God did so place their necks under the sword of their foes",
+      "as men devoted to death"
+    ],
+    "context": "Ch. 47 narrates the defeat of Maximin Daia by Licinius (the year is not given in the text read). Lactantius presents the destruction of Daia's army as God's punishment of a persecutor ('The Supreme God did so place their necks under the sword of their foes'). The work as a whole is an account of the deaths of persecutors (among them Nero, Diocletian, Galerius and Daia, as far as I read) as divine judgment.",
+    "caveat": "ADVERSE (celebration of punishment): it celebrates divine vengeance on persecutors, including by war. The violence is God's and is directed at persecutors; the text does not argue that Christians should kill heretics or idolaters. The Latin for ch. 47 was not located. The ch. 48 Edict of Milan in the same work is tolerance (reported by Lactantius, not his own voice). Authorship generally ascribed to Lactantius, not checked.",
+    "stance": "own view",
+    "words": 31
+  },
+  {
+    "id": "inst4-heretics-contend-not-force",
+    "father": "lactantius",
+    "work": "div_inst",
+    "theme": "N",
+    "ref": "Divine Institutes IV.30 (ANF; Latin IV.30.13-14)",
+    "url": "https://www.newadvent.org/fathers/07014.htm",
+    "quote_en": "But, however, because all the separate assemblies of heretics call themselves Christians in preference to others, and think that theirs is the Catholic Church, it must be known that the true Catholic Church is that in which there is confession and repentance, which treats in a wholesome manner the sins and wounds to which the weakness of the flesh is liable. I have related these things in the meanwhile for the sake of admonition, that no one who desires to avoid error may be entangled in a greater error, while he is ignorant of the secret of the truth. Afterwards, in a particular and separate work, we will more fully and copiously contend against all divisions of falsehoods.",
+    "quote_orig": "[30.13] sed tamen quia singuli quique coetus haereticorum se potissimum Christianos et suam esse catholicam ecclesiam putant, sciendum est illam esse ueram in qua est confessio et paenitentia, quae peccata et uulnera quibus subiecta est inbecillitas carnis salubriter curat. [30.14] haec interim paucis admonendi gratia rettuli, ne quis errorem fugere cupiens maiore inplicetur errore, dum penetrale ueritatis ignorat: postea plenius et uberius contra omnes mendaciorum sectas proprio separatoque opere pugnabimus.",
+    "orig_url": "https://la.wikisource.org/wiki/Divinae_institutiones/Liber_IV",
+    "from_": "But, however, because all the separate assemblies of",
+    "to": "and copiously contend against all divisions of falsehoods.",
+    "keys": [
+      "the true Catholic Church is that in which there is confession and repentance",
+      "we will more fully and copiously contend against all divisions of falsehoods"
+    ],
+    "context": "Book IV ch. 30, 'Of Avoiding Heresies and Superstitions, and What is the Only True Catholic Church'. Just before the quoted paragraph he lists the heretical groups (Phrygians, Novatians, Valentinians, Marcionites, Anthropians, Arians) and says that those who take such names 'have ceased to be Christians'. The quoted paragraph says the true church is the one with 'confession and repentance' and that he will 'contend' against heresies in a separate work, i.e. by written argument.",
+    "caveat": "The only passage in the Institutes read that speaks directly of heretics. It does NOT say they must not be killed or coerced; the N reading is by inference from the choice of 'contend' (argument) over force. Heretics are said to be cut off from 'the hope of life and eternal salvation' (earlier in the chapter), which is exclusion from the Church, not a call for civil penalties. The 'separate work' is not identified in the text read.",
+    "stance": "own view",
+    "words": 118
+  }
+]

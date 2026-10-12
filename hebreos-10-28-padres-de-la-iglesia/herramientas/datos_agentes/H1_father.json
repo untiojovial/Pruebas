@@ -1,0 +1,23 @@
+{
+  "id": "chrysostom",
+  "name_es": "Juan Crisóstomo",
+  "name_en": "John Chrysostom",
+  "name_orig": "Ἰωάννης ὁ Χρυσόστομος",
+  "born": "c. 347, Antioch (background; not verified in sources I read)",
+  "died": "407, in exile (Comana, Pontus) (background; not verified in sources I read)",
+  "language": "Greek",
+  "role/place": "Presbyter in Antioch, then archbishop of Constantinople (398–404); the most prolific Greek preacher of the period, whose homilies on Hebrews, Matthew, Titus and the Adversus Judaeos survive.",
+  "why_relevant": "He wrote the homilies on Hebrews that comment on Heb 10:26–31 (the verse TikTok cites) and the homilies on Matthew that discuss how Jesus treats the Law and heretics, so he answers both the Hebrews and the Gospel side of the question.",
+  "image": {
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Johnchrysostom.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Johnchrysostom.jpg",
+    "local": "/tmp/claude-0/-home-user-Pruebas/978f574d-1019-54bc-bb45-9f4fddd102bb/scratchpad/hb/H1/dl/img_chrysostom.jpg",
+    "title": "File:Johnchrysostom.jpg (Commons title; caption: 'Mosaic in the northern tympanum of the Hagia Sophia, depicting Saint John Chrysostom')",
+    "artist_date": "Byzantine mosaic, Hagia Sophia, Constantinople. Commons description: 'The mosaic is approximately 1,000 years old.' No artist named on the page I read. Uploaded 2005/2011 (Commons history).",
+    "license": "Commons licence block, verbatim: 'Public domain' / 'This work is in the public domain in the United States because it was published (or registered with the U.S. Copyright Office) before January 1, 1931.' Summary line: 'This is a faithful photographic reproduction of a two-dimensional, public domain work of art.'",
+    "note": "Traditional iconography, not a contemporary portrait: no portrait of Chrysostom survives from his lifetime. Downloaded at the original size (1230 x 1460 px, 618 KB) because the 1000px thumbnail URL returned HTTP 400/429.",
+    "check": "Viewed the file: a standing, frontal bishop with a cruciform nimbus and a closed book in the hands, wearing white vestments with crosses, against a gold ground. Greek inscription on the sides of the halo reads ΙΩΑΝΝΗΣ (left) and ΧΡΥΣΟΣΤΟΜΟΣ (right), matching the title."
+  },
+  "image2": null,
+  "image2_note": "Not located. The Commons API returned HTTP 429 and I did not open a second candidate. Commons category pages seen in search results (Category:Icons of John Chrysostom, Category:Paintings of John Chrysostom) were not opened, so no licence was checked for them."
+}

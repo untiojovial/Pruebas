@@ -1,0 +1,32 @@
+[
+  {
+    "id": "adv_haer",
+    "title_orig": "Adversus haereses (Latin title; the Greek title was not verified in this task)",
+    "title_es": "Contra las herejías (Adversus haereses)",
+    "title_en": "Against Heresies (Adversus haereses)",
+    "date": "c. 180 (c. 175-189)",
+    "language": "Greek original lost; Latin translation extant (Books I-V in full), plus Greek fragments",
+    "genre": "treatise",
+    "translator_edition": "Ante-Nicene Fathers vol. 1 (Roberts & Rambaut, 1885), public domain. Read on New Advent (Book IV, ch. 8, 13, 15, 16, 26, 27, 28, 37) as https://www.newadvent.org/fathers/0103408.htm etc. (New Advent's version is edited/modernized by Kevin Knight: 'you' for 'ye'). Also read as full plain-text volume on CCEL (ccel.org/ccel/s/schaff/anf01/cache/anf01.txt, Book IV-V text in the same translation) to locate passages and footnotes.",
+    "original_edition": "Latin text in Migne PG 7 (Massuet/Harvey apparatus); NOT READ in this task (Latin not verified). Greek fragments in Harvey 1857 ed.",
+    "digital_url": "https://www.newadvent.org/fathers/0103408.htm ; 0103413.htm ; 0103415.htm ; 0103416.htm ; 0103426.htm ; 0103427.htm ; 0103428.htm ; 0103437.htm (all READ); full text https://ccel.org/ccel/s/schaff/anf01/cache/anf01.txt (READ, used to grep Hebrews/vengeance/compulsion/punishment terms in Books I-V)",
+    "access": "public-domain",
+    "authenticity_note": "genuine (Irenaeus of Lyons); no serious dispute of authorship. Textual issues: Latin is a translation from a lost Greek; Book IV Latin has known variants (ANF footnote 4433 notes the old Latin translator differs). Chapter summaries (headings) in ANF are editorial, NOT Irenaeus's words.",
+    "notes": "Irenaeus does not explicitly quote Heb 10:26-31 anywhere in the extant AH per ANF footnotes (see negative results). Heb is cited only as Heb i.3 (Book II/III footnote), Heb iii.5 (Book III), Heb x.9 (Book IV ch.17 footnote, on Ps 40:6), Heb xi.13 (Book V footnote). Chapter headings in ANF are editorial summaries."
+  },
+  {
+    "id": "letter_victor",
+    "title_orig": "Epistle of Irenaeus to Victor of Rome (Greek, as quoted by Eusebius, Historia ecclesiastica 5.24.12-17)",
+    "title_es": "Carta de Ireneo a Víctor de Roma (citada por Eusebio, HE 5.24)",
+    "title_en": "Letter of Irenaeus to Victor (quoted in Eusebius, Church History 5.24)",
+    "date": "c. 190-192 (Victor's episcopate; Eusebius places it under Victor, c. 189-199)",
+    "language": "Greek (quoted in Eusebius; Greek text of HE 5.24 not read)",
+    "genre": "letter",
+    "translator_edition": "Eusebius Pamphilius, Church History, NPNF2 vol. 1 (Schaff, ed., trans. by Arthur Cushman McGiffert, 1890), public domain. Read on CCEL: ccel.org/ccel/s/schaff/npnf201/cache/npnf201.txt (Book V ch. 24 and 26).",
+    "original_edition": "Eusebius, Historia ecclesiastica V.24 (Greek); Schwartz GCS 9 (1903-09) is the standard critical edition; NOT READ in this task (no Greek verified)",
+    "digital_url": "CCEL NPNF2-01 full text (READ) — Book V, chapter 24 (sections 9-18) and chapter 26 (section 1); CCEL plain text https://ccel.org/ccel/s/schaff/npnf201/cache/npnf201.txt",
+    "access": "public-domain",
+    "authenticity_note": "genuine as far as Eusebius's report goes (cited by Eusebius from an extant letter, which he saw); the letter itself survives only in Eusebius's quotation. Eusebius's narration (sec. 9-11) is his own prose, not Irenaeus's words.",
+    "notes": "Eusebius HE 5.26.1 says Irenaeus's extant 'Dissertations' (a lost book) mention the Epistle to the Hebrews and the Wisdom of Solomon and quote them; no text of Heb 10:28 survives there."
+  }
+]

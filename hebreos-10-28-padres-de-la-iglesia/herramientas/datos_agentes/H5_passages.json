@@ -1,0 +1,317 @@
+[
+ {
+  "id": "H5-N01",
+  "father": "tertullian",
+  "work": "scapulam",
+  "theme": "N",
+  "ref": "To Scapula (Ad Scapulam) 2",
+  "url": "https://www.newadvent.org/fathers/0305.htm",
+  "orig_url": "https://www.thelatinlibrary.com/tertullian/tertullian.scapulam.shtml",
+  "quote_en": "However, it is a fundamental human right, a privilege of nature, that every man should worship according to his own convictions: one man's religion neither harms nor helps another man. It is assuredly no part of religion to compel religion — to which free-will and not force should lead us — the sacrificial victims even being required of a willing mind. You will render no real service to your gods by compelling us to sacrifice.",
+  "quote_orig": "Tamen humani iuris et naturalis potestatis est unicuique quod putauerit colere; nec alii obest aut prodest alterius religio. Sed nec religionis est cogere religionem, quae sponte suscipi debeat, non ui, cum et hostiae ab animo libenti expostulentur. Ita etsi nos compuleritis ad sacrificandum, nihil praestabitis diis uestris",
+  "keys": [
+   "no part of religion to compel religion",
+   "to which free-will and not force should lead us",
+   "a fundamental human right, a privilege of nature"
+  ],
+  "context": "Written to the Proconsul Scapula (Carthage) against the persecution of Christians; the argument is that compelled worship is no worship and that religious liberty is a natural right. Chapter 2 is a general defence of Christians as loyal, not a policy for the Church toward dissenters. It does not mention heretics or apostates.",
+  "caveat": "Argument is a protest against state compulsion of pagan sacrifice, aimed at Christians as victims; it does not state that Christians must refrain from coercing heretics, though the principle is general. Translation 'It is assuredly no part of religion' renders 'Sed nec religionis est cogere religionem' (Latin Library section 2).",
+  "stance": "own view",
+  "from_": "However, it is a fundamental human right,",
+  "to": "gods by compelling us to sacrifice."
+ },
+ {
+  "id": "H5-N02",
+  "father": "tertullian",
+  "work": "apologeticum",
+  "theme": "N",
+  "ref": "Apology 24 (Latin Library section 6; ANF chapter 24)",
+  "url": "https://www.newadvent.org/fathers/0301.htm",
+  "orig_url": "https://www.thelatinlibrary.com/tertullian/tertullian.apol.shtml",
+  "quote_en": "For see that you do not give a further ground for the charge of irreligion, by taking away religious liberty, and forbidding free choice of deity, so that I may no longer worship according to my inclination, but am compelled to worship against it. Not even a human being would care to have unwilling homage rendered him;",
+  "quote_orig": "Videte enim, ne et hoc ad irreligiositatis elogium concurrat, adimere libertatem religionis et interdicere optionem divinitatis, ut non liceat mihi colere quem velim, sed cogar colere quem nolim. Nemo se ab invito coli volet, ne homo quidem.",
+  "keys": [
+   "by taking away religious liberty",
+   "but am compelled to worship against it",
+   "Not even a human being would care to have unwilling homage rendered him"
+  ],
+  "context": "Apology addressed to the Roman governors. Ch. 24 argues that persecution of Christians for their worship is unjust and that Christians are not guilty of treason against the gods.",
+  "caveat": "Apologetic addressed to pagan magistrates; Tertullian argues from natural freedom of choice, not from a principle about heretics within the Church. The same chapter sentence continues with a reference to Egyptian laws punishing those who kill sacred animals (reported, not endorsed).",
+  "stance": "own view",
+  "from_": "For see that you do not give",
+  "to": "to have unwilling homage rendered him;"
+ },
+ {
+  "id": "H5-N03",
+  "father": "tertullian",
+  "work": "apologeticum",
+  "theme": "N",
+  "ref": "Apology 28 (Latin Library XXVIII.1; ANF chapter 28)",
+  "url": "https://www.newadvent.org/fathers/0301.htm",
+  "orig_url": "https://www.thelatinlibrary.com/tertullian/tertullian.apol.shtml",
+  "quote_en": "But as it was easily seen to be unjust to compel freemen against their will to offer sacrifice (for even in other acts of religious service a willing mind is required), it should be counted quite absurd for one man to compel another to do honour to the gods, when he ought ever voluntarily, and in the sense of his own need, to seek their favour, lest in the liberty which is his right he should be ready to say, I want none of Jupiter's favours; pray who are you?",
+  "quote_orig": "Quoniam autem facile iniquum videretur liberos homines invitos urgeri ad sacrificandum — nam et alias divinae rei faciundae libens animus indicitur —, certe ineptum existimaretur, si quis ab alio cogeretur ad honorem deorum",
+  "keys": [
+   "to compel freemen against their will to offer sacrifice",
+   "a willing mind is required",
+   "it should be counted quite absurd for one man to compel another"
+  ],
+  "context": "Continues the argument of ch. 24 against forced sacrifice. Written to pagan rulers; the principle is applied to pagans compelled to worship, not to a church disciplining its members.",
+  "caveat": "Translation: 'easily seen to be unjust' renders 'facile iniquum videretur'. The principle of free will in worship is stated generally, but the text does not address heretics or apostates.",
+  "stance": "own view",
+  "from_": "But as it was easily seen to",
+  "to": "Jupiter's favours; pray who are you?"
+ },
+ {
+  "id": "H5-N04",
+  "father": "tertullian",
+  "work": "idololatria",
+  "theme": "N",
+  "ref": "On Idolatry 17.3 (Latin Library section 3; ANF chapter 17)",
+  "url": "https://www.newadvent.org/fathers/0302.htm",
+  "orig_url": "https://www.thelatinlibrary.com/tertullian/tertullian.idololatria.shtml",
+  "quote_en": "moreover (what comes under the head of power), neither sitting in judgment on any one's life or character, for you might bear with his judging about money; neither condemning nor fore-condemning; binding no one, imprisoning or torturing no one — if it is credible that all this is possible.",
+  "quote_orig": "iam uero quae sunt potestatis, neque iudicet de capite alicuius uel pudore -- feras enim de pecunia -- neque damnet neque praedamnet, neminem uinciat, neminem recludat aut torqueat, si haec credibile est fieri posse.",
+  "keys": [
+   "neither condemning nor fore-condemning",
+   "binding no one, imprisoning or torturing no one",
+   "if it is credible that all this is possible"
+  ],
+  "context": "Ch. 17 asks whether a believer may hold public office (servants, officials, magistrates) without sharing in idolatry. Tertullian's answer is conditional: the official must not sacrifice, give spectacles, swear, and must not judge capital cases, condemn, imprison or torture.",
+  "caveat": "The restraint is conditional ('if it is credible that all this is possible') and Tertullian doubts it is feasible; the topic is idolatry in office, not heretics. Latin 'pudor' is rendered 'character' by the translator (it means honour/chastity). Note that the same passage allows a believer to hold office in principle, which is not a statement on punishing heretics.",
+  "stance": "own view",
+  "from_": "moreover (what comes under the head of",
+  "to": "credible that all this is possible."
+ },
+ {
+  "id": "H5-N05",
+  "father": "tertullian",
+  "work": "praescriptio",
+  "theme": "N",
+  "ref": "Prescription against Heretics 16 (Latin Library XVI.2; ANF chapter 16)",
+  "url": "https://www.newadvent.org/fathers/0311.htm",
+  "orig_url": "https://www.thelatinlibrary.com/tertullian/tertullian.praescrip.shtml",
+  "quote_en": "or to consort with a heretic after the first and second admonition, Titus 3:10 not, (be it observed,) after discussion. Discussion he has inhibited in this way, by designating admonition as the purpose of dealing with a heretic, and the first one too, because he is not a Christian; in order that he might not, after the manner of a Christian, seem to require correction again and again, and before two or three witnesses, Matthew 18:16 seeing that he ought to be corrected, for the very reason that he is not to be disputed with;",
+  "quote_orig": "Adeo interdixit disputationem correptionem designans causam haeretici conueniendi. Et hoc unam, scilicet quia non est christianus, ne more christiani semel et iterum, et sub duobus aut tribus testibus castigandus uideretur, cum ob hoc sit castigandus propter quod non sit cum illo disputandum.",
+  "keys": [
+   "consort with a heretic after the first and second admonition",
+   "before two or three witnesses",
+   "he is not to be disputed with"
+  ],
+  "context": "Ch. 16 (Prescription against Heretics) says the apostle prescribes admonition, not disputation, for a heretic (Titus 3:10), and that the heretic's correction is not to follow the Christian pattern of 'two or three witnesses' (Matt 18:16). Ch. 6 says the heretic 'must be rejected after the first admonition'.",
+  "caveat": "Translation mismatch: the Latin says 'post unam correptionem' (after one admonition) in ch. 16 and 'post primam correptionem' in ch. 6; Holmes's English says 'first and second admonition' in ch. 16. Use the Latin. The passage prescribes exclusion, not violence; it does mention 'two or three witnesses' but as a Christian discipline standard (Matt 18:16), not a death penalty. Heb 10:28 is not cited here.",
+  "stance": "own view",
+  "from_": "or to consort with a heretic after",
+  "to": "is not to be disputed with;"
+ },
+ {
+  "id": "H5-D01",
+  "father": "tertullian",
+  "work": "iudaeos",
+  "theme": "D",
+  "ref": "Answer to the Jews (Adversus Iudaeos) 3, Latin section 10 (ANF chapter 3)",
+  "url": "https://www.newadvent.org/fathers/0308.htm",
+  "orig_url": "https://www.thelatinlibrary.com/tertullian/tertullian.iudaeos.shtml",
+  "quote_en": "Who else, therefore, are understood but we, who, fully taught by the new law, observe these practices — the old law being obliterated, the coming of whose abolition the action itself demonstrates? For the wont of the old law was to avenge itself by the vengeance of the glaive, and to pluck out eye for eye, and to inflict retaliatory revenge for injury. But the new law's wont was to point to clemency, and to convert to tranquillity the pristine ferocity of glaives and lances, and to remodel the pristine execution of war upon the rivals and foes of the law into the pacific actions of ploughing and tilling the land.",
+  "quote_orig": "Qui igitur intelleguntur alii quam nos qui in nova lege edocti ista observamus obliterata veteri lege cuius abolitionem futuram actus ipse demonstrat? Nam et vetus lex ultione gladii se vindicabat et oculum pro oculo eruebat et vindicta iniuriam retribuebat, nova autem lex clementiam designabat et pristinam ferocitatem gladiorum et lancearum ad tranquillitatem convertebat",
+  "keys": [
+   "the old law being obliterated",
+   "the wont of the old law was to avenge itself by the vengeance of the glaive",
+   "the new law's wont was to point to clemency"
+  ],
+  "context": "Argues from Isaiah 2:3-4 (swords into ploughshares) that the new law from Zion replaces the old law, which is 'obliterated'. Ch. 3 is part of an argument against Jewish practice of circumcision and Sabbath, showing the Old Law is superseded.",
+  "caveat": "Explicit supersession language, but Tertullian's own position elsewhere is less uniform: in Adv. Marc. 2.18 (see H5-D03) he defends the lex talionis as a restraint and not a 'permission' of injury, and in Adv. Marc. 4.16 (H5-D04) he insists Christ's teaching is 'in keeping with' the Creator's law. Date not checked in a source I read (conventionally c. 200). Translation 'the old law being obliterated' renders 'veteri lege abolita'.",
+  "stance": "own view",
+  "from_": "Who else, therefore, are understood but we,",
+  "to": "of ploughing and tilling the land."
+ },
+ {
+  "id": "H5-D02",
+  "father": "tertullian",
+  "work": "virginibus",
+  "theme": "D",
+  "ref": "On the Veiling of Virgins 1 (Latin Library section 10; ANF chapter 1)",
+  "url": "https://www.newadvent.org/fathers/0403.htm",
+  "orig_url": "https://www.thelatinlibrary.com/tertullian/tertullian.virginibus.shtml",
+  "quote_en": "So, too, righteousness — for the God of righteousness and of creation is the same — was first in a rudimentary state, having a natural fear of God: from that stage it advanced, through the Law and the Prophets, to infancy; from that stage it passed, through the Gospel, to the fervour of youth: now, through the Paraclete, it is settling into maturity.",
+  "quote_orig": "primo fuit in rudimentis, natura deum metuens, dehinc per legem et prophetas promovit in infantiam, dehinc per evangelium efferbuit in iuventutem, nunc per paracletum componitur in maturitatem.",
+  "keys": [
+   "through the Law and the Prophets, to infancy",
+   "through the Gospel, to the fervour of youth",
+   "now, through the Paraclete, it is settling into maturity"
+  ],
+  "context": "Opening chapter of the treatise on veiling virgins. Tertullian argues that truth is progressive: discipline develops through stages, with the Paraclete (the Holy Spirit, in the Montanist sense) bringing the final stage.",
+  "caveat": "MONTANIST-PERIOD WORK: it appeals to the Paraclete as the present revelation, a position the Catholic Church rejected. The stages are a developmental scheme of one righteousness under one God, not a repudiation of the Law's commands; the passage does not discuss punishment.",
+  "stance": "own view",
+  "from_": "So, too, righteousness — for the God",
+  "to": "Paraclete, it is settling into maturity."
+ },
+ {
+  "id": "H5-D03",
+  "father": "tertullian",
+  "work": "marcionem2",
+  "theme": "D",
+  "ref": "Against Marcion 2.18.1 (Latin Library section 18.1; ANF chapter 18)",
+  "url": "https://www.newadvent.org/fathers/03122.htm",
+  "orig_url": "https://www.thelatinlibrary.com/tertullian/tertullian.marcionem2.shtml",
+  "quote_en": "Now there is not here any smack of a permission to mutual injury; but rather, on the whole, a provision for restraining violence. To a people which was very obdurate, and wanting in faith towards God, it might seem tedious, and even incredible, to expect from God that vengeance which was subsequently to be declared by the prophet: Vengeance is mine; I will repay, says the Lord.",
+  "quote_orig": "Non enim iniuriae mutuo exercendae licentiam sapit, sed in totum cohibendae violentiae prospicit, ut quia durissimo et infideli in deum populo longum vel etiam incredibile videretur a deo expectare defensam, edicendam postea per prophetam, Mihi defensam, et ego defendam, dicit dominus",
+  "keys": [
+   "a provision for restraining violence",
+   "To a people which was very obdurate",
+   "to expect from God that vengeance"
+  ],
+  "context": "Defends the Creator's Law against Marcion, who held it was cruel. Tertullian says the 'eye for eye' law (Exod 21:24) restrained violence, and was given to a stubborn people who could not yet trust God's vengeance.",
+  "caveat": "Anti-Marcionite apologetic: Tertullian defends the Law's penalty as good, and gives a pedagogical reason (a concession to a stubborn people). He does NOT say the penalty binds or does not bind Christians here. Translation: the English 'Vengeance is mine; I will repay' renders Latin 'Mihi defensam, et ego defendam' (a rendering of the prophetic quotation in Latin); the Latin does not use Heb 10:30 wording. Heb 10:30 is not cited.",
+  "stance": "own view",
+  "from_": "Now there is not here any smack",
+  "to": "I will repay, says the Lord."
+ },
+ {
+  "id": "H5-D04",
+  "father": "tertullian",
+  "work": "marcionem4",
+  "theme": "D",
+  "ref": "Against Marcion 4.16 (Latin Library section 16.2; ANF chapter 16)",
+  "url": "https://www.newadvent.org/fathers/03124.htm",
+  "orig_url": "https://www.thelatinlibrary.com/tertullian/tertullian.marcionem4.shtml",
+  "quote_en": "No doubt these are supplementary additions by Christ, but they are quite in keeping with the teaching of the Creator. And therefore this question must at once be determined, Whether the discipline of patience be enjoined by the Creator?",
+  "quote_orig": "Plane haec Christus adiecerit ut supplementa consentanea disciplinae creatoris. Atque adeo hoc statim renuntiandum est, an disciplina patientiae praedicatur penes creatorem.",
+  "keys": [
+   "supplementary additions by Christ",
+   "quite in keeping with the teaching of the Creator",
+   "Whether the discipline of patience be enjoined by the Creator"
+  ],
+  "context": "Adv. Marc. 4.16 comments on Luke 6 (love of enemies; the other cheek). Tertullian, against Marcion's Gospel-only theology, argues Christ's teaching on patience is an addition consistent with the Creator's law of retaliation.",
+  "caveat": "This is the clearest counter-evidence to a Law-versus-Gospel reading: in Marcion books Tertullian stresses continuity and that Christ's 'new' teaching is 'in furtherance' of the Law. The sentence just before ('Christ plainly teaches a new kind of patience') is the position Tertullian answers; the English 'Well, but' is the translator's. Use this passage for D only with the continuity caveat.",
+  "stance": "own view (answering Marcion)",
+  "from_": "No doubt these are supplementary additions by",
+  "to": "patience be enjoined by the Creator?"
+ },
+ {
+  "id": "H5-D05",
+  "father": "tertullian",
+  "work": "apologeticum",
+  "theme": "D",
+  "ref": "Apology 45.3 (Latin Library XLV.3; ANF chapter 45)",
+  "url": "https://www.newadvent.org/fathers/0301.htm",
+  "orig_url": "https://www.thelatinlibrary.com/tertullian/tertullian.apol.shtml",
+  "quote_en": "And so, which is the ampler rule, to say, You shall not kill, or to teach, Be not even angry? Which is more perfect, to forbid adultery, or to restrain from even a single lustful look? Which indicates the higher intelligence, interdicting evil-doing, or evil-speaking? Which is more thorough, not allowing an injury, or not even suffering an injury done to you to be repaid?",
+  "quote_orig": "Atque adeo quid plenius, dicere: \"Non occides\" an docere: \"Ne irascaris quidem\"? Quid perfectius, prohibere adulterium an etiam ab oculorum solitaria concupiscentia arcere?",
+  "keys": [
+   "which is the ampler rule, to say, You shall not kill",
+   "Which is more perfect, to forbid adultery",
+   "Be not even angry"
+  ],
+  "context": "Apology 45 argues that Christians alone are innocent because they have a perfect Master (Christ). Tertullian compares the 'You shall not kill' of the commandments with Christ's teaching 'Be not even angry' (Matt 5:21-22) and says the second is 'ampler' and 'more perfect'.",
+  "caveat": "The comparison is framed as Christian teaching versus human law (the 'your' of pagan legislation), not explicitly Old Testament Law versus Gospel; he adds that human laws 'have been borrowed from the law of God'. 'You shall not kill' is itself a commandment of the Law. Use as evidence for the 'perfection' theme only with that framing.",
+  "stance": "own view",
+  "from_": "And so, which is the ampler rule,",
+  "to": "done to you to be repaid?"
+ },
+ {
+  "id": "H5-H01",
+  "father": "tertullian",
+  "work": "pudicitia",
+  "theme": "H",
+  "ref": "On Modesty (De pudicitia) 20, Latin sections 2-3 (ANF chapter 20)",
+  "url": "https://www.newadvent.org/fathers/0407.htm",
+  "orig_url": "https://www.thelatinlibrary.com/tertullian/tertullian.pudicitia.shtml",
+  "quote_en": "For impossible it is that they who have once been illuminated, and have tasted the heavenly gift, and have participated in the Holy Spirit, and have tasted the word of God and found it sweet, when they shall — their age already setting — have fallen away, should be again recalled unto repentance, crucifying again for themselves the Son of God, and dishonouring Him.",
+  "quote_orig": "impossibile est enim, inquit, eos qui semel inluminati sunt et donum caeleste gustauerunt  et participauerunt Spiritum sanctum et uerbum Dei dulce gustauerunt, occidente  iam aeuo cum exciderint, rursus reuocari in paenitentiam, refigentes cruci in semetipsos filium Dei et dedecorantes.",
+  "keys": [
+   "For impossible it is that they who have once been illuminated",
+   "should be again recalled unto repentance",
+   "crucifying again for themselves the Son of God"
+  ],
+  "context": "Tertullian cites the 'Epistle to the Hebrews under the name of Barnabas' (Heb 6:4-6) against a second repentance for the grave sinner (adultery, fornication). He calls Barnabas 'a man sufficiently accredited by God'. The argument is about post-baptismal sin, not about Heb 10.",
+  "caveat": "MONTANIST-PERIOD WORK (De pudicitia argues against the Catholic pardon of adultery and fornication, from a New Prophecy (Montanist) standpoint). He ascribes Hebrews to Barnabas. Quotation is of Heb 6:4-6 only; no citation of Heb 10:26-31 or 10:28 found in this work. The phrase 'Heb 6' applies to the sin after baptism, not to the death penalty.",
+  "stance": "quoting Hebrews as authority (own argument)",
+  "from_": "For impossible it is that they who",
+  "to": "Son of God, and dishonouring Him."
+ },
+ {
+  "id": "H5-X01",
+  "father": "tertullian",
+  "work": "scorpiace",
+  "theme": "X",
+  "ref": "Scorpiace 2, Latin sections 8-10 (quoting Deut 13:9-10; ANF chapter 2)",
+  "url": "https://www.newadvent.org/fathers/0318.htm",
+  "orig_url": "https://www.thelatinlibrary.com/tertullian/tertullian.scorpiace.shtml",
+  "quote_en": "Your hand shall be first upon him to kill him, and afterwards the hand of your people; and you shall stone him, and he shall die, seeing he has sought to turn you away from the Lord your God.",
+  "quote_orig": "Manus tuae erunt in eum in primis ad occidendum, et manus populi tui in nouissimis, et lapidabitis illum, et morietur, quoniam quaesiuit auertere te a domino deo tuo.",
+  "keys": [
+   "you shall stone him, and he shall die",
+   "Your hand shall be first upon him to kill him",
+   "seeing he has sought to turn you away from the Lord your God"
+  ],
+  "context": "Scorpiace (a treatise on martyrdom against the Gnostics) ch. 2 catalogues Old Testament commands against idolatry: Exodus 20; Deuteronomy 6, 11, 12, 13 (the stoning of a seducing prophet or relative, and the destruction of a city that turns to idols), 27; and Leviticus. The stoning is quoted, not explained. Tertullian then says these words 'were first spoken by the Lord by the lips of Moses' and apply to 'whomsoever the Lord God of Israel may lead forth' from the 'Egypt of a most superstitious world': the application he states is to the prohibition of idols (the Exodus commands in the sentences just before), not to the penalty.",
+  "caveat": "ADVERSE: the death penalty for seducing to idolatry is quoted as God's command and the prohibition is explicitly applied to Christians. Tertullian does not say in this chapter that Christians should carry out the stoning, nor that the penalty binds them; the stance is a scriptural catalogue. Latin 'lapidabitis' and 'occidendum' are the Latin text of Deut 13:9-10 as quoted. Scorpiace's date is not checked against a source I read (usually c. 211-212); its Montanist status is not checked here.",
+  "stance": "quoting scripture (catalogue; no explicit application of penalty)",
+  "from_": "Your hand shall be first upon him",
+  "to": "away from the Lord your God."
+ },
+ {
+  "id": "H5-X02",
+  "father": "tertullian",
+  "work": "scorpiace",
+  "theme": "X",
+  "ref": "Scorpiace 3, Latin section 5 (ANF chapter 3)",
+  "url": "https://www.newadvent.org/fathers/0318.htm",
+  "orig_url": "https://www.thelatinlibrary.com/tertullian/tertullian.scorpiace.shtml",
+  "quote_en": "Israel having, as we are told in Numbers, Numbers 25:1 turned aside at Sethim, the people go to the daughters of Moab to gratify their lust: they are allured to the idols, so that they committed whoredom with the spirit also: finally, they eat of their defiled sacrifices; then they both worship the gods of the nation, and are admitted to the rites of Beelphegor. For this lapse, too, into idolatry, sister to adultery, it took the slaughter of twenty-three thousand by the swords of their countrymen to appease the divine anger.",
+  "quote_orig": "Ob hanc quoque idololatrian moechiae sororem uiginti tria milia domesticis obtruncata gladiis diuinae irae litauerunt.",
+  "keys": [
+   "it took the slaughter of twenty-three thousand by the swords of their countrymen",
+   "to appease the divine anger",
+   "admitted to the rites of Beelphegor"
+  ],
+  "context": "In Scorpiace 3 Tertullian reviews Old Testament episodes of divine punishment for idolatry (the golden calf, Numbers 25) to show that God always punishes idolatry, as a basis for the martyrdom argument.",
+  "caveat": "ADVERSE (narrative approval): Tertullian reports, without criticism, that Israelites 'by the swords of their countrymen' killed idolaters and that this 'appeased the divine anger'. This is a narrative of OT divine judgement, not a call for Christians to kill. Note: he gives 23,000; Numbers 25:9 gives 24,000 and Tertullian himself writes 24,000 in De pudicitia 6.13 (H5-X03). 'Lapse' = Latin 'idololatrian'. Latin section numbering as in Latin Library text.",
+  "stance": "reporting OT narrative (approving tone)",
+  "from_": "Israel having, as we are told in",
+  "to": "countrymen to appease the divine anger."
+ },
+ {
+  "id": "H5-X03",
+  "father": "tertullian",
+  "work": "pudicitia",
+  "theme": "X",
+  "ref": "On Modesty (De pudicitia) 6, Latin sections 12-13 (ANF chapter 6)",
+  "url": "https://www.newadvent.org/fathers/0407.htm",
+  "orig_url": "https://www.thelatinlibrary.com/tertullian/tertullian.pudicitia.shtml",
+  "quote_en": "We, too, indeed have precedents in the self-same antiquity on the side of our opinion —(precedents) of judgment not merely not waived, but even summarily executed upon fornication. And of course it is a sufficient one, that so vast a number — (the number) of 24,000— of the People, when they committed fornication with the daughters of Madian, fell in one plague.",
+  "quote_orig": "Habemus quidem et nos eiusdem uetustatis exempla pro sententia nostra, non modo non indulti, uerum etiam repraesentati iudicii fornicationis. [13] Et utique sufficit tantum numerum XXIV milium populi fornicantis in filias Madian una plaga ruisse.",
+  "keys": [
+   "summarily executed upon fornication",
+   "fell in one plague",
+   "of 24,000"
+  ],
+  "context": "Chapter 6 answers the Catholic (called 'Psychics') who cite Old Testament precedents of pardon for adultery: Tertullian replies that the same antiquity also has precedents of judgement executed on fornicators, namely the 24,000 who died in a plague after Num 25 (Madian).",
+  "caveat": "ADVERSE (mild): cites OT judgments on fornication as precedent for strict discipline. Translation issue: 'summarily executed' renders Latin 'repraesentati iudicii' (judgement brought forward/immediate); the agent in Numbers is a divine plague, not a human execution, and Tertullian applies it to Church discipline (no pardon), not to a death penalty. The Latin 'repraesentati' is not verified against a second translation. Montanist-period work.",
+  "stance": "own argument citing OT precedent (not explicit human execution)",
+  "from_": "We, too, indeed have precedents in the",
+  "to": "of Madian, fell in one plague."
+ },
+ {
+  "id": "H5-X04",
+  "father": "tertullian",
+  "work": "marcionem2",
+  "theme": "X",
+  "ref": "Against Marcion 2.28, Latin sections 2-3 (ANF chapter 28)",
+  "url": "https://www.newadvent.org/fathers/03122.htm",
+  "orig_url": "https://www.thelatinlibrary.com/tertullian/tertullian.marcionem2.shtml",
+  "quote_en": "Many were consumed by the severity of my God. Those also who were not saved by your god are verily disposed by him to ruin. My God ordered a man to be slain. Your god willed himself to be put to death; not less a homicide against himself than in respect of him by whom he meant to be slain.",
+  "quote_orig": "Multos saevitia dei mei absumpsit. [3] Tuus quoque deus quos salvos non facit utique in exitium disponit. Deus meus aliquem iussit occidi. Tuus semetipsum voluit interfici, non minus homicida in semetipsum quam in eum a quo vellet occidi.",
+  "keys": [
+   "My God ordered a man to be slain",
+   "Many were consumed by the severity of my God",
+   "not less a homicide against himself"
+  ],
+  "context": "Tu quoque argument against Marcion, who taught that the Creator was cruel and that Christ's death showed the good God. Tertullian says the Creator's 'severity' killed many and ordered a man slain, and that Marcion's Christ also 'willed' to be put to death.",
+  "caveat": "ADVERSE (affirms OT divine killing as just; the 'ordered a man to be slain' is an OT divine command, the context is theodicy). Tertullian does not apply it to Christians or to human judges. The Latin 'occidi' is the same verb used in Scorpiace; the Latin text has a '[3]' section inside ch. 28 in the Latin Library numbering. Tertullian mixes the Creator's OT judgement with the Gospel in this sentence.",
+  "stance": "own argument (defending divine OT command)",
+  "from_": "Many were consumed by the severity of",
+  "to": "whom he meant to be slain."
+ }
+]

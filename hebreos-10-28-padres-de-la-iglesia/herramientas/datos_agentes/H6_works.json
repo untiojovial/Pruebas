@@ -1,0 +1,47 @@
+[
+  {
+    "id": "div_inst",
+    "title_orig": "Divinarum institutionum libri septem",
+    "title_es": "Instituciones divinas",
+    "title_en": "The Divine Institutes",
+    "date": "c. 304-311 (approx.; dating not verified in the sources I read)",
+    "language": "Latin",
+    "genre": "treatise",
+    "translator_edition": "William Fletcher, ANF vol. 7 (Buffalo 1886), public domain; text read on New Advent (Books IV, V, VI). Translator credit verified on the page.",
+    "original_edition": "Latin text read on Latin Wikisource transcriptions (la.wikisource.org/wiki/Divinae_institutiones/Liber_IV, Liber_V, Liber_VI). The printed edition behind the transcription is not stated in the page I read; the standard critical editions are CSEL 19 (Brandt-Laubmann, 1890) and the Teubner (Heck-Wlosok, in progress), not checked here.",
+    "digital_url": "https://www.newadvent.org/fathers/07015.htm (Book V); https://www.newadvent.org/fathers/07016.htm (Book VI); https://www.newadvent.org/fathers/07014.htm (Book IV); Latin: https://la.wikisource.org/wiki/Divinae_institutiones/Liber_V",
+    "access": "public-domain",
+    "authenticity_note": "genuine (no dispute raised in the sources read)",
+    "notes": "ANF chapter numbers differ from the Latin section numbers by one chapter in Book V (Latin V.19 = ANF V.20; Latin V.20 = ANF V.21). Book VI matches (Latin VI.20 = ANF VI.20). The scripture references in ANF VI.18 ('Romans 12:19; Hebrews 10:30') are editorial and are NOT in the Latin (Latin VI.18.11 has no citation); see summary."
+  },
+  {
+    "id": "epitome",
+    "title_orig": "Epitome divinarum institutionum",
+    "title_es": "Epítome de las Instituciones divinas",
+    "title_en": "The Epitome of the Divine Institutes",
+    "date": "c. 318-324 (approx.; general knowledge, not verified in the sources read)",
+    "language": "Latin",
+    "genre": "treatise (summary of the Institutes, addressed to Pentadius)",
+    "translator_edition": "William Fletcher (ANF vol. 7), public domain; credit shown as '[Translated by the Rev. William Fletcher, D.D.]' on the EWTN page read.",
+    "original_edition": "Latin not read (Latin Wikisource URL tried: 404).",
+    "digital_url": "https://www.ewtn.com/catholicism/library/epitome-of-the-divine-institutes-divinae-institutiones-11481 (chapter LIV, LVI, XXXIV, XLIII read)",
+    "access": "public-domain",
+    "authenticity_note": "genuine (the Epitome is attributed to Lactantius himself; no dispute raised in the sources read)",
+    "notes": "Chapter numbering follows the Fletcher text: LIV = 'Of the freedom of religion in the worship of God'. The EWTN page carries some OCR artefacts (e.g. 'be-haft'); avoid those words in quotes. Footnote markers such as '(1)' appear inside the text."
+  },
+  {
+    "id": "de_mort",
+    "title_orig": "De mortibus persecutorum",
+    "title_es": "Sobre la muerte de los perseguidores",
+    "title_en": "Of the Manner in Which the Persecutors Died",
+    "date": "c. 313-321 (approx.; general knowledge, not verified)",
+    "language": "Latin",
+    "genre": "historical-apologetic treatise (addressed to Donatus)",
+    "translator_edition": "William Fletcher (ANF vol. 7), public domain; credit verified on the New Advent page read.",
+    "original_edition": "Latin text on thelatinlibrary.com/lactantius/demort.shtml (read in part, 'Liber ad Donatum confessorem de mortibus persecutorum'); the edition is not stated on the page. Chapter 47 and 48 Latin not located in the text read.",
+    "digital_url": "https://www.newadvent.org/fathers/0705.htm (chapters 47 and 48 read)",
+    "access": "public-domain",
+    "authenticity_note": "generally ascribed to Lactantius; I did not check the scholarly debate on authorship",
+    "notes": "Used only for the X (adverse) check: it celebrates divine punishment of persecutors. The Edict of Milan appears in ch. 48 as reported by Lactantius (edict text, not his own voice)."
+  }
+]

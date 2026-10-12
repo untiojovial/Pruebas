@@ -1,0 +1,175 @@
+[
+  {
+    "id": "ath-hist33-persuasion",
+    "father": "athanasius",
+    "work": "hist-arians",
+    "theme": "N",
+    "ref": "History of the Arians §33 ('Persecution is from the Devil'); NPNF2 vol. 4",
+    "url": "https://www.newadvent.org/fathers/28154.htm",
+    "quote_en": "But our Saviour is so gentle that He teaches thus, 'If any man wills to come after Me,' and, 'Whoever wills to be My disciple Matthew 16:24;' and coming to each He does not force them, but knocks at the door and says, 'Open unto Me, My sister, My spouse Song of Songs 5:2;' and if they open to Him, He enters in, but if they delay and will not, He departs from them. For the truth is not preached with swords or with darts, nor by means of soldiers; but by persuasion and counsel.",
+    "quote_orig": "Ὁ δὲ Σωτὴρ οὕτως ἐστὶ πρᾶος, ὡς διδάσκειν μὲν, Εἴ τις θέλει ὀπίσω μου ἐλθεῖν· καὶ, Ὃ θέλων εἶναί μου μαθητής· ἐρχόμενον δὲ πρὸς ἕκαστον μὴ βιάζεσθαι, ἀλλὰ μᾶλλον κρούειν τε καὶ λέγειν· Ἄνοιξόν μοι, ἀδελφή μου, νύμφη· καὶ ἀνοιγόντων μὲν, εἰσέρχεται, ὀκνούντων δὲ καὶ μὴ θελόντων ἐκείνων, ἀναχωρεῖ. Οὐ γὰρ ξίφεσιν, ἢ βέλεσιν, οὐδὲ διὰ στρατιωτῶν ἡ ἀλήθεια καταγγέλλεται, ἀλλὰ πειθοῖ καὶ συμβουλίᾳ.",
+    "orig_url": "https://archive.org/download/patrologiae_cursus_completus_gr_vol_025/patrologiae_cursus_completus_gr_vol_025_djvu.txt",
+    "from_": "But our Saviour is so gentle that He",
+    "to": "but by persuasion and counsel.",
+    "keys": [
+      "does not force them",
+      "not preached with swords or with darts",
+      "by persuasion and counsel"
+    ],
+    "context": "Written by Athanasius, c. 358–362, about the Arian party's use of imperial force against orthodox bishops and people in the 350s (Constantius). Here he contrasts the Devil, who 'attacks and breaks down the doors' with axes and hammers, with the Saviour who knocks and does not force. The passage that follows cites David's refusal to let his men kill Saul, and describes the Emperor ordering orthodox bishops to subscribe against Athanasius or go into banishment.",
+    "caveat": "Principle is stated about the church's preaching and about Arian coercion of orthodox clergy; it does not address whether a Christian ruler may punish heretics. The brief's 'axes and swords' is not in the English source ('axes and hammers'). Greek: the sentence opening the paragraph is OCR-garbled and is not quoted; the Greek quoted was read from the PG 25 OCR with obvious OCR errors corrected (e.g. κρούειν, Ἄνοιξόν, ἀδελφή).",
+    "stance": "own view",
+    "word_count": 95
+  },
+  {
+    "id": "ath-hist67-not-compel",
+    "father": "athanasius",
+    "work": "hist-arians",
+    "theme": "N",
+    "ref": "History of the Arians §67 ('Arianism worse than other heresies, because of Persecution'); NPNF2 vol. 4",
+    "url": "https://www.newadvent.org/fathers/28158.htm",
+    "quote_en": "The other heresies also, when the very Truth has refuted them on the clearest evidence, are wont to be silent, being simply confounded by their conviction. But this modern and accursed heresy, when it is overthrown by argument, when it is cast down and covered with shame by the very Truth, immediately endeavours to coerce by violence and stripes and imprisonment those whom it has been unable to persuade by argument, thereby acknowledging itself to be anything rather than godly. For it is the part of true godliness not to compel , but to persuade, as I said before. Thus our Lord Himself, not as employing force, but as offering to their free choice, has said to all, 'If any man will follow after Me Matthew 16:24;' and to His disciples, 'Will you also go away John 6:67?",
+    "quote_orig": "Καὶ αἱ μὲν ἄλλαι αἱρέσεις, ἐλεγχόμεναι ταῖς ἀποδείξεσιν ὑπ᾽ αὐτῆς τῆς ἀληθείας, σιωπῶσι, μηδὲν πλέον ἢ ἐντρεπόμεναι τοῖς ἐλέγχοις· ἡ δὲ νέα καὶ μυσαρὰ τούτων αἵρεσις, ὅταν ἀνατραπῇ τοῖς λόγοις, ὅταν ὑπ᾽ αὐτῆς τῆς ἀληθείας αἰσχυνθεῖσα πέσῃ, λοιπὸν οὓς μὴ δύναται πεῖσαι λόγοις, τούτους τῇ βίᾳ, καὶ πληγαῖς, καὶ δεσμωτηρίοις ἕλκειν ἐπιχειρεῖ, γνωρίζουσα ἑαυτὴν καὶ οὕτως, ὡς πάντα μᾶλλόν ἐστιν ἢ θεοσεβής. Θεοσεβείας μὲν γὰρ ἴδιον, μὴ ἀναγκάζειν, ἀλλὰ πείθειν, ὥσπερ εἴπαμεν. Καὶ γὰρ ὁ Κύριος αὐτὸς οὐ βιαζόμενος, ἀλλὰ τῇ προαιρέσει διδοὺς ἔλεγε πᾶσι μέν· Εἴ τις θέλει ὀπίσω μου ἐλθεῖν· τοῖς δὲ μαθηταῖς· Μὴ καὶ ὑμεῖς θέλετε ἀπειθεῖν;",
+    "orig_url": "https://archive.org/download/patrologiae_cursus_completus_gr_vol_025/patrologiae_cursus_completus_gr_vol_025_djvu.txt",
+    "from_": "The other heresies also, when the very Truth",
+    "to": "Will you also go away John 6:67?",
+    "keys": [
+      "but to persuade, as I said before",
+      "not as employing force, but as offering to their free choice",
+      "immediately endeavours to coerce by violence and stripes and imprisonment"
+    ],
+    "context": "Athanasius, c. 358–362, on why the Arian party is worse than other heretics: other heresies fall silent when refuted, whereas this one 'endeavours to coerce by violence and stripes and imprisonment' those it cannot persuade. He says it is 'the part of true godliness not to compel, but to persuade, as I said before' (i.e., §33), and cites Christ's own invitations. The text then ties Constantius to Saul and to Antichrist.",
+    "caveat": "Same polemical setting as §33: the object of the condemned coercion is orthodox clergy and laity, and the principle is stated generally ('not to compel') without a rule on what Christian rulers may do to heretics. Greek: read from the PG 25 OCR and corrected; the final word of the Greek is uncertain (OCR reads ἀπειθεῖν; John 6:67 suggests a verb of going away, so the OCR may be wrong). The NPNF inline scripture references are kept as the page shows them.",
+    "stance": "own view",
+    "word_count": 138
+  },
+  {
+    "id": "ath-decretis28-stone",
+    "father": "athanasius",
+    "work": "de-decretis",
+    "theme": "X",
+    "ref": "De Decretis (Defence of the Nicene Definition) §28; NPNF2 vol. 4",
+    "url": "https://www.newadvent.org/fathers/2809.htm",
+    "quote_en": "For if by unoriginated they mean what has no origin of being, nor is originated or created, but eternal, and say that the Word of God is contrary to this, who comprehends not the craft of these foes of God? Who but would stone such madmen?",
+    "quote_orig": "",
+    "orig_url": "",
+    "from_": "For if by unoriginated they mean",
+    "to": "Who but would stone such madmen?",
+    "keys": [
+      "Who but would stone such madmen?",
+      "who comprehends not the craft of these foes of God?"
+    ],
+    "context": "Athanasius, c. 350–351, arguing that the Arians' term 'unoriginate' is a disguised denial of the Son's eternity. He calls the Arians 'foes of God' and asks, rhetorically, who would not stone such madmen. The sentence is his own, not a quotation, and is followed at once by the argument about the phrase.",
+    "caveat": "Rhetorical outburst within a theological argument; it is not a call for legal punishment, and the sentence is not developed further. Still, it is the Father's own voice invoking stoning for heretics, so it is adverse evidence. The English idiom 'Who but would' means 'who would not'. Greek NOT read (the PG 25 OCR is garbled at this point).",
+    "stance": "own view",
+    "word_count": 46
+  },
+  {
+    "id": "ath-apolconst30-letter",
+    "father": "athanasius",
+    "work": "apol-constantium",
+    "theme": "X",
+    "ref": "Apology to Constantius §30 (quoting a letter of Constantius 'to the Alexandrians'); NPNF2 vol. 4",
+    "url": "https://www.newadvent.org/fathers/2813.htm",
+    "quote_en": "For while that pestilent fellow Athanasius is driven from place to place, being convicted of the basest crimes, for which he would only suffer the punishment he deserves, if one were to kill him ten times over, it would be inconsistent in us to suffer those flatterers and juggling ministers of his to exult against us; men of such a character as it is a shame even to speak of, respecting whom orders have long ago been given to the magistrates, that they should be put to death.",
+    "quote_orig": "",
+    "orig_url": "",
+    "from_": "For while that pestilent fellow Athanasius",
+    "to": "that they should be put to death.",
+    "keys": [
+      "respecting whom orders have long ago been given to the magistrates",
+      "that they should be put to death"
+    ],
+    "context": "Athanasius reproduces, in §30 of his Apology to Constantius, a letter of Constantius to the Alexandrians, to show the Emperor's hostility to him. The words quoted are in the letter's body: they describe the clergy around Athanasius ('flatterers and juggling ministers') as men against whom 'orders have long ago been given to the magistrates' to execute them. The letter goes on to say that the men 'shall not die, if they desist from their former offenses', and Athanasius adds no comment of his own in §30; §31 begins a different letter (to the Princes of Auxumis).",
+    "caveat": "Quoted opponent. The words are the Emperor's, not Athanasius's, and Athanasius does not endorse them in this passage: it is an example of coercion he attributes to his enemies, and the targets are his own party. Included because it shows the Church's own leader quoting an imperial order for executions, which the team needs to know. Greek NOT read.",
+    "stance": "quoting opponent",
+    "word_count": 88
+  },
+  {
+    "id": "ath-incarn12-law-all",
+    "father": "athanasius",
+    "work": "de-incarnatione",
+    "theme": "D",
+    "ref": "On the Incarnation §12 (and §12.5 of the NPNF paragraphing); NPNF2 vol. 4",
+    "url": "https://www.newadvent.org/fathers/2802.htm",
+    "quote_en": "Or it was open to them, by knowing the law even, to cease from all lawlessness and live a virtuous life. For neither was the law for the Jews alone, nor were the Prophets sent for them only, but, though sent to the Jews and persecuted by the Jews, they were for all the world a holy school of the knowledge of God and the conduct of the soul.",
+    "quote_orig": "Ἐξὸν δὲ ἦν αὐτοὺς, καὶ τὸν νόμον ἐγνωκότας, παύσασθαι πάσης παρανομίας, καὶ τὸν κατ᾽ ἀρετὴν ζῆσαι βίον. Οὐδὲ γὰρ διὰ Ἰουδαίους μόνους ὁ νόμος ἦν, οὐδὲ δι᾽ αὐτοὺς μόνους οἱ προφῆται ἐπέμποντο, ἀλλὰ πρὸς Ἰουδαίους μὲν ἐπέμποντο, καὶ παρὰ Ἰουδαίων ἐδιώχοντο· πάσης δὲ τῆς οἰκουμένης ἦσαν διδασκάλιον ἱερὸν τῆς περὶ Θεοῦ γνώσεως, καὶ τῆς κατὰ ψυχὴν πολιτείας.",
+    "orig_url": "https://archive.org/download/patrologiae_cursus_completus_gr_vol_025/patrologiae_cursus_completus_gr_vol_025_djvu.txt",
+    "from_": "Or it was open to them, by knowing",
+    "to": "the conduct of the soul.",
+    "keys": [
+      "For neither was the law for the Jews alone",
+      "nor were the Prophets sent for them only",
+      "they were for all the world a holy school of the knowledge of God"
+    ],
+    "context": "Early work of Athanasius (c. 318), explaining why God gave the Law and the Prophets to humanity: as a help to men who had neglected to know God through creation. Here he says the Law was not for the Jews alone, and that the Prophets, though sent to the Jews, served the whole world as a school of the knowledge of God. The §12 text speaks of help for human weakness rather than of penalties.",
+    "caveat": "This passage does NOT say the Law was provisional, abrogated, or that its penalties lapsed: it stresses that the Law was universal in purpose, which cuts against a simple 'Law only for a particular people' reading. The provisional/shadow language is in §40 (next passage). Greek: read from the PG 25 OCR (partial), with OCR errors corrected.",
+    "stance": "own view",
+    "word_count": 69
+  },
+  {
+    "id": "ath-incarn40-shadow",
+    "father": "athanasius",
+    "work": "de-incarnatione",
+    "theme": "D",
+    "ref": "On the Incarnation §40 (second paragraph, 'shadow' and 'types'); NPNF2 vol. 4",
+    "url": "https://www.newadvent.org/fathers/2802.htm",
+    "quote_en": "For when He that was signified had come, what need was there any longer of any to signify Him? When the truth was there, what need any more of the shadow? For this was the reason of their prophesying at all — namely, till the true Righteousness should come, and He that was to ransom the sins of all. And this was why Jerusalem stood till then — namely, that there they might be exercised in the types as a preparation for the reality.",
+    "quote_orig": "",
+    "orig_url": "",
+    "from_": "For when He that was signified had",
+    "to": "as a preparation for the reality.",
+    "keys": [
+      "When the truth was there, what need any more of the shadow?",
+      "they might be exercised in the types as a preparation for the reality"
+    ],
+    "context": "Athanasius, in §40 of the Incarnation, argues from the cessation of Jewish prophecy and the destruction of Jerusalem that the Old Testament sacrifices, types and prophecy had a purpose 'till the true Righteousness should come'. The sentence 'what need any more of the shadow?' is the nearest he comes to the 'shadow' language of Hebrews 10:1 (which he does not cite here).",
+    "caveat": "Speaks of the OT as preparation and shadow of Christ; does not discuss whether OT penalties (stoning, death for idolatry or blasphemy) bind Christians, and does not cite Heb 10:1. Greek NOT located in the OCR.",
+    "stance": "own view",
+    "word_count": 84
+  },
+  {
+    "id": "ath-desynodis45-law-hebrews",
+    "father": "athanasius",
+    "work": "de-synodis",
+    "theme": "H",
+    "ref": "De Synodis (On the Councils of Ariminum and Seleucia) §45; NPNF2 vol. 4",
+    "url": "https://www.newadvent.org/fathers/2817.htm",
+    "quote_en": "And as the blessed Apostle, writing to the Romans, said, 'The Law is spiritual, the Law is holy, and the commandment holy and just and good' Romans 7:14; and soon after, 'What the Law could not do, in that it was weak' Romans 8:3, but wrote to the Hebrews, 'The Law has made no one perfect' Hebrews 7:19; and to the Galatians, 'By the Law no one is justified' , but to Timothy, 'The Law is good, if a man use it lawfully' 1 Timothy 1:8; and no one would accuse the Saint of inconsistency and variation in writing, but rather would admire how suitably he wrote to each, to teach the Romans and the others to turn from the letter to the spirit, but to instruct the Hebrews and Galatians to place their hopes, not in the Law, but in the Lord who had given the Law;",
+    "quote_orig": "",
+    "orig_url": "",
+    "from_": "And as the blessed Apostle, writing",
+    "to": "the Lord who had given the Law;",
+    "keys": [
+      "'The Law has made no one perfect' Hebrews 7:19",
+      "The Law is spiritual, the Law is",
+      "not in the Law, but in the Lord who had given the Law"
+    ],
+    "context": "Athanasius, c. 359–360, defends the Nicene Council's terms against Arian charges of inconsistency: the Councils used different words for different situations, as the Apostle wrote differently to different audiences. He cites Romans 7:14 ('holy and just and good'), Romans 8:3, and Hebrews 7:19 ('The Law has made no one perfect'), and says the Hebrews were taught to place their hopes 'not in the Law, but in the Lord who had given the Law'.",
+    "caveat": "Hebrews 7:19 is cited in an argument about the Councils' wording, not about penalties; Athanasius calls the Law 'holy and just and good' in the same paragraph. Heb 10:26-31 and Heb 10:28 are not discussed in this passage or anywhere in the Athanasian texts read. Greek NOT read (PG 26).",
+    "stance": "own view",
+    "word_count": 148
+  },
+  {
+    "id": "ath-orat2-9-sacrifices",
+    "father": "athanasius",
+    "work": "orat-arianos-2",
+    "theme": "H",
+    "ref": "Discourse II Against the Arians §9 (commenting on Heb 2:17 and 3:1–2); NPNF2 vol. 4",
+    "url": "https://www.newadvent.org/fathers/28162.htm",
+    "quote_en": "For those which were offered according to the Law, had not this faithfulness, passing away with the day and needing a further cleansing; but the Saviour's sacrifice, taking place once, has perfected everything, and has become faithful as remaining forever. And Aaron had successors, and in a word the priesthood under the Law exchanged its first ministers as time and death went on; but the Lord having a high priesthood without transition and without succession, has become a 'faithful High Priest,' as continuing for ever;",
+    "quote_orig": "",
+    "orig_url": "",
+    "from_": "For those which were offered according",
+    "to": "as continuing for ever;",
+    "keys": [
+      "the Saviour's sacrifice, taking place once, has perfected everything",
+      "those which were offered according to the Law",
+      "as continuing for ever"
+    ],
+    "context": "In Discourse II §§7–9 Athanasius expounds Hebrews 3:1–2 ('the Apostle and High Priest of our profession Jesus, who was faithful to Him that made Him') against the Arians. §9 contrasts the sacrifices under the Law, which were repeated and needed further cleansing, with the Saviour's single offering, and the Law's priests who succeeded one another with Christ's unending priesthood.",
+    "caveat": "The thought is close to Heb 10:1–14 (repeated Levitical sacrifices vs. one offering), but Athanasius does not cite Heb 10 here and does not discuss the penalty of Heb 10:28 at all. The 'merciful and faithful High Priest' wording is Heb 2:17, quoted without a reference. Greek NOT read (PG 26).",
+    "stance": "own view",
+    "word_count": 85
+  }
+]

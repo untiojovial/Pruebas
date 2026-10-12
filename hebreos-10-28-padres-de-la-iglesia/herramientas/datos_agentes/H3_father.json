@@ -1,0 +1,31 @@
+{
+ "id": "origen",
+ "name_es": "Orígenes de Alejandría",
+ "name_en": "Origen of Alexandria",
+ "name_orig": "Ὠριγένης (Ōrigénēs)",
+ "born": "c. 185, Alexandria",
+ "died": "c. 253, Tyre",
+ "language": "Greek (many works survive only in Latin translations by Rufinus and Jerome)",
+ "role_place": "Head of the catechetical school of Alexandria, then teacher at Caesarea (Palestine); the most prolific Greek theologian before Nicaea.",
+ "why_relevant": "Gives the most detailed pre-Nicene account of the Mosaic law versus the Gospel (Against Celsus 7.26, De Principiis IV.17) and of why Christians do not carry out Mosaic penalties; answers Celsus' charge that Christians refuse arms and civic duty.",
+ "image": {
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Origen.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Origen.jpg",
+  "local": "dl/img_origen.jpg (resized from the 1452x1723 original to 843x1000)",
+  "title": "File:Origen.jpg (caption: \"Origen, portrait by Guillaume Chaudière (1584).\")",
+  "artist_date": "Guillaume Chaudière, 1584 (engraving; per the Commons caption)",
+  "license": "Public domain (PD-Old tag; Creative Commons Public Domain Mark 1.0; the page's own line: \"Public domain\")",
+  "note": "Portrait-style engraving, 1584, from the Greek Wikipedia upload. No contemporary portrait of Origen exists; this is a later invented likeness (traditional iconography). Commons also flags 'Files with no machine-readable author'; the author is taken from the caption, not verified against a print catalogue.",
+  "check": "Viewed the local file: an engraved head-and-shoulders portrait of an elderly bearded man in a hood and cloak, holding a scroll, with books on a table. Matches the title (a human figure, portrait crop)."
+ },
+ "image2": {
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Origen3.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Origen3.jpg",
+  "local": "dl/img_origen_ms.jpg (original, 220x343; low resolution)",
+  "title": "File:Origen3.jpg (caption: \"Origen of Alexandria.\"; Italian: \"Origene autore. Manoscritto di Schäftlarn (ca. 1160)\")",
+  "artist_date": "Anonymous scribe/illuminator, Schäftlarn manuscript, ca. 1160 (Bayerische Staatsbibliothek clm 17092, fol. 130v; Origen's Homilia XXVII in Numeros as author)",
+  "license": "Public domain (PD-Art template; Creative Commons Public Domain Mark 1.0; the page's own line: \"Public domain\")",
+  "note": "A single seated figure in a framed manuscript page, not a wide scene. Only 220x343 px is available. The second wider-scene candidate, Commons File:OrigenStudentsLuyken.jpg (Jan Luyken, 1700, Public domain), was checked on its file page but could not be downloaded (upload server returned HTTP 429 after repeated requests).",
+  "check": "Viewed the local file: a small illuminated figure seated at a desk writing, with the label ORIGENES above, in a framed page. Matches the title."
+ }
+}

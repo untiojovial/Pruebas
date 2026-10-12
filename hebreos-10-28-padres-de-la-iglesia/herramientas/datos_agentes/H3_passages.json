@@ -1,0 +1,176 @@
+[
+ {
+  "id": "origen_cels_7_26_mosaic_law",
+  "father": "origen",
+  "work": "contra_celsum",
+  "theme": "D",
+  "ref": "Against Celsus, book VII, ch. 26",
+  "url": "https://www.newadvent.org/fathers/04167.htm",
+  "quote_en": "it must be impossible for the legislation of Moses, taken literally, to harmonize with the calling of the Gentiles, and with their subjection to the Roman government; and on the other hand, it would be impossible for the Jews to preserve their civil economy unchanged, supposing that they should embrace the Gospel. For Christians could not slay their enemies, or condemn to be burned or stoned, as Moses commands, those who had broken the law, and were therefore condemned as deserving of these punishments; since the Jews themselves, however desirous of carrying out their law, are not able to inflict these punishments.",
+  "quote_orig": "«»",
+  "orig_url": "«»",
+  "from_": "it must be impossible for the",
+  "to": "not able to inflict these punishments.",
+  "keys": [
+   "could not slay their enemies",
+   "stoned, as Moses commands",
+   "legislation of Moses, taken literally"
+  ],
+  "words": 102,
+  "context": "Celsus (chapter 25) sets the Gospel precept of non-resistance against the Mosaic law, and Origen answers that the Father did not change His laws when He sent Jesus. In chapter 26 Origen then explains why the Mosaic legislation, taken literally, cannot be applied: it cannot fit a Gentile church under Roman rule, and the Jews themselves no longer can carry out such sentences. The chapter opens by contrasting the Mosaic constitution with the one Christ's teaching establishes. After the quoted sentences Origen says that the same Providence which gave the Law has destroyed the Jewish city and temple and abolished the sacrificial worship. This is an apologetic argument about history and politics, not a general doctrine of the Law.",
+  "caveat": "Origen argues from the historical impossibility of the Law (no land, no sovereignty), not only from its theological superseding. The reasoning about Christians not \"slaying\" is a claim about their practice, not a principle that coercion is always illicit. Translation: Crombie (ANF 4), public domain. The Greek of this chapter was NOT read.",
+  "stance": "own view"
+ },
+ {
+  "id": "origen_comm_matt_14_18_synagogue_unable_to_stone",
+  "father": "origen",
+  "work": "comm_matthew",
+  "theme": "D",
+  "ref": "Commentary on Matthew, book XIV, sec. 18 (\"The Bill of Divorcement\")",
+  "url": "https://www.newadvent.org/fathers/101614.htm",
+  "quote_en": "And a further sign of the bill of divorcement is this, that they cannot keep their feasts, even though according to the letter of the law designedly commanded them, in the place which the Lord God appointed to them for keeping feasts; but there is this also, that the whole synagogue has become unable to stone those who have committed this or that sin; and thousands of things commanded are a sign of the bill of divorcement;",
+  "quote_orig": "«»",
+  "orig_url": "«»",
+  "from_": "And a further sign of the",
+  "to": "sign of the bill of divorcement;",
+  "keys": [
+   "has become unable to stone",
+   "thousands of things commanded are a sign of the bill of divorcement"
+  ],
+  "words": 77,
+  "context": "Origen is explaining Matt 19:7-8 (Pharisees ask why Moses allowed a bill of divorcement) allegorically: the Jewish synagogue is the wife divorced by God, and the Law's practices are signs of that divorce. He cites as one sign that the Jewish community can no longer keep the feasts at Jerusalem or carry out stoning, though the letter of the Law commanded these. The passage is written as a reading of Jewish history after 70 AD.",
+  "caveat": "The argument is allegorical in form (the wife/divorce metaphor), but it states as fact that the Jews are unable to stone, and treats that as evidence that the Law has ended. Translation: John Patrick (ANF 9), public domain; the Greek of this section was NOT read, and the Latin/Greek witness status of Book XIV was not verified.",
+  "stance": "own view"
+ },
+ {
+  "id": "origen_de_principiis_4_17_literal_law_impossible",
+  "father": "origen",
+  "work": "de_principiis",
+  "theme": "D",
+  "ref": "On First Principles, book IV, sec. 17 (Rufinus Latin portion, section numbering as printed on New Advent)",
+  "url": "https://www.newadvent.org/fathers/04124.htm",
+  "quote_en": "For in the law Moses is commanded to destroy every male that is not circumcised on the eighth day, which is exceedingly incongruous; since it would be necessary, if it were related that the law was executed according to the history, to command those parents to be punished who did not circumcise their children, and also those who were the nurses of little children.",
+  "quote_orig": "«»",
+  "orig_url": "«»",
+  "from_": "For in the law Moses is",
+  "to": "were the nurses of little children.",
+  "keys": [
+   "Moses is commanded to destroy every male",
+   "if it were related that the law was executed according to the history",
+   "to command those parents to be punished"
+  ],
+  "words": 64,
+  "context": "In a section on how Scripture must be read spiritually, Origen lists laws that are irrational or impossible if taken literally: the command to \"cut off\" uncircumcised infants from their people would, read literally, require their parents to be put to death. He then gives another impossibility, the goat-stag. The aim is to show that the Law must be read in a spiritual sense.",
+  "caveat": "Known to us only through the Latin of Rufinus (c. 398), who paraphrased freely; Origen's Greek is lost for this section. The portion translated from the Greek (sec. 17, \"And if we come to the legislation of Moses\") makes the same point more literally: if the law were carried out literally, the parents \"should be commanded to be put to death\". Translation: Frederick Crombie (ANF 4), public domain.",
+  "stance": "own view"
+ },
+ {
+  "id": "origen_comm_matt_11_12_law_shadow_heb_10_1",
+  "father": "origen",
+  "work": "comm_matthew",
+  "theme": "H",
+  "ref": "Commentary on Matthew, book XI, sec. 12 (\"Things Clean and Unclean According to the Law and the Gospel\")",
+  "url": "https://www.newadvent.org/fathers/101611.htm",
+  "quote_en": "teaching us that the things according to the letter are a shadow, but that the true thoughts of the law which are stored up in them are the good things to come, in which one may find what are the pure spiritual meats of the soul, and what are the impure foods in false and contradictory words which injure the man who is nourished in them, For the law had a shadow of the good things to come. Hebrews 10:1",
+  "quote_orig": "«»",
+  "orig_url": "«»",
+  "from_": "teaching us that the things according",
+  "to": "come. Hebrews 10:1",
+  "keys": [
+   "the things according to the letter are a shadow",
+   "the good things to come",
+   "Hebrews 10:1"
+  ],
+  "words": 80,
+  "context": "Origen comments on Matt 15:10-11 (clean and unclean foods) and on Paul in Col 2:16 and 1 Cor 8:8. He says the Law's outward precepts are a shadow and that its \"true thoughts\" are the good things to come, and cites Heb 10:1 for the Law as a shadow of good things. The Hebrews verse is quoted inline in the translation as Origen's own proof text.",
+  "caveat": "Origen is not commenting on Heb 10:26-31 here and says nothing about penalties. Heb 10:1 is used for the Law's spiritual meaning, not for punishment. The inline Scripture references are the translator's and the Greek fragment status of this section was not checked. Translation: John Patrick (ANF 9), public domain.",
+  "stance": "own view"
+ },
+ {
+  "id": "origen_cels_8_10_heb_10_29_moral",
+  "father": "origen",
+  "work": "contra_celsum",
+  "theme": "H",
+  "ref": "Against Celsus, book VIII, ch. 10",
+  "url": "https://www.newadvent.org/fathers/04168.htm",
+  "quote_en": "But that the honour which we pay to the Son of God, as well as that which we render to God the Father, consists of an upright course of life, is plainly taught us by the passage, You that make your boast of the law, through breaking the law do you dishonour God? and also, Of how much sorer punishment, do you suppose, shall he be thought worthy, who has trodden under foot the Son of God, and has counted the blood of the covenant, wherewith he was sanctified, an unholy thing, and has done despite unto the Spirit of grace?",
+  "quote_orig": "«»",
+  "orig_url": "«»",
+  "from_": "But that the honour which we",
+  "to": "despite unto the Spirit of grace?",
+  "keys": [
+   "consists of an upright course of life",
+   "Of how much sorer punishment",
+   "has trodden under foot the Son of God"
+  ],
+  "words": 101,
+  "context": "Celsus had mocked the Christian worship of Jesus. Origen answers that honouring the Son means living an upright life, and quotes two texts, Rom 2:23 (\"You that make your boast of the law...\") and Heb 10:29 (\"Of how much sorer punishment...\"). He then reads the verse as saying that whoever treads on the Son dishonours God by moral sin, which he sets against Celsus's charge.",
+  "caveat": "This is the only place in the texts read where Origen quotes the \"sorer punishment\" wording of Heb 10:29, and he applies it to moral dishonour, not to human penalties. He does not quote or comment on Heb 10:28 (\"dies without mercy\") in any text read. Translation: Frederick Crombie (ANF 4), public domain; Greek not read.",
+  "stance": "own view"
+ },
+ {
+  "id": "origen_cels_3_7_no_killing_christian_lawgiver",
+  "father": "origen",
+  "work": "contra_celsum",
+  "theme": "N",
+  "ref": "Against Celsus, book III, ch. 7",
+  "url": "https://www.newadvent.org/fathers/04163.htm",
+  "quote_en": "if a revolt had led to the formation of the Christian commonwealth, so that it derived its existence in this way from that of the Jews, who were permitted to take up arms in defense of the members of their families, and to slay their enemies, the Christian Lawgiver would not have altogether forbidden the putting of men to death; and yet He nowhere teaches that it is right for His own disciples to offer violence to any one, however wicked. For He did not deem it in keeping with such laws as His, which were derived from a divine source, to allow the killing of any individual whatever.",
+  "quote_orig": "«»",
+  "orig_url": "«»",
+  "from_": "if a revolt had led to",
+  "to": "the killing of any individual whatever.",
+  "keys": [
+   "He did not deem it in keeping with such laws as His",
+   "to offer violence to any one, however wicked",
+   "to allow the killing of any individual whatever"
+  ],
+  "words": 109,
+  "context": "Celsus claimed that the Christian movement began as a rebellion of Jews against the Jewish state. Origen argues that the Mosaic people were allowed to take up arms and slay enemies, while Jesus did not permit violence to his disciples. The sentence is part of a counterfactual: if Christians had begun in a rebellion, the Christian Lawgiver would not have altogether forbidden killing; he nowhere teaches violence, and his laws allow no killing of any individual.",
+  "caveat": "The sentence about the \"Christian Lawgiver would not have altogether forbidden\" is a hypothetical in Origen's argument against Celsus, not his own abstract principle, though the following sentence states his view plainly. Translation: Frederick Crombie (ANF 4), public domain; Greek not read.",
+  "stance": "own view"
+ },
+ {
+  "id": "origen_cels_8_73_prayer_not_arms",
+  "father": "origen",
+  "work": "contra_celsum",
+  "theme": "N",
+  "ref": "Against Celsus, book VIII, ch. 73",
+  "url": "https://www.newadvent.org/fathers/04168.htm",
+  "quote_en": "We do not indeed fight under him, although he require it; but we fight on his behalf, forming a special army — an army of piety— by offering our prayers to God.",
+  "quote_orig": "«»",
+  "orig_url": "«»",
+  "from_": "We do not indeed fight under",
+  "to": "by offering our prayers to God.",
+  "keys": [
+   "We do not indeed fight under him",
+   "we fight on his behalf",
+   "an army of piety"
+  ],
+  "words": 32,
+  "context": "Celsus urged Christians to help the king with arms and to take office. Origen replies that Christians serve the king by prayer, which he says defeats demons that stir up war, and says that Christians do not fight under the king but fight for him by offering prayers. He defends the refusal of military service as a religious practice, and mentions the priests of pagan shrines who do not enlist either.",
+  "caveat": "Apologetic: Origen argues that Christians serve the state better than soldiers do and that their non-violence is a benefit. Chapter 75 (not quoted) says Christians decline civil office in favour of service in the Church, so the stance concerns the Christian's own role and does not state a general doctrine on state punishment. Translation: Frederick Crombie (ANF 4), public domain; Greek not read.",
+  "stance": "own view"
+ },
+ {
+  "id": "origen_cels_5_63_heretic_reject_not_hate",
+  "father": "origen",
+  "work": "contra_celsum",
+  "theme": "N",
+  "ref": "Against Celsus, book V, ch. 63",
+  "url": "https://www.newadvent.org/fathers/04165.htm",
+  "quote_en": "And if those who hold different opinions will not be convinced, we observe the injunction laid down for the treatment of such: A man that is a heretic, after the first and second admonition, reject, knowing that he that is such is subverted, and sins, being condemned of himself. Moreover, we who know the maxim, Blessed are the peacemakers, and this also, Blessed are the meek, would not regard with hatred the corrupters of Christianity, nor term those who had fallen into error Circes and flattering deceivers.",
+  "quote_orig": "«»",
+  "orig_url": "«»",
+  "from_": "And if those who hold different",
+  "to": "into error Circes and flattering deceivers.",
+  "keys": [
+   "A man that is a heretic, after the first and second admonition, reject",
+   "would not regard with hatred the corrupters of Christianity"
+  ],
+  "words": 87,
+  "context": "Celsus accused rival Christian sects of uttering dreadful blasphemies against one another. Origen answers that Christians should persuade dissenters, and that if they remain unconvinced, the Church follows Titus 3:10. He quotes that verse, \"A man that is a heretic ... reject,\" and says Christians should not hate the corrupters of Christianity.",
+  "caveat": "This is the closest Origen comes to a sanction against heretics, and it is the one passage read that the team should weigh: \"reject\" (Titus 3:10 in the KJV) is an exclusion from the community, not compulsion or civil penalty, so it is classed N, not X. The Greek of Titus 3:10 is not quoted here. Translation: Frederick Crombie (ANF 4), public domain; Greek not read.",
+  "stance": "quoting Titus 3:10 in own voice"
+ }
+]

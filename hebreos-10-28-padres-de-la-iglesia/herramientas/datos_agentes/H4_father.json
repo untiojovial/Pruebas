@@ -1,0 +1,24 @@
+{
+  "id": "irenaeus",
+  "name_es": "Ireneo de Lyon",
+  "name_en": "Irenaeus of Lyons",
+  "name_orig": "Εἰρηναῖος (Greek); Irenaeus (Latin)",
+  "born": "c. 130 (Smyrna or Asia Minor, traditional)",
+  "died": "c. 202 (Lyon, traditional; martyrdom not verified in this task)",
+  "language": "Greek (writings survive mainly in Latin translation; Greek fragments)",
+  "role_place": "Bishop of Lugdunum (Lyon), Gaul; student-chain link to Polycarp (as reported by Irenaeus and Eusebius)",
+  "why_relevant": "Against Heresies Book IV is the main Father-level treatment of the OT/NT relation (one author, Law as provisional and pedagogical) and contains a reported peace-over-excommunication letter; it contains adverse OT-stoning and divine-fire statements.",
+  "image": {
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Saint_Irenaeus.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Saint_Irenaeus.jpg",
+    "local": "/tmp/claude-0/-home-user-Pruebas/978f574d-1019-54bc-bb45-9f4fddd102bb/scratchpad/hb/H4/dl/img_irenaeus.jpg",
+    "title": "File:Saint Irenaeus.jpg",
+    "artist_date": "Author: unknown (Commons). Date on Commons: '4th century' per the page; this date is UNVERIFIED (the engraving style looks later).",
+    "license": "Public domain (Commons: 'This work is in the public domain in its country of origin and other countries and areas where the copyright term is the author's life plus 100 years or fewer'; templates shown on page: PD-old-100-expired, CC-PD-Mark, PD-icon)",
+    "note": "Original file is only 245x325 px (no larger version exists on Commons per the file info I read; the 1000px thumbnail URL returned HTTP 400). Image is small. Commons API was rate-limited (HTTP 429) so the file's metadata was read from the HTML page, not the API.",
+    "check": "Viewed the file: an engraved bust-length portrait of a bearded man with a halo, wearing a hooded cloak, eyes lowered. It is a traditional-style saint portrait, consistent with the title 'Saint Irenaeus'; it is not a contemporary likeness."
+  },
+  "image2": null,
+  "no_contemporary_portrait": "There is no contemporary portrait of Irenaeus; this is traditional iconography.",
+  "image2_note": "A second candidate (Lucien Bégule, 1901 stained-glass portrait, mentioned on en.wikipedia 'Irenaeus' lead image) was NOT found on Commons in this task; image2 left null."
+}

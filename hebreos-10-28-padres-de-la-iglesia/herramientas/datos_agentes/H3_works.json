@@ -1,0 +1,47 @@
+[
+ {
+  "id": "contra_celsum",
+  "title_orig": "Κατὰ Κέλσου",
+  "title_es": "Contra Celso",
+  "title_en": "Against Celsus",
+  "date": "c. 248 (c. 248 AD, after the Celsus treatise of c. 177–180)",
+  "language": "Greek",
+  "genre": "treatise (apologetic reply, 8 books)",
+  "translator_edition": "Frederick Crombie, Ante-Nicene Fathers vol. 4 (ed. Roberts & Donaldson), public domain; read on newadvent.org/fathers/0416.htm and book pages 04161–04168",
+  "original_edition": "Greek: P. Koetschau, GCS 2–3 (Leipzig 1899) — NOT read. Migne PG 11 also exists — NOT read.",
+  "digital_url": "https://www.newadvent.org/fathers/0416.htm (read: book III https://www.newadvent.org/fathers/04163.htm ; book V https://www.newadvent.org/fathers/04165.htm ; book VII https://www.newadvent.org/fathers/04167.htm ; book VIII https://www.newadvent.org/fathers/04168.htm)",
+  "access": "public-domain",
+  "authenticity_note": "genuine (Greek original survives in full; Celsus' text is quoted by Origen)",
+  "notes": "All 8 books were downloaded and grepped for coercion and penalty terms (kill, slay, stone, put to death, punish, compel, force, heretic, sword, avenge, excommunicat, magistrate); the chapters listed in passages were read in full (III.7-8, V.33, V.63-64, VII.25-26, VIII.10, VIII.73-75). Heb 10:28 and 'without mercy' not found in any book; Heb 10:29 is quoted only at VIII.10. Books I, II, IV, VI were not read chapter by chapter; hits there were checked by grep only."
+ },
+ {
+  "id": "comm_matthew",
+  "title_orig": "Ἐξηγητικὰ εἰς τὸ κατὰ Ματθαῖον (Commentarium in evangelium Matthaei)",
+  "title_es": "Comentario al Evangelio de Mateo",
+  "title_en": "Commentary on Matthew",
+  "date": "c. 246–248 (approx.; not verified against a primary source)",
+  "language": "Greek (books X–XVII survive partly in Greek; the rest in a Latin version; which version underlies the ANF English was NOT verified)",
+  "genre": "commentary",
+  "translator_edition": "John Patrick, Ante-Nicene Fathers vol. 9 (ed. Menzies), public domain; read on newadvent.org/fathers/1016xx.htm",
+  "original_edition": "Greek: Migne PG 13 — NOT read (not checked for the relevant columns). Klostermann GCS 40 (1935) — NOT read.",
+  "digital_url": "https://www.newadvent.org/fathers/101611.htm (book XI, sec. 12 read) ; https://www.newadvent.org/fathers/101614.htm (book XIV, secs. 18, 20, 23 read) ; https://www.newadvent.org/fathers/101610.htm (book X, read in part) ; https://www.newadvent.org/fathers/101612.htm (book XII, sec. 5 read in part) ; https://www.newadvent.org/fathers/101613.htm (book XIII, grep only)",
+  "access": "public-domain",
+  "authenticity_note": "genuine; partly preserved (Greek and Latin); the textual basis of the ANF English for the quoted books was not verified",
+  "notes": "Used for the Law as a shadow (XI.12, citing Heb 10:1), the Jewish synagogue unable to stone (XIV.18), concession laws (XIV.23, read but not quoted) and Heb 9:10 on changing the law (XIV.20, read, not quoted). Tares/angels passage in book X (judgment left to the angels) read, not quoted (cap). Matt 18:6 'ass's millstone' (XIII) is divine punishment, not human; not quoted. Book XIII read by grep only; books XV-XVII not available on New Advent (404) and not read."
+ },
+ {
+  "id": "de_principiis",
+  "title_orig": "Περὶ Ἀρχῶν",
+  "title_es": "Sobre los principios",
+  "title_en": "On First Principles (De Principiis)",
+  "date": "c. 220–230 (approx.)",
+  "language": "Greek (lost); surviving as the Latin translation of Rufinus (c. 398) and Greek fragments (Philocalia)",
+  "genre": "treatise (systematic theology)",
+  "translator_edition": "Frederick Crombie, Ante-Nicene Fathers vol. 4, public domain; read on newadvent.org/fathers/04124.htm (Book IV), section 17 in the 'Translated from the Latin of Rufinus' part and in the 'Translated from the Greek' part",
+  "original_edition": "Greek fragments: P. Koetschau, GCS 22 (1913) — NOT read. Latin: Rufinus translation — NOT read in the Latin.",
+  "digital_url": "https://www.newadvent.org/fathers/0412.htm (index); https://www.newadvent.org/fathers/04124.htm (Book IV read)",
+  "access": "public-domain",
+  "authenticity_note": "genuine in substance but mediated: the Latin is Rufinus's paraphrase (Rufinus himself says he altered the text, see his Preface); the 'Translated from the Greek' portion is a more literal rendering of surviving Greek; the attribution of the Greek portion to the Philocalia was not verified",
+  "notes": "Quoted: Book IV sec. 17 (Rufinus part) on the literal impossibility of the Mosaic law. Sec. 17 (Greek-literal part) says the same more literally. Heb 8:5 ('example and shadow of heavenly things') is quoted in the Rufinus part (section number not checked). Greek-part sec. 2 notes Christians' persecution (not quoted)."
+ }
+]
