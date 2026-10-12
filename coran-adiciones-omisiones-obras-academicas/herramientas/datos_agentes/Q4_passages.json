@@ -1,0 +1,556 @@
+[
+  {
+    "id": "shoemaker2022-01",
+    "work": "shoemaker2022",
+    "author": "Stephen J. Shoemaker",
+    "ref": "p. 13, Introduction",
+    "pdf_page": 30,
+    "url": "https://scholarsbank.uoregon.edu/bitstreams/07fa3882-0012-478e-8d23-4d8e839a4e0c/download",
+    "passage": "On the basis of the available historical evidence, we conclude that the Qur’an’s final composition into the canonical form that has come down to us today seems to have taken place around the turn of the eighth century under the direction of the caliph ʿAbd al-Malik (r. 685–705) and his viceroy al-Ḥajjāj ibn Yūsuf.",
+    "from_": "On the basis of the available historical",
+    "to": "his viceroy al-Ḥajjāj ibn Yūsuf.",
+    "keys": [
+      "final composition into the canonical form",
+      "around the turn of the eighth century under the direction of the caliph ʿAbd al-Malik"
+    ],
+    "alts": [
+      "seems to have taken place"
+    ],
+    "label": "B",
+    "stance": "own claim",
+    "claim_en": "Shoemaker concludes the Qur'an's final composition into the canonical form took place c. 700 under ʿAbd al-Malik and al-Ḥajjāj.",
+    "context": "Shoemaker first says he does not mean creation 'out of thin air' and means a new version rather than passive collection (same page). The verb 'seems' hedges the claim."
+  },
+  {
+    "id": "shoemaker2022-02",
+    "work": "shoemaker2022",
+    "author": "Stephen J. Shoemaker",
+    "ref": "p. 13, Introduction",
+    "pdf_page": 30,
+    "url": "https://scholarsbank.uoregon.edu/bitstreams/07fa3882-0012-478e-8d23-4d8e839a4e0c/download",
+    "passage": "Therefore, I deliberately choose the term “composition” to signal that this process involves more than the mere compilation of textual material that has already been fixed into a certain form",
+    "from_": "Therefore, I deliberately choose the term",
+    "to": "already been fixed into a certain form",
+    "keys": [
+      "involves more than the mere compilation of textual material"
+    ],
+    "alts": [],
+    "label": "B",
+    "stance": "own claim",
+    "claim_en": "Shoemaker defines 'composition' as more than compilation of already fixed material; he means production of a new version of the text.",
+    "context": "Definitional passage; included because it fixes the sense of the claim in P1. The following sentence (not in this passage) says the sense excludes 'mere cosmetic adjustments' such as adding textual divisions or diacritical marks."
+  },
+  {
+    "id": "shoemaker2022-03",
+    "work": "shoemaker2022",
+    "author": "Stephen J. Shoemaker",
+    "ref": "p. 41, ch. 1 (The Traditional Narrative)",
+    "pdf_page": 58,
+    "url": "https://scholarsbank.uoregon.edu/bitstreams/07fa3882-0012-478e-8d23-4d8e839a4e0c/download",
+    "passage": "Yet even if ʿUthmān may have made some attempt to introduce a standard text of the Qur’an, it must have been an entirely futile effort.",
+    "from_": "Yet even if ʿUthmān may have made",
+    "to": "it must have been an entirely futile effort.",
+    "keys": [
+      "it must have been an entirely futile effort",
+      "to introduce a standard text of the Qur’an"
+    ],
+    "alts": [
+      "even if ʿUthmān may have made some attempt"
+    ],
+    "label": "B",
+    "stance": "own claim",
+    "claim_en": "Shoemaker judges that any ʿUthmānic standardization could not have established the final unvarying text; he attributes the canonical form to ʿAbd al-Malik.",
+    "context": "This is a rejection of the ʿUthmān tradition as the source of the standard text, not a denial that some standardization happened. The text continues: 'The conditions in which ʿUthmān ruled make for an extremely low probability...'."
+  },
+  {
+    "id": "shoemaker2022-04",
+    "work": "shoemaker2022",
+    "author": "Stephen J. Shoemaker",
+    "ref": "p. 45, ch. 2 (ʿAbd al-Malik, al-Ḥajjāj)",
+    "pdf_page": 62,
+    "url": "https://scholarsbank.uoregon.edu/bitstreams/07fa3882-0012-478e-8d23-4d8e839a4e0c/download",
+    "passage": "Clearly, then, the standardization of the Qur’an text under ʿAbd al-Malik and al-Ḥajjāj did not consist only of such minor changes, since the elements that were allegedly introduced were already in use in some instances and likewise did not become regular features in the material record of the Qur’an until much later.",
+    "from_": "Clearly, then, the standardization of",
+    "to": "until much later.",
+    "keys": [
+      "did not consist only of such minor changes"
+    ],
+    "alts": [
+      "since the elements that were allegedly introduced were already in use in some instances"
+    ],
+    "label": "B",
+    "stance": "own claim",
+    "claim_en": "Shoemaker argues that the standardization under ʿAbd al-Malik and al-Ḥajjāj involved more than minor orthographic changes.",
+    "context": "'Allegedly introduced' signals that the specific innovations are reported in the tradition. The argument is based on manuscript evidence for the forms in question."
+  },
+  {
+    "id": "shoemaker2022-05",
+    "work": "shoemaker2022",
+    "author": "Stephen J. Shoemaker",
+    "ref": "p. 45, ch. 2 (ʿAbd al-Malik, al-Ḥajjāj)",
+    "pdf_page": 62,
+    "url": "https://scholarsbank.uoregon.edu/bitstreams/07fa3882-0012-478e-8d23-4d8e839a4e0c/download",
+    "passage": "Other reports from the Islamic tradition instead describe ʿAbd al-Malik and al-Ḥajjāj as making considerable alterations to the Qur’anic text, even if these traditions have been largely ignored by most previous scholarship.",
+    "from_": "Other reports from the Islamic tradition",
+    "to": "largely ignored by most previous scholarship.",
+    "keys": [
+      "describe ʿAbd al-Malik and al-Ḥajjāj as making considerable alterations to the Qur’anic text"
+    ],
+    "alts": [],
+    "label": "B",
+    "stance": "reports others",
+    "claim_en": "The Islamic tradition reports that ʿAbd al-Malik and al-Ḥajjāj made considerable alterations to the Qur’anic text; Shoemaker says these reports were largely ignored by previous scholarship.",
+    "context": "Shoemaker reports these as traditions (the Islamic sources), and the next sentence states that the alterations were carried out with ʿAbd al-Malik's authorization."
+  },
+  {
+    "id": "shoemaker2022-06",
+    "work": "shoemaker2022",
+    "author": "Stephen J. Shoemaker",
+    "ref": "p. 48, ch. 2 (ʿAbd al-Malik, al-Ḥajjāj)",
+    "pdf_page": 65,
+    "url": "https://scholarsbank.uoregon.edu/bitstreams/07fa3882-0012-478e-8d23-4d8e839a4e0c/download",
+    "passage": "Therefore, we should consider the possibility of the following hypothesis. In order to afford further validation for his new, imperially authorized version of the Qur’an, in the face of numerous existing variant versions, ʿAbd al-Malik promulgated a tradition, with al-Zuhrī’s assistance, claiming that his version was not in fact novel.",
+    "from_": "Therefore, we should consider the possibility",
+    "to": "his version was not in fact novel.",
+    "keys": [
+      "ʿAbd al-Malik promulgated a tradition, with al-Zuhrī’s assistance",
+      "in the face of numerous existing variant versions"
+    ],
+    "alts": [
+      "we should consider the possibility of the following hypothesis"
+    ],
+    "label": "B",
+    "stance": "own claim",
+    "claim_en": "Shoemaker proposes as a hypothesis that ʿAbd al-Malik, with al-Zuhrī's help, promulgated a tradition attributing the standard text to ʿUthmān, facing numerous variant versions.",
+    "context": "Explicitly framed as a hypothesis ('we should consider the possibility'), not as established fact."
+  },
+  {
+    "id": "shoemaker2022-07",
+    "work": "shoemaker2022",
+    "author": "Stephen J. Shoemaker",
+    "ref": "p. 55, ch. 2 (ʿAbd al-Malik, al-Ḥajjāj)",
+    "pdf_page": 72,
+    "url": "https://scholarsbank.uoregon.edu/bitstreams/07fa3882-0012-478e-8d23-4d8e839a4e0c/download",
+    "passage": "As already noted, it would appear that al-Ḥajjāj and his committee of official censors enjoyed great success in eliminating these divergent records of Muhammad’s revelations, so that they have effectively vanished from the earth.",
+    "from_": "As already noted, it would appear that",
+    "to": "they have effectively vanished from the earth.",
+    "keys": [
+      "enjoyed great success in eliminating these divergent records of Muhammad’s revelations"
+    ],
+    "alts": [
+      "it would appear"
+    ],
+    "label": "C",
+    "stance": "own claim",
+    "claim_en": "Shoemaker says al-Ḥajjāj's censors largely eliminated divergent early codices/records so that they have effectively vanished.",
+    "context": "'It would appear' hedges the claim. Here 'these divergent records' refers to the early regional codices (companion codices) discussed in the chapter, not to specific verses. Earlier on the same page Shoemaker notes Leo's letter reporting that some traditions survived al-Ḥajjāj's purge."
+  },
+  {
+    "id": "shoemaker2022-08",
+    "work": "shoemaker2022",
+    "author": "Stephen J. Shoemaker",
+    "ref": "p. 64, ch. 2 (ʿAbd al-Malik, al-Ḥajjāj)",
+    "pdf_page": 81,
+    "url": "https://scholarsbank.uoregon.edu/bitstreams/07fa3882-0012-478e-8d23-4d8e839a4e0c/download",
+    "passage": "The degree to which the Qur’an remained an unstable text in Islamic usage during the first few centuries of Islam remains effectively still unknown in the absence of concerted study of these variants and their relation to the invariable, now canonical, text.",
+    "from_": "The degree to which the Qur’an remained",
+    "to": "now canonical, text.",
+    "keys": [
+      "remained an unstable text in Islamic usage",
+      "the invariable, now canonical, text"
+    ],
+    "alts": [
+      "in the absence of concerted study of these variants"
+    ],
+    "label": "D",
+    "stance": "own claim",
+    "claim_en": "Shoemaker says how unstable the Qur'an remained in Islamic usage in its first centuries is still unknown, given the 'thousands' of variant readings.",
+    "context": "Shoemaker himself stresses that the extent of instability is unknown; the variants are recorded by early authors and on coinage (same page)."
+  },
+  {
+    "id": "shoemaker2022-09",
+    "work": "shoemaker2022",
+    "author": "Stephen J. Shoemaker",
+    "ref": "p. 25, ch. 1 (The Traditional Narrative)",
+    "pdf_page": 42,
+    "url": "https://scholarsbank.uoregon.edu/bitstreams/07fa3882-0012-478e-8d23-4d8e839a4e0c/download",
+    "passage": "Nevertheless, at ʿUthmān’s order, as indicated above, all these versions were purportedly hunted down by the imperial authorities, who destroyed all the copies they could find.",
+    "from_": "Nevertheless, at ʿUthmān’s order, as indicated",
+    "to": "who destroyed all the copies they could find.",
+    "keys": [
+      "who destroyed all the copies they could find",
+      "all these versions were purportedly hunted down"
+    ],
+    "alts": [
+      "purportedly"
+    ],
+    "label": "C",
+    "stance": "reports others",
+    "claim_en": "The tradition reports that the competing companion codices were hunted down and destroyed on ʿUthmān's order.",
+    "context": "'Purportedly' marks this as the tradition's claim. The passage is about the Islamic narrative of the 'companion codices' (Ubayy b. Kaʿb, Ibn Masʿūd, Abū Mūsā al-Ashʿarī, Miqdād b. al-Aswad)."
+  },
+  {
+    "id": "shoemaker2022-10",
+    "work": "shoemaker2022",
+    "author": "Stephen J. Shoemaker",
+    "ref": "p. 25, ch. 1 (The Traditional Narrative)",
+    "pdf_page": 42,
+    "url": "https://scholarsbank.uoregon.edu/bitstreams/07fa3882-0012-478e-8d23-4d8e839a4e0c/download",
+    "passage": "I hardly think that this range of competing claims and opinions concerning the Qur’an’s collection can be considered to reflect anything approaching unanimity.",
+    "from_": "I hardly think that this range",
+    "to": "reflect anything approaching unanimity.",
+    "keys": [
+      "competing claims and opinions concerning the Qur’an’s collection"
+    ],
+    "alts": [],
+    "label": "D",
+    "stance": "own claim",
+    "claim_en": "Shoemaker says the tradition's competing claims about who collected the Qur'an (Ubayy, Ibn Masʿūd, Abū Mūsā, Miqdād) show no consensus.",
+    "context": "Descriptive of the sources' disagreement; Shoemaker does not in this sentence claim alteration of text."
+  },
+  {
+    "id": "shoemaker2022-11",
+    "work": "shoemaker2022",
+    "author": "Stephen J. Shoemaker",
+    "ref": "p. 33, ch. 1 (The Traditional Narrative)",
+    "pdf_page": 50,
+    "url": "https://scholarsbank.uoregon.edu/bitstreams/07fa3882-0012-478e-8d23-4d8e839a4e0c/download",
+    "passage": "The variants that have come down to us have clearly passed through a filter of censorship that has removed the most divergent qualities of these competing codices.",
+    "from_": "The variants that have come down to us",
+    "to": "removed the most divergent qualities of these competing codices.",
+    "keys": [
+      "passed through a filter of censorship that has removed the most divergent qualities"
+    ],
+    "alts": [],
+    "label": "C",
+    "stance": "own claim",
+    "claim_en": "Shoemaker says the surviving variant readings of the competing codices were filtered by censorship, which removed their most divergent elements.",
+    "context": "Concerns variant readings of the early codices, not omitted verses or surahs. Built on Abū Ḥayyān al-Gharnāṭī's statement that he omitted variants 'where there is too wide a divergence' from the standard text."
+  },
+  {
+    "id": "shoemaker2022-12",
+    "work": "shoemaker2022",
+    "author": "Stephen J. Shoemaker",
+    "ref": "p. 33, ch. 1 (The Traditional Narrative)",
+    "pdf_page": 50,
+    "url": "https://scholarsbank.uoregon.edu/bitstreams/07fa3882-0012-478e-8d23-4d8e839a4e0c/download",
+    "passage": "As de Prémare rightly observes, the variants that have been preserved from these early versions represent only “what survived from such collections after a selection that was more drastic than has been acknowledged.”",
+    "from_": "As de Prémare rightly observes, the variants",
+    "to": "than has been acknowledged.”",
+    "keys": [
+      "what survived from such collections after a selection that was more drastic than has been acknowledged"
+    ],
+    "alts": [],
+    "label": "C",
+    "stance": "reports others",
+    "claim_en": "Alfred-Louis de Prémare (as quoted by Shoemaker) says surviving variants are only what survived a more drastic selection than acknowledged; Shoemaker endorses 'rightly observes'.",
+    "context": "The quoted sentence is de Prémare's, quoted with approval by Shoemaker. Not checked against de Prémare's own text (not accessed)."
+  },
+  {
+    "id": "shoemaker2022-13",
+    "work": "shoemaker2022",
+    "author": "Stephen J. Shoemaker",
+    "ref": "p. 209, ch. 8 (The Qur’anic Codex as Process)",
+    "pdf_page": 226,
+    "url": "https://scholarsbank.uoregon.edu/bitstreams/07fa3882-0012-478e-8d23-4d8e839a4e0c/download",
+    "passage": "As in the early Christian tradition, these variants are undoubtedly a sign that oral traditions and transmissions of the Qur’an’s content persisted for some time even after the establishment of an invariable consonantal skeleton for the text, continuing to introduce textual variants even in the face of a written version.",
+    "from_": "As in the early Christian tradition, these variants",
+    "to": "even in the face of a written version.",
+    "keys": [
+      "persisted for some time even after the establishment of an invariable consonantal skeleton for the text"
+    ],
+    "alts": [
+      "undoubtedly a sign that oral traditions"
+    ],
+    "label": "D",
+    "stance": "own claim",
+    "claim_en": "Shoemaker says textual variants in the Qur'an's classical transmission show oral transmission persisted after the consonantal skeleton was made invariable.",
+    "context": "The 'invariable consonantal skeleton' is presented as established by his historical account, not as an independent dating argument. This is also a statement that the skeleton was fixed (see E-type counter-claims elsewhere)."
+  },
+  {
+    "id": "shoemaker2022-14",
+    "work": "shoemaker2022",
+    "author": "Stephen J. Shoemaker",
+    "ref": "p. 217, ch. 8 (The Qur’anic Codex as Process)",
+    "pdf_page": 234,
+    "url": "https://scholarsbank.uoregon.edu/bitstreams/07fa3882-0012-478e-8d23-4d8e839a4e0c/download",
+    "passage": "A third alternative understands these variants as the result of written revisions that were undertaken by Muhammad’s followers after his death. Karl-Friedrich Pohlmann has made the most systematic use of this approach in his Die Entstehung des Korans, which convincingly argues that some of the variants evident among these passages seem to demand revisions to an already existing written text.",
+    "from_": "A third alternative understands these variants",
+    "to": "to an already existing written text.",
+    "keys": [
+      "written revisions that were undertaken by Muhammad’s followers after his death",
+      "seem to demand revisions to an already existing written text"
+    ],
+    "alts": [
+      "seem to demand"
+    ],
+    "label": "B",
+    "stance": "reports others",
+    "claim_en": "Shoemaker presents Karl-Friedrich Pohlmann's view that some variants among parallel passages were written revisions by Muhammad's followers after his death, which Shoemaker calls convincing.",
+    "context": "Shoemaker's own position here is that oral and written routes both matter (he 'would agree' with a combined approach on the next page). Pohlmann's book (Die Entstehung des Korans) was not accessed."
+  },
+  {
+    "id": "shoemaker2022-15",
+    "work": "shoemaker2022",
+    "author": "Stephen J. Shoemaker",
+    "ref": "p. 219, ch. 8 (The Qur’anic Codex as Process)",
+    "pdf_page": 236,
+    "url": "https://scholarsbank.uoregon.edu/bitstreams/07fa3882-0012-478e-8d23-4d8e839a4e0c/download",
+    "passage": "One assumes, moreover, that these early collections would continue to be expanded and altered in light of the enduring oral tradition, as well as the changing experiences of the community and its expanding knowledge of the traditions of Abrahamic monotheism.",
+    "from_": "One assumes, moreover, that these early",
+    "to": "of Abrahamic monotheism.",
+    "keys": [
+      "would continue to be expanded and altered in light of the enduring oral tradition"
+    ],
+    "alts": [
+      "One assumes"
+    ],
+    "label": "B",
+    "stance": "own claim",
+    "claim_en": "Shoemaker assumes the early written collections continued to be expanded and altered after they were made, under the influence of oral tradition and the community's changing knowledge.",
+    "context": "Framed as an assumption, about the early collections (not the canonical text). Also says variants 'may have continued to develop' (same page)."
+  },
+  {
+    "id": "shoemaker2022-16",
+    "work": "shoemaker2022",
+    "author": "Stephen J. Shoemaker",
+    "ref": "p. 218, ch. 8 (The Qur’anic Codex as Process)",
+    "pdf_page": 235,
+    "url": "https://scholarsbank.uoregon.edu/bitstreams/07fa3882-0012-478e-8d23-4d8e839a4e0c/download",
+    "passage": "I see little reason to doubt, as Wansbrough similarly concludes, that these are two variants of the same tradition whose differences are the result of recurrent oral reproduction.",
+    "from_": "I see little reason to doubt, as Wansbrough",
+    "to": "recurrent oral reproduction.",
+    "keys": [
+      "two variants of the same tradition whose differences are the result of recurrent oral reproduction"
+    ],
+    "alts": [
+      "I see little reason to doubt"
+    ],
+    "label": "D",
+    "stance": "own claim",
+    "claim_en": "Shoemaker agrees with Wansbrough that the two versions of one tradition in Q 55:46–76 are oral variants of one tradition, not a written revision.",
+    "context": "Shoemaker's own judgment, citing Wansbrough (Quranic Studies, pp. 25–27 per his notes). Wansbrough's book itself was not accessed."
+  },
+  {
+    "id": "shoemaker2022-17",
+    "work": "shoemaker2022",
+    "author": "Stephen J. Shoemaker",
+    "ref": "p. 216, ch. 8 (The Qur’anic Codex as Process)",
+    "pdf_page": 233,
+    "url": "https://scholarsbank.uoregon.edu/bitstreams/07fa3882-0012-478e-8d23-4d8e839a4e0c/download",
+    "passage": "According to Wansbrough, these divergent parallels should be understood, in conjunction with ideological differences within the early community, as “independent, possibly regional, traditions” that arose as a result of the Believers’ abrupt expansion across western Asia and North Africa, which left the community of the Believers scattered across a vast expanse.",
+    "from_": "According to Wansbrough, these divergent parallels",
+    "to": "scattered across a vast expanse.",
+    "keys": [
+      "“independent, possibly regional, traditions”"
+    ],
+    "alts": [],
+    "label": "D",
+    "stance": "reports others",
+    "claim_en": "Wansbrough (as reported by Shoemaker) explains divergent Qur'anic parallels as independent, possibly regional traditions arising from the community's expansion.",
+    "context": "This is a report of Wansbrough's explanation for parallel passages (the 'synoptic problem'), not a claim of textual alteration by later redactors."
+  },
+  {
+    "id": "shoemaker2022-18",
+    "work": "shoemaker2022",
+    "author": "Stephen J. Shoemaker",
+    "ref": "p. 145, ch. 5 (Literacy, Orality)",
+    "pdf_page": 162,
+    "url": "https://scholarsbank.uoregon.edu/bitstreams/07fa3882-0012-478e-8d23-4d8e839a4e0c/download",
+    "passage": "For generations of Qur’anic research, innumerable scholars have held exactly the opposite understanding of the text—namely, that these features were introduced only later on, during the collection and codification of the Qur’an.104 Wansbrough argues as much persuasively in his Qur’anic Studies, noting that only in their final redaction did the traditions of the Qur’an “achieve a kind of stylistic uniformity by resort to a scarcely varied stock of rhetorical convention.”",
+    "from_": "For generations of Qur’anic research",
+    "to": "scarcely varied stock of rhetorical convention.”",
+    "keys": [
+      "these features were introduced only later on, during the collection and codification of the Qur’an",
+      "only in their final redaction did the traditions of the Qur’an"
+    ],
+    "alts": [],
+    "label": "B",
+    "stance": "reports others",
+    "claim_en": "Shoemaker reports that many scholars hold that the Qur'an's literary features were introduced during collection and codification, and reports Wansbrough arguing this 'persuasively' (final redaction gave stylistic uniformity).",
+    "context": "Shoemaker's wording ('argues as much persuasively') endorses Wansbrough's view on this point; the Wansbrough sentence itself is quoted via Shoemaker and was not checked in Wansbrough's book. Passage keeps the footnote marker '104' printed in the source after 'Qur’an.'"
+  },
+  {
+    "id": "shoemaker2022-19",
+    "work": "shoemaker2022",
+    "author": "Stephen J. Shoemaker",
+    "ref": "p. 120, ch. 5 (Literacy, Orality)",
+    "pdf_page": 137,
+    "url": "https://scholarsbank.uoregon.edu/bitstreams/07fa3882-0012-478e-8d23-4d8e839a4e0c/download",
+    "passage": "The [Islamic] tradition’s own account of the early history of the Qurʾān makes that point for us. It tells of the existence and destruction of variant texts, and it is acknowledged that the text of the Qurʾān as we have it bears no relation to the order in which it was revealed to Muḥammad.",
+    "from_": "The [Islamic] tradition’s own account of",
+    "to": "in which it was revealed to Muḥammad.",
+    "keys": [
+      "It tells of the existence and destruction of variant texts",
+      "bears no relation to the order in which it was revealed"
+    ],
+    "alts": [],
+    "label": "C",
+    "stance": "reports others",
+    "claim_en": "Gerald Hawting (quoted by Shoemaker) says the Islamic tradition reports the existence and destruction of variant texts, and that the Qur'an's order does not follow the order of revelation.",
+    "context": "Quoted by Shoemaker from Hawting, with 'more recent scholar' wording; the original Hawting source (cited in Shoemaker's notes) was not accessed. The quoted sentences do not themselves say that verses were lost."
+  },
+  {
+    "id": "shoemaker2022-20",
+    "work": "shoemaker2022",
+    "author": "Stephen J. Shoemaker",
+    "ref": "p. 137, ch. 5 (Literacy, Orality)",
+    "pdf_page": 154,
+    "url": "https://scholarsbank.uoregon.edu/bitstreams/07fa3882-0012-478e-8d23-4d8e839a4e0c/download",
+    "passage": "I am not proposing that the Qur’an has absolutely no historical connection to the Hijaz, as, for instance, John Wansbrough famously argued. It is quite possible that Muhammad had a prophetic career in Mecca and Medina, and the traditions of the Qur’an largely reflect many of the things that he taught during that period.",
+    "from_": "I am not proposing that the Qur’an",
+    "to": "many of the things that he taught during that period.",
+    "keys": [
+      "the traditions of the Qur’an largely reflect many of the things that he taught during that period"
+    ],
+    "alts": [
+      "I am not proposing that the Qur’an has absolutely no historical connection"
+    ],
+    "label": "E",
+    "stance": "own claim",
+    "claim_en": "Shoemaker qualifies his thesis: the Qur'an's traditions largely reflect Muhammad's teaching, though the words were not written down in his lifetime (the next sentence).",
+    "context": "Qualification of the claim that the text is the Prophet's own, included for honesty. The next sentence says the teachings and words 'were almost certainly not written down during his lifetime in the Hijaz, but at a later time and in another place or places' (same page): this is a claim of later fixation (B-type)."
+  },
+  {
+    "id": "shoemaker2022-21",
+    "work": "shoemaker2022",
+    "author": "Stephen J. Shoemaker",
+    "ref": "p. 52, ch. 2 (ʿAbd al-Malik, al-Ḥajjāj)",
+    "pdf_page": 69,
+    "url": "https://scholarsbank.uoregon.edu/bitstreams/07fa3882-0012-478e-8d23-4d8e839a4e0c/download",
+    "passage": "On this basis alone it seems highly unlikely that the Qur’an as we now have it had been completely fixed by the turn of the eighth century, when John, who again was extremely well-informed and well-connected, wrote his description of the writings that Muhammad’s followers ascribed to him and revered as sacred scripture.",
+    "from_": "On this basis alone it seems highly",
+    "to": "revered as sacred scripture.",
+    "keys": [
+      "had been completely fixed by the turn of the eighth century"
+    ],
+    "alts": [
+      "it seems highly unlikely"
+    ],
+    "label": "B",
+    "stance": "own claim",
+    "claim_en": "Shoemaker argues, from John of Damascus's description, that the Qur'an as now known was probably not completely fixed by c. 700.",
+    "context": "Hedged ('seems highly unlikely'). The argument rests on the source 'John' (John of Damascus) reporting writings ascribed to Muhammad that differ from the canonical text, which Shoemaker discusses on the same page."
+  },
+  {
+    "id": "shoemaker2022-22",
+    "work": "shoemaker2022",
+    "author": "Stephen J. Shoemaker",
+    "ref": "p. 257, ch. 9 (The Qur’an’s Historical Context)",
+    "pdf_page": 274,
+    "url": "https://scholarsbank.uoregon.edu/bitstreams/07fa3882-0012-478e-8d23-4d8e839a4e0c/download",
+    "passage": "This final layer of literary polish came only after decades of oral transmission and constant adoption and adaptation of traditions and it was ultimately achieved in the final composition of the canonical text of the Qur’an, under the supervision and coordination of ʿAbd al-Malik.",
+    "from_": "This final layer of literary polish came",
+    "to": "under the supervision and coordination of ʿAbd al-Malik.",
+    "keys": [
+      "achieved in the final composition of the canonical text of the Qur’an",
+      "under the supervision and coordination of ʿAbd al-Malik"
+    ],
+    "alts": [],
+    "label": "B",
+    "stance": "own claim",
+    "claim_en": "Shoemaker's summary: the final literary polish of the Qur'an, after decades of oral transmission, was the final composition under ʿAbd al-Malik, producing an imperially enforced version.",
+    "context": "Summary sentence within a passage that also states the Qur'an is 'composite and composed' (see the next passage)."
+  },
+  {
+    "id": "shoemaker2022-23",
+    "work": "shoemaker2022",
+    "author": "Stephen J. Shoemaker",
+    "ref": "p. 256, ch. 9 (The Qur’an’s Historical Context)",
+    "pdf_page": 273,
+    "url": "https://scholarsbank.uoregon.edu/bitstreams/07fa3882-0012-478e-8d23-4d8e839a4e0c/download",
+    "passage": "What all of this means is that we must embrace an understanding of the Qur’an as a fundamentally composite and composed text that, in the form in which it has come down to us, does not have a singular origin in Muhammad’s teaching.",
+    "from_": "What all of this means is that",
+    "to": "does not have a singular origin in Muhammad’s teaching.",
+    "keys": [
+      "a fundamentally composite and composed text",
+      "does not have a singular origin in Muhammad’s teaching"
+    ],
+    "alts": [],
+    "label": "E",
+    "stance": "own claim",
+    "claim_en": "Shoemaker concludes that the Qur'an is composite and composed and does not have a single origin in Muhammad's teaching.",
+    "context": "Labelled E because it denies that the text in its present form has a single origin in Muhammad's teaching. It is also a statement of later composition (B) and of composition from earlier materials (A)."
+  },
+  {
+    "id": "shoemaker2022-24",
+    "work": "shoemaker2022",
+    "author": "Stephen J. Shoemaker",
+    "ref": "p. 256, ch. 9 (The Qur’an’s Historical Context)",
+    "pdf_page": 273,
+    "url": "https://scholarsbank.uoregon.edu/bitstreams/07fa3882-0012-478e-8d23-4d8e839a4e0c/download",
+    "passage": "Rather, the various components of the Qur’an derive from a range of different historical contexts and have been brought together by the early Islamic tradition into a single canonical text that was reified as a new scripture for Muhammad’s followers at the close of the seventh century.",
+    "from_": "Rather, the various components of the Qur’an",
+    "to": "at the close of the seventh century.",
+    "keys": [
+      "brought together by the early Islamic tradition into a single canonical text",
+      "at the close of the seventh century"
+    ],
+    "alts": [],
+    "label": "B",
+    "stance": "own claim",
+    "claim_en": "Shoemaker says the Qur'an's components came from different contexts and were assembled into one canonical text by the early Islamic tradition, reified as scripture at the end of the seventh century.",
+    "context": "Note the date here (end of the seventh century) differs slightly from the 'turn of the eighth century' in the Introduction and chapter 2; both are given by Shoemaker."
+  },
+  {
+    "id": "shoemaker2022-25",
+    "work": "shoemaker2022",
+    "author": "Stephen J. Shoemaker",
+    "ref": "p. 256, ch. 9 (The Qur’an’s Historical Context)",
+    "pdf_page": 273,
+    "url": "https://scholarsbank.uoregon.edu/bitstreams/07fa3882-0012-478e-8d23-4d8e839a4e0c/download",
+    "passage": "the possible appropriation of materials that had already been committed to writing in some other context before they were added to the Qur’an.",
+    "from_": "the possible appropriation of materials that",
+    "to": "before they were added to the Qur’an.",
+    "keys": [
+      "materials that had already been committed to writing in some other context before they were added to the Qur’an"
+    ],
+    "alts": [
+      "the possible appropriation"
+    ],
+    "label": "A",
+    "stance": "own claim",
+    "claim_en": "Shoemaker suggests that some passages may have been taken from texts already written in another context and then added to the Qur'an.",
+    "context": "Hedged ('possible'); this is the suggestion that the puzzling passages reflect later addition of pre-existing written material. It is a passage fragment from a longer sentence; full sentence: 'These puzzling difficulties belie any simple notion of an oral tradition reaching back to Muhammad and suggest instead the possible appropriation...'."
+  },
+  {
+    "id": "shoemaker2022-26",
+    "work": "shoemaker2022",
+    "author": "Stephen J. Shoemaker",
+    "ref": "p. 256, ch. 9 (The Qur’an’s Historical Context)",
+    "pdf_page": 273,
+    "url": "https://scholarsbank.uoregon.edu/bitstreams/07fa3882-0012-478e-8d23-4d8e839a4e0c/download",
+    "passage": "there is some reason to suppose that the Koran was put together out of a plurality of earlier Hagarene religious works,",
+    "from_": "there is some reason to suppose",
+    "to": "earlier Hagarene religious works,",
+    "keys": [
+      "put together out of a plurality of earlier Hagarene religious works"
+    ],
+    "alts": [
+      "there is some reason to suppose"
+    ],
+    "label": "B",
+    "stance": "reports others",
+    "claim_en": "Cook and Crone (1977), as quoted by Shoemaker, suggest the Koran was put together from earlier religious works.",
+    "context": "Quotation from Cook & Crone's Hagarism, quoted by Shoemaker (footnote 90). Hagarism was not accessed; the quoted phrase is Shoemaker's reproduction of it. Same page also quotes Cook & Crone: 'the Koran itself gives obscure indications that the integrity of the scripture was problematic'."
+  },
+  {
+    "id": "shoemaker2022-27",
+    "work": "shoemaker2022",
+    "author": "Stephen J. Shoemaker",
+    "ref": "p. 257, ch. 9 (The Qur’an’s Historical Context)",
+    "pdf_page": 274,
+    "url": "https://scholarsbank.uoregon.edu/bitstreams/07fa3882-0012-478e-8d23-4d8e839a4e0c/download",
+    "passage": "certain passages reuse other passages, often rewriting them, correcting them, or responding to them.",
+    "from_": "certain passages reuse other passages",
+    "to": "rewriting them, correcting them, or responding to them.",
+    "keys": [
+      "certain passages reuse other passages, often rewriting them, correcting them, or responding to them"
+    ],
+    "alts": [],
+    "label": "A",
+    "stance": "reports others",
+    "claim_en": "Shoemaker describes parallel Qur'anic passages as reusing, rewriting and correcting one another (an intra-Qur'anic revision of earlier text).",
+    "context": "This sentence sits inside a numbered list (1)-(3) of features of the Qur'an that begins on the preceding page (p. 256). I did not establish whether the list is Shoemaker's own or quoted from another scholar; check before using as Shoemaker's own claim."
+  }
+]

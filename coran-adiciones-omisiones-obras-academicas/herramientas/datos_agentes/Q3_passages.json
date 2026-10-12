@@ -1,0 +1,666 @@
+[
+ {
+  "id": "q3-n2010-01",
+  "work": "neuwirth2010-spaetantike",
+  "author": "Angelika Neuwirth",
+  "ref": "Einleitung, 1 'Der Koran als Dokument einer Religionsentstehung', p. 19 (Leseprobe pp.19-20)",
+  "pdf_page": 20,
+  "url": "https://lesejury.de/media/samples/264/9783458710264_leseprobe.pdf",
+  "passage": "Der mit diesem Band erhobene Anspruch, die Entstehung einer neuen Religion an der sich schrittweise entfaltenden Textgestalt ihres Gründungsdokuments ablesen zu wollen, mag hochgegriffen erscheinen. Doch gibt es im Fall des Islam keine ernsthafte Alternative. Spätere Geschichtszeugnisse wie die Prophetenbiographie reflektieren den bereits erreichten Sieg des Islam, dem sie ihrerseits literarische Gestalt verleihen. Einzig der Koran ist das genuine Zeugnis der Entwicklung jener kultisch geprägten Bewegung, aus der noch während der Wirkungszeit des Propheten die frühe Gemeinde hervorging.",
+  "from_": "Der mit diesem Band erhobene Anspruch",
+  "to": "der Wirkungszeit des Propheten die frühe Gemeinde hervorging.",
+  "keys": [
+   "an der sich schrittweise entfaltenden Textgestalt ihres Gründungsdokuments ablesen",
+   "Einzig der Koran ist das genuine Zeugnis der Entwicklung"
+  ],
+  "alts": [
+   "mag hochgegriffen erscheinen"
+  ],
+  "label": "N",
+  "stance": "own claim",
+  "claim_en": "Neuwirth's programme is to read the emergence of the religion off the gradually unfolding textual form of the Qur'an, which she calls the only genuine witness to the movement's development during the Prophet's lifetime.",
+  "context": "Framing statement only: it does not itself name any inserted verse, revision or later addition of a surah; labelled N as a programme statement. Sample text from publisher's Leseprobe; German transcribed from rendered page image (text layer drops umlauts)."
+ },
+ {
+  "id": "q3-n2010-02",
+  "work": "neuwirth2010-spaetantike",
+  "author": "Angelika Neuwirth",
+  "ref": "Einleitung, 1, p. 19-20 (Leseprobe)",
+  "pdf_page": 20,
+  "url": "https://lesejury.de/media/samples/264/9783458710264_leseprobe.pdf",
+  "passage": "Die Unterscheidung zwischen diesen beiden Erscheinungsformen des Koran ist keine textgeschichtliche Bagatelle, vielmehr impliziert die Fokussierung der Verkündigung eine hermeneutisch folgenreiche Revision, die den Koran buchstäblich in eine andere, bisher nicht mit ihm verbundene Epoche ›verschiebt‹.",
+  "from_": "Die Unterscheidung zwischen diesen beiden Erscheinungsformen",
+  "to": "in eine andere, bisher nicht mit ihm verbundene Epoche ›verschiebt‹.",
+  "keys": [
+   "eine hermeneutisch folgenreiche Revision",
+   "keine textgeschichtliche Bagatelle"
+  ],
+  "alts": [
+   "die Fokussierung der Verkündigung"
+  ],
+  "label": "N",
+  "stance": "own claim",
+  "claim_en": "The distinction between the oral proclamation and the canonical codified text is, for Neuwirth, a hermeneutic revision of perspective that places the Qur'an in late antiquity.",
+  "context": "The word 'Revision' here refers to a hermeneutic shift of research perspective, NOT to a revision of the text. Included to show the term is not a textual claim."
+ },
+ {
+  "id": "q3-n2010-03",
+  "work": "neuwirth2010-spaetantike",
+  "author": "Angelika Neuwirth",
+  "ref": "Einleitung, 1, p. 20 (Leseprobe)",
+  "pdf_page": 21,
+  "url": "https://lesejury.de/media/samples/264/9783458710264_leseprobe.pdf",
+  "passage": "Diese mündliche Verkündigung, die Interaktion zwischen Sprecher und Hörern, ihre Verhandlung älterer Traditionen, die gewissermaßen unter der Endgestalt der kanonisierten Offenbarungsschrift verborgen ist, freizulegen ist ein zentrales Ziel dieses Buches. Trotz ihres Experimentcharakters, trotz der vielfach in Kauf zu nehmenden Hypothesen, dürfte die hier vollzogene radikale Drehung der Forschungsperspektive – von dem fertigen, kanonischen Text hin zu dem erst zu rekonstruierenden Kommunikationsprozeß der Koranverkündigung – der einzig gangbare Weg zur Wiederherstellung einer wichtigen, durch die Tradition verschütteten Sinndimension des Koran sein.",
+  "from_": "Diese mündliche Verkündigung, die Interaktion",
+  "to": "einer wichtigen, durch die Tradition verschütteten Sinndimension des Koran sein.",
+  "keys": [
+   "ihre Verhandlung älterer Traditionen",
+   "unter der Endgestalt der kanonisierten Offenbarungsschrift verborgen ist"
+  ],
+  "alts": [
+   "trotz der vielfach in Kauf zu nehmenden Hypothesen"
+  ],
+  "label": "A",
+  "stance": "own claim",
+  "claim_en": "Neuwirth claims that older traditions were negotiated in the oral proclamation and are hidden beneath the final, canonical form of the text, and that reconstructing that process is her book's central aim.",
+  "context": "Claim is about layered pre-canonical proclamation; it does not itself specify surah-level insertions, and she calls the reconstruction hypothetical ('vielfach in Kauf zu nehmenden Hypothesen'). Label A is provisional for that reason."
+ },
+ {
+  "id": "q3-s2007-01",
+  "work": "neuwirth1981-2007",
+  "author": "Angelika Neuwirth",
+  "ref": "Essay 'Ein Versuch der historischen und forschungsgeschichtlichen Verortung des Koran', printed p. 27* (2007 2nd ed., preview); section 'Der Kommunikationsprozess im frühen Mekka' opening; (the 1981 analysis text is not this passage)",
+  "pdf_page": 39,
+  "url": "https://api.pageplace.de/preview/DT0400.9783110920383_A19807214/preview-9783110920383_A19807214.pdf",
+  "passage": "Da sich die Gemeinde aber erweitert und in medinischer Zeit zeitweise auch Juden unter den Hörern anzutreffen sind, erweisen sich bestimmte Rezitationstexte in späterer Zeit als revisionsbedürftig. Die Darstellung von Episoden jüdischer Heilsgeschichte war in diesen Fällen nachträglich zu vertiefen oder zu revidieren; so erklärt sich die Fülle von medinischen Erweiterungen, wie diejenige der Geschichte vom Golden Kalb in Sure 20, die – wie weiter unten ausgeführt werden soll – eine interpretierende Pointe im Sinne der jüdischen Yom-Kippur-Liturgie nachträgt.",
+  "from_": "Da sich die Gemeinde aber erweitert",
+  "to": "der jüdischen Yom-Kippur-Liturgie nachträgt.",
+  "keys": [
+   "erweisen sich bestimmte Rezitationstexte in späterer Zeit als revisionsbedürftig",
+   "nachträglich zu vertiefen oder zu revidieren",
+   "so erklärt sich die Fülle von medinischen Erweiterungen"
+  ],
+  "alts": [
+   "Die Darstellung von Episoden jüdischer Heilsgeschichte war in diesen Fällen"
+  ],
+  "label": "A",
+  "stance": "own claim",
+  "claim_en": "Neuwirth herself states that as the community grew, certain Meccan recitation texts were later found to need revision; episodes of Jewish salvation history were deepened or revised after the fact, which explains many Medinan extensions, e.g. the Golden Calf story in Sura 20 (with a Yom Kippur liturgy point added).",
+  "context": "Strong own-claim statement of later revision/extension of earlier surah material, though limited to episodes of Jewish salvation history and framed as explanatory. Essay is NEW in the 2nd edition (2007); the 1981 analysis is reprinted unchanged. Read on a rendered page image of a publisher preview (German verified visually; text layer had OCR errors)."
+ },
+ {
+  "id": "q3-s2007-02",
+  "work": "neuwirth1981-2007",
+  "author": "Angelika Neuwirth",
+  "ref": "Essay 'Ein Versuch ...', printed p. 12* (2007 preview)",
+  "pdf_page": 24,
+  "url": "https://api.pageplace.de/preview/DT0400.9783110920383_A19807214/preview-9783110920383_A19807214.pdf",
+  "passage": "nach welcher das koranische Corpus als Schöpfung einer späteren Gemeinde gilt. Nicht Muhammad hat diesen Forschern zufolge Traditionen anderer Religionen „aufgenommen“; vielmehr habe ein nicht weiter bestimmbarer Zirkel von Redaktoren – Angehörige eines religiös streitbaren Milieus Syriens oder des Südirak – die fraglichen Theologumena in den Text eingebracht.",
+  "from_": "nach welcher das koranische Corpus als",
+  "to": "die fraglichen Theologumena in den Text eingebracht.",
+  "keys": [
+   "Schöpfung einer späteren Gemeinde gilt",
+   "ein nicht weiter bestimmbarer Zirkel von Redaktoren"
+  ],
+  "alts": [
+   "Nicht Muhammad hat diesen Forschern zufolge"
+  ],
+  "label": "B",
+  "stance": "reports others",
+  "claim_en": "Neuwirth reports the position of Crone, Cook and Hawting (after Wansbrough): the Qur'anic corpus is the creation of a later community, produced by an unidentified circle of redactors who inserted the theologumena into the text.",
+  "context": "Neuwirth is describing others' view here (reports others), not endorsing it; see the next passages for her critique. The dash in the original is printed as an en dash (rendered-image reading)."
+ },
+ {
+  "id": "q3-s2007-03",
+  "work": "neuwirth1981-2007",
+  "author": "Angelika Neuwirth",
+  "ref": "Essay 'Ein Versuch ...', printed p. 13*, section 'Lüling und Luxenberg' (2007 preview); footnotes 47-48",
+  "pdf_page": 25,
+  "url": "https://api.pageplace.de/preview/DT0400.9783110920383_A19807214/preview-9783110920383_A19807214.pdf",
+  "passage": "In seiner uns vorliegenden Form verdanke sich der Korantext einer noch späteren Redaktion, die – wie Nicolai Sinai resümiert – „Muhammads eigentliche Botschaft, eine radikale Kritik der monotheistischen Hochreligion vom Standpunkt des altarabischen Polytheismus, aus politischer Opportunität in ihr Gegenteil verkehrt habe“.",
+  "from_": "In seiner uns vorliegenden Form verdanke sich",
+  "to": "in ihr Gegenteil verkehrt habe“.",
+  "keys": [
+   "verdanke sich der Korantext einer noch späteren Redaktion",
+   "aus politischer Opportunität in ihr Gegenteil verkehrt habe"
+  ],
+  "alts": [
+   "wie Nicolai Sinai resümiert"
+  ],
+  "label": "B",
+  "stance": "reports others",
+  "claim_en": "Neuwirth reports, via Nicolai Sinai's summary, Günther Lüling's thesis (1972) that the Qur'an as we have it owes its form to a later redaction that reversed Muhammad's message for political reasons; Lüling's 'Ur-Koran' of Christian strophic hymns is described just before.",
+  "context": "Reports others (Lüling via Sinai, NZZ 19.2.2004 cited in fn. 48). Neuwirth's own evaluation of Lüling follows on the same page and is not reproduced here. Printed as a critique of a 'Revision' of the traditional picture (same page)."
+ },
+ {
+  "id": "q3-s2007-04",
+  "work": "neuwirth1981-2007",
+  "author": "Angelika Neuwirth",
+  "ref": "Essay 'Ein Versuch ...', printed p. 13* (2007 preview), on Wansbrough",
+  "pdf_page": 25,
+  "url": "https://api.pageplace.de/preview/DT0400.9783110920383_A19807214/preview-9783110920383_A19807214.pdf",
+  "passage": "Sein Urteil über den Text ist vor der Textanalyse bereits gefallen, er geht von dem fait accompli einer – in ihrem Wachstumsprozess nicht mehr kontrollierbaren – Kompilation des Koran durch anonyme Akteure innerhalb der späteren bereits etablierten Gemeinde aus.",
+  "from_": "Sein Urteil über den Text ist",
+  "to": "innerhalb der späteren bereits etablierten Gemeinde aus.",
+  "keys": [
+   "Sein Urteil über den Text ist vor der Textanalyse bereits gefallen",
+   "fait accompli einer"
+  ],
+  "alts": [
+   "in ihrem Wachstumsprozess nicht mehr kontrollierbaren"
+  ],
+  "label": "E",
+  "stance": "rejects",
+  "claim_en": "Neuwirth criticises Wansbrough's late-compilation thesis as a verdict reached before textual analysis, which takes compilation by later anonymous actors as a fait accompli, and says that process of growth is no longer controllable by that method.",
+  "context": "Her target is the skeptical method, not the premise that the text had a growth process: she explicitly speaks of the text's 'Wachstumsprozess'. Labelled E (qualifies the late-compilation thesis)."
+ },
+ {
+  "id": "q3-s2007-05",
+  "work": "neuwirth1981-2007",
+  "author": "Angelika Neuwirth",
+  "ref": "Essay 'Ein Versuch ...', printed p. 12* (2007 preview)",
+  "pdf_page": 24,
+  "url": "https://api.pageplace.de/preview/DT0400.9783110920383_A19807214/preview-9783110920383_A19807214.pdf",
+  "passage": "Nicht nur wird die Genese einer hijazenischen Urgemeinde in den Bereich frommer Legendenbildung verwiesen, sondern es wird zugleich jeder Versuch einer mikrostrukturellen Durchdringung des Textes und seiner Wachstumsgeschichte aufgegeben.",
+  "from_": "Nicht nur wird die Genese einer",
+  "to": "und seiner Wachstumsgeschichte aufgegeben.",
+  "keys": [
+   "jeder Versuch einer mikrostrukturellen Durchdringung des Textes und seiner Wachstumsgeschichte aufgegeben",
+   "in den Bereich frommer Legendenbildung verwiesen"
+  ],
+  "alts": [],
+  "label": "E",
+  "stance": "rejects",
+  "claim_en": "Neuwirth faults the skeptical (Wansbrough-school) approach for giving up any micro-structural analysis of the text and its growth history, and for relegating the origin of the Hijazi community to pious legend-making.",
+  "context": "Implicit affirmation that the text has a growth history, but the sentence is a critique of skeptics; not a direct statement of surah-level insertions."
+ },
+ {
+  "id": "q3-cc-020a",
+  "work": "corpuscoranicum-kommentar",
+  "author": "Dirk Hartwig and Angelika Neuwirth (sura author field: 'Übersetzt und analysiert von Dirk Hartwig und Angelika Neuwirth ...')",
+  "ref": "Sure 20, Literarkritik (Kursorischer Kommentar analysis section 'Literarkritik')",
+  "pdf_page": "",
+  "url": "https://api.corpuscoranicum.de/api/data/commentary/sura/20",
+  "passage": "Die zuletzt erzählte Geschichte ist im Kerntext unverbunden mit der vorausgehenden — erst ein medinischer Nachtrag ( V. 77–82 ) stellt theologisch einen Zusammenhang zwischen dem Ensemble her.",
+  "from_": "Die zuletzt erzählte Geschichte ist im",
+  "to": "einen Zusammenhang zwischen dem Ensemble her.",
+  "keys": [
+   "erst ein medinischer Nachtrag"
+  ],
+  "alts": [
+   "im Kerntext unverbunden"
+  ],
+  "label": "A",
+  "stance": "own claim",
+  "claim_en": "The commentary holds that the last-told story (Golden Calf) is unconnected to the preceding narrative in the core text; a Medinan Nachtrag (vv. 77-82) creates the theological link.",
+  "context": "Commentary's own analytical claim for Sura 20; co-authored by Neuwirth. Part of a Betaversion; the same section also argues for the Medinan additions below."
+ },
+ {
+  "id": "q3-cc-020b",
+  "work": "corpuscoranicum-kommentar",
+  "author": "Dirk Hartwig and Angelika Neuwirth (sura author field: 'Übersetzt und analysiert von Dirk Hartwig und Angelika Neuwirth ...')",
+  "ref": "Sure 20, Literarkritik",
+  "pdf_page": "",
+  "url": "https://api.corpuscoranicum.de/api/data/commentary/sura/20",
+  "passage": "Da sie aber argumentativ aus der vorausgehenden Versgruppe V. 77–79 entwickelt werden, sollte der gesamte Block V. 77–82 späterer Zusatz sein.",
+  "from_": "Da sie aber argumentativ aus der",
+  "to": "Block V. 77–82 späterer Zusatz sein.",
+  "keys": [
+   "sollte der gesamte Block V. 77–82 späterer Zusatz sein"
+  ],
+  "alts": [],
+  "label": "A",
+  "stance": "own claim",
+  "claim_en": "Because vv. 80-82 address Medinan Jews and the block is argued out of vv. 77-79, the whole block vv. 77-82 should be a later addition.",
+  "context": "Hedged in parts: vv. 77-79 'könnten angesichts der Ähnlichkeit zu dem Paralleltext Q 26:63–64 zwar noch mittelmekkanisch sein'; the commentary states the block should be a later addition."
+ },
+ {
+  "id": "q3-cc-020c",
+  "work": "corpuscoranicum-kommentar",
+  "author": "Dirk Hartwig and Angelika Neuwirth (sura author field: 'Übersetzt und analysiert von Dirk Hartwig und Angelika Neuwirth ...')",
+  "ref": "Sure 20, Literarkritik",
+  "pdf_page": "",
+  "url": "https://api.corpuscoranicum.de/api/data/commentary/sura/20",
+  "passage": "Der drohende Zusatz mit ihrer zweiten Anrede dürfte dennoch primär dazu eingefügt sein, um der unmittelbar folgenden — im Kerntext noch erbaulich erzählten — Geschichte von der Idolatrie um das Goldene Kalb nachträglich Gewicht zu geben.",
+  "from_": "Der drohende Zusatz mit ihrer zweiten",
+  "to": "Goldene Kalb nachträglich Gewicht zu geben.",
+  "keys": [
+   "dürfte dennoch primär dazu eingefügt sein"
+  ],
+  "alts": [],
+  "label": "A",
+  "stance": "own claim",
+  "claim_en": "The Medinan addition was inserted primarily to give retrospective weight to the Golden Calf story, which in the core text was narrated edifyingly.",
+  "context": "The commentary also cites Jom-Kippur liturgy intertexts for vv. 81-82 as support for the hypothesis."
+ },
+ {
+  "id": "q3-cc-001a",
+  "work": "corpuscoranicum-kommentar",
+  "author": "Dirk Hartwig and Angelika Neuwirth (sura author field: 'Übersetzt und analysiert von Dirk Hartwig und Angelika Neuwirth ...')",
+  "ref": "Sure 1, Literarkritik",
+  "pdf_page": "",
+  "url": "https://api.corpuscoranicum.de/api/data/commentary/sura/1",
+  "passage": "Der kurze, teilweise ( V. 3, 4 ) litaneiartige Text ist offenbar nicht ohne kompositorische Absicht von der ʿuṯmānischen – oder späteren – Redaktion dem Korankodex vorangestellt worden.",
+  "from_": "Der kurze, teilweise ( V. 3,",
+  "to": "– Redaktion dem Korankodex vorangestellt worden.",
+  "keys": [
+   "ist offenbar nicht ohne kompositorische Absicht von der ʿuṯmānischen – oder späteren – Redaktion"
+  ],
+  "alts": [],
+  "label": "B",
+  "stance": "own claim",
+  "claim_en": "The short litany-like text of Fātiḥa was evidently placed before the Qur'an codex, by intent, by the Uthmanic or a later redaction.",
+  "context": "Explicit claim of post-prophetic redaction of codex order (Uthmanic 'oder späteren' Redaktion). Commentary authorship Hartwig & Neuwirth."
+ },
+ {
+  "id": "q3-cc-001b",
+  "work": "corpuscoranicum-kommentar",
+  "author": "Dirk Hartwig and Angelika Neuwirth (sura author field: 'Übersetzt und analysiert von Dirk Hartwig und Angelika Neuwirth ...')",
+  "ref": "Sure 1, Literarkritik",
+  "pdf_page": "",
+  "url": "https://api.corpuscoranicum.de/api/data/commentary/sura/1",
+  "passage": "Denn der vor-ʿuṯmānische Kodex von Ibn Masʿūd enthält die Fātiḥa ebensowenig wie die beiden – unter dem Sammelnamen al-muʿawwiḏatān (»die beiden, mit denen man Zuflucht nimmt«) zusammengefaßten letzten Suren, Q 113 , Q 114 (siehe Jeffery 1937: 21 ).",
+  "from_": "Denn der vor-ʿuṯmānische Kodex von Ibn",
+  "to": "114 (siehe Jeffery 1937: 21 ).",
+  "keys": [
+   "enthält die Fātiḥa ebensowenig wie die beiden"
+  ],
+  "alts": [],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "The pre-Uthmanic codex of Ibn Masʿūd contains neither the Fātiḥa nor the last two suras (Muʿawwidhatān), citing Jeffery 1937.",
+  "context": "Factual report of codex contents, attributed to Jeffery 1937 in the commentary; the commentary uses it as evidence for the redaction hypothesis."
+ },
+ {
+  "id": "q3-cc-019a",
+  "work": "corpuscoranicum-kommentar",
+  "author": "Dirk Hartwig and Angelika Neuwirth (sura author field: 'Übersetzt und analysiert von Dirk Hartwig und Angelika Neuwirth ...')",
+  "ref": "Sure 19, Literarkritik",
+  "pdf_page": "",
+  "url": "https://api.corpuscoranicum.de/api/data/commentary/sura/19",
+  "passage": "Der Zusatz trägt dabei neues, in der späteren Sure Q 43 diskutiertes Wissen über Jesus nachträglich in die frühere Sure 19 ein",
+  "from_": "Der Zusatz trägt dabei neues, in",
+  "to": "in die frühere Sure 19 ein",
+  "keys": [
+   "in die frühere Sure 19 ein"
+  ],
+  "alts": [
+   "diskutiertes Wissen über Jesus"
+  ],
+  "label": "A",
+  "stance": "own claim",
+  "claim_en": "A later addition (vv. 34-40 region) introduces newer knowledge about Jesus from Sura 43 into the earlier Sura 19.",
+  "context": "Sura 19 analysis by Hartwig & Neuwirth; relies on the commentary's late-dating of the Jesus passage. Hypothesis-level claim within the commentary."
+ },
+ {
+  "id": "q3-cc-019b",
+  "work": "corpuscoranicum-kommentar",
+  "author": "Dirk Hartwig and Angelika Neuwirth (sura author field: 'Übersetzt und analysiert von Dirk Hartwig und Angelika Neuwirth ...')",
+  "ref": "Sure 19, Literarkritik",
+  "pdf_page": "",
+  "url": "https://api.corpuscoranicum.de/api/data/commentary/sura/19",
+  "passage": "Sie fällt nicht nur mit dem stark abweichenden Reim auf 2n/m aus dem Rahmen, sie ist auch als diskursiver Einschub in eine Erzählserie als späterer Zusatz erkennbar.",
+  "from_": "Sie fällt nicht nur mit dem",
+  "to": "eine Erzählserie als späterer Zusatz erkennbar.",
+  "keys": [
+   "als späterer Zusatz erkennbar"
+  ],
+  "alts": [
+   "diskursiver Einschub in eine Erzählserie"
+  ],
+  "label": "A",
+  "stance": "own claim",
+  "claim_en": "The passage in question departs from the surah's rhyme and is recognisable as a discursive insertion into a narrative series, i.e. a later addition.",
+  "context": "Own claim of the commentary (Hartwig & Neuwirth) for the Jesus/Mary passage; the commentary explicitly states that dating is not in doubt for that group."
+ },
+ {
+  "id": "q3-cc-026a",
+  "work": "corpuscoranicum-kommentar",
+  "author": "Dirk Hartwig and Angelika Neuwirth (sura author field: 'Übersetzt und analysiert von Dirk Hartwig und Angelika Neuwirth ...')",
+  "ref": "Sure 26, Literarkritik",
+  "pdf_page": "",
+  "url": "https://api.corpuscoranicum.de/api/data/commentary/sura/26",
+  "passage": "Der Schlußteil ist aber schwer eindeutig zu bestimmen: Die Verse V. 221–226 sehen wie ein späterer Zusatz aus. Die Ausnahmeformel in V. 227 ist zweifellos ein Zusatz, doch muß deswegen nicht der ganze Vers später ergänzt sein.",
+  "from_": "Der Schlußteil ist aber schwer eindeutig",
+  "to": "der ganze Vers später ergänzt sein.",
+  "keys": [
+   "sehen wie ein späterer Zusatz aus",
+   "ist zweifellos ein Zusatz"
+  ],
+  "alts": [
+   "doch muß deswegen nicht der ganze Vers später ergänzt sein"
+  ],
+  "label": "A",
+  "stance": "own claim",
+  "claim_en": "Verses 221-226 look like a later addition; the exception formula in v. 227 is undoubtedly an addition, though the whole verse need not be later.",
+  "context": "Hedged formulation ('sehen wie ein späterer Zusatz aus'; 'zweifellos ein Zusatz, doch muß deswegen nicht der ganze Vers...')."
+ },
+ {
+  "id": "q3-cc-037a",
+  "work": "corpuscoranicum-kommentar",
+  "author": "Dirk Hartwig and Angelika Neuwirth (sura author field: 'Übersetzt und analysiert von Dirk Hartwig und Angelika Neuwirth ...')",
+  "ref": "Sure 37, Literarkritik",
+  "pdf_page": "",
+  "url": "https://api.corpuscoranicum.de/api/data/commentary/sura/37",
+  "passage": "Obwohl die Erzählung ohne V. 102 für ihr Verständnis auf biblisches Vorwissen der Hörer angewiesen ist, die Information aus V. 102 also klärend ist und daher als schon bald nachgetragener, explikativer Zusatz gelten könnte, dürfte der Vers aus formalen (prosaische Struktur und Überlänge) und semantischen Gründen — es gibt in Mekka noch keine Verbindung Abrahams zum Ḥaǧǧ — erst in Medina nachgetragen worden sein.",
+  "from_": "Obwohl die Erzählung ohne V. 102",
+  "to": "erst in Medina nachgetragen worden sein.",
+  "keys": [
+   "erst in Medina nachgetragen worden sein"
+  ],
+  "alts": [
+   "als schon bald nachgetragener, explikativer Zusatz gelten könnte"
+  ],
+  "label": "A",
+  "stance": "own claim",
+  "claim_en": "The verse on the Hajj/as-saʿy link (v. 102 in Sura 37) is argued to be an explicative addition, probably made only in Medina, since Mecca had no Abraham-Hajj connection.",
+  "context": "Hedged ('könnte ... gelten', 'dürfte ... sein') but the commentary's conclusion is that it was added in Medina."
+ },
+ {
+  "id": "q3-cc-037b",
+  "work": "corpuscoranicum-kommentar",
+  "author": "Dirk Hartwig and Angelika Neuwirth (sura author field: 'Übersetzt und analysiert von Dirk Hartwig und Angelika Neuwirth ...')",
+  "ref": "Sure 37, Literarkritik",
+  "pdf_page": "",
+  "url": "https://api.corpuscoranicum.de/api/data/commentary/sura/37",
+  "passage": "Das Verspaar V. 112–113 ist ebenfalls späterer Zusatz zur Abraham-Geschichte.",
+  "from_": "Das Verspaar V. 112–113 ist ebenfalls",
+  "to": "ist ebenfalls späterer Zusatz zur Abraham-Geschichte.",
+  "keys": [
+   "ist ebenfalls späterer Zusatz zur Abraham-Geschichte"
+  ],
+  "alts": [],
+  "label": "A",
+  "stance": "own claim",
+  "claim_en": "Verses 112-113 are a later addition to the Abraham narrative.",
+  "context": "Short categorical statement in the commentary's Literarkritik for Sura 37."
+ },
+ {
+  "id": "q3-cc-054a",
+  "work": "corpuscoranicum-kommentar",
+  "author": "Dirk Hartwig and Angelika Neuwirth (sura author field: 'Übersetzt und analysiert von Dirk Hartwig und Angelika Neuwirth ...')",
+  "ref": "Sure 54, Literarkritik",
+  "pdf_page": "",
+  "url": "https://api.corpuscoranicum.de/api/data/commentary/sura/54",
+  "passage": "Die Sure ist eine Einheit. Lediglich in V. 9 könnte das allen Erzähleinleitungen programmatisch vorangestellte (bi-n-)nuḏur — in V. 18 etwas modifiziert in eine Frage eingebettet — ausgefallen sein, so daß sich statt zweier kurzer Verse ein überlanger ergeben hat",
+  "from_": "Die Sure ist eine Einheit. Lediglich",
+  "to": "kurzer Verse ein überlanger ergeben hat",
+  "keys": [
+   "ausgefallen sein"
+  ],
+  "alts": [
+   "könnte das allen Erzähleinleitungen programmatisch vorangestellte"
+  ],
+  "label": "C",
+  "stance": "own claim",
+  "claim_en": "In Sura 54 a warning formula (nuḏur) possibly dropped out of v. 9 and a modified element of v. 18, so that two short verses became one overlong verse.",
+  "context": "Conjectural loss of wording inside a verse (word-level omission), presented as possibility ('könnte ... sein'). Not evidence of lost surahs."
+ },
+ {
+  "id": "q3-cc-067a",
+  "work": "corpuscoranicum-kommentar",
+  "author": "Dirk Hartwig and Angelika Neuwirth (sura author field: 'Übersetzt und analysiert von Dirk Hartwig und Angelika Neuwirth ...')",
+  "ref": "Sure 67, Literarkritik",
+  "pdf_page": "",
+  "url": "https://api.corpuscoranicum.de/api/data/commentary/sura/67",
+  "passage": "Die islamische Tradition überliefert keine medinischen Erweiterungen (vgl. Nagel 1995:86 ). Die von R. Bell (1939:592) postulierten Überarbeitungen sind hypothetisch.",
+  "from_": "Die islamische Tradition überliefert keine medinischen",
+  "to": "Bell (1939:592) postulierten Überarbeitungen sind hypothetisch.",
+  "keys": [
+   "Die islamische Tradition überliefert keine medinischen Erweiterungen"
+  ],
+  "alts": [
+   "postulierten Überarbeitungen sind hypothetisch"
+  ],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "The Islamic tradition transmits no Medinan extensions of Sura 67, and the revisions postulated by Richard Bell are hypothetical.",
+  "context": "Counter-position within the commentary; limits Bell's revision thesis for this sura."
+ },
+ {
+  "id": "q3-cc-072a",
+  "work": "corpuscoranicum-kommentar",
+  "author": "Dirk Hartwig and Angelika Neuwirth (sura author field: 'Übersetzt und analysiert von Dirk Hartwig und Angelika Neuwirth ...')",
+  "ref": "Sure 72, Literarkritik",
+  "pdf_page": "",
+  "url": "https://api.corpuscoranicum.de/api/data/commentary/sura/72",
+  "passage": "Man wird den Bruch zwischen Gottes- und Dämonenrede nicht ignorieren können, er muß aber nicht als redaktionelle Erweiterung der Sure um die Verse 16–19 erklärt werden.",
+  "from_": "Man wird den Bruch zwischen Gottes-",
+  "to": "um die Verse 16–19 erklärt werden.",
+  "keys": [
+   "nicht ignorieren können"
+  ],
+  "alts": [
+   "er muß aber nicht als redaktionelle Erweiterung"
+  ],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "One must not ignore the break between God's speech and the jinn's speech, but it need not be explained as a redactional extension of the surah by vv. 16-19.",
+  "context": "Qualifies the redaction explanation for vv. 16-19 that Bell proposed; the commentary is more cautious than Bell."
+ },
+ {
+  "id": "q3-cc-076a",
+  "work": "corpuscoranicum-kommentar",
+  "author": "Dirk Hartwig and Angelika Neuwirth (sura author field)",
+  "ref": "Sure 76, Literarkritik",
+  "pdf_page": "",
+  "url": "https://api.corpuscoranicum.de/api/data/commentary/sura/76",
+  "passage": "Lediglich V. 30 (eine Ausnahmeformel, siehe KTS , S. 310–313 ), dessen erster Teil mit Q 81:29 identisch ist, dürfte späterer Einschub sein.",
+  "from_": "Lediglich V. 30 (eine Ausnahmeformel, siehe",
+  "to": "identisch ist, dürfte späterer Einschub sein.",
+  "keys": [
+   "dürfte späterer Einschub sein"
+  ],
+  "alts": [
+   "Lediglich V. 30 (eine Ausnahmeformel"
+  ],
+  "label": "A",
+  "stance": "own claim",
+  "claim_en": "Sinai's commentary-family statement for Sura 76: verse 30 (an exception formula whose first part is identical with Q 81:29) is probably a later insertion.",
+  "context": "Verse number 30 is the Sura 76 verse; the page reference 'KTS, S. 310–313' inside the sentence is a secondary-literature citation, not a verse range. NOTE: this sura's author field is Hartwig & Neuwirth; the sentence itself is not marked for either author."
+ },
+ {
+  "id": "q3-cc-096a",
+  "work": "corpuscoranicum-kommentar",
+  "author": "Nicolai Sinai (sura author field: 'Übersetzt und analysiert von Nicolai Sinai')",
+  "ref": "Sure 96, Literarkritik",
+  "pdf_page": "",
+  "url": "https://api.corpuscoranicum.de/api/data/commentary/sura/96",
+  "passage": "Die traditionelle Frühdatierung des Textes wäre nur haltbar, wenn man V. 6–19 – die vorauszusetzen scheinen, dass Muḥammads Verkündigung bereits Anhänger und Widersacher gefunden hat – als eine spätere Erweiterung des ursprünglichen Nukleus V. 1–5 wertet. Gegen GdQ , Bd. 1, 84 , ist in Abwesenheit schlüssiger Indizien, die auf eine Interpolation deuten, jedoch von der genetischen Einheitlichkeit der Sure auszugehen – zur Begründung literarkritischer Scheidungen reichen außerkoranische Erzählungen, die immer auch hagiographisch motivierte Ausschmückungen sein können, prinzipiell nicht aus, das Postulat einer sekundären Zusammenstellung der Sure müsste auch durch textimmanente Beobachtungen belegt werden.",
+  "from_": "Die traditionelle Frühdatierung des Textes wäre",
+  "to": "auch durch textimmanente Beobachtungen belegt werden.",
+  "keys": [
+   "wäre nur haltbar"
+  ],
+  "alts": [
+   "ist in Abwesenheit schlüssiger Indizien",
+   "von der genetischen Einheitlichkeit der Sure auszugehen"
+  ],
+  "label": "E",
+  "stance": "rejects",
+  "claim_en": "Traditional early dating would hold only if vv. 6-19 were a later extension of the nucleus vv. 1-5; in the absence of conclusive indications of interpolation the commentary assumes the surah's genetic unity.",
+  "context": "Explicit rejection (Sinai) of the interpolation thesis, in the same commentary family; cites Neuwirth's Frühmekkanische Suren on the rhetorical return of concatenation."
+ },
+ {
+  "id": "q3-cc-087a",
+  "work": "corpuscoranicum-kommentar",
+  "author": "Nicolai Sinai (sura author field: 'Übersetzt und analysiert von Nicolai Sinai')",
+  "ref": "Sure 87, Literarkritik",
+  "pdf_page": "",
+  "url": "https://api.corpuscoranicum.de/api/data/commentary/sura/87",
+  "passage": "Vers 7 ist mit 19 Silben fast doppelt so lang wie der Surendurchschnitt (10 Silben). Da der Vers Q 2:106 voraussetzt, wo explizit damit gerechnet wird, dass Gott Verse „in Vergessenheit geraten lässt“ (wie in 87:7 Verwendung des Verbs ʾansā ), handelt es sich wohl um einen Einschub",
+  "from_": "Vers 7 ist mit 19 Silben",
+  "to": "es sich wohl um einen Einschub",
+  "keys": [
+   "handelt es sich wohl um einen Einschub"
+  ],
+  "alts": [
+   "Da der Vers Q 2:106 voraussetzt"
+  ],
+  "label": "A",
+  "stance": "own claim",
+  "claim_en": "Verse 7 (19 syllables) is probably an insertion, because Q 2:106 presupposes that God causes verses to be forgotten (ʾansā).",
+  "context": "Sinai's comment; the link to Q 2:106 concerns forgetting of verses, but the commentary does not claim verses of Sura 87 are lost. It also notes that Cuypers identifies vv. 16-19 as an addition and that this is not convincing."
+ },
+ {
+  "id": "q3-cc-097a",
+  "work": "corpuscoranicum-kommentar",
+  "author": "Nicolai Sinai (sura author field: 'Übersetzt und analysiert von Nicolai Sinai')",
+  "ref": "Sure 97, Literarkritik",
+  "pdf_page": "",
+  "url": "https://api.corpuscoranicum.de/api/data/commentary/sura/97",
+  "passage": "Nöldeke und Schwally erwägen für die Sure (wie auch für die anderen mit ʾinnā beginnenden Suren 48 , 71 , 97 und 108 ), sie könnte „ihren ursprünglichen Anfang verloren haben“ ( GdQ , Bd. 1, 92 f. ).",
+  "from_": "Nöldeke und Schwally erwägen für die",
+  "to": ", Bd. 1, 92 f. ).",
+  "keys": [
+   "sie könnte „ihren ursprünglichen Anfang verloren haben“"
+  ],
+  "alts": [
+   "Nöldeke und Schwally erwägen"
+  ],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Nöldeke and Schwally consider that Sura 97 might have 'lost its original beginning'.",
+  "context": "Report of Nöldeke & Schwally, cited by the commentary; the commentary then argues against it (next passage)."
+ },
+ {
+  "id": "q3-cc-097b",
+  "work": "corpuscoranicum-kommentar",
+  "author": "Nicolai Sinai (sura author field: 'Übersetzt und analysiert von Nicolai Sinai')",
+  "ref": "Sure 97, Literarkritik",
+  "pdf_page": "",
+  "url": "https://api.corpuscoranicum.de/api/data/commentary/sura/97",
+  "passage": "Die Vermutung, dass es sich bei Q 97 um ein isoliertes, aus einem ursprünglich sehr viel umfangreicheren Textzusammenhang herausgefallenes Schlussgesätz handelt, hat prima facie wenig für sich, da vergleichbare Fälle im koranischen Korpus nicht nachweisbar sind.",
+  "from_": "Die Vermutung, dass es sich bei",
+  "to": "im koranischen Korpus nicht nachweisbar sind.",
+  "keys": [
+   "hat prima facie wenig für sich"
+  ],
+  "alts": [
+   "da vergleichbare Fälle im koranischen Korpus nicht nachweisbar sind"
+  ],
+  "label": "E",
+  "stance": "rejects",
+  "claim_en": "The supposition that Sura 97 is an isolated final sentence fallen out of a much larger text has little in its favour, since comparable cases are not demonstrable in the Qur'anic corpus.",
+  "context": "Explicit rejection of the lost-beginning/lost-larger-context hypothesis (Sinai). Notes four surahs begin with ʾinnā, making loss of an opening unlikely."
+ },
+ {
+  "id": "q3-cw-01",
+  "work": "corpuscoranicum-web",
+  "author": "Corpus Coranicum project (Berlin-Brandenburg Academy of Sciences and Humanities); project web text, not signed by an individual",
+  "ref": "Website section 'Kurze Beschreibung' (project description, German)",
+  "pdf_page": "",
+  "url": "https://api.corpuscoranicum.de/api/website/language/de/info/about-the-project (rendered on https://corpuscoranicum.de/de/about/)",
+  "passage": "Ein chronologisch-literaturwissenschaftlicher Kommentar erschließt den Korantext als eine Verkündigung, die sich in ihren literarischen Formen an ihre Adressaten anpasste und dementsprechend veränderte.",
+  "from_": "Ein chronologisch-literaturwissenschaftlicher Kommentar erschließt den Korantext",
+  "to": "ihre Adressaten anpasste und dementsprechend veränderte.",
+  "keys": [
+   "Ein chronologisch-literaturwissenschaftlicher Kommentar erschließt"
+  ],
+  "alts": [],
+  "label": "A",
+  "stance": "own claim",
+  "claim_en": "The project says its chronological-literary commentary treats the Qur'an as a proclamation that adapted and changed its literary forms to its addressees.",
+  "context": "Project statement; 'veränderte' refers to the proclamation changing with its audience, i.e. change during the Prophet's lifetime. It does not give surah-level evidence; see the commentary passages for that. Label A is provisional."
+ },
+ {
+  "id": "q3-cw-02",
+  "work": "corpuscoranicum-web",
+  "author": "Corpus Coranicum project (Berlin-Brandenburg Academy of Sciences and Humanities); project web text, not signed by an individual",
+  "ref": "Website section 'Zukünftige Ziele' (project description, German)",
+  "pdf_page": "",
+  "url": "https://api.corpuscoranicum.de/api/website/language/de/info/about-the-project (rendered on https://corpuscoranicum.de/de/about/)",
+  "passage": "Im Bereich der Textgeschichte soll das Verhältnis von schriftlicher Überlieferung und Lesetradition („mündliche Tradition“) präzise bestimmt werden. Am Text ausgewählter Versen sollen die erschlossenen Quellen diskutiert werden und dabei Lese- und Schreibvarianten im Lichte der historischen Entwicklung der Textüberlieferung neu eingeordnet werden.",
+  "from_": "Im Bereich der Textgeschichte soll das",
+  "to": "Entwicklung der Textüberlieferung neu eingeordnet werden.",
+  "keys": [
+   "Im Bereich der Textgeschichte soll das Verhältnis"
+  ],
+  "alts": [],
+  "label": "D",
+  "stance": "own claim",
+  "claim_en": "The project plans to establish precisely the relation between written transmission and reading tradition, and to re-place reading and writing variants in the light of the historical development of the textual transmission.",
+  "context": "A research plan ('soll'), not a finding. Labelled D (variation) as a descriptive statement of the project's programme."
+ },
+ {
+  "id": "q3-cw-03",
+  "work": "corpuscoranicum-web",
+  "author": "Corpus Coranicum project (Berlin-Brandenburg Academy of Sciences and Humanities); project web text, not signed by an individual",
+  "ref": "Website section 'Was wurde bereits erreicht?' (project description, German)",
+  "pdf_page": "",
+  "url": "https://api.corpuscoranicum.de/api/website/language/de/info/about-the-project (rendered on https://corpuscoranicum.de/de/about/)",
+  "passage": "In Kooperation mit den französischen Partnern F. Déroche (Collège de France) und Chr. Robin (CNRS Ivry-sur-Seine) hat Corpus Coranicum drei Handschriftenfragmente (mit jeweils rund 30 fol.) bearbeitet, u.a. die graphische Rekonstruktion der unteren Textschicht der Palimpsesthandschrift DAM 01.27-1.",
+  "from_": "In Kooperation mit den französischen Partnern",
+  "to": "unteren Textschicht der Palimpsesthandschrift DAM 01.27-1.",
+  "keys": [
+   "In Kooperation mit den französischen Partnern"
+  ],
+  "alts": [],
+  "label": "D",
+  "stance": "own claim",
+  "claim_en": "The project reports having worked on three manuscript fragments, including a graphic reconstruction of the lower text layer of the palimpsest manuscript DAM 01.27-1.",
+  "context": "Evidence of textual layering/palimpsest in a manuscript; the project does not in this passage state that the lower layer differs in content."
+ },
+ {
+  "id": "q3-th-01",
+  "work": "tarakji2018-masterarbeit",
+  "author": "Ahmad Zafer Tarakji (describing the Corpus Coranicum commentary method, citing Nicolai Sinai)",
+  "ref": "Masterarbeit, Kap. 3.4.4.2 'Literarkritik', printed p. 76 (PDF p. 79)",
+  "pdf_page": 79,
+  "url": "https://open.uni-marburg.de/server/api/core/bitstreams/097d0edd-fa2c-4d3a-9428-8a57232c2428/content",
+  "passage": "Im Abschnitt Literarkritik will der Kommentar der Frage nachgehen, ob andere Verse erst im späteren Verlauf der jeweiligen Sure hinzugefügt wurden, ob also ein Vers bzw. mehrere Verse nicht zeitgleich mit den anderen Versen der Sure verkündet worden sind, sondern mit zeitlichem Abstand. Um diese vom Kommentar als Einschübe bezeichneten Verse zu erkennen, gelten nach Sinai mehrere Anhaltspunkte als Hinweis für einen späteren Einschub.",
+  "from_": "Im Abschnitt Literarkritik will der Kommentar",
+  "to": "als Hinweis für einen späteren Einschub.",
+  "keys": [
+   "ob andere Verse erst im späteren Verlauf der jeweiligen Sure hinzugefügt wurden"
+  ],
+  "alts": [
+   "gelten nach Sinai mehrere Anhaltspunkte"
+  ],
+  "label": "A",
+  "stance": "reports others",
+  "claim_en": "Describes the Corpus Coranicum commentary's Literarkritik section: it asks whether verses were added later in a surah, and identifies such verses as Einschübe by several criteria attributed to Sinai.",
+  "context": "Secondary master's thesis (not a doctoral thesis); it reports the commentary's method, it is not Neuwirth's own statement. The criteria it lists are paraphrased by the thesis and the commentary's own text should be checked."
+ },
+ {
+  "id": "q3-mx-01",
+  "work": "marx-trier-abstract",
+  "author": "Michael Marx",
+  "ref": "Abstract, paragraph 3 (Vortrag 'Die Überlieferung des Korans (Corpus Coranicum)')",
+  "pdf_page": 1,
+  "url": "https://repositorien.uni-trier.de/files/normabstracts/Abstract_Marx.pdf",
+  "passage": "Die für die Erforschung der Textgeschichte grundlegende Frage, ob eine kritische Edition des Korans überhaupt möglich ist, kann vor dem Hintergrund der Quellen noch nicht eindeutig beantwortet werden. Aufgrund der spezifischen Situation der Überlieferung können die verschiedenen Zeugnisse zwar erschlossen und dokumentiert werden, die Rekonstruktion eines \"Urtextes\" scheint allerdings kaum möglich zu sein.",
+  "from_": "Die für die Erforschung der Textgeschichte",
+  "to": "die Rekonstruktion eines \"Urtextes\" scheint allerdings kaum möglich zu sein.",
+  "keys": [
+   "die Rekonstruktion eines \"Urtextes\" scheint allerdings kaum möglich zu sein",
+   "ob eine kritische Edition des Korans überhaupt möglich ist"
+  ],
+  "alts": [
+   "noch nicht eindeutig beantwortet werden"
+  ],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Marx says that whether a critical edition of the Qur'an is possible cannot yet be clearly answered from the sources, and that reconstructing an 'Urtext' seems hardly possible.",
+  "context": "A limiting/qualifying statement (E): it does not claim later insertions or alterations, and it leaves the question open. Abstract only."
+ },
+ {
+  "id": "q3-mx-02",
+  "work": "marx-trier-abstract",
+  "author": "Michael Marx",
+  "ref": "Abstract, paragraph 2",
+  "pdf_page": 1,
+  "url": "https://repositorien.uni-trier.de/files/normabstracts/Abstract_Marx.pdf",
+  "passage": "Nach heutiger Quellenlage wurde der Text sowohl schriftlich (d.h. in Handschriften, Papyri, Inschriften u.a.) als auch mündlich überliefert (Lesartenwerke der islamischen Tradition).",
+  "from_": "Nach heutiger Quellenlage wurde der Text sowohl",
+  "to": "(Lesartenwerke der islamischen Tradition).",
+  "keys": [
+   "sowohl schriftlich (d.h. in Handschriften, Papyri, Inschriften u.a.) als auch mündlich überliefert"
+  ],
+  "alts": [],
+  "label": "D",
+  "stance": "own claim",
+  "claim_en": "Marx states that the Qur'an was transmitted both in writing (manuscripts, papyri, inscriptions) and orally (variant-reading works of the Islamic tradition).",
+  "context": "Descriptive statement of transmission channels (D), not a claim of textual alteration. Abstract only."
+ }
+]

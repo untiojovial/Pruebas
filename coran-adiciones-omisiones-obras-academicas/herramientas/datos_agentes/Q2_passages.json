@@ -1,0 +1,1531 @@
+[
+ {
+  "id": "n1909_fischer_moeglich",
+  "work": "noeldeke1909",
+  "author": "Theodor Nöldeke (rev. Friedrich Schwally)",
+  "ref": "S. 99 Anm. 1 (zu Sur. 101, V. 7–8)",
+  "pdf_page": 113,
+  "url": "https://archive.org/download/geschichtedesqor01nluoft/geschichtedesqor01nluoft.pdf",
+  "passage": "Ich stimme aber mit Fischer darin überein, daß die Möglichkeit von Interpolationen im Qorän unbedingt zugegeben werden muß.",
+  "from_": "Ich stimme aber mit Fischer darin",
+  "to": "im Qorän unbedingt zugegeben werden muß.",
+  "keys": [
+   "Möglichkeit von Interpolationen im Qorän",
+   "unbedingt zugegeben werden muß"
+  ],
+  "alts": [
+   "Ich stimme aber mit Fischer"
+  ],
+  "label": "A",
+  "stance": "own claim",
+  "claim_en": "Nöldeke agrees with August Fischer that the possibility of interpolations in the Qur’an must be fully granted.",
+  "context": "Footnote to the discussion of Sura 101 vv. 7–8; the next sentence of the same footnote-context rejects Fischer’s specific arguments (see n1909_fischer_ohne_beweis)."
+ },
+ {
+  "id": "n1909_fischer_ohne_beweis",
+  "work": "noeldeke1909",
+  "author": "Theodor Nöldeke (rev. Friedrich Schwally)",
+  "ref": "S. 99 (Sur. 101, V. 7–8)",
+  "pdf_page": 113,
+  "url": "https://archive.org/download/geschichtedesqor01nluoft/geschichtedesqor01nluoft.pdf",
+  "passage": "Die Gründe, welche Aug. Fischer1) für eine Interpolation der Verse 7. 8 geltend gemacht hat, sind, wie mir dünkt, ohne Beweiskraft.",
+  "from_": "Die Gründe, welche Aug. Fischer1) für",
+  "to": "sind, wie mir dünkt, ohne Beweiskraft.",
+  "keys": [
+   "für eine Interpolation der Verse 7. 8 geltend",
+   "ohne Beweiskraft"
+  ],
+  "alts": [],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Nöldeke finds August Fischer’s reasons for interpolating vv. 7–8 of Sura 101 unconvincing, while leaving a gap between v. 6 and v. 7 as a conceivable but unnecessary alternative.",
+  "context": "Qualifies the general point of the previous passage: possibility yes, this specific proposal not proven."
+ },
+ {
+  "id": "n1909_sur74_interpolation",
+  "work": "noeldeke1909",
+  "author": "Theodor Nöldeke (rev. Friedrich Schwally)",
+  "ref": "S. 88 (Sur. 74, V. 31–34 nach dem Text)",
+  "pdf_page": 102,
+  "url": "https://archive.org/download/geschichtedesqor01nluoft/geschichtedesqor01nluoft.pdf",
+  "passage": "Die Interpolation, welche vielleicht schon vom Propheten herrührt, ist jedenfalls erst medinisch",
+  "from_": "Die Interpolation, welche vielleicht schon vom",
+  "to": "Propheten herrührt, ist jedenfalls erst medinisch",
+  "keys": [
+   "Die Interpolation, welche vielleicht schon vom Propheten herrührt",
+   "ist jedenfalls erst medinisch"
+  ],
+  "alts": [
+   "vielleicht schon vom Propheten herrührt"
+  ],
+  "label": "A",
+  "stance": "own claim",
+  "claim_en": "Nöldeke says the passage he identifies as an interpolation, possibly already from the Prophet himself, is at least Medinan, because it already distinguishes the four classes of people Muhammad faced in Medina.",
+  "context": "Sura number inferred from the page (the page discusses Sur. 74 and the printed verse range V. 31–34, OCR \"V. 318)– 34\"); the same page says the Interpolation is \"eingesprengt\" into older material."
+ },
+ {
+  "id": "n1909_luecke_logik",
+  "work": "noeldeke1909",
+  "author": "Theodor Nöldeke (rev. Friedrich Schwally)",
+  "ref": "S. 64 (allgemeine Methodik der Suren-Analyse)",
+  "pdf_page": 78,
+  "url": "https://archive.org/download/geschichtedesqor01nluoft/geschichtedesqor01nluoft.pdf",
+  "passage": "Freilich dürfen wir beim Betrachten des Zusammenhanges nicht zu voreilig sein und überall da, wo uns die logische Verknüpfung zu fehlen scheint, gleich eine Interpolation annehmen. Denn es ist eine durchgehende Eigentümlichkeit des qoränischen Stiles, daß sich die Gedanken nur selten ruhig entwickeln, sondern gerne hin und her springen.",
+  "from_": "Freilich dürfen wir beim Betrachten des",
+  "to": "sondern gerne hin und her springen.",
+  "keys": [
+   "nicht zu voreilig sein",
+   "gleich eine Interpolation annehmen"
+  ],
+  "alts": [
+   "Denn es ist eine durchgehende Eigentümlichkeit des qoränischen Stiles"
+  ],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Nöldeke warns against too quickly assuming an interpolation wherever the logical connection seems missing, because the Qur’anic style often jumps between thoughts.",
+  "context": "General methodological caution; it does not deny interpolation in principle."
+ },
+ {
+  "id": "n1909_disparate_stuecke",
+  "work": "noeldeke1909",
+  "author": "Theodor Nöldeke (rev. Friedrich Schwally)",
+  "ref": "S. 41 (allgemeine Erörterung der Suren-Einheit)",
+  "pdf_page": 55,
+  "url": "https://archive.org/download/geschichtedesqor01nluoft/geschichtedesqor01nluoft.pdf",
+  "passage": "Denn man hat immer mit der Möglichkeit zu rechnen, daß disparate Stücke gleichen Reimes erst nachträglich, entweder durch Muhammed selbst oder eine spätere Redaktion, zusammengeschoben worden sind. Zuweilen mag der Prophet auch die für eine schon vorhandene Offenbarung bestimmte Ergänzung absichtlich im Reime jener Vorlage abgefaßt haben.",
+  "from_": "Denn man hat immer mit der",
+  "to": "im Reime jener Vorlage abgefaßt haben.",
+  "keys": [
+   "erst nachträglich, entweder durch Muhammed selbst oder eine spätere Redaktion",
+   "zusammengeschoben worden sind"
+  ],
+  "alts": [
+   "Zuweilen mag der Prophet auch"
+  ],
+  "label": "A",
+  "stance": "own claim",
+  "claim_en": "Nöldeke says one must always reckon with the possibility that disparate pieces of the same rhyme were joined later, either by Muhammad himself or by a later redaction; he adds that the Prophet may himself have composed a supplement in the rhyme of an existing revelation.",
+  "context": "Explicitly a general possibility, not a demonstrated case; he states it as something to be reckoned with."
+ },
+ {
+  "id": "n1909_sur8_nachtrag",
+  "work": "noeldeke1909",
+  "author": "Theodor Nöldeke (rev. Friedrich Schwally)",
+  "ref": "S. 188 (V. 67 der Sura; Sura-Nummer aus dem Text nicht eindeutig angegeben)",
+  "pdf_page": 202,
+  "url": "https://archive.org/download/geschichtedesqor01nluoft/geschichtedesqor01nluoft.pdf",
+  "passage": "V. 67 ist wenigstens in seiner jetzigen Gestalt nicht ursprüngliche Fortsetzung dazu, sondern sieht eher wie eine andere Rezension oder ein einschränkender Nachtrag aus.",
+  "from_": "V. 67 ist wenigstens in seiner",
+  "to": "Rezension oder ein einschränkender Nachtrag aus.",
+  "keys": [
+   "nicht ursprüngliche Fortsetzung dazu",
+   "einschränkender Nachtrag"
+  ],
+  "alts": [
+   "eine andere Rezension"
+  ],
+  "label": "A",
+  "stance": "own claim",
+  "claim_en": "Nöldeke says v. 67 in its present form is not the original continuation of what precedes it but looks like another recension or a restricting addition.",
+  "context": "The page discusses captives, Badr/Uhud context and Weil’s dating of vv. 68–69; surah number inferred from the verse numbers and context (Sura 8), not stated on the page."
+ },
+ {
+  "id": "n1909_snouck_zusatz",
+  "work": "noeldeke1909",
+  "author": "Theodor Nöldeke (rev. Friedrich Schwally)",
+  "ref": "S. 181 Text und Anm. 3 (Verweis auf Snouck Hurgronje, Het Mekkaansche Feest)",
+  "pdf_page": 195,
+  "url": "https://archive.org/download/geschichtedesqor01nluoft/geschichtedesqor01nluoft.pdf",
+  "passage": "V. 192b hält derselbe Forscher3) mit guten Gründen für einen Zusatz aus der Zeit der sogenannten Abschiedswallfahrt",
+  "from_": "V. 192b hält derselbe Forscher3) mit",
+  "to": "aus der Zeit der sogenannten Abschiedswallfahrt",
+  "keys": [
+   "hält derselbe Forscher",
+   "mit guten Gründen für einen Zusatz"
+  ],
+  "alts": [
+   "Abschiedswallfahrt"
+  ],
+  "label": "A",
+  "stance": "reports others",
+  "claim_en": "Nöldeke reports that Snouck Hurgronje considers v. 192b, with good reasons, an addition from the time of the Farewell Pilgrimage (a.H. 10).",
+  "context": "The author named is identified by footnote 3 („A. a. O. S. 49. 83–92“, citing Snouck Hurgronje); Nöldeke himself endorses the view with the words „mit guten Gründen“."
+ },
+ {
+  "id": "n1909_zusatz_174",
+  "work": "noeldeke1909",
+  "author": "Theodor Nöldeke (rev. Friedrich Schwally)",
+  "ref": "S. 160 (Sura-Nummer nicht festgestellt)",
+  "pdf_page": 174,
+  "url": "https://archive.org/download/geschichtedesqor01nluoft/geschichtedesqor01nluoft.pdf",
+  "passage": "einen, vielleicht von Muhammed selbst hierher gestellten, medinischen Zusatz zu betrachten.",
+  "from_": "einen, vielleicht von Muhammed selbst hierher",
+  "to": "hierher gestellten, medinischen Zusatz zu betrachten.",
+  "keys": [
+   "vielleicht von Muhammed selbst hierher gestellten",
+   "medinischen Zusatz zu betrachten"
+  ],
+  "alts": [],
+  "label": "A",
+  "stance": "own claim",
+  "claim_en": "Nöldeke considers a passage of verses (V. 156–158, with the surrounding context) possibly placed there by Muhammad himself as a Medinan addition.",
+  "context": "Introduces the “vielleicht” (possibly) qualifier; sura number not confirmed in my extraction."
+ },
+ {
+  "id": "n1909_abrogation_nicht_erfunden",
+  "work": "noeldeke1909",
+  "author": "Theodor Nöldeke (rev. Friedrich Schwally)",
+  "ref": "S. 52 (Sur. 2, 100, Abrogation)",
+  "pdf_page": 66,
+  "url": "https://archive.org/download/geschichtedesqor01nluoft/geschichtedesqor01nluoft.pdf",
+  "passage": "Daß eine Offenbarung durch eine andere aufgehoben wird, ist eine Vorstellung so unerhörter Art, daß sie von Muhammed nicht gut aus der Luft gegriffen sein kann.",
+  "from_": "Daß eine Offenbarung durch eine andere",
+  "to": "aus der Luft gegriffen sein kann.",
+  "keys": [
+   "Daß eine Offenbarung durch eine andere aufgehoben wird",
+   "nicht gut aus der Luft gegriffen sein kann"
+  ],
+  "alts": [],
+  "label": "C",
+  "stance": "own claim",
+  "claim_en": "Nöldeke argues that the idea of one revelation being abrogated by another is too unusual to have been invented out of thin air by Muhammad, and the abrogation concept should be treated as a historical question.",
+  "context": "Relevant to the abrogation of wording (naskh al-tilāwa) discussion; he elsewhere separates abrogated verses by class."
+ },
+ {
+  "id": "n1909_verlorene_angaben",
+  "work": "noeldeke1909",
+  "author": "Theodor Nöldeke (rev. Friedrich Schwally)",
+  "ref": "S. 255 (Abschnitt II: verlorene Qur’ānstellen)",
+  "pdf_page": 269,
+  "url": "https://archive.org/download/geschichtedesqor01nluoft/geschichtedesqor01nluoft.pdf",
+  "passage": "Ferner haben wir noch ein paar Angaben über verlorene Qoränstellen, ohne daß von ihnen Bruchstücke erhalten wären.",
+  "from_": "Ferner haben wir noch ein paar",
+  "to": "daß von ihnen Bruchstücke erhalten wären.",
+  "keys": [
+   "ein paar Angaben über verlorene Qoränstellen",
+   "ohne daß von ihnen Bruchstücke erhalten wären"
+  ],
+  "alts": [
+   "Angaben"
+  ],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Nöldeke notes that there are some reports of lost Qur’an passages of which no fragments survive.",
+  "context": "These are reports (“Angaben”); Nöldeke immediately adds that he cannot judge what is true in them (next passage)."
+ },
+ {
+  "id": "n1909_verlorene_agnostisch",
+  "work": "noeldeke1909",
+  "author": "Theodor Nöldeke (rev. Friedrich Schwally)",
+  "ref": "S. 255 (Abschnitt II)",
+  "pdf_page": 269,
+  "url": "https://archive.org/download/geschichtedesqor01nluoft/geschichtedesqor01nluoft.pdf",
+  "passage": "Was an diesen Angaben Wahres ist, können wir jetzt nicht mehr entscheiden.",
+  "from_": "Was an diesen Angaben Wahres ist,",
+  "to": "können wir jetzt nicht mehr entscheiden.",
+  "keys": [
+   "Was an diesen Angaben Wahres ist",
+   "können wir jetzt nicht mehr entscheiden"
+  ],
+  "alts": [],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Nöldeke says that what is true in these reports on lost passages cannot be decided any longer.",
+  "context": "Agnostic qualification of the previous passage."
+ },
+ {
+  "id": "n1909_sur33_umfang",
+  "work": "noeldeke1909",
+  "author": "Theodor Nöldeke (rev. Friedrich Schwally)",
+  "ref": "S. 255 (Sur. 33)",
+  "pdf_page": 269,
+  "url": "https://archive.org/download/geschichtedesqor01nluoft/geschichtedesqor01nluoft.pdf",
+  "passage": "Sur. 33 soll ursprünglich viel umfangreicher gewesen sein. Während sie jetzt nur 76 Verse enthält, schreiben ihr einige Traditionen deren 200 zu, nach anderen war sie einstmals",
+  "from_": "Sur. 33 soll ursprünglich viel umfangreicher",
+  "to": "zu, nach anderen war sie einstmals",
+  "keys": [
+   "Sur. 33 soll ursprünglich viel umfangreicher gewesen sein",
+   "schreiben ihr einige Traditionen deren 200 zu"
+  ],
+  "alts": [
+   "nach anderen war sie einstmals"
+  ],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Nöldeke reports that Sura 33 is said to have originally been much longer (some traditions give 200 verses instead of 76; others say it was as long as Sura 2 or longer).",
+  "context": "Nöldeke says these reports may rest on a lost older copy where Sura 33 was supplemented, but he cannot decide what is true."
+ },
+ {
+  "id": "n1909_steinigung_umar_zitat",
+  "work": "noeldeke1909",
+  "author": "Theodor Nöldeke (rev. Friedrich Schwally)",
+  "ref": "S. 250–251 (Steinigungsvers; Zitat über ʿUmar)",
+  "pdf_page": 264,
+  "url": "https://archive.org/download/geschichtedesqor01nluoft/geschichtedesqor01nluoft.pdf",
+  "passage": "Ich habe gesehen, wie der Gesandte Gottes steinigen ließ, und wir haben nach ihm gesteinigt. Wenn die Leute mich nicht der Neuerungssucht beschuldigen würden, so hätte ich den Steinigungsvers in das Qoränexemplar eingetragen. Wir haben ihn aber wirklich recitiert.",
+  "from_": "Ich habe gesehen, wie der Gesandte",
+  "to": "Wir haben ihn aber wirklich recitiert.",
+  "keys": [
+   "Wenn die Leute mich nicht der Neuerungssucht beschuldigen würden",
+   "den Steinigungsvers in das Qoränexemplar eingetragen"
+  ],
+  "alts": [
+   "Ich habe gesehen, wie der Gesandte"
+  ],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Nöldeke quotes ‘Omar as saying that he saw the Messenger have people stoned, and that if people did not accuse him of innovation he would have written the stoning verse into the Qur’an copy; he adds “Wir haben ihn aber wirklich recitiert”.",
+  "context": "Quoted report about ‘Umar, not Nöldeke’s own claim. The word „eingetragen“ is hyphenated across pdf pp. 264–265 („ein-“ / „getragen“); joined here. Verified visually on pdf p. 264 (the footnote text interleaves in the text layer). (Spans pdf pages 264–265.)"
+ },
+ {
+  "id": "n1909_steinigung_nicht_koranisch",
+  "work": "noeldeke1909",
+  "author": "Theodor Nöldeke (rev. Friedrich Schwally)",
+  "ref": "S. 251 (Steinigungsvers)",
+  "pdf_page": 265,
+  "url": "https://archive.org/download/geschichtedesqor01nluoft/geschichtedesqor01nluoft.pdf",
+  "passage": "Der Anfang des Verses hat anscheinend zu dem von der Steinigung handelnden Teile keine innere Beziehung und zeigt nach Inhalt und Form qoränischen Charakter. Da aber die beiden Teile unter dem Namen „Steinigungsvers\" regelmäßig miteinander verbunden sind, so wird für den ersten Teil dasselbe zu gelten haben, was für den zweiten wahrscheinlich gemacht wurde, daß er nämlich niemals zum heiligen Buche gehört hat3).",
+  "from_": "Der Anfang des Verses hat anscheinend",
+  "to": "niemals zum heiligen Buche gehört hat3).",
+  "keys": [
+   "Da aber die beiden Teile unter dem Namen",
+   "niemals zum heiligen Buche gehört hat"
+  ],
+  "alts": [
+   "Der Anfang des Verses hat anscheinend"
+  ],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Nöldeke says that the first part of the stoning verse is probably not an original part of the holy book either, because the two parts are regularly joined under one name; by the same reasoning it never belonged to the holy book.",
+  "context": "Denial that the verse was ever part of the Qur’an, against the tradition that it was revealed and then lost or abrogated."
+ },
+ {
+  "id": "n1909_steinigung_abrogation_verlust",
+  "work": "noeldeke1909",
+  "author": "Theodor Nöldeke (rev. Friedrich Schwally)",
+  "ref": "S. 250 (Steinigungsvers; Abrogation und Verlust)",
+  "pdf_page": 264,
+  "url": "https://archive.org/download/geschichtedesqor01nluoft/geschichtedesqor01nluoft.pdf",
+  "passage": "Wenn es wahr ist, daß Muhammed während seiner medinischen Wirksamkeit mehrmals unzüchtige Personen zum Tode durch Steinigung verurteilt hat1), so begreift .man weder, wie eine hierauf gehende Offenbarung abrogiert werden, noch wie sie verloren gehen konnte.",
+  "from_": "Wenn es wahr ist, daß Muhammed",
+  "to": "noch wie sie verloren gehen konnte.",
+  "keys": [
+   "wie eine hierauf gehende Offenbarung abrogiert werden",
+   "noch wie sie verloren gehen konnte"
+  ],
+  "alts": [
+   "Wenn es wahr ist, daß Muhammed"
+  ],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Nöldeke argues that if Muhammad had really stoned adulterers during his Medinan period, one could not understand how a revelation on this would have been abrogated or lost.",
+  "context": "Conditional argument against the abrogation/loss explanation of the stoning verse; he regards the stoning practice itself as established under the first caliphs. OCR text layer reads „begreift .man“ for „begreift man“."
+ },
+ {
+  "id": "n1919_praeliminar_revision",
+  "work": "noeldeke1919",
+  "author": "Theodor Nöldeke (rev. Friedrich Schwally)",
+  "ref": "S. 3 (Die Sammlung des Qorāns; Einleitung)",
+  "pdf_page": 15,
+  "url": "https://archive.org/download/geschichtedesqor00nluoft/geschichtedesqor00nluoft.pdf",
+  "passage": "Dasselbe möchte ich auch ,da annehmen, wo Muhammed in Medina frühere Offenbarungen durch kleinere HinzufUgungen oder Einschaltungen erweitert1), oder gar durch einen neuen Text von abweichendem Inhalte ersetzt oder aufgehoben hat",
+  "from_": "Dasselbe möchte ich auch ,da annehmen,",
+  "to": "abweichendem Inhalte ersetzt oder aufgehoben hat",
+  "keys": [
+   "oder Einschaltungen erweitert",
+   "ersetzt oder aufgehoben hat"
+  ],
+  "alts": [
+   "Medina frühere Offenbarungen"
+  ],
+  "label": "A",
+  "stance": "own claim",
+  "claim_en": "Nöldeke says he wants to assume the same for cases where Muhammad in Medina expanded earlier revelations by smaller additions or insertions, or replaced or abrogated them by a new text of different content.",
+  "context": "Own claim within the Prophet’s lifetime (his Medinan revisions); footnote 1 gives examples (Sur. 74, 80, 48, 95, 85, 78, 19). OCR of the PDF text layer reads „HinzufÜgungen“ with a capital U; not quoted here."
+ },
+ {
+  "id": "n1919_fluss_lebzeit",
+  "work": "noeldeke1919",
+  "author": "Theodor Nöldeke (rev. Friedrich Schwally)",
+  "ref": "S. 4 (Die Sammlung des Qorāns; Einleitung)",
+  "pdf_page": 16,
+  "url": "https://archive.org/download/geschichtedesqor00nluoft/geschichtedesqor00nluoft.pdf",
+  "passage": "So lange der Prophet auf Erden weilte, befand sich die Offenbarung in stetem Flusse.",
+  "from_": "So lange der Prophet auf Erden",
+  "to": "sich die Offenbarung in stetem Flusse.",
+  "keys": [
+   "So lange der Prophet auf Erden weilte, befand sich die Offenbarung in stetem Flusse"
+  ],
+  "alts": [],
+  "label": "A",
+  "stance": "own claim",
+  "claim_en": "Nöldeke says that while the Prophet lived the revelation was in constant flux.",
+  "context": "Context: the question of how much revelation was written down during Muhammad’s lifetime; on the same page he notes that some revelations were lost or not written down."
+ },
+ {
+  "id": "n1919_steinigung_traditionen_voraussetzung",
+  "work": "noeldeke1919",
+  "author": "Theodor Nöldeke (rev. Friedrich Schwally)",
+  "ref": "S. 16–17 (Steinigungsvers; Sammlung unter ʿUmar)",
+  "pdf_page": 28,
+  "url": "https://archive.org/download/geschichtedesqor00nluoft/geschichtedesqor00nluoft.pdf",
+  "passage": "Ist dies jedoch irrig, wie ich früher8) nachzuweisen versucht habe, so ist es auch schwer zu glauben, daß ein Mann wie Omar sich so hartnäckig für seine Echtheit eingesetzt hat.",
+  "from_": "Ist dies jedoch irrig, wie ich",
+  "to": "hartnäckig für seine Echtheit eingesetzt hat.",
+  "keys": [
+   "Ist dies jedoch irrig",
+   "so ist es auch schwer zu glauben"
+  ],
+  "alts": [
+   "daß ein Mann wie Omar sich so hartnäckig für seine Echtheit eingesetzt hat"
+  ],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Nöldeke says that the traditions all assume the stoning verse belongs to the revelation; if that is wrong, as he tried to show earlier, it is hard to believe that ‘Umar insisted so stubbornly on its authenticity.",
+  "context": "His own view (stated earlier, vol. 1 pp. 248–252) is that the verse was not Qur’anic revelation; the sentence qualifies the traditions about ‘Umar. Footnote markers inside the passage („früher8)“) are from the source; the footnote text on the same page was skipped. (Spans pdf pages 28–29.)"
+ },
+ {
+  "id": "n1919_steinigung_baghdadi_fn",
+  "work": "noeldeke1919",
+  "author": "Theodor Nöldeke (rev. Friedrich Schwally)",
+  "ref": "S. 16 Anm. 6 (zitiert ʿAbdalqāhir al-Baghdādī, Kitāb al-nāsiḫ wa-l-mansūḫ)",
+  "pdf_page": 28,
+  "url": "https://archive.org/download/geschichtedesqor00nluoft/geschichtedesqor00nluoft.pdf",
+  "passage": "Fürchtete ich nicht, der Interpolation beschuldigt zu werden, so hätte ich den Steinigungsvers an den Rand",
+  "from_": "Fürchtete ich nicht, der Interpolation beschuldigt",
+  "to": "ich den Steinigungsvers an den Rand",
+  "keys": [
+   "Fürchtete ich nicht, der Interpolation beschuldigt zu werden",
+   "den Steinigungsvers an den Rand"
+  ],
+  "alts": [
+   "Interpolation beschuldigt zu werden"
+  ],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "In a footnote, Nöldeke cites al-Baghdādī’s version of ‘Umar’s statement: had he not feared being accused of interpolation he would have written the stoning verse on the margin of the codex.",
+  "context": "Quoted from the Arabic report (Cod. Petermann I 555) by Nöldeke in German; the Arabic phrase inside the footnote is not quoted here (OCR garbled). Nöldeke himself treats such reports as a sign that the traditions presuppose the verse was revelation."
+ },
+ {
+  "id": "n1919_steinigung_nicht_offenbarung_p45",
+  "work": "noeldeke1919",
+  "author": "Theodor Nöldeke (rev. Friedrich Schwally)",
+  "ref": "S. 45 (Ubayy-Verse 3: Steinigungsvers)",
+  "pdf_page": 57,
+  "url": "https://archive.org/download/geschichtedesqor00nluoft/geschichtedesqor00nluoft.pdf",
+  "passage": "Dieser sog. „Steinigungsvers\" kann weder ein Bestandteil von Sure 33 gewesen sein — des abweichenden Reimes wegen — noch des Qoräns überhaupt, da jene grausame kriminalrechtliche Bestimmung, wie ich früher dargelegt habe2), erst nach dem Tode Muhammeds eingeführt sein kann.",
+  "from_": "Dieser sog. „Steinigungsvers\" kann weder ein",
+  "to": "dem Tode Muhammeds eingeführt sein kann.",
+  "keys": [
+   "kann weder ein Bestandteil",
+   "erst nach dem Tode Muhammeds eingeführt sein kann"
+  ],
+  "alts": [
+   "des abweichenden Reimes wegen"
+  ],
+  "label": "A",
+  "stance": "own claim",
+  "claim_en": "Nöldeke argues that the so-called stoning verse cannot have been part of Sura 33 (because of rhyme) nor of the Qur’an at all, because the cruel penal rule could only have been introduced after Muhammad’s death.",
+  "context": "Context: Nöldeke’s treatment of three verses claimed for Ubayy’s codex; the „erst nach dem Tode“ argument is a historical argument for a later origin of the rule (he refers back to vol. 1 pp. 248–252)."
+ },
+ {
+  "id": "n1919_ubai_verse_unecht",
+  "work": "noeldeke1919",
+  "author": "Theodor Nöldeke (rev. Friedrich Schwally)",
+  "ref": "S. 45 (Ubayy-Verse 2)",
+  "pdf_page": 57,
+  "url": "https://archive.org/download/geschichtedesqor00nluoft/geschichtedesqor00nluoft.pdf",
+  "passage": "Er ist überhaupt unecht, da die hier für die drei verschiedenen Religionen gebrauchten Ausdrücke dem Qorän fremd sind.",
+  "from_": "Er ist überhaupt unecht, da die",
+  "to": "gebrauchten Ausdrücke dem Qorän fremd sind.",
+  "keys": [
+   "Er ist überhaupt unecht",
+   "die hier für die drei verschiedenen Religionen gebrauchten Ausdrücke dem Qorän fremd sind"
+  ],
+  "alts": [],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Nöldeke declares the second verse ascribed to Ubayy (on true religion as “ḥanīfīya”, not Judaism or Christianity) inauthentic, because the words used for the three religions are foreign to the Qur’an.",
+  "context": "Denies a reported lost verse attributed to Ubayy’s codex."
+ },
+ {
+  "id": "n1919_ibn_masud_verse_E",
+  "work": "noeldeke1919",
+  "author": "Theodor Nöldeke (rev. Friedrich Schwally)",
+  "ref": "S. 44 (Ibn Masʿūd: verlorener Vers)",
+  "pdf_page": 56,
+  "url": "https://archive.org/download/geschichtedesqor00nluoft/geschichtedesqor00nluoft.pdf",
+  "passage": "Mit solchen allgemeinen Redensarten ist natürlich gar nichts anzufangen, auch wenn sie Glauben verdienten.",
+  "from_": "Mit solchen allgemeinen Redensarten ist natürlich",
+  "to": "anzufangen, auch wenn sie Glauben verdienten.",
+  "keys": [
+   "Mit solchen allgemeinen Redensarten ist natürlich gar nichts anzufangen"
+  ],
+  "alts": [
+   "auch wenn sie Glauben verdienten"
+  ],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Nöldeke dismisses a tradition in which Ibn Masʿūd says he memorized a verse which, after he recorded it in his codex, he forgot overnight, saying that such general statements are of no use even if they deserved belief.",
+  "context": "Refers to the verse traditions just quoted from Hibatallāh; the sentence dismisses that tradition."
+ },
+ {
+  "id": "n1919_ubai_drei_verse_angaben",
+  "work": "noeldeke1919",
+  "author": "Theodor Nöldeke (rev. Friedrich Schwally)",
+  "ref": "S. 44 (Ubayy: drei verlorene Verse)",
+  "pdf_page": 56,
+  "url": "https://archive.org/download/geschichtedesqor00nluoft/geschichtedesqor00nluoft.pdf",
+  "passage": "Bestimmter sind die Angaben über die drei verlorenen Verse, die Ubai in seinem Qorän hatte.",
+  "from_": "Bestimmter sind die Angaben über die",
+  "to": "die Ubai in seinem Qorän hatte.",
+  "keys": [
+   "Bestimmter sind die Angaben über die drei verlorenen Verse",
+   "die Ubai in seinem Qorän hatte"
+  ],
+  "alts": [
+   "Angaben"
+  ],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Nöldeke notes that the reports on three lost verses which Ubayy is said to have had in his Qur’an are more definite than the ones on Ibn Masʿūd.",
+  "context": "Introduces the reports; Nöldeke judges them individually (next passages)."
+ },
+ {
+  "id": "n1919_ibn_masud_fatiha_zugeschrieben",
+  "work": "noeldeke1919",
+  "author": "Theodor Nöldeke (rev. Friedrich Schwally)",
+  "ref": "S. 41 (Ibn Masʿūd: 112 Suren)",
+  "pdf_page": 53,
+  "url": "https://archive.org/download/geschichtedesqor00nluoft/geschichtedesqor00nluoft.pdf",
+  "passage": "In einer anderen Tradition8) heißt es, daß Ibn Mas'üd 112 Suren hatte, indem die beiden Beschwörungssuren fehlten. Hiernach wird ihm also die Fätifra wieder zugeschrieben, und diese Ansicht ist weit verbreitet.",
+  "from_": "In einer anderen Tradition8) heißt es,",
+  "to": "und diese Ansicht ist weit verbreitet.",
+  "keys": [
+   "Ibn Mas'üd 112 Suren hatte",
+   "Hiernach wird ihm also die Fätifra wieder zugeschrieben"
+  ],
+  "alts": [
+   "diese Ansicht ist weit verbreitet"
+  ],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Nöldeke reports another tradition that Ibn Masʿūd had 112 suras, the two incantation suras being absent, and says that therefore the Fātiḥa is again ascribed to him, and this view is widespread.",
+  "context": "Report of a tradition; the footnote notes that most traditions say simply that Ibn Masʿūd did not have these suras in his codex."
+ },
+ {
+  "id": "n1919_ibn_masud_ablehnung_berechtigt",
+  "work": "noeldeke1919",
+  "author": "Theodor Nöldeke (rev. Friedrich Schwally)",
+  "ref": "S. 42 (Ibn Masʿūd: Fātiḥa und Muʿawwidhatān)",
+  "pdf_page": 54,
+  "url": "https://archive.org/download/geschichtedesqor00nluoft/geschichtedesqor00nluoft.pdf",
+  "passage": "In jedem Falle würde die ablehnende Haltung Ibn Mas'üds gegen die drei Suren nicht unbegründet sein. Denn sie unterscheidensich nach Inhalt und Form so sehr von allen übrigen Suren, daß sie zur Verdächtigung ihrer Echtheit geradezu herausfordern.",
+  "from_": "In jedem Falle würde die ablehnende",
+  "to": "zur Verdächtigung ihrer Echtheit geradezu herausfordern.",
+  "keys": [
+   "die ablehnende Haltung Ibn Mas'üds gegen die drei Suren nicht unbegründet sein",
+   "zur Verdächtigung ihrer Echtheit geradezu herausfordern"
+  ],
+  "alts": [
+   "Denn sie unterscheidensich nach Inhalt und Form so sehr"
+  ],
+  "label": "C",
+  "stance": "own claim",
+  "claim_en": "Nöldeke says that Ibn Masʿūd’s rejection of the three suras would in any case not be unfounded, because their content and form are so unlike the other suras that they invite suspicion of their authenticity.",
+  "context": "Nöldeke treats the omission of the Fātiḥa and the two incantation suras (Muʿawwidhatān) from Ibn Masʿūd’s codex as explicable by doubts about their authenticity. Earlier text on same page: the Fātiḥa’s dependence on Jewish/Christian liturgies."
+ },
+ {
+  "id": "n1919_ubai_zwei_suren_D",
+  "work": "noeldeke1919",
+  "author": "Theodor Nöldeke (rev. Friedrich Schwally)",
+  "ref": "S. 33 (Die dem Qorān des Ubai eigentümlichen Suren)",
+  "pdf_page": 45,
+  "url": "https://archive.org/download/geschichtedesqor00nluoft/geschichtedesqor00nluoft.pdf",
+  "passage": "Vod größerer Bedeutung ist die Tatsache, daß die Sammlung des Ubai zwei in der kanonischen Rezension fehlende Suren enthält.",
+  "from_": "Vod größerer Bedeutung ist die Tatsache,",
+  "to": "der kanonischen Rezension fehlende Suren enthält.",
+  "keys": [
+   "die Sammlung des Ubai zwei in der kanonischen Rezension fehlende Suren enthält"
+  ],
+  "alts": [],
+  "label": "D",
+  "stance": "own claim",
+  "claim_en": "Nöldeke states that the more important fact is that Ubayy’s collection contains two suras missing from the canonical recension, known as Sūrat al-Ḥal’ and Sūrat al-Ḥafd (also called the two qunūt prayers).",
+  "context": "Descriptive statement of a codex variant (D). The OCR reads „Vod“ for „Von“; the quote is from the PDF text layer. Printed page 33 (not 45)."
+ },
+ {
+  "id": "n1919_ubai_suren_unecht",
+  "work": "noeldeke1919",
+  "author": "Theodor Nöldeke (rev. Friedrich Schwally)",
+  "ref": "S. 37 (Die Echtheitsfrage der Ubayy-Suren)",
+  "pdf_page": 49,
+  "url": "https://archive.org/download/geschichtedesqor00nluoft/geschichtedesqor00nluoft.pdf",
+  "passage": "Aus diesen Gründen ist es weder glaubhaft, daß diese Suren echte Teile des Qorän sind, noch daß sie überhaupt vom Propheten herrühren.",
+  "from_": "Aus diesen Gründen ist es weder",
+  "to": "daß sie überhaupt vom Propheten herrühren.",
+  "keys": [
+   "weder glaubhaft, daß diese Suren echte Teile des Qorän sind",
+   "noch daß sie überhaupt vom Propheten herrühren"
+  ],
+  "alts": [],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Nöldeke concludes that for these reasons it is neither credible that these two suras are genuine parts of the Qur’an nor that they come from the Prophet at all; he regards them as old prayers.",
+  "context": "Denial of the claim that the Ubayy suras are Qur’an; he states they seem to be old prayers."
+ },
+ {
+  "id": "n1919_burning_uthman_accepted",
+  "work": "noeldeke1919",
+  "author": "Theodor Nöldeke (rev. Friedrich Schwally)",
+  "ref": "S. 115 (ʿUthmān: Vernichtung vorʿuthmānischer Exemplare)",
+  "pdf_page": 127,
+  "url": "https://archive.org/download/geschichtedesqor00nluoft/geschichtedesqor00nluoft.pdf",
+  "passage": "Die Vernichtung der Qoränhandschrifteu abweichender Rezension, die Othman nach der gleichen Angabe aller Traditionen vornehmen ließ, wird sich nach dem oben Ausgeführten wohl ebenfalls auf Iraq und Syrien beschränkt haben.",
+  "from_": "Die Vernichtung der Qoränhandschrifteu abweichender Rezension,",
+  "to": "auf Iraq und Syrien beschränkt haben.",
+  "keys": [
+   "Die Vernichtung der Qoränhandschrifteu abweichender Rezension",
+   "die Othman nach der gleichen Angabe aller Traditionen vornehmen ließ"
+  ],
+  "alts": [
+   "auf Iraq und Syrien beschränkt haben"
+  ],
+  "label": "C",
+  "stance": "own claim",
+  "claim_en": "Nöldeke accepts that ‘Uthmān ordered the destruction of Qur’an manuscripts of deviant recensions, which all traditions report, and suggests it was probably limited to Iraq and Syria.",
+  "context": "OCR of the PDF text layer shows „Handschrifteu“ (OCR error for „Handschriften“); the quote keeps the OCR spelling. Own claim: he accepts the report of the order."
+ },
+ {
+  "id": "n1919_burning_historicity",
+  "work": "noeldeke1919",
+  "author": "Theodor Nöldeke (rev. Friedrich Schwally)",
+  "ref": "S. 117 (Vernichtung vorʿuthmānischer Handschriften)",
+  "pdf_page": 129,
+  "url": "https://archive.org/download/geschichtedesqor00nluoft/geschichtedesqor00nluoft.pdf",
+  "passage": "Die Nachrichten über die Vernichtung der vorothmanischen Qoränhandschriften treten mit solcher Bestimmtheit wie Einhelligkeit auf und sind mit so vielen, nicht gut erfindbaren Einzelzügen ausgestattet, daß man an der Geschichtlichkeit nicht recht zu zweifeln wagt.",
+  "from_": "Die Nachrichten über die Vernichtung der",
+  "to": "Geschichtlichkeit nicht recht zu zweifeln wagt.",
+  "keys": [
+   "Die Nachrichten über die Vernichtung der vorothmanischen Qoränhandschriften treten mit solcher Bestimmtheit wie Einhelligkeit auf und",
+   "daß man an der Geschichtlichkeit nicht recht zu zweifeln wagt"
+  ],
+  "alts": [
+   "nicht gut erfindbaren Einzelzügen"
+  ],
+  "label": "C",
+  "stance": "own claim",
+  "claim_en": "Nöldeke says the reports on the destruction of pre-‘Uthmanic Qur’an manuscripts appear with such certainty and unanimity, and contain so many hard-to-invent details, that one hardly dares to doubt their historicity.",
+  "context": "Passage checked on the page image (text layer ran words together: „Einhelligkeitaufund“). Own claim accepting historicity of the destruction reports; he then questions the necessity and the usefulness of the measure (next passage)."
+ },
+ {
+  "id": "n1919_burning_notwendigkeit",
+  "work": "noeldeke1919",
+  "author": "Theodor Nöldeke (rev. Friedrich Schwally)",
+  "ref": "S. 117 (Vernichtung; Notwendigkeit)",
+  "pdf_page": 129,
+  "url": "https://archive.org/download/geschichtedesqor00nluoft/geschichtedesqor00nluoft.pdf",
+  "passage": "Dagegen ist mir weder die Notwendigkeit der Maßnahme noch ihre Zweckmäßigkeit recht einleuchtend.",
+  "from_": "Dagegen ist mir weder die Notwendigkeit",
+  "to": "Maßnahme noch ihre Zweckmäßigkeit recht einleuchtend.",
+  "keys": [
+   "weder die Notwendigkeit der Maßnahme noch ihre Zweckmäßigkeit recht einleuchtend"
+  ],
+  "alts": [],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Nöldeke says that neither the necessity nor the expediency of the measure is clear to him, because the earlier recensions had not yet been eliminated by destroying them.",
+  "context": "Qualifies the previous passage; it doubts the rationale, not the event."
+ },
+ {
+  "id": "n1919_burning_nicht_noetig",
+  "work": "noeldeke1919",
+  "author": "Theodor Nöldeke (rev. Friedrich Schwally)",
+  "ref": "S. 118 (Vernichtung; Alternative)",
+  "pdf_page": 130,
+  "url": "https://archive.org/download/geschichtedesqor00nluoft/geschichtedesqor00nluoft.pdf",
+  "passage": "Um dem Vorschub zu leisten, hätte es genügt, in den öffentlichen Qoränschulen den Gebrauch der kanonischen Rezension vorzuschreiben. Dann würden die älteren Rezensionen allmählich von selbst verschwunden sein, ohne daß man sie zu vernichten brauchte.",
+  "from_": "Um dem Vorschub zu leisten, hätte",
+  "to": "daß man sie zu vernichten brauchte.",
+  "keys": [
+   "den Gebrauch der kanonischen Rezension vorzuschreiben",
+   "ohne daß man sie zu vernichten brauchte"
+  ],
+  "alts": [
+   "allmählich von selbst verschwunden sein"
+  ],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Nöldeke argues that to promote the canonical recension it would have sufficed to prescribe it in the public Qur’an schools, and the older recensions would have disappeared on their own without destruction.",
+  "context": "Own argument against the destruction measure."
+ },
+ {
+  "id": "n1919_oral_kontrolle",
+  "work": "noeldeke1919",
+  "author": "Theodor Nöldeke (rev. Friedrich Schwally)",
+  "ref": "S. 92 (Mündliche Kontrollinstanzen)",
+  "pdf_page": 104,
+  "url": "https://archive.org/download/geschichtedesqor00nluoft/geschichtedesqor00nluoft.pdf",
+  "passage": "Selbst, nachdem alle Exemplare vorothmanischer Rezensionen vernichtet oder zugrunde gegangen waren1), hätte es gewiß noch genug Personen gegeben",
+  "from_": "Selbst, nachdem alle Exemplare vorothmanischer Rezensionen",
+  "to": "es gewiß noch genug Personen gegeben",
+  "keys": [
+   "Selbst, nachdem alle Exemplare vorothmanischer Rezensionen vernichtet oder zugrunde gegangen waren",
+   "gewiß noch genug Personen gegeben"
+  ],
+  "alts": [],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Nöldeke says that even after all manuscripts of pre-‘Uthmanic recensions had been destroyed or lost, there would certainly still have been enough people who knew suppressed passages from memory.",
+  "context": "Counter-argument against the claim that destruction of codices caused loss of text; he is arguing for oral control of the text."
+ },
+ {
+  "id": "n1919_gestalt_fertig_hafsa",
+  "work": "noeldeke1919",
+  "author": "Theodor Nöldeke (rev. Friedrich Schwally)",
+  "ref": "S. 120 (Die Gestalt des Qorāns um 650)",
+  "pdf_page": 132,
+  "url": "https://archive.org/download/geschichtedesqor00nluoft/geschichtedesqor00nluoft.pdf",
+  "passage": "Die Gestalt des Qoräns, wie wir sie jetzt haben, ist im wesentlichen zwei bis drei Jahre nach dem Tode Muhammeds fertig gewesen, da die othmanische Ausgabe ja nur eine Kopie des Exemplares der Hafsa ist, dessen Bearbeitung unter Abu Bekr oder spätestens unter der Regierung Omars vollendet wurde",
+  "from_": "Die Gestalt des Qoräns, wie wir",
+  "to": "unter der Regierung Omars vollendet wurde",
+  "keys": [
+   "Die Gestalt des Qoräns, wie wir sie jetzt haben",
+   "da die othmanische Ausgabe ja nur eine Kopie des Exemplares der Hafsa ist"
+  ],
+  "alts": [
+   "Die Gestalt des Qoräns, wie wir sie jetzt haben"
+  ],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Nöldeke states that the form of the Qur’an as we now have it was essentially complete two to three years after Muhammad’s death, because the Uthmanic edition is only a copy of Ḥafṣa’s codex, whose redaction was completed under Abū Bakr or at the latest under ‘Umar.",
+  "context": "Own counter-claim against later alteration (B) and in favour of an early closed consonantal text; the next sentence limits this to the compilation („Diese Bearbeitung erstreckte sich jedoch wahrscheinlich nur auf die Kom...“)."
+ },
+ {
+  "id": "n1919_uthman_verbrannt_zitat",
+  "work": "noeldeke1919",
+  "author": "Theodor Nöldeke (rev. Friedrich Schwally)",
+  "ref": "S. 93 (Vorwurf an ʿUthmān: „Qorānverbrenner“; Zitat)",
+  "pdf_page": 105,
+  "url": "https://archive.org/download/geschichtedesqor00nluoft/geschichtedesqor00nluoft.pdf",
+  "passage": "Sie sagen, ich hätte den Qorän verbrannt; (das tat ich deshalb,) weil die Menschen nur Bruchstücke davon in Händen hatten",
+  "from_": "Sie sagen, ich hätte den Qorän",
+  "to": "nur Bruchstücke davon in Händen hatten",
+  "keys": [
+   "Sie sagen, ich hätte den Qorän verbrannt",
+   "weil die Menschen nur Bruchstücke davon in Händen hatten"
+  ],
+  "alts": [],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Nöldeke quotes ‘Uthmān’s reported reply to the charge of having burned the Qur’an: they say he burned it, but he did so because people had only fragments of it and each held his own version to be best.",
+  "context": "Report of ‘Uthmān’s justification as quoted in Arabic sources (the Arabic text precedes the German in the PDF text layer). Nöldeke himself treats the burning as historically attested (see n1919_burning_historicity)."
+ },
+ {
+  "id": "n1938_kindi_codices",
+  "work": "noeldeke1938",
+  "author": "Gotthelf Bergsträsser, Otto Pretzl (in Nöldeke, Geschichte des Qorāns, Bd. 3)",
+  "ref": "S. 6 (Einleitung; Bericht des al-Kindī)",
+  "pdf_page": 31,
+  "url": "https://archive.org/download/geschichte-des-qorans-von-theodor-noldeke-1-uber-den-ursprung-des-qorans/Geschichte%20des%20Qor%C4%81ns%20-von%20Theodor%20N%C3%B6ldeke%20%2C%203%20Die%20Geschichte%20des%20Korantexts.pdf",
+  "passage": "während das mekkanische beim Aufstand des abü s-Saräjä verbrannt, das medinische bei der Eroberung unter JazTd I. und das kufische (entgegen der Behauptung, es sei noch vorhanden) im Aufstand des Muhtär verloren gegangen sei.",
+  "from_": "während das mekkanische beim Aufstand des",
+  "to": "Aufstand des Muhtär verloren gegangen sei.",
+  "keys": [
+   "das mekkanische beim Aufstand des abü s-Saräjä verbrannt",
+   "verloren gegangen sei"
+  ],
+  "alts": [
+   "entgegen der Behauptung, es sei noch vorhanden"
+  ],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Bergsträsser and Pretzl report al-Kindī’s account of the fate of the four ‘Uthmanic-era copies: the Meccan one was burned in a rising, the Medinan one was lost at the conquest under Yazīd I, and the Kufan one was lost in the revolt of al-Muḫtār, although another claim says it was still extant.",
+  "context": "Reported as al-Kindī’s apology (ca. 3rd/9th c.) and set against the prevailing tradition; the authors note al-Kindī assumes a different distribution of the four copies. The sentence is a report, not the authors’ own claim."
+ },
+ {
+  "id": "n1938_malik_verloren",
+  "work": "noeldeke1938",
+  "author": "Gotthelf Bergsträsser, Otto Pretzl (in Nöldeke, Geschichte des Qorāns, Bd. 3)",
+  "ref": "S. 7 (Exemplar Othmans; Mālik ibn Anas)",
+  "pdf_page": 32,
+  "url": "https://archive.org/download/geschichte-des-qorans-von-theodor-noldeke-1-uber-den-ursprung-des-qorans/Geschichte%20des%20Qor%C4%81ns%20-von%20Theodor%20N%C3%B6ldeke%20%2C%203%20Die%20Geschichte%20des%20Korantexts.pdf",
+  "passage": "Mälik ibn Anas (f 179) erklärt es für verloren",
+  "from_": "Mälik ibn Anas (f 179) erklärt",
+  "to": "(f 179) erklärt es für verloren",
+  "keys": [
+   "Mälik ibn Anas (f 179) erklärt es für verloren"
+  ],
+  "alts": [],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Bergsträsser and Pretzl report that Mālik ibn Anas (d. 179) declared the copy ascribed to ‘Uthmān (the one kept in Medina family possession) to be lost.",
+  "context": "„Es“ refers to the Othman copy described in the preceding sentences (passed to his son Ḫālid and the family; ‘Āṣim al-Ǧaḥdarī gives reports about it)."
+ },
+ {
+  "id": "n1938_kindi_apologie_verbrannt",
+  "work": "noeldeke1938",
+  "author": "Gotthelf Bergsträsser, Otto Pretzl (in Nöldeke, Geschichte des Qorāns, Bd. 3)",
+  "ref": "S. 7 Anm. 1 und Text (Bericht des al-Kindī)",
+  "pdf_page": 32,
+  "url": "https://archive.org/download/geschichte-des-qorans-von-theodor-noldeke-1-uber-den-ursprung-des-qorans/Geschichte%20des%20Qor%C4%81ns%20-von%20Theodor%20N%C3%B6ldeke%20%2C%203%20Die%20Geschichte%20des%20Korantexts.pdf",
+  "passage": "nach der Apologie des Kind! (s. oben S. 6 Anm. 1) aber ist es erst im Aufstand des abü s-Saräjä im Jahre 200 verbrannt",
+  "from_": "nach der Apologie des Kind! (s.",
+  "to": "abü s-Saräjä im Jahre 200 verbrannt",
+  "keys": [
+   "nach der Apologie des Kind",
+   "erst im Aufstand des abü s-Saräjä im Jahre 200 verbrannt"
+  ],
+  "alts": [],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Bergsträsser and Pretzl note that, according to al-Kindī’s apology, the same copy was burned in the rising of Abū s-Sarāyā in the year 200.",
+  "context": "Report of al-Kindī, set against Mālik’s statement that it was lost. The OCR text layer has „Kind!“ (a diacritic OCR error for „Kindī“)."
+ },
+ {
+  "id": "n1938_abu_ubaid_blut",
+  "work": "noeldeke1938",
+  "author": "Gotthelf Bergsträsser, Otto Pretzl (in Nöldeke, Geschichte des Qorāns, Bd. 3)",
+  "ref": "S. 7 (Abū ‘Ubaid; Spuren von ‘Uthmāns Blut)",
+  "pdf_page": 32,
+  "url": "https://archive.org/download/geschichte-des-qorans-von-theodor-noldeke-1-uber-den-ursprung-des-qorans/Geschichte%20des%20Qor%C4%81ns%20-von%20Theodor%20N%C3%B6ldeke%20%2C%203%20Die%20Geschichte%20des%20Korantexts.pdf",
+  "passage": "und schließlich abü 'Ubaid al-Qäsim ibn Salläm (f 223 oder 224)') läßt es sich min ba'd hazä'in al-umarä' hervorholen und findet als Zeichen der Echtheit daran noch die Spuren von Othman's Blut",
+  "from_": "und schließlich abü 'Ubaid al-Qäsim ibn",
+  "to": "noch die Spuren von Othman's Blut",
+  "keys": [
+   "abü 'Ubaid al-Qäsim ibn Salläm",
+   "findet als Zeichen der Echtheit daran noch die Spuren von Othman's Blut"
+  ],
+  "alts": [
+   "läßt es sich min ba'd hazä'in al-umarä' hervorholen"
+  ],
+  "label": "D",
+  "stance": "reports others",
+  "claim_en": "Bergsträsser and Pretzl report that Abū ‘Ubaid (d. 223/224) says the copy could still be brought out after the times of the governors and that its traces of ‘Uthmān’s blood are a sign of authenticity.",
+  "context": "A claim reported in the text; the authors discuss the historical credibility of these reports in the surrounding text. The OCR text layer has diacritic errors (e.g. „‘Othman.s“ for „‘Othman’s“)."
+ },
+ {
+  "id": "n1938_palimpsest_konsonantentext",
+  "work": "noeldeke1938",
+  "author": "Gotthelf Bergsträsser, Otto Pretzl (in Nöldeke, Geschichte des Qorāns, Bd. 3)",
+  "ref": "S. 97 (Lewis’sche Palimpseste; d) Der Text der Lewis’schen Palimpseste)",
+  "pdf_page": 122,
+  "url": "https://archive.org/download/geschichte-des-qorans-von-theodor-noldeke-1-uber-den-ursprung-des-qorans/Geschichte%20des%20Qor%C4%81ns%20-von%20Theodor%20N%C3%B6ldeke%20%2C%203%20Die%20Geschichte%20des%20Korantexts.pdf",
+  "passage": "Die Koranhandschriften zeigen, so weit bisher untersucht, durchaus den othmanischen Konsonantentext 2); eine Ausnahme machen nur die schon erwähnten Lewis'schen Palimpseste (s. o. S. 53)",
+  "from_": "Die Koranhandschriften zeigen, so weit bisher",
+  "to": "Lewis'schen Palimpseste (s. o. S. 53)",
+  "keys": [
+   "so weit bisher untersucht, durchaus den othmanischen Konsonantentext",
+   "eine Ausnahme machen nur die schon erwähnten Lewis'schen Palimpseste"
+  ],
+  "alts": [],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Bergsträsser and Pretzl say that Qur’an manuscripts examined so far show the ‘Uthmanic consonantal text throughout, with one exception: the Lewis palimpsests.",
+  "context": "Counter-evidence to textual instability (E) combined with the palimpsest exception (D); the authors add that no traces survive of the other pre-‘Uthmanic recensions the tradition reports."
+ },
+ {
+  "id": "n1938_keine_spuren_rezensionen",
+  "work": "noeldeke1938",
+  "author": "Gotthelf Bergsträsser, Otto Pretzl (in Nöldeke, Geschichte des Qorāns, Bd. 3)",
+  "ref": "S. 97 (Lewis’sche Palimpseste)",
+  "pdf_page": 122,
+  "url": "https://archive.org/download/geschichte-des-qorans-von-theodor-noldeke-1-uber-den-ursprung-des-qorans/Geschichte%20des%20Qor%C4%81ns%20-von%20Theodor%20N%C3%B6ldeke%20%2C%203%20Die%20Geschichte%20des%20Korantexts.pdf",
+  "passage": "sind in der Literatur keine oder so gut wie keine Spuren auf uns gekommen.",
+  "from_": "sind in der Literatur keine oder",
+  "to": "wie keine Spuren auf uns gekommen.",
+  "keys": [
+   "sind in der Literatur keine oder so gut wie keine Spuren",
+   "auf uns gekommen"
+  ],
+  "alts": [],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Bergsträsser and Pretzl state that, of the other pre-‘Uthmanic Qur’an recensions which tradition reports, no or almost no traces have survived in the literature.",
+  "context": "The preceding words of the sentence contain an OCR error („vor-otbmanischen“); the quoted part starts after it."
+ },
+ {
+  "id": "n1938_palimpsest_keine_spur_ibnmasud",
+  "work": "noeldeke1938",
+  "author": "Gotthelf Bergsträsser, Otto Pretzl (in Nöldeke, Geschichte des Qorāns, Bd. 3)",
+  "ref": "S. 99 (Lewis’sche Palimpseste und Ibn Masʿūd / Ubayy)",
+  "pdf_page": 124,
+  "url": "https://archive.org/download/geschichte-des-qorans-von-theodor-noldeke-1-uber-den-ursprung-des-qorans/Geschichte%20des%20Qor%C4%81ns%20-von%20Theodor%20N%C3%B6ldeke%20%2C%203%20Die%20Geschichte%20des%20Korantexts.pdf",
+  "passage": "Vom Text des ibn Mas'üd und des Ubai jedenfalls findet sich in den Palimpsesten keine Spur",
+  "from_": "Vom Text des ibn Mas'üd und",
+  "to": "sich in den Palimpsesten keine Spur",
+  "keys": [
+   "Vom Text des ibn Mas'üd und des Ubai jedenfalls findet sich in den Palimpsesten keine Spur"
+  ],
+  "alts": [],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Bergsträsser and Pretzl say that there is no trace of the text of Ibn Masʿūd or of Ubayy in the palimpsests.",
+  "context": "Counter-evidence to the idea that the palimpsests belong to Ibn Masʿūd’s or Ubayy’s recension (they state the palimpsests can hardly belong to a known recension)."
+ },
+ {
+  "id": "n1938_palimpsest_naehe_otm",
+  "work": "noeldeke1938",
+  "author": "Gotthelf Bergsträsser, Otto Pretzl (in Nöldeke, Geschichte des Qorāns, Bd. 3)",
+  "ref": "S. 99–100 (Lewis’sche Palimpseste; Nähe zum offiziellen Text)",
+  "pdf_page": 124,
+  "url": "https://archive.org/download/geschichte-des-qorans-von-theodor-noldeke-1-uber-den-ursprung-des-qorans/Geschichte%20des%20Qor%C4%81ns%20-von%20Theodor%20N%C3%B6ldeke%20%2C%203%20Die%20Geschichte%20des%20Korantexts.pdf",
+  "passage": "Der Umstand, daß selbst in unserer lückenhaften Überlieferung auf die in den Palimpsesten er- haltenen Koranstücke eine so große Zahl bedeutender Varianten des ibn Mas'üd und Ubai entfällt, zeigt zugleich, wie nahe vergleichsweise der Text der Lewis'schen Palimpseste dem offiziellen Korantext steht.",
+  "from_": "Der Umstand, daß selbst in unserer",
+  "to": "Lewis'schen Palimpseste dem offiziellen Korantext steht.",
+  "keys": [
+   "zeigt zugleich, wie nahe vergleichsweise der Text der Lewis'schen Palimpseste dem offiziellen Korantext steht"
+  ],
+  "alts": [],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Bergsträsser and Pretzl conclude that, since a large number of significant Ibn Masʿūd and Ubayy variants fall in the Qur’an passages preserved in the palimpsests, the palimpsests text stands very close to the official Qur’an text.",
+  "context": "Composed from two pdf pages (pp. 124–125); the footnote text interleaved between the two parts was omitted; the hyphen „er-“ / „haltenen“ joined. The footnote markers 1) were dropped. (Spans pdf pages 124–125.)"
+ },
+ {
+  "id": "n1938_mingana_meint",
+  "work": "noeldeke1938",
+  "author": "Gotthelf Bergsträsser, Otto Pretzl (in Nöldeke, Geschichte des Qorāns, Bd. 3)",
+  "ref": "S. 100 (Abschnitt e: die angebliche syrische Übersetzung)",
+  "pdf_page": 125,
+  "url": "https://archive.org/download/geschichte-des-qorans-von-theodor-noldeke-1-uber-den-ursprung-des-qorans/Geschichte%20des%20Qor%C4%81ns%20-von%20Theodor%20N%C3%B6ldeke%20%2C%203%20Die%20Geschichte%20des%20Korantexts.pdf",
+  "passage": "Über die literarische Überlieferung und die Lewis'schen Palimpseste hinaus meint A. Mingana 1) an unerwarteter Stelle große Stücke eines vor-othmanischen Korantexts wiedergefunden zu",
+  "from_": "Über die literarische Überlieferung und die",
+  "to": "Stücke eines vor-othmanischen Korantexts wiedergefunden zu",
+  "keys": [
+   "meint A. Mingana",
+   "große Stücke eines vor-othmanischen Korantexts wiedergefunden zu"
+  ],
+  "alts": [],
+  "label": "D",
+  "stance": "reports others",
+  "claim_en": "Bergsträsser and Pretzl report that A. Mingana believed he had found large pieces of a pre-‘Uthmanic Qur’an text in the anti-Islamic polemic of the Syriac polymath Dionysios Barsalibi (d. 1171).",
+  "context": "Mingana’s claim is reported in order to be refuted in the next passages; the sentence is cut off after „zu“ because the OCR text layer garbles the rest of the sentence („haljen“). Mingana’s article is footnote 1 („An ancient Syriac Translation of the Kur’an exhibiting new verses and variants“, Bulletin of the John Rylands Library 9, 1925)."
+ },
+ {
+  "id": "n1938_mingana_zitate_nicht_koran",
+  "work": "noeldeke1938",
+  "author": "Gotthelf Bergsträsser, Otto Pretzl (in Nöldeke, Geschichte des Qorāns, Bd. 3)",
+  "ref": "S. 100 (Abschnitt e)",
+  "pdf_page": 125,
+  "url": "https://archive.org/download/geschichte-des-qorans-von-theodor-noldeke-1-uber-den-ursprung-des-qorans/Geschichte%20des%20Qor%C4%81ns%20-von%20Theodor%20N%C3%B6ldeke%20%2C%203%20Die%20Geschichte%20des%20Korantexts.pdf",
+  "passage": "Die Zitate sind nicht irgendwann einem syrischen Koran entnommen, sondern sie waren im Urtext von einem arabisch schreibenden christlichen Apologeten einer Polemik gegen das Christentum als Belegstellen einverleibt, und sind erst nachträglich aus einer syrischen Übersetzung oder Bearbeitung dieser Polemik ausgehoben und für sich als eine Art Koran-Florilegium zusammengestellt",
+  "from_": "Die Zitate sind nicht irgendwann einem",
+  "to": "sich als eine Art Koran-Florilegium zusammengestellt",
+  "keys": [
+   "Die Zitate sind nicht irgendwann einem syrischen Koran entnommen",
+   "als eine Art Koran-Florilegium zusammengestellt"
+  ],
+  "alts": [
+   "sondern sie waren im Urtext von einem arabisch schreibenden christlichen Apologeten"
+  ],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Bergsträsser and Pretzl reject Mingana’s reading: the quotations are not taken from a Syriac Qur’an at some point; they were included in the original text by an Arabic-writing polemicist as proof-texts, and only later were taken out of a Syriac translation or adaptation of that polemic and collected as a kind of Qur’an florilegium.",
+  "context": "This is the authors’ rebuttal. The passage reads „einer Polemik gegen das Christentum“ in the text layer; checked visually on the page image (p. 125). Footnote 1 (Mingana’s article) is interleaved after the passage and omitted."
+ },
+ {
+  "id": "n1938_mingana_wiederholung_evidenz",
+  "work": "noeldeke1938",
+  "author": "Gotthelf Bergsträsser, Otto Pretzl (in Nöldeke, Geschichte des Qorāns, Bd. 3)",
+  "ref": "S. 101 (Abschnitt e)",
+  "pdf_page": 126,
+  "url": "https://archive.org/download/geschichte-des-qorans-von-theodor-noldeke-1-uber-den-ursprung-des-qorans/Geschichte%20des%20Qor%C4%81ns%20-von%20Theodor%20N%C3%B6ldeke%20%2C%203%20Die%20Geschichte%20des%20Korantexts.pdf",
+  "passage": "bis zur Evidenz beweisend aber ist die Tatsache, daß mehrfach der gleiche Koranvers an verschiedenen Stellen in verschiedener Übersetzung angeführt wird",
+  "from_": "bis zur Evidenz beweisend aber ist",
+  "to": "Stellen in verschiedener Übersetzung angeführt wird",
+  "keys": [
+   "daß mehrfach der gleiche Koranvers an verschiedenen Stellen in verschiedener Übersetzung angeführt wird"
+  ],
+  "alts": [],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Bergsträsser and Pretzl argue that the same Qur’an verse is cited several times in different translations, and that one passage even follows a verse directly with a variant translation, which shows that the translator found the same verse several times in his source.",
+  "context": "Argument against the claim that the Syriac text preserves a different Qur’an (E); the authors say the translator’s source explains the variation."
+ },
+ {
+  "id": "n1938_mingana_polemik_erklaert",
+  "work": "noeldeke1938",
+  "author": "Gotthelf Bergsträsser, Otto Pretzl (in Nöldeke, Geschichte des Qorāns, Bd. 3)",
+  "ref": "S. 101 (Abschnitt e)",
+  "pdf_page": 126,
+  "url": "https://archive.org/download/geschichte-des-qorans-von-theodor-noldeke-1-uber-den-ursprung-des-qorans/Geschichte%20des%20Qor%C4%81ns%20-von%20Theodor%20N%C3%B6ldeke%20%2C%203%20Die%20Geschichte%20des%20Korantexts.pdf",
+  "passage": "Die Herkunft aus einer Polemik gegen den Islam, die, wie solche Schriften gemeinhin, kaum besonders genau zitierte, erklärt nicht nur Abweichungen vom arabischen Text, sondern auch den Umstand, daß unter das echt Koranische allerlei aus der Tradition gemischt ist",
+  "from_": "Die Herkunft aus einer Polemik gegen",
+  "to": "allerlei aus der Tradition gemischt ist",
+  "keys": [
+   "Die Herkunft aus einer Polemik gegen den Islam",
+   "erklärt nicht nur Abweichungen vom arabischen Text"
+  ],
+  "alts": [
+   "allerlei aus der Tradition gemischt ist"
+  ],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Bergsträsser and Pretzl say that the origin of the material in a polemic against Islam, which as such polemics usually did not quote very precisely, explains both the deviations from the Arabic text and the fact that much from tradition is mixed into what is genuinely Qur’anic.",
+  "context": "Their explanation of the Syriac material as polemical quotation; it denies that the text evidences a different pre-‘Uthmanic Qur’an."
+ },
+ {
+  "id": "n1860_einschiebung",
+  "work": "noeldeke1860",
+  "author": "Theodor Nöldeke",
+  "ref": "S. 9 (Einleitung; OCR-Seitenzahl)",
+  "pdf_page": "",
+  "url": "https://archive.org/download/geschichtedesqor00nlde/geschichtedesqor00nlde_djvu.txt",
+  "passage": "Die Einschiebung eines »aIj aus Irrthum oder aus Absicht wäre ebenso leicht zu erklären,",
+  "from_": "Die Einschiebung eines »aIj aus Irrthum",
+  "to": "Absicht wäre ebenso leicht zu erklären,",
+  "keys": [
+   "Die Einschiebung eines",
+   "aus Irrthum oder aus Absicht wäre ebenso leicht zu"
+  ],
+  "alts": [],
+  "label": "A",
+  "stance": "own claim",
+  "claim_en": "Nöldeke says that the insertion of a word, whether by error or by intent, would be just as easy to explain as the other distortion of this tradition.",
+  "context": "The first edition (Göttingen 1860) in the djvu text layer; the word between „eines“ and „aus Irrthum“ is an Arabic word garbled in OCR („»aIj“); the passage is kept as OCR gives it. Page from OCR page marker; not verified on image."
+ },
+ {
+  "id": "n1860_omar_zeugen",
+  "work": "noeldeke1860",
+  "author": "Theodor Nöldeke",
+  "ref": "S. 193 (Sammlung unter ʿUmar; Ibn Saʿd)",
+  "pdf_page": "",
+  "url": "https://archive.org/download/geschichtedesqor00nlde/geschichtedesqor00nlde_djvu.txt",
+  "passage": "soll Nichts angenommen haben, als was niedergeschrieben war und worüber zwei Zeugen aussagten, dafs es zum Qorän gehörte",
+  "from_": "soll Nichts angenommen haben, als was",
+  "to": "aussagten, dafs es zum Qorän gehörte",
+  "keys": [
+   "soll Nichts angenommen",
+   "zwei Zeugen aussagten"
+  ],
+  "alts": [],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Nöldeke reports (citing Ibn Saʿd) that ‘Umar is said to have accepted only what was written down and attested by two witnesses as belonging to the Qur’an.",
+  "context": "OCR page marker 193 (djvu text layer; not checked on image). The Ibn Saʿd reference is in the text."
+ },
+ {
+  "id": "n1860_omar_wahrscheinlich",
+  "work": "noeldeke1860",
+  "author": "Theodor Nöldeke",
+  "ref": "S. 193 (Steinigungsvers)",
+  "pdf_page": "",
+  "url": "https://archive.org/download/geschichtedesqor00nlde/geschichtedesqor00nlde_djvu.txt",
+  "passage": "Wenn dies auch nicht ganz sicher ist, so ist es doch sehr gut möglich, da Omar doch irgend ein Kriterium der Echtheit wird gehabt haben, und da sich so am besten die Tradition über den Steinigungsvers erklärt.",
+  "from_": "Wenn dies auch nicht ganz sicher",
+  "to": "die Tradition über den Steinigungsvers erklärt.",
+  "keys": [
+   "Wenn dies auch nicht ganz sicher ist",
+   "da sich so am besten die Tradition über den Steinigungsvers erklärt"
+  ],
+  "alts": [],
+  "label": "C",
+  "stance": "own claim",
+  "claim_en": "Nöldeke says it is quite possible, though not entirely certain, that ‘Umar had some criterion of authenticity, and that this best explains the tradition about the stoning verse.",
+  "context": "His own judgment, in the first edition, on the report quoted in the previous passage."
+ },
+ {
+  "id": "n1860_uthman_verbrannt",
+  "work": "noeldeke1860",
+  "author": "Theodor Nöldeke",
+  "ref": "S. 225 (ʿUthmān; Zitat nach aṭ-Ṭabarī, persische Übersetzung)",
+  "pdf_page": "",
+  "url": "https://archive.org/download/geschichtedesqor00nlde/geschichtedesqor00nlde_djvu.txt",
+  "passage": "Sie sagen, ich habe den Qorän verbrannt; (das habe ich darum gethan), weil er in kleinen Stücken in den Händen der Menschen war und Jedermann sagte »meins ist das beste« ; darauf sammelte ich alle, stellte eine lange Süra vorn hin, eine von mittlerer Länge in die Mitte, eine kleine hinten, ordnete alle wohl und übergab sie den Menschen; was sie aber gehabt hatten, nahm ich und verbrannte es.",
+  "from_": "Sie sagen, ich habe den Qorän",
+  "to": "hatten, nahm ich und verbrannte es.",
+  "keys": [
+   "Sie sagen, ich habe den Qorän verbrannt",
+   "was sie aber gehabt hatten, nahm ich und verbrannte es"
+  ],
+  "alts": [],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Nöldeke quotes ‘Uthmān’s reply to the charge of burning the Qur’an: he did it because the text was in small pieces in people’s hands, each claiming his own was best; he then gathered everything, arranged it, handed it out, and burned what they had.",
+  "context": "Quoted in German from Ṭabarī’s Persian translation as Nöldeke cites it (OCR page marker 225). The passage is a report of ‘Uthmān’s self-defence, not Nöldeke’s own claim."
+ },
+ {
+  "id": "n1860_zusatz_medinisch",
+  "work": "noeldeke1860",
+  "author": "Theodor Nöldeke",
+  "ref": "S. 118 (Sur.-Abschnitt; OCR-Seitenzahl)",
+  "pdf_page": "",
+  "url": "https://archive.org/download/geschichtedesqor00nlde/geschichtedesqor00nlde_djvu.txt",
+  "passage": "einen, vielleicht von Muhammed selbst hierher gesetzten, medinischen Zusatz zu betrachten.",
+  "from_": "einen, vielleicht von Muhammed selbst hierher",
+  "to": "hierher gesetzten, medinischen Zusatz zu betrachten.",
+  "keys": [
+   "vielleicht von Muhammed selbst hierher gesetzten",
+   "medinischen Zusatz zu betrachten"
+  ],
+  "alts": [],
+  "label": "A",
+  "stance": "own claim",
+  "claim_en": "In the first edition Nöldeke already treats a passage (vv. 156–158 in the same discussion as in the 1909 volume) as a Medinan addition, possibly placed there by Muhammad himself.",
+  "context": "Same passage as n1909_zusatz_174 (second edition); the 1860 text has „gesetzten“ where the 1909 text has „gestellten“. OCR page marker 118."
+ },
+ {
+  "id": "hirsch_omissions_miracle",
+  "work": "hirschfeld1902",
+  "author": "Hartwig Hirschfeld",
+  "ref": "pp. 136–137 (ch. “Interpolations”)",
+  "pdf_page": "",
+  "url": "https://archive.org/download/newresearchesint00hirs/newresearchesint00hirs_djvu.txt",
+  "passage": "Considering the way in which the compilation was made, it would have been a miracle, had the Qoruii been kept free of omissions, as well as interpolations.",
+  "from_": "Considering the way in which the",
+  "to": "of omissions, as well as interpolations.",
+  "keys": [
+   "it would have been a miracle, had the Qoruii been kept free of omissions, as well as interpolations"
+  ],
+  "alts": [],
+  "label": "C",
+  "stance": "own claim",
+  "claim_en": "Hirschfeld says that, given how the compilation was made, the Qur’an would have been a miracle had it been kept free of omissions as well as interpolations.",
+  "context": "Own claim within the chapter on alleged integrity of the Qur’an; he treats omissions and interpolations as both possible."
+ },
+ {
+  "id": "hirsch_noeldeke_denies",
+  "work": "hirschfeld1902",
+  "author": "Hartwig Hirschfeld",
+  "ref": "p. 137 (ch. “Interpolations”; reports Nöldeke)",
+  "pdf_page": "",
+  "url": "https://archive.org/download/newresearchesint00hirs/newresearchesint00hirs_djvu.txt",
+  "passage": "Noldeke denies emphatically that Zeid b. Thabit or any of the Khalifahs responsible for the redaction or the Qordn had tampered with the book, and regards any view to the contrary as mistaken.",
+  "from_": "Noldeke denies emphatically that Zeid b.",
+  "to": "view to the contrary as mistaken.",
+  "keys": [
+   "Noldeke denies emphatically that Zeid b. Thabit",
+   "regards any view to the contrary as mistaken"
+  ],
+  "alts": [],
+  "label": "E",
+  "stance": "reports others",
+  "claim_en": "Hirschfeld reports that Nöldeke denies emphatically that Zayd b. Thābit or any caliph responsible for the redaction had tampered with the book, and regards any view to the contrary as mistaken.",
+  "context": "Hirschfeld’s report of Nöldeke (his own note cites Nöldeke, Geschichte des Qorans); not a quotation from Nöldeke."
+ },
+ {
+  "id": "hirsch_omar_interpolated",
+  "work": "hirschfeld1902",
+  "author": "Hartwig Hirschfeld",
+  "ref": "p. 137 (Stoning verse)",
+  "pdf_page": "",
+  "url": "https://archive.org/download/newresearchesint00hirs/newresearchesint00hirs_djvu.txt",
+  "passage": "Omar is stated to have treated this verse as genuine, but he refrained from inserting it in the Qorun for fear it might be said that he had interpolated it.",
+  "from_": "Omar is stated to have treated",
+  "to": "said that he had interpolated it.",
+  "keys": [
+   "treated this verse as genuine",
+   "for fear it might be said that he had interpolated it"
+  ],
+  "alts": [],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Hirschfeld reports that ‘Umar is stated to have treated the stoning verse as genuine but refrained from inserting it into the Qur’an for fear of being said to have interpolated it.",
+  "context": "Report of a tradition, presented by Hirschfeld as the basis for his discussion."
+ },
+ {
+  "id": "hirsch_tradition_vague",
+  "work": "hirschfeld1902",
+  "author": "Hartwig Hirschfeld",
+  "ref": "p. 137 (Sammlung unter ʿUmar)",
+  "pdf_page": "",
+  "url": "https://archive.org/download/newresearchesint00hirs/newresearchesint00hirs_djvu.txt",
+  "passage": "There is so much vagueness about all this that the tradition in question is scarcely trustworthy, especially as traditionists admit",
+  "from_": "There is so much vagueness about",
+  "to": "scarcely trustworthy, especially as traditionists admit",
+  "keys": [
+   "There is so much vagueness about all this that the tradition in question is scarcely trustworthy"
+  ],
+  "alts": [
+   "especially as traditionists admit"
+  ],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Hirschfeld says that there is so much vagueness about the tradition that ‘Umar accepted only verses attested by two witnesses that it is scarcely trustworthy.",
+  "context": "His own judgment on the tradition of the two-witness criterion (it is also attested for one witness in some cases)."
+ },
+ {
+  "id": "hirsch_fabricated",
+  "work": "hirschfeld1902",
+  "author": "Hartwig Hirschfeld",
+  "ref": "p. 138 (Stoning verse, Jewish-Medinan episode)",
+  "pdf_page": "",
+  "url": "https://archive.org/download/newresearchesint00hirs/newresearchesint00hirs_djvu.txt",
+  "passage": "it is pretty clear that the ■whole tradition was fabricated in order to justify Omar's course of action.",
+  "from_": "it is pretty clear that the",
+  "to": "to justify Omar's course of action.",
+  "keys": [
+   "it is pretty clear that the ■whole tradition was fabricated in order to justify Omar's course of action"
+  ],
+  "alts": [],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Hirschfeld says that, although the stoning verse might have been an official revelation, it is pretty clear that the whole tradition about it was fabricated to justify ‘Umar’s course of action.",
+  "context": "Denial of the tradition’s reliability (his own view), with reasons given on the same page (the Jewish episode is unreliable; the case contradicts Qur’an 24:2 on punishment)."
+ },
+ {
+  "id": "hirsch_tradition_handed_down",
+  "work": "hirschfeld1902",
+  "author": "Hartwig Hirschfeld",
+  "ref": "p. 137 (Verses not accepted)",
+  "pdf_page": "",
+  "url": "https://archive.org/download/newresearchesint00hirs/newresearchesint00hirs_djvu.txt",
+  "passage": "Tradition has, indeed, handed down quite a number of verses which were not accepted as genuine, because their authenticity was not sufficiently attested.",
+  "from_": "Tradition has, indeed, handed down quite",
+  "to": "their authenticity was not sufficiently attested.",
+  "keys": [
+   "Tradition has, indeed, handed down quite a number of verses which were not accepted as genuine"
+  ],
+  "alts": [
+   "because their authenticity was not sufficiently attested"
+  ],
+  "label": "C",
+  "stance": "own claim",
+  "claim_en": "Hirschfeld says that tradition has handed down quite a number of verses which were not accepted as genuine because their authenticity was not sufficiently attested, and that Nöldeke made a complete compilation of them.",
+  "context": "His own statement; the compilation he refers to is Nöldeke’s."
+ },
+ {
+  "id": "muir_omar_lost",
+  "work": "muir1878",
+  "author": "William Muir",
+  "ref": "p. 38–39 (Compilation and arrangement; reports Omar)",
+  "pdf_page": "",
+  "url": "https://archive.org/download/cornitscompos00muir/cornitscompos00muir_djvu.txt",
+  "passage": "I fear,\" he said, addressing the Caliph Abu Bekr, \" that slaughter may again wax hot among the reciters of the Coran in other fields of battle, and that much may be lost therefrom.",
+  "from_": "I fear,\" he said, addressing the",
+  "to": "that much may be lost therefrom.",
+  "keys": [
+   "I fear,\" he said, addressing the Caliph Abu Bekr",
+   "that much may be lost therefrom"
+  ],
+  "alts": [],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Muir reports ‘Umar’s words to Abū Bakr: he feared that much of the Qur’an might be lost in future battles, and advised that the Revelation be collected.",
+  "context": "Quotation within the narrative (Muir gives it as Omar’s words); not Muir’s own claim."
+ },
+ {
+  "id": "muir_uthman_recension",
+  "work": "muir1878",
+  "author": "William Muir",
+  "ref": "p. 39 (Caliph Othman’s recension)",
+  "pdf_page": "",
+  "url": "https://archive.org/download/cornitscompos00muir/cornitscompos00muir_djvu.txt",
+  "passage": "But by degrees variety crept into the many transcripts from this compilation, and the Caliph Othman was persuaded to apply a trenchant remedy.",
+  "from_": "But by degrees variety crept into",
+  "to": "persuaded to apply a trenchant remedy.",
+  "keys": [
+   "variety crept into the many transcripts from this compilation",
+   "the Caliph Othman was persuaded to apply a trenchant remedy"
+  ],
+  "alts": [],
+  "label": "B",
+  "stance": "own claim",
+  "claim_en": "Muir states that variety crept into the many transcripts of Abū Bakr’s compilation, and the Caliph Othman was persuaded to apply a trenchant remedy (a standard recension by Zayd).",
+  "context": "Narrated in Muir’s own voice without attribution; the Uthmanic recension is treated as a fixed post-Muhammad emendation of the text."
+ },
+ {
+  "id": "muir_codices_burned",
+  "work": "muir1878",
+  "author": "William Muir",
+  "ref": "p. 39",
+  "pdf_page": "",
+  "url": "https://archive.org/download/cornitscompos00muir/cornitscompos00muir_djvu.txt",
+  "passage": "All previous copies were called in, and committed to the flames.",
+  "from_": "All previous copies were called in,",
+  "to": "in, and committed to the flames.",
+  "keys": [
+   "All previous copies were called in, and committed to the flames"
+  ],
+  "alts": [],
+  "label": "C",
+  "stance": "own claim",
+  "claim_en": "Muir states that all previous copies were called in and committed to the flames after the Othmanic recension.",
+  "context": "Narrated without attribution in Muir’s text; the destruction of pre-Uthmanic copies is accepted in the narrative."
+ },
+ {
+  "id": "muir_recension_unaltered",
+  "work": "muir1878",
+  "author": "William Muir",
+  "ref": "p. 39",
+  "pdf_page": "",
+  "url": "https://archive.org/download/cornitscompos00muir/cornitscompos00muir_djvu.txt",
+  "passage": "The recension of Zeid has been handed down unaltered.",
+  "from_": "The recension of Zeid has been",
+  "to": "Zeid has been handed down unaltered.",
+  "keys": [
+   "The recension of Zeid has been handed down unaltered"
+  ],
+  "alts": [],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Muir says that the recension of Zayd has been handed down unaltered, and that the variant readings are almost entirely limited to vowels and diacritical points that were invented later.",
+  "context": "Counter-claim against later textual alteration; the same page also argues that the Caliph Ali and his party accepted the text."
+ },
+ {
+  "id": "muir_faithful",
+  "work": "muir1878",
+  "author": "William Muir",
+  "ref": "p. 40",
+  "pdf_page": "",
+  "url": "https://archive.org/download/cornitscompos00muir/cornitscompos00muir_djvu.txt",
+  "passage": "There is every security that the work of Zeid was executed faithfully ; and, indeed, the acceptance of the Coran by Ali and his party, the antagonists of the unfortunate Othman, is the surest guarantee of its genuineness.",
+  "from_": "There is every security that the",
+  "to": "the surest guarantee of its genuineness.",
+  "keys": [
+   "There is every security that the work of Zeid was executed faithfully",
+   "the surest guarantee of its genuineness"
+  ],
+  "alts": [],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Muir says there is every security that Zayd’s work was executed faithfully, and that the acceptance of the Qur’an by Ali and his party is the surest guarantee of its genuineness.",
+  "context": "Counter-claim: he rejects the possibility of significant corruption under Othman."
+ },
+ {
+  "id": "muir_escaped_collection",
+  "work": "muir1878",
+  "author": "William Muir",
+  "ref": "p. 40",
+  "pdf_page": "",
+  "url": "https://archive.org/download/cornitscompos00muir/cornitscompos00muir_djvu.txt",
+  "passage": "It is possible that some of the earUer and of the more ephemeral fragments which proceeded from Mahomet may have before his death become obsolete, and thus escaped collection",
+  "from_": "It is possible that some of",
+  "to": "become obsolete, and thus escaped collection",
+  "keys": [
+   "It is possible that some of the earUer and of the more ephemeral fragments"
+  ],
+  "alts": [
+   "escaped collection"
+  ],
+  "label": "C",
+  "stance": "own claim",
+  "claim_en": "Muir says it is possible that some of the earlier and more ephemeral fragments from Muhammad may have become obsolete before his death and thus escaped collection.",
+  "context": "Qualified (“it is possible”): a possibility of loss, not a demonstrated case. OCR text layer reads „earUer“ for „earlier“."
+ },
+ {
+  "id": "muir_interpolated_medina_22",
+  "work": "muir1878",
+  "author": "William Muir",
+  "ref": "p. 44 (Suras revealed at Mecca and Medina)",
+  "pdf_page": "",
+  "url": "https://archive.org/download/cornitscompos00muir/cornitscompos00muir_djvu.txt",
+  "passage": "In the later Suras of this period we meet not unfrequently with Medina passages, which have been interpolated as bearing on some connected subject.",
+  "from_": "In the later Suras of this",
+  "to": "as bearing on some connected subject.",
+  "keys": [
+   "which have been interpolated as bearing on some connected subject"
+  ],
+  "alts": [
+   "Medina passages"
+  ],
+  "label": "A",
+  "stance": "own claim",
+  "claim_en": "Muir says that in the later Meccan Suras there are Medinan passages which have been interpolated as bearing on a connected subject, and gives Sura XXII v. 41 as an example.",
+  "context": "Own claim; the Medinan passages are placed in Meccan Suras, the examples given are Sura XXII v. 41 and Sura XVII v. 33 and XVI v. 110."
+ },
+ {
+  "id": "muir_interpolated_sura2",
+  "work": "muir1878",
+  "author": "William Muir",
+  "ref": "p. 45 (Sura II)",
+  "pdf_page": "",
+  "url": "https://archive.org/download/cornitscompos00muir/cornitscompos00muir_djvu.txt",
+  "passage": "There is likewise much matter of a legislative character promulgated on first reaching Medina, with passages interpolated on the same subject, but of later date.",
+  "from_": "There is likewise much matter of",
+  "to": "same subject, but of later date.",
+  "keys": [
+   "with passages interpolated on the same subject, but of later date"
+  ],
+  "alts": [],
+  "label": "A",
+  "stance": "own claim",
+  "claim_en": "Muir says that in Sura II there is much legislative matter promulgated on first reaching Medina, with passages interpolated on the same subject but of later date.",
+  "context": "Own claim; describes the Sura II material."
+ },
+ {
+  "id": "margoliouth_retraction",
+  "work": "margoliouth1905",
+  "author": "D. S. Margoliouth",
+  "ref": "ch. on the Satanic verses (page not determined; djvu text)",
+  "pdf_page": "",
+  "url": "https://archive.org/download/mohammedriseofis00margrich/mohammedriseofis00margrich_djvu.txt",
+  "passage": "the retractation of errors committed in the Koran was a fairly familiar process. Allah was not proud. The compromising verses were erased from the Surah, and an apology substituted. In this he declares that whenever a prophet recites his oracles the devil is quite sure to interpolate. God, however, revises the proofs, and throws out the devil's interpolation.",
+  "from_": "the retractation of errors committed in",
+  "to": "and throws out the devil's interpolation.",
+  "keys": [
+   "the retractation of errors committed in the Koran was a fairly familiar process",
+   "the devil's interpolation"
+  ],
+  "alts": [],
+  "label": "A",
+  "stance": "own claim",
+  "claim_en": "Margoliouth says that the retraction of errors committed in the Koran was a fairly familiar process, and that the Qur’an itself says the devil interpolates and God throws out the devil’s interpolation.",
+  "context": "He narrates the ‘Satanic verses’ episode; the Qur’anic statement is quoted from the Qur’an, and the retraction is his own general claim. The djvu text gives no page numbers."
+ },
+ {
+  "id": "weil_uthman_varianten",
+  "work": "weil1844",
+  "author": "Gustav Weil",
+  "ref": "S. 50 (Othman und die Varianten)",
+  "pdf_page": "",
+  "url": "https://archive.org/download/historischkriti00weilgoog/historischkriti00weilgoog_djvu.txt",
+  "passage": "Othman mollte demnach, durch Vertilgung aller Varianten, nur einen Koran herftellen, über deſſen Inhalt nicht mehr geſtritten werden konnte;",
+  "from_": "Othman mollte demnach, durch Vertilgung aller",
+  "to": "Inhalt nicht mehr geſtritten werden konnte;",
+  "keys": [
+   "Othman mollte demnach, durch Vertilgung aller Varianten",
+   "nur einen Koran herftellen"
+  ],
+  "alts": [],
+  "label": "B",
+  "stance": "own claim",
+  "claim_en": "Weil says Othman, by eliminating all variants, wanted to produce a Qur’an whose content could no longer be disputed.",
+  "context": "Fraktur OCR text layer (long s appears as ſ); not checked on the page image, so exact spelling is unverified. The preceding sentence (also OCR) states that Othman removed variants that affected content, not mere dialect differences."
+ },
+ {
+  "id": "weil_abu_bekr_interpoliert",
+  "work": "weil1844",
+  "author": "Gustav Weil",
+  "ref": "S. 91 (Mohammeds Sterblichkeit; Hypothese)",
+  "pdf_page": "",
+  "url": "https://archive.org/download/historischkriti00weilgoog/historischkriti00weilgoog_djvu.txt",
+  "passage": "Entweder Mohammed vermied es überhaupt, von feiner Vergäaͤnglichkeit zu ſprechen, und Die Bere, welche ihn fterblich nennen, find von Abu Bekr interpolirt, oder er wagte ed nicht, durch Bevorzugung Der einen Partei fich mit der andern zu verfeinden.",
+  "from_": "Entweder Mohammed vermied es überhaupt, von",
+  "to": "fich mit der andern zu verfeinden.",
+  "keys": [
+   "find von Abu Bekr interpolirt",
+   "oder er wagte ed nicht"
+  ],
+  "alts": [],
+  "label": "B",
+  "stance": "own claim",
+  "claim_en": "Weil offers as one of two alternatives that the verses calling Muhammad mortal were interpolated by Abū Bakr; the other alternative is that Muhammad avoided the subject.",
+  "context": "Hypothesis („Entweder … oder“), not a demonstrated claim. The OCR text layer is garbled in places („Vergäaͤnglichkeit“ for „Vergänglichkeit“, „Bere“ for „Verse“); quote not checked on the page image."
+ },
+ {
+  "id": "weil_lost_verses_keine_namen",
+  "work": "weil1844",
+  "author": "Gustav Weil",
+  "ref": "S. 54 (Älteste Suren; verlorene Teile)",
+  "pdf_page": "",
+  "url": "https://archive.org/download/historischkriti00weilgoog/historischkriti00weilgoog_djvu.txt",
+  "passage": "Von vielen, beſonders von den Aelteften, fcheint aber der gröBere Theil verloren gegangen oder abfichtlich- zernichtet worden zu fein, fo daß nur no ihre Namen und wenige Verſe davon übrig blieben,",
+  "from_": "Von vielen, beſonders von den Aelteften,",
+  "to": "und wenige Verſe davon übrig blieben,",
+  "keys": [
+   "der gröBere Theil verloren gegangen oder abfichtlich",
+   "nur no ihre Namen und wenige Verſe davon übrig blieben"
+  ],
+  "alts": [],
+  "label": "C",
+  "stance": "own claim",
+  "claim_en": "Weil says that for many of the oldest suras the larger part seems to have been lost or deliberately destroyed, so that only their names and a few verses remain.",
+  "context": "Fraktur OCR text layer; the passage is a hedged („scheint“) claim about the earliest suras, not a claim about named surahs. Not checked on the page image."
+ },
+ {
+  "id": "weil_exemplar_zweifel",
+  "work": "weil1844",
+  "author": "Gustav Weil",
+  "ref": "S. 51 Anm. 1 (Othmans Exemplar)",
+  "pdf_page": "",
+  "url": "https://archive.org/download/historischkriti00weilgoog/historischkriti00weilgoog_djvu.txt",
+  "passage": "Es ift zwar zweifelhaft, ob Othmans Eremplar fi fo lange erhalten !) und von den Mohammedaniichen Maforethen zur Feſtſtellung bed Terted gebraucht werden konnte, ald manche Mufelmäanner es behaupten. An ber Erhaltung der von ihm veranftalteten Copien aber, fo wie der von verfchienenen Zeitgenoffen verfertigten Abfchriften, ift kaum zu zweifeln.",
+  "from_": "Es ift zwar zweifelhaft, ob Othmans",
+  "to": "verfertigten Abfchriften, ift kaum zu zweifeln.",
+  "keys": [
+   "Es ift zwar zweifelhaft, ob Othmans Eremplar",
+   "An ber Erhaltung der von ihm veranftalteten Copien aber"
+  ],
+  "alts": [],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Weil says it is doubtful whether Othman’s own copy survived as long as some Muslims claim and was used by the Masoretes, but that the copies Othman had made, and the copies of contemporaries, can hardly be doubted to have survived.",
+  "context": "Footnote text, Fraktur OCR (very noisy, „!)“ is a footnote marker). Qualifies the Muslim claims about Othman’s copy; the copies themselves are regarded as surviving. Not checked on the page image."
+ },
+ {
+  "id": "weil_nach_othman_keine_veraenderungen",
+  "work": "weil1844",
+  "author": "Gustav Weil",
+  "ref": "S. 52 (Nach Othman keine wesentlichen Veränderungen)",
+  "pdf_page": "",
+  "url": "https://archive.org/download/historischkriti00weilgoog/historischkriti00weilgoog_djvu.txt",
+  "passage": "Es läßt sich daher mit Bestimmtheit annehmen, daß nach Othman keine wesentlichen Veränderungen mehr im Korantexte stattfanden, wenigstens keine absichtlichen Zusätze oder Auslassungen.",
+  "from_": "Es läßt sich daher mit Bestimmtheit",
+  "to": "wenigstens keine absichtlichen Zusätze oder Auslassungen.",
+  "keys": [
+   "Es läßt sich daher mit Bestimmtheit annehmen",
+   "keine wesentlichen Veränderungen mehr im Korantexte stattfanden"
+  ],
+  "alts": [
+   "wenigstens keine absichtlichen Zusätze oder Auslassungen"
+  ],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Weil says one can assume with certainty that after Othman no essential changes occurred in the Qur’an text, at least no deliberate additions or omissions.",
+  "context": "Verified on the page image (PDF p. 82 = printed p. 52, rendered at 90 dpi), spelling reproduced in modern orthography (long s as s). Qualifies his own claim that Othman removed variants; he adds that the oldest manuscripts cannot be taken as Othman’s work completely because the script had no diacritics yet."
+ },
+ {
+  "id": "casanova_remaniement_fond",
+  "work": "casanova1911_1924",
+  "author": "Paul Casanova",
+  "ref": "Introduction (page not determined in djvu text)",
+  "pdf_page": "",
+  "url": "https://archive.org/download/358067934CasanovaPMohammedEtLaFinDuMondeEtudeCritiqueSurLIslamPrimitif/358067934-Casanova-P-Mohammed-Et-La-Fin-Du-Monde-Etude-Critique-Sur-l-Islam-Primitif_djvu.txt",
+  "passage": "Des raisons fort simples que j'exposerai bientôt ont amené Aboulîekr d’abord, Othman ensuite,& remanier de fond en comble le texte sacré, et ce remaniement a été fait avec une habileté telle que, désormais, il paraît impossible de reconstituer le Coran primitif.",
+  "from_": "Des raisons fort simples que j'exposerai",
+  "to": "impossible de reconstituer le Coran primitif.",
+  "keys": [
+   "Aboulîekr d’abord, Othman ensuite",
+   "remanier de fond en comble le texte sacré"
+  ],
+  "alts": [
+   "il paraît impossible de reconstituer le Coran primitif"
+  ],
+  "label": "B",
+  "stance": "own claim",
+  "claim_en": "Casanova says that simple reasons he will explain later led Abū Bakr first and then ‘Uthmān to remodel the sacred text from the ground up, with such skill that it is now impossible to reconstruct the original Qur’an.",
+  "context": "Own thesis stated at the start of the work (fascicule 1 of the French series, the main text as OCR-read). Djvu OCR: „Aboulîekr“ and „&“ for „et“; quote not checked on the page image."
+ },
+ {
+  "id": "casanova_kindi_interpolations",
+  "work": "casanova1911_1924",
+  "author": "Paul Casanova",
+  "ref": "Notes complémentaires (Kindī); page not determined; Bergsträsser cites Casanova S. 112–121",
+  "pdf_page": "",
+  "url": "https://archive.org/download/358067934CasanovaPMohammedEtLaFinDuMondeEtudeCritiqueSurLIslamPrimitif/358067934-Casanova-P-Mohammed-Et-La-Fin-Du-Monde-Etude-Critique-Sur-l-Islam-Primitif_djvu.txt",
+  "passage": "A la mort du P., ils gagnèrent AU et, dans le texte qu’il avait reçu de 11., firent de nombreuses interpolations.",
+  "from_": "A la mort du P., ils",
+  "to": "de 11., firent de nombreuses interpolations.",
+  "keys": [
+   "firent de nombreuses interpolations",
+   "A la mort du P., ils gagnèrent"
+  ],
+  "alts": [],
+  "label": "A",
+  "stance": "reports others",
+  "claim_en": "Casanova reports al-Kindī’s account that after Muhammad’s death two Jewish scholars, after winning over Abū Bakr, made numerous interpolations in the text Muhammad had given.",
+  "context": "Casanova reports al-Kindī’s polemical account and considers the Christian al-Kindī an important early source; the OCR garbles „AU“ (Abū Bakr) and „11.“ (Muhammad) in this passage."
+ },
+ {
+  "id": "casanova_hadjdjaj_supprime",
+  "work": "casanova1911_1924",
+  "author": "Paul Casanova",
+  "ref": "Notes complémentaires (al-Kindī); page not determined",
+  "pdf_page": "",
+  "url": "https://archive.org/download/358067934CasanovaPMohammedEtLaFinDuMondeEtudeCritiqueSurLIslamPrimitif/358067934-Casanova-P-Mohammed-Et-La-Fin-Du-Monde-Etude-Critique-Sur-l-Islam-Primitif_djvu.txt",
+  "passage": "Hadjdjâdj a, lui aussi, réuni le Coran, <j_i.Ua.ii, e t il en a supprimé bien des choses!",
+  "from_": "Hadjdjâdj a, lui aussi, réuni le",
+  "to": "en a supprimé bien des choses!",
+  "keys": [
+   "Hadjdjâdj a, lui aussi, réuni le Coran",
+   "il en a supprimé bien des choses!"
+  ],
+  "alts": [],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Casanova reports al-Kindī’s argument that al-Ḥajjāj also collected the Qur’an and removed many things from it, so that the book of God is not complete.",
+  "context": "Report of al-Kindī’s rhetorical objection to the claim that Ali’s collection was the “book of God”; an Arabic phrase sits inside the OCR (“<j_i.Ua.ii”) and is kept as OCR gives it."
+ }
+]

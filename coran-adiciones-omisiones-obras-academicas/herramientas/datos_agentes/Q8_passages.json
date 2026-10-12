@@ -1,0 +1,363 @@
+[
+ {
+  "id": "dye2023-contextes-01",
+  "work": "dye2023-contextes",
+  "author": "Guillaume Dye",
+  "ref": "printed p. 22 (PDF p. 2) — body text (section heading not captured)",
+  "pdf_page": 2,
+  "url": "https://archimede.unistra.fr/websites/misha/archimede/Revue_Archimede_RAHA/Numero_10/AR_D1_02_DYE.pdf",
+  "passage": "l’article montre que, tout en conservant l’idée que le mouvement de Muḥammad a pris naissance en Arabie occidentale, on doit abandonner l’idée du Coran comme miroir de la prédication de Muḥammad et reconnaître que le corpus coranique a en fait plusieurs contextes.",
+  "from_": "l’article montre que, tout en conservant",
+  "to": "a en fait plusieurs contextes.",
+  "keys": [
+   "abandonner l’idée du Coran comme miroir de la prédication de Muḥammad",
+   "le corpus coranique a en fait plusieurs contextes"
+  ],
+  "alts": [
+   "tout en conservant l’idée que le mouvement de Muḥammad a pris naissance en Arabie occidentale"
+  ],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Dye (abstract) says the Qurʾān should not be treated as a mirror of Muḥammad's preaching and that the corpus has several contexts; he keeps the western-Arabian origin of the movement.",
+  "context": "Abstract (French résumé). Not a claim of additions by itself; it limits the view that the text simply reflects the Prophet's preaching (item E).",
+  "verification": "verbatim-substring check passed on PDF p. 2 (after Unicode NFC; footnote markers and line-end hyphens removed)"
+ },
+ {
+  "id": "dye2023-contextes-02",
+  "work": "dye2023-contextes",
+  "author": "Guillaume Dye",
+  "ref": "printed p. 27 (PDF p. 7) — body text (section heading not captured)",
+  "pdf_page": 7,
+  "url": "https://archimede.unistra.fr/websites/misha/archimede/Revue_Archimede_RAHA/Numero_10/AR_D1_02_DYE.pdf",
+  "passage": "Premièrement, les versions parallèles d’une même histoire ne s’expliquent pas comme la trace, ou la transcription, de différentes récitations orales d’un même récit ou sermon, mais plutôt comme un phénomène de révisions et de reprises successives d’une même histoire, qui peut être réutilisée, adaptée, éventuellement modifiée dans le cadre d’une nouvelle composition.",
+  "from_": "Premièrement, les versions parallèles d’une même histoire",
+  "to": "dans le cadre d’une nouvelle composition.",
+  "keys": [
+   "un phénomène de révisions et de reprises successives d’une même histoire"
+  ],
+  "alts": [
+   "éventuellement modifiée dans le cadre d’une nouvelle composition"
+  ],
+  "label": "A",
+  "stance": "own claim",
+  "claim_en": "Dye argues that parallel Qurʾānic versions of the same story are better explained as successive revisions and reuses of one story within new compositions than as oral variant performances.",
+  "context": "Literary-compositional claim about the corpus; it does not date the revisions to a period (not claimed as post-prophetic). Footnote marker [31] omitted.",
+  "verification": "verbatim-substring check passed on PDF p. 7 (after Unicode NFC; footnote markers and line-end hyphens removed)"
+ },
+ {
+  "id": "dye2023-contextes-03",
+  "work": "dye2023-contextes",
+  "author": "Guillaume Dye",
+  "ref": "printed p. 27 (PDF p. 7) — body text (section heading not captured)",
+  "pdf_page": 7,
+  "url": "https://archimede.unistra.fr/websites/misha/archimede/Revue_Archimede_RAHA/Numero_10/AR_D1_02_DYE.pdf",
+  "passage": "Deuxièmement, ce phénomène de recomposition, au moins dans certains cas, est un phénomène de réécriture : la quantité d’accords verbatim entre textes parallèles (comme Q38, 71-85 et Q15, 26-43, deux passages traditionnellement supposés être mecquois) implique le recours à un document écrit lors du processus de composition de la sourate la plus tardive.",
+  "from_": "Deuxièmement, ce phénomène de recomposition,",
+  "to": "de la sourate la plus tardive.",
+  "keys": [
+   "implique le recours à un document écrit lors du processus de composition de la sourate la plus tardive"
+  ],
+  "alts": [
+   "au moins dans certains cas"
+  ],
+  "label": "A",
+  "stance": "own claim",
+  "claim_en": "Dye argues that the amount of verbatim agreement between parallel passages (Q38:71-85 and Q15:26-43) implies that a written document was used when the latest surah was composed.",
+  "context": "Dye's own argument, hedged 'au moins dans certains cas'. Footnote [32] (cites Dye 2021a) omitted. Dating of the 'latest surah' is not stated in this sentence.",
+  "verification": "verbatim-substring check passed on PDF p. 7 (after Unicode NFC; footnote markers and line-end hyphens removed)"
+ },
+ {
+  "id": "dye2023-contextes-04",
+  "work": "dye2023-contextes",
+  "author": "Guillaume Dye",
+  "ref": "printed p. 30 (PDF p. 10) — body text (section heading not captured)",
+  "pdf_page": 10,
+  "url": "https://archimede.unistra.fr/websites/misha/archimede/Revue_Archimede_RAHA/Numero_10/AR_D1_02_DYE.pdf",
+  "passage": "Si l’on veut comprendre la forme actuelle du corpus coranique, le préalable est de faire de la critique des formes et de la critique de la rédaction, c’est-à-dire de regarder comment le texte a pu se développer, quelles sont ses différentes strates, quels sont les procédés éditoriaux impliqués dans telle ou telle strate.",
+  "from_": "Si l’on veut comprendre la forme actuelle",
+  "to": "dans telle ou telle strate.",
+  "keys": [
+   "comment le texte a pu se développer, quelles sont ses différentes strates"
+  ],
+  "alts": [],
+  "label": "A",
+  "stance": "own claim",
+  "claim_en": "Dye's methodological statement: understanding the current form of the corpus requires redaction criticism, i.e. examining how the text developed, its strata and editorial procedures.",
+  "context": "Methodological programme rather than a single textual claim. Footnote [45] omitted.",
+  "verification": "verbatim-substring check passed on PDF p. 10 (after Unicode NFC; footnote markers and line-end hyphens removed)"
+ },
+ {
+  "id": "dye2023-contextes-05",
+  "work": "dye2023-contextes",
+  "author": "Guillaume Dye",
+  "ref": "printed p. 30 (PDF p. 10) — body text (section heading not captured)",
+  "pdf_page": 10,
+  "url": "https://archimede.unistra.fr/websites/misha/archimede/Revue_Archimede_RAHA/Numero_10/AR_D1_02_DYE.pdf",
+  "passage": "il est de la rhétorique, c’est-à-dire qu’il reflète avant tout (et on en vient au contexte omeyyade) le projet des personnes responsables de la production du texte, ce qu’elles ont pu garder et ce qu’elles n’ont pas pu garder, et aussi ce qu’elles ont choisi de garder et de ne pas garder, pour diverses raisons.",
+  "from_": "il est de la rhétorique, c’est-à-dire",
+  "to": "de ne pas garder, pour diverses raisons.",
+  "keys": [
+   "ce qu’elles ont pu garder et ce qu’elles n’ont pas pu garder"
+  ],
+  "alts": [],
+  "label": "C",
+  "stance": "own claim",
+  "claim_en": "Dye states that the form of the corpus reflects what its producers could and could not keep, and what they chose to keep or drop, for various reasons (loss and selection in general terms).",
+  "context": "General statement about selection and loss; no specific verse or surah named in this sentence. Sentence begins mid-paragraph ('il est de la rhétorique' follows 'il est' at the line end).",
+  "verification": "verbatim-substring check passed on PDF p. 10 (after Unicode NFC; footnote markers and line-end hyphens removed)"
+ },
+ {
+  "id": "bouali2023-enjeux-01",
+  "work": "bouali2023-enjeux",
+  "author": "Hassan Bouali",
+  "ref": "printed p. 39 (PDF p. 7) — body text (section heading not captured)",
+  "pdf_page": 7,
+  "url": "https://archimede.unistra.fr/websites/misha/archimede/Revue_Archimede_RAHA/Numero_10/AR_D1_03_BOUALI.pdf",
+  "passage": "Une seconde hypothèse est cependant possible si l’on considère que les guerres civiles ont affecté le texte coranique et que le processus rédactionnel fut continu tout au long de la seconde moitié du viie siècle. Partant de cette dernière possibilité, il ne faut pas totalement exclure que ce verset (Q17, 33) qui porte l’empreinte du Décalogue pourrait, de fait, être une interpolation peut-être introduite à l’époque sufyanide, ou un verset interpolé à partir d’un noyau « primitif ». Si rien n’est évidemment certain, l’empreinte omeyyade caractérise en tout cas ce verset",
+  "from_": "Une seconde hypothèse est cependant possible",
+  "to": "caractérise en tout cas ce verset",
+  "keys": [
+   "il ne faut pas totalement exclure que ce verset (Q17, 33)",
+   "une interpolation peut-être introduite à l’époque sufyanide"
+  ],
+  "alts": [
+   "Si rien n’est évidemment certain"
+  ],
+  "label": "A",
+  "stance": "own claim",
+  "claim_en": "Bouali proposes, as a hedged hypothesis, that Q17:33 (the Décalogue-like verse put in Muʿāwiya's mouth) may be an interpolation introduced in the Sufyanid period or an interpolation from a 'primitive' core.",
+  "context": "Explicitly hedged; the author presents this as one of two possibilities and says nothing is certain. Footnote [52] omitted. Post-prophetic dating is part of the hypothesis.",
+  "verification": "verbatim-substring check passed on PDF p. 7 (after Unicode NFC; footnote markers and line-end hyphens removed)"
+ },
+ {
+  "id": "bouali2023-enjeux-02",
+  "work": "bouali2023-enjeux",
+  "author": "Hassan Bouali",
+  "ref": "printed p. 41 (PDF p. 9) — body text (section heading not captured)",
+  "pdf_page": 9,
+  "url": "https://archimede.unistra.fr/websites/misha/archimede/Revue_Archimede_RAHA/Numero_10/AR_D1_03_BOUALI.pdf",
+  "passage": "Des différences notables existent avec la collecte attribuée à ʿUṯmān qui aurait été réalisée à Médine. Ainsi, dans le cas du verset 198 de la sourate 2, « lors de la saison du pèlerinage », est une expression absente de la Vulgate. Cet ajout, qui s’apparente à une glose exégétique, n’est cependant pas propre à Ibn al-Zubayr dans la tradition.",
+  "from_": "Des différences notables existent avec la collecte",
+  "to": "à Ibn al-Zubayr dans la tradition.",
+  "keys": [
+   "Cet ajout, qui s’apparente à une glose exégétique"
+  ],
+  "alts": [
+   "n’est cependant pas propre à Ibn al-Zubayr dans la tradition"
+  ],
+  "label": "D",
+  "stance": "own claim",
+  "claim_en": "Bouali describes, for readings attributed to the codex of Ibn al-Zubayr, an 'ajout' in Q2:198 ('lors de la saison du pèlerinage') absent from the ʿUthmānic Vulgate, which he calls an exegetical gloss, also attributed to Ibn ʿAbbās and Ibn Masʿūd.",
+  "context": "Concerns variant readings attributed in the tradition, not an interpolation in the accepted text; the word 'ajout' here refers to a reading variant. Attribution is to the tradition (Abū Ḥayyān cited).",
+  "verification": "verbatim-substring check passed on PDF p. 9 (after Unicode NFC; footnote markers and line-end hyphens removed)"
+ },
+ {
+  "id": "bouali2023-enjeux-03",
+  "work": "bouali2023-enjeux",
+  "author": "Hassan Bouali",
+  "ref": "printed p. 45 (PDF p. 13) — body text (section heading not captured)",
+  "pdf_page": 13,
+  "url": "https://archimede.unistra.fr/websites/misha/archimede/Revue_Archimede_RAHA/Numero_10/AR_D1_03_BOUALI.pdf",
+  "passage": "Sous la conduite d’al-Ḥaǧǧāǧ, le pouvoir marwanide favorisa une amélioration de la Vulgate, la destruction systématique des codex concurrents et l’envoi de la nouvelle version dans les capitales régionales de l’empire.",
+  "from_": "Sous la conduite d’al-Ḥaǧǧāǧ, le pouvoir",
+  "to": "dans les capitales régionales de l’empire.",
+  "keys": [
+   "favorisa une amélioration de la Vulgate",
+   "la destruction systématique des codex concurrents"
+  ],
+  "alts": [],
+  "label": "B",
+  "stance": "reports others",
+  "claim_en": "Under al-Ḥajjāj the Marwanid power improved the 'Vulgate' (the ʿUthmānic text), systematically destroyed rival codices and sent the new version to the provincial capitals.",
+  "context": "Not hedged in the sentence; footnote 142 cites ʿUmar b. Šabba (Aḫbār al-Madīna), so this reads as a narrative drawn from the sources. Footnote 141 contrasts a minimalist view (Hamdan 2010) with a radical one (Shoemaker 2022). The 'destruction' element is also a suppression claim (item C).",
+  "verification": "verbatim-substring check passed on PDF p. 13 (after Unicode NFC; footnote markers and line-end hyphens removed)"
+ },
+ {
+  "id": "chahdi2023-canonisation-01",
+  "work": "chahdi2023-canonisation",
+  "author": "Hassan Chahdi",
+  "ref": "printed p. 62 (PDF p. 4) — body text (section heading not captured)",
+  "pdf_page": 4,
+  "url": "https://archimede.unistra.fr/websites/misha/archimede/Revue_Archimede_RAHA/Numero_10/AR_D1_05_CHAHDI.pdf",
+  "passage": "Il semblerait que l’orthodoxie musulmane sunnite ait essayé de justifier l’authenticité du texte coranique par le biais d’une double transmission : orale et écrite. Selon elle, la canonisation du corpus coranique, qui est le fruit d’un long processus, aurait commencé dès les débuts de l’islam et aurait parcouru jusqu’à notre époque plusieurs étapes, qui sont en réalité controversées.",
+  "from_": "Il semblerait que l’orthodoxie musulmane sunnite",
+  "to": "qui sont en réalité controversées.",
+  "keys": [
+   "aurait commencé dès les débuts de l’islam",
+   "qui sont en réalité controversées"
+  ],
+  "alts": [
+   "qui sont en réalité controversées"
+  ],
+  "label": "N",
+  "stance": "reports others",
+  "claim_en": "Chahdi describes the Sunni orthodox account (canonisation begun from early Islam, through several stages) and calls the stages in reality controversial.",
+  "context": "Presents the orthodox position as its object; the 'controversées' judgement is the author's own. Label N as a survey of the traditional account.",
+  "verification": "verbatim-substring check passed on PDF p. 4 (after Unicode NFC; footnote markers and line-end hyphens removed)"
+ },
+ {
+  "id": "chahdi2023-canonisation-02",
+  "work": "chahdi2023-canonisation",
+  "author": "Hassan Chahdi",
+  "ref": "printed p. 62 (PDF p. 4) — body text (section heading not captured)",
+  "pdf_page": 4,
+  "url": "https://archimede.unistra.fr/websites/misha/archimede/Revue_Archimede_RAHA/Numero_10/AR_D1_05_CHAHDI.pdf",
+  "passage": "Selon Shady Hekmat Nasser, le corpus coranique aurait connu grosso modo cinq grandes étapes de canonisation : 1. La première canonisation aurait été initiée par le troisième calife de l’islam, ʿUṯmān (m. 35/656), ou sous le règne de ʿAbd al-Mālik b. Marwān (m. 86/705). Selon la Tradition musulmane, la visée de cette canonisation, qui aurait consisté à uniformiser le texte en un seul ductus consonantique, aurait été de mettre fin aux divergences autour du texte coranique, alors protéiforme.",
+  "from_": "Selon Shady Hekmat Nasser, le corpus coranique",
+  "to": "autour du texte coranique, alors protéiforme.",
+  "keys": [
+   "La première canonisation aurait été initiée par le troisième calife de l’islam, ʿUṯmān",
+   "uniformiser le texte en un seul ductus consonantique"
+  ],
+  "alts": [],
+  "label": "B",
+  "stance": "reports others",
+  "claim_en": "Reporting Shady Hekmat Nasser: the first canonisation, started under ʿUthmān or ʿAbd al-Malik, aimed to make the text a single consonantal ductus and end divergences in a text described as 'protéiforme'.",
+  "context": "Chahdi reports Nasser's five-stage model (and the Muslim tradition) rather than endorsing it in this sentence. Footnote [6] omitted.",
+  "verification": "verbatim-substring check passed on PDF p. 4 (after Unicode NFC; footnote markers and line-end hyphens removed)"
+ },
+ {
+  "id": "chahdi2023-canonisation-03",
+  "work": "chahdi2023-canonisation",
+  "author": "Hassan Chahdi",
+  "ref": "printed p. 68 (PDF p. 10) — body text (section heading not captured)",
+  "pdf_page": 10,
+  "url": "https://archimede.unistra.fr/websites/misha/archimede/Revue_Archimede_RAHA/Numero_10/AR_D1_05_CHAHDI.pdf",
+  "passage": "C’est en ce sens que l’hypothèse récente de S. H. Nasser est particulièrement intéressante. Il démontre que l’échec du processus de codification du Coran par ʿUṯmān, en tentant de produire une lecture du texte unique et unifiée, a contribué à multiplier de manière exponentielle les variantes de lectures coraniques jusqu’à ce qu’Ibn Muǧāhid, dans le premier quart du IVe siècle islamique, fasse accepter sept lectures « canoniques » et force la communauté musulmane, par son influence politique, à abandonner toutes les autres lectures",
+  "from_": "C’est en ce sens que l’hypothèse récente",
+  "to": "à abandonner toutes les autres lectures",
+  "keys": [
+   "a contribué à multiplier de manière exponentielle les variantes de lectures coraniques"
+  ],
+  "alts": [],
+  "label": "D",
+  "stance": "reports others",
+  "claim_en": "Reporting Nasser (whose hypothesis Chahdi calls 'particulièrement intéressante'): the failed ʿUthmānic codification of a single unified reading multiplied variant readings, until Ibn Muǧāhid fixed seven.",
+  "context": "Reports Nasser's argument; Chahdi's own endorsement is only the 'particulièrement intéressante' phrase.",
+  "verification": "verbatim-substring check passed on PDF p. 10 (after Unicode NFC; footnote markers and line-end hyphens removed)"
+ },
+ {
+  "id": "chahdi2023-canonisation-04",
+  "work": "chahdi2023-canonisation",
+  "author": "Hassan Chahdi",
+  "ref": "printed p. 68 (PDF p. 10) — body text (section heading not captured)",
+  "pdf_page": 10,
+  "url": "https://archimede.unistra.fr/websites/misha/archimede/Revue_Archimede_RAHA/Numero_10/AR_D1_05_CHAHDI.pdf",
+  "passage": "Nous sommes plutôt face à une reconstitution postérieure de l’histoire du Coran, reconstitution qui semble avoir été effectuée afin d’obtenir un récit satisfaisant.",
+  "from_": "Nous sommes plutôt face à une",
+  "to": "un récit satisfaisant.",
+  "keys": [
+   "une reconstitution postérieure de l’histoire du Coran"
+  ],
+  "alts": [
+   "qui semble avoir été effectuée afin d’obtenir un récit satisfaisant"
+  ],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Chahdi concludes that the traditional history of the Qurʾān's canonisation is a later reconstruction, apparently made to produce a satisfactory narrative.",
+  "context": "Qualifies the traditional account of the codification's history; it does not claim the consonantal text was altered. Preceded by the author's argument that the traditions on the 'first and last recitation' contradict each other.",
+  "verification": "verbatim-substring check passed on PDF p. 10 (after Unicode NFC; footnote markers and line-end hyphens removed)"
+ },
+ {
+  "id": "deroche2016-voix-01",
+  "work": "deroche2016-voix",
+  "author": "François Déroche",
+  "ref": "¶17 (lecture ¶ numbers as shown in the OpenEdition 'Texte intégral')",
+  "pdf_page": "",
+  "url": "https://books.openedition.org/cdf/4765",
+  "passage": "plusieurs versions circulaient simultanément, en concurrence avec celle qui est associée au calife ‘Uthmān.",
+  "from_": "plusieurs versions circulaient simultanément,",
+  "to": "associée au calife ‘Uthmān.",
+  "keys": [
+   "plusieurs versions circulaient simultanément"
+  ],
+  "alts": [
+   "en concurrence avec celle qui est associée au calife"
+  ],
+  "label": "D",
+  "stance": "own claim",
+  "claim_en": "Déroche states that several versions circulated at the same time, in competition with the one associated with the caliph ʿUthmān.",
+  "context": "WebFetch-returned quotation (see access note); not byte-verified against the OpenEdition HTML.",
+  "verification": "WEBFETCH-MEDIATED: text returned by WebFetch's model summary, not byte-checked; re-verify on the page before publication"
+ },
+ {
+  "id": "deroche2016-voix-02",
+  "work": "deroche2016-voix",
+  "author": "François Déroche",
+  "ref": "¶34 (lecture ¶ numbers as shown in the OpenEdition 'Texte intégral')",
+  "pdf_page": "",
+  "url": "https://books.openedition.org/cdf/4765",
+  "passage": "un Coran multiple, polyphonique.",
+  "from_": "un Coran multiple, polyphonique.",
+  "to": "un Coran multiple, polyphonique.",
+  "keys": [
+   "un Coran multiple, polyphonique"
+  ],
+  "alts": [],
+  "label": "D",
+  "stance": "own claim",
+  "claim_en": "Déroche's own characterisation of the early Qurʾān as multiple and polyphonic.",
+  "context": "WebFetch-returned quotation; very short quotation, surrounding sentence not captured.",
+  "verification": "WEBFETCH-MEDIATED: text returned by WebFetch's model summary, not byte-checked; re-verify on the page before publication"
+ },
+ {
+  "id": "deroche2016-voix-03",
+  "work": "deroche2016-voix",
+  "author": "François Déroche",
+  "ref": "¶34 (lecture ¶ numbers as shown in the OpenEdition 'Texte intégral')",
+  "pdf_page": "",
+  "url": "https://books.openedition.org/cdf/4765",
+  "passage": "l’existence de versions concurrentes et les pertes possibles que les récits de destruction suggèrent",
+  "from_": "l’existence de versions concurrentes",
+  "to": "récits de destruction suggèrent",
+  "keys": [
+   "les pertes possibles que les récits de destruction suggèrent"
+  ],
+  "alts": [],
+  "label": "C",
+  "stance": "own claim",
+  "claim_en": "Déroche says the existence of competing versions and the possible losses that accounts of destruction suggest.",
+  "context": "WebFetch-returned quotation; 'pertes possibles' is hedged; the destruction accounts are the traditional ones.",
+  "verification": "WEBFETCH-MEDIATED: text returned by WebFetch's model summary, not byte-checked; re-verify on the page before publication"
+ },
+ {
+  "id": "deroche2016-voix-04",
+  "work": "deroche2016-voix",
+  "author": "François Déroche",
+  "ref": "¶33 (lecture ¶ numbers as shown in the OpenEdition 'Texte intégral')",
+  "pdf_page": "",
+  "url": "https://books.openedition.org/cdf/4765",
+  "passage": "Le Coran était multiple, s’indignent-ils, et tu l’as fait un !",
+  "from_": "Le Coran était multiple,",
+  "to": "l’as fait un !",
+  "keys": [
+   "Le Coran était multiple, s’indignent-ils"
+  ],
+  "alts": [],
+  "label": "D",
+  "stance": "reports others",
+  "claim_en": "Reports the accusation by ʿUthmān's opponents that the Qurʾān was multiple and he made it one.",
+  "context": "Reported speech in the lecture (the 'ils' are the opponents); WebFetch-returned quotation.",
+  "verification": "WEBFETCH-MEDIATED: text returned by WebFetch's model summary, not byte-checked; re-verify on the page before publication"
+ },
+ {
+  "id": "deroche2016-voix-05",
+  "work": "deroche2016-voix",
+  "author": "François Déroche",
+  "ref": "¶32 (lecture ¶ numbers as shown in the OpenEdition 'Texte intégral')",
+  "pdf_page": "",
+  "url": "https://books.openedition.org/cdf/4765",
+  "passage": "accusant notamment ce dernier d’avoir fait supprimer des passages",
+  "from_": "accusant notamment ce dernier",
+  "to": "fait supprimer des passages",
+  "keys": [
+   "d’avoir fait supprimer des passages"
+  ],
+  "alts": [],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Reports Shiʿi objections accusing ʿUthmān of having had passages removed.",
+  "context": "Déroche reports this objection; the lecture does not itself claim specific verses were omitted (WebFetch summary). WebFetch-returned quotation.",
+  "verification": "WEBFETCH-MEDIATED: text returned by WebFetch's model summary, not byte-checked; re-verify on the page before publication"
+ }
+]

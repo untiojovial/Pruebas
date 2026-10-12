@@ -1,0 +1,546 @@
+[
+ {
+  "id": "QC-itq1a",
+  "url": "https://shamela.ws/book/11728/219",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وَعَنْ مَالِكٍ أَنَّ أَوَّلَهَا لَمَّا سَقَطَ",
+    "to": "تَعْدِلُ الْبَقَرَةَ لِطُولِهَا",
+    "keys": [
+     "لَمَّا سَقَطَ سَقَطَ مَعَهُ الْبَسْمَلَةُ"
+    ],
+    "alts": [
+     "فَقَدْ ثَبَتَ أَنَّهَا كَانَتْ تَعْدِلُ الْبَقَرَةَ"
+    ]
+   },
+   {
+    "from": "وَفِي مُصْحَفِ ابْنِ مَسْعُودٍ مِائَةٌ وَاثْنَتَا عَشْرَةَ",
+    "to": "سُورَتَيِ الْحَفْدِ وَالْخُلْعِ",
+    "keys": [
+     "مِائَةٌ وَاثْنَتَا عَشْرَةَ سُورَةٍ لِأَنَّهُ لَمْ يَكْتُبِ الْمُعَوِّذَتَيْنِ",
+     "سِتَّ عَشْرَةَ لِأَنَّهُ كَتَبَ فِي آخِرِهِ سُورَتَيِ الْحَفْدِ وَالْخُلْعِ"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "QC-itq1b",
+  "url": "https://shamela.ws/book/11728/266",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "قُلْتُ وَإِسْقَاطُهُ الْفَاتِحَةَ مِنْ مُصْحَفِهِ أَخْرَجَهُ",
+    "to": "تَقَدَّمَ فِي أَوَائِلِ النَّوْعِ التَّاسِعَ عَشَرَ",
+    "keys": [
+     "إِسْقَاطُهُ الْفَاتِحَةَ مِنْ مُصْحَفِهِ أَخْرَجَهُ أَبُو عُبَيْدٍ بِسَنَدٍ صَحِيحٍ"
+    ],
+    "alts": [
+     "بِسَنَدٍ صَحِيحٍ كَمَا تَقَدَّمَ"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "QC-itq1c",
+  "url": "https://shamela.ws/book/11728/264",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وَقَالَ النَّوَوِيُّ فِي شَرْحِ الْمُهَذَّبِ",
+    "to": "عَنِ ابْنِ مَسْعُودٍ بَاطِلٌ لَيْسَ بِصَحِيحٍ",
+    "keys": [
+     "وَمَا نُقِلَ عَنِ ابْنِ مَسْعُودٍ بَاطِلٌ لَيْسَ بِصَحِيحٍ"
+    ],
+    "alts": [
+     "أَجْمَعَ الْمُسْلِمُونَ عَلَى أَنَّ الْمُعَوِّذَتَيْنِ وَالْفَاتِحَةَ مِنَ الْقُرْآنِ"
+    ]
+   },
+   {
+    "from": "وَقَالَ ابْنُ حَزْمٍ فِي الْمُحَلَّى: هَذَا",
+    "to": "عَنْ زِرٍّ عَنْهُ وَفِيهَا الْمُعَوِّذَتَانِ وَالْفَاتِحَةُ",
+    "keys": [
+     "هَذَا كَذِبٌ عَلَى ابْنِ مَسْعُودٍ وَمَوْضُوعٌ"
+    ],
+    "alts": [
+     "إِنَّمَا صَحَّ عَنْهُ قِرَاءَةُ عَاصِمٍ عَنْ زِرٍّ عَنْهُ"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "QC-itq2a",
+  "url": "https://shamela.ws/book/11728/834",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "قَالَتْ عَائِشَةُ: كَانَ فِيمَا أُنْزِلَ \"",
+    "to": "يُقْرَأُ مِنَ الْقُرْآنِ \"، رَوَاهُ الشَّيْخَانِ",
+    "keys": [
+     "عَشْرُ رَضَعَاتٍ مَعْلُومَاتٍ فَنُسِخْنَ بِخَمْسٍ مَعْلُومَاتٍ"
+    ],
+    "alts": [
+     "وَهُنَّ مِمَّا يُقْرَأُ مِنَ الْقُرْآنِ"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "QC-itq2b",
+  "url": "https://shamela.ws/book/11728/846",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "الْقُرْآنَ كُلَّهُ وَمَا يُدْرِيهِ مَا كُلُّهُ",
+    "to": "قَدْ أَخَذْتُ مِنْهُ مَا ظَهَرَ",
+    "keys": [
+     "قَدْ ذَهَبَ مِنْهُ قُرْآنٌ كَثِيرٌ"
+    ],
+    "alts": [
+     "وَلَكِنْ لِيَقُلْ قَدْ أَخَذْتُ مِنْهُ مَا ظَهَرَ"
+    ]
+   },
+   {
+    "from": "عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ عَنْ عَائِشَةَ قَالَتْ كَانَتْ سُورَةُ الْأَحْزَابِ تُقْرَأُ",
+    "to": "مِنْهَا إِلَّا عَلَى مَا هُوَ الْآنَ",
+    "keys": [
+     "مِائَتَيْ آيَةٍ",
+     "لَمْ يُقَدَّرْ مِنْهَا إِلَّا عَلَى مَا هُوَ الْآنَ"
+    ],
+    "alts": [
+     "فَلَمَّا كَتَبَ عُثْمَانُ الْمَصَاحِفَ"
+    ]
+   },
+   {
+    "from": "قَالَ لِي أُبَيُّ بْنُ كَعْبٍ كَأَيٍّ تَعُدُّ",
+    "to": "وَإِنْ كُنَّا لَنَقْرَأُ فِيهَا آيَةَ الرَّجْمِ",
+    "keys": [
+     "وَإِنْ كُنَّا لَنَقْرَأُ فِيهَا آيَةَ الرَّجْمِ"
+    ],
+    "alts": [
+     "إِنْ كَانَتْ لَتَعْدِلُ سُورَةَ الْبَقَرَةِ"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "QC-itq2c",
+  "url": "https://shamela.ws/book/11728/847",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "عَنْ أَبِي مُوسَى الْأَشْعَرِيِّ قَالَ نَزَلَتْ سُورَةٌ",
+    "to": "نَحْوَ بَرَاءَةَ ثُمَّ رُفِعَتْ وَحُفِظَ مِنْهَا",
+    "keys": [
+     "نَزَلَتْ سُورَةٌ نَحْوَ بَرَاءَةَ ثُمَّ رُفِعَتْ"
+    ],
+    "alts": [
+     "وَحُفِظَ مِنْهَا"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "QC-itq2d",
+  "url": "https://shamela.ws/book/11728/850",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وَمِنْ هُنَا أَنْكَرَ ابْنُ ظَفَرٍ فِي",
+    "to": "قَالَ وَإِنَّمَا هذا الْمُنْسَأِ لَا النَّسْخِ",
+    "keys": [
+     "إِنَّمَا هذا الْمُنْسَأِ لَا النَّسْخِ"
+    ],
+    "alts": [
+     "لِأَنَّ خَبَرَ الْوَاحِدِ لَا يُثْبِتُ الْقُرْآنَ"
+    ]
+   },
+   {
+    "from": "قُلْتُ: وَخَطَرَ لِي فِي ذَلِكَ",
+    "to": "وَإِنْ كَانَ حُكْمُهَا بَاقِيًا",
+    "keys": [
+     "سَبَبَهُ التَّخْفِيفُ عَلَى الْأُمَّةِ بِعَدَمِ اشْتِهَارِ تِلَاوَتِهَا وَكِتَابَتِهَا فِي الْمُصْحَفِ"
+    ],
+    "alts": [
+     "وَإِنْ كَانَ حُكْمُهَا بَاقِيًا"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "QC-brh1",
+  "url": "https://shamela.ws/book/11436/257",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وَأَمَّا قَوْلُهُمْ إِنَّهُ أَحْرَقَ الْمَصَاحِفَ",
+    "to": "وَلَمْ يَحْرِقْ إِلَّا مَا يَجِبُ إِحْرَاقُهُ",
+    "keys": [
+     "فَإِنَّهُ غَيْرُ ثَابِتٍ"
+    ],
+    "alts": [
+     "لَوَجَبَ حَمْلُهُ عَلَى أَنَّهُ أَحْرَقَ مَصَاحِفَ قَدْ أُودِعَتْ مَا لَا يُحِلُّ قِرَاءَتُهُ"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "QC-brh2",
+  "url": "https://shamela.ws/book/11436/544",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "ما نسخ في تِلَاوَتُهُ وَبَقِيَ حُكْمُهُ",
+    "to": "كِتَابِ اللَّهِ لِكَتَبْتُهَا بِيَدِي رَوَاهُ الْبُخَارِيُّ",
+    "keys": [
+     "كَمَا رُوِيَ أَنَّهُ كَانَ يُقَالُ فِي سُورَةِ النُّورِ",
+     "الشَّيْخُ وَالشَّيْخَةُ إِذَا زَنَيَا فَارْجُمُوهُمَا الْبَتَّةَ"
+    ],
+    "alts": [
+     "وَبَقِيَ حُكْمُهُ"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "QC-brh3",
+  "url": "https://shamela.ws/book/11436/545",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "مَا رَوَاهُ مُسْلِمٌ فِي صَحِيحِهِ عَنْ أَبِي مُوسَى",
+    "to": "بِبَرَاءَةَ فَأُنْسِيتُهَا غَيْرَ أَنِّي أَحْفَظُ مِنْهَا",
+    "keys": [
+     "فَأُنْسِيتُهَا"
+    ],
+    "alts": [
+     "غَيْرَ أَنِّي أَحْفَظُ مِنْهَا"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "QC-brh4",
+  "url": "https://shamela.ws/book/11436/546",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وَذَكَرَ الْإِمَامُ الْمُحَدِّثُ أَبُو الْحُسَيْنِ أَحْمَدُ",
+    "to": "أَقْرَأَهُ إِيَّاهُمَا وَتُسَمَّى سُورَتَيِ الْخَلْعِ وَالْحَفْدِ",
+    "keys": [
+     "مِمَّا رُفِعَ رَسْمُهُ مِنَ الْقُرْآنِ",
+     "أَنَّهُمَا مَكْتُوبَتَانِ فِي الْمَصَاحِفِ الْمَنْسُوبَةِ إِلَى أُبَيِّ بْنِ كَعْبٍ"
+    ],
+    "alts": [
+     "وَلَمْ يُرْفَعْ مِنَ الْقُلُوبِ حِفْظُهُ"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "QC-brh5",
+  "url": "https://shamela.ws/book/11436/636",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وَالْمُعَوِّذَتَانِ مِنَ الْقُرْآنِ",
+    "to": "لِعِلَلٍ وَتَأْوِيلَاتٍ",
+    "keys": [
+     "وَالْمُعَوِّذَتَانِ مِنَ الْقُرْآنِ",
+     "فَلَمْ يَصِحَّ عَنْهُ أَنَّهُمَا لَيْسَا بِقُرْآنٍ"
+    ],
+    "alts": [
+     "وَاسْتِفَاضَتُهُمَا كَاسْتِفَاضَةِ جَمِيعِ الْقُرْآنِ",
+     "لِعِلَلٍ وَتَأْوِيلَاتٍ"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "QC-ubd1",
+  "url": "https://shamela.ws/book/12524/635",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "عَنِ ابْنِ سِيرِينَ، قَالَ: كَتَبَ أُبَيُّ",
+    "to": "وَكَتَبَ عُثْمَانُ مِنْهُنَّ فَاتِحَةَ الْكِتَابِ وَالْمُعَوِّذَتَيْنِ",
+    "keys": [
+     "وَتَرَكَهُنَّ ابْنُ مَسْعُودٍ"
+    ],
+    "alts": [
+     "وَكَتَبَ عُثْمَانُ مِنْهُنَّ فَاتِحَةَ الْكِتَابِ وَالْمُعَوِّذَتَيْنِ"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "QC-ubd2",
+  "url": "https://shamela.ws/book/12524/652",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "عَنِ الْمِسْوَرِ بْنِ مَخْرَمَةَ، قَالَ: قَالَ عُمَرُ لِعَبْدِ الرَّحْمَنِ",
+    "to": "مِنَ الْمُهَاجِرِينَ وَالْأَنْصَارِ",
+    "keys": [
+     "أُسْقِطَتْ فِيمَا أُسْقِطَ مِنَ الْقُرْآنِ",
+     "لَمْ يَرْوِهَا الْعُلَمَاءُ"
+    ],
+    "alts": [
+     "وَلَمْ يَجْعَلُوا مَنْ جَحَدَهَا كَافِرًا",
+     "وَهُوَ مَا ثَبَتَ فِي الْإِمَامِ الَّذِي نَسْخَهُ عُثْمَانُ بِإِجْمَاعٍ"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "QC-ubd3",
+  "url": "https://shamela.ws/book/12524/653",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "قَالَ أَبُو مِجْلَزٍ: أَلَا تَعْجَبُ",
+    "to": "كَمَا هُوَ مَأْمُونٌ عَلَى مَا نَسَخَ",
+    "keys": [
+     "تَمْزِيقِهِ الْمَصَاحِفَ",
+     "مَأْمُونًا عَلَى مَا أُسْقِطَ"
+    ],
+    "alts": [
+     "ثُمَّ قَبِلُوا مَا نَسْخَ",
+     "كَمَا هُوَ مَأْمُونٌ عَلَى مَا نَسَخَ"
+    ]
+   },
+   {
+    "from": "وَالَّذِي أَلَّفَهُ عُثْمَانُ، هُوَ الَّذِي بَيْنَ",
+    "to": "الْمُرْتَدِّ مِنَ الِاسْتِتَابَةِ، فَإِنْ أَبَى فَالْقَتْلُ",
+    "keys": [
+     "هُوَ الَّذِي بَيْنَ ظَهْرِي الْمُسْلِمِينَ الْيَوْمَ"
+    ],
+    "alts": [
+     "فَإِنْ أَبَى فَالْقَتْلُ"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "QC-iad1",
+  "url": "https://shamela.ws/book/13067/58",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "قَالَ: سَمِعْتُ ابْنَ مَسْعُودٍ يَقُولُ: إِنِّي غَالٌّ",
+    "to": "صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ سَبْعِينَ سُورَةً",
+    "keys": [
+     "إِنِّي غَالٌّ مُصْحَفِي"
+    ],
+    "alts": [
+     "أَخَذْتُ مِنْ فِيِّ رَسُولِ اللَّهِ"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "QC-iad2",
+  "url": "https://shamela.ws/book/13067/72",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "حَتَّى إِذَا نَسَخُوا الصُّحُفَ فِي الْمَصَاحِفِ",
+    "to": "فِي صَحِيفَةٍ أَوْ مُصْحَفٍ أَنْ يُحْرَقَ",
+    "keys": [
+     "أَمَرَ بِسِوَى ذَلِكَ فِي صَحِيفَةٍ أَوْ مُصْحَفٍ"
+    ]
+   },
+   {
+    "from": "فَقَدْتُ آيَةً مِنْ سُورَةِ الْأَحْزَابِ",
+    "to": "وَأَلْحَقْتُهَا فِي سُورَتِهَا",
+    "keys": [
+     "فَقَدْتُ آيَةً مِنْ سُورَةِ الْأَحْزَابِ"
+    ],
+    "alts": [
+     "فَوَجَدْتُهَا مَعَ خُزَيْمَةَ بْنِ ثَابِتٍ",
+     "وَأَلْحَقْتُهَا فِي سُورَتِهَا"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "QC-sas1",
+  "url": "https://shamela.ws/book/7317/75",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وإنما أمرهم عثمان أن ينسخوا من",
+    "to": "فسدت بذلك كل ذريعة للتقول والتشكيك",
+    "keys": [
+     "لتكون مصاحفه مستندة إلى أصل أبي بكر"
+    ],
+    "alts": [
+     "فسدت بذلك كل ذريعة للتقول والتشكيك"
+    ]
+   },
+   {
+    "from": "وقد حاول مروان بن الحكم \"ت٦٥\"",
+    "to": "يرتاب في شأن هذه الصحف مرتاب",
+    "keys": [
+     "أخذ مروان الصحف وأحرقها"
+    ],
+    "alts": [
+     "خشيت إن طال بالناس زمان أن يرتاب"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "QC-sas2",
+  "url": "https://shamela.ws/book/7317/104",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "فهذه الزيادات جميعا أدرجت على سبيل التفسير والإيضاح",
+    "to": "ولو أثبتها ابن مسعود في مصحفه الخاص",
+    "keys": [
+     "أدرجت على سبيل التفسير والإيضاح"
+    ],
+    "alts": [
+     "لا سبيل إلى عدها حرفا من الأحرف السبعة"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "QC-sas3",
+  "url": "https://shamela.ws/book/7317/254",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "والولوع باكتشاف النسخ في آيات الكتاب",
+    "to": "وأن أخبار الآحاد ظنية لا قطعية",
+    "keys": [
+     "أوقع القوم في أخطاء منهجية"
+    ],
+    "alts": [
+     "أخبار الآحاد"
+    ]
+   },
+   {
+    "from": "وما لعشاق النسخ إلا شاهد أو",
+    "to": "ونسخه بأخبار آحاد لا حجة فيها",
+    "keys": [
+     "وجميع ما ذكروه منها"
+    ],
+    "alts": [
+     "لا يجوز القطع"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "QC-zrq1",
+  "url": "https://shamela.ws/book/7249/329",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "وقصارى ما نقل عنه أنه لم",
+    "to": "مصحفه وهذا لا يدل على الإنكار",
+    "keys": [
+     "لم يكتبها في مصحفه"
+    ],
+    "alts": [
+     "وهذا لا يدل على الإنكار"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "QC-zrq2",
+  "url": "https://shamela.ws/book/7249/333",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "يزعم بعض غلاة الشيعة أن عثمان",
+    "to": "القرآن وأسقطوا كثيرا من آياته وسوره",
+    "keys": [
+     "حرفوا القرآن"
+    ],
+    "alts": [
+     "أسقطوا كثيرا من آياته وسوره"
+    ]
+   },
+   {
+    "from": "ومنهم من قال: إن القرآن كانت",
+    "to": "الأنعام فأسقطوا منها فضائل أهل البيت",
+    "keys": [
+     "كانت فيه سورة تسمى سورة الولاية وأنها أسقطت بتمامها"
+    ],
+    "alts": [
+     "وأن أكثر سورة الأحزاب سقط"
+    ]
+   },
+   {
+    "from": "أنها اتهامات مجردة عن السند والدليل",
+    "to": "والدليل وكانت لا تستحق الذكر لولا",
+    "keys": [
+     "اتهامات مجردة عن السند والدليل"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "QC-zrq3",
+  "url": "https://shamela.ws/book/7249/541",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "غاية ما تدل عليه أن ابن",
+    "to": "تواتر ما جاء في مصحف عثمان",
+    "keys": [
+     "لم يوافق أول الأمر على إحراق مصحفه"
+    ],
+    "alts": [
+     "لا ينقض تواتر ما جاء في مصحف عثمان"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "QC-zrq4",
+  "url": "https://shamela.ws/book/7249/790",
+  "css": "#bu_load_prev{display:none!important} div.nomargin:has(#bu_tashkeel){display:none!important} .heading-title.heading-border{display:none!important} html,body,*{scroll-behavior:auto!important}",
+  "minW": 400,
+  "segments": [
+   {
+    "from": "أما نسخ الحكم والتلاوة جميعا فقد أجمع عليه القائلون بالنسخ من المسلمين",
+    "to": "وهن فيما يقرأ من القرآن وهو حديث صحيح",
+    "keys": [
+     "فقد أجمع عليه القائلون بالنسخ من المسلمين"
+    ],
+    "alts": [
+     "وهن فيما يقرأ من القرآن"
+    ]
+   }
+  ]
+ }
+]

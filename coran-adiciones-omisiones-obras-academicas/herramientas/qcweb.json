@@ -1,0 +1,51 @@
+[
+ {
+  "id": "QC-keyzer",
+  "url": "https://www.gutenberg.org/cache/epub/19786/pg19786-images.html",
+  "css": "html,body,*{scroll-behavior:auto!important} body{max-width:none!important}",
+  "minW": 300,
+  "segments": [
+   {
+    "from": "Stelt ook Omar niet vast, dat",
+    "to": "en eenige andere verloren zouden zijn gegaan?",
+    "keys": [
+     "het vers, waarbij, echtbreuk met den dood wordt gestraft",
+     "eenige andere verloren zouden zijn gegaan"
+    ],
+    "alts": [
+     "Stelt ook Omar niet vast"
+    ]
+   },
+   {
+    "from": "Eene andere overlevering, volgens welke",
+    "to": "dat het door hem des nachts uitgewischt was,",
+    "keys": [
+     "dat het door hem des nachts uitgewischt was",
+     "dat het weder in den hemel teruggenomen"
+    ],
+    "alts": [
+     "Eene andere overlevering"
+    ]
+   },
+   {
+    "from": "Wij gelooven derhalve niet te ver",
+    "to": "in den Koran opnam.",
+    "keys": [
+     "dus Aboe Bekr tegen den wil des profeets handelde",
+     "in den Koran opnam"
+    ],
+    "alts": [
+     "dat, volgens Mahomets bedoeling, de Koran in het geheel geene herroepene plaatsen moet bevatten"
+    ]
+   },
+   {
+    "from": "Aan de kritiek des Korans bracht Othman",
+    "to": "voor het nageslacht bewaard bleven.",
+    "keys": [
+     "door het bevel, hetwelk hij gaf, al de vroegere afschriften van den Koran te verbranden"
+    ],
+    "alts": []
+   }
+  ]
+ }
+]

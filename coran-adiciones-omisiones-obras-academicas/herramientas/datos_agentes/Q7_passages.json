@@ -1,0 +1,1714 @@
+[
+ {
+  "id": "au01",
+  "work": "abu_ubayd_fadail_shamela",
+  "author": "Abu ʿUbayd al-Qasim b. Sallam (d. 224 AH)",
+  "ref": "ص325 (Shamela page ids 652-652)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/12524/652",
+  "passage": "قَالَ عُمَرُ لِعَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ: أَلَمْ نَجِدْ فِيمَا أُنْزِلَ عَلَيْنَا أَنْ (جَاهِدُوا كَمَا جَاهَدْتُمْ أَوَّلَ مَرَّةٍ) ؟ فَإِنَّا لَا نَجِدُهَا فَقَالَ: أُسْقِطَتْ فِيمَا أُسْقِطَ مِنَ الْقُرْآنِ",
+  "from_": "قَالَ عُمَرُ لِعَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ:",
+  "to": "فَقَالَ: أُسْقِطَتْ فِيمَا أُسْقِطَ مِنَ الْقُرْآنِ",
+  "keys": [
+   "قَالَ عُمَرُ لِعَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ"
+  ],
+  "alts": [
+   "أُسْقِطَتْ فِيمَا أُسْقِطَ مِنَ الْقُرْآنِ"
+  ],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Abu 'Ubayd transmits (chain via Ibn Abi Maryam, Ibn Abi Mulayka, al-Miswar b. Makhrama) that 'Umar asked 'Abd al-Rahman b. 'Awf whether a phrase ('that strive as you strove the first time') had been revealed; 'Abd al-Rahman answered it was 'dropped among what was dropped from the Qur'an'.",
+  "context": "Classical author transmitting a report. In Abu 'Ubayd's text the question is 'alam najid' (we did not find); the Suyuti text reads 'alam tajid'."
+ },
+ {
+  "id": "au02",
+  "work": "abu_ubayd_fadail_shamela",
+  "author": "Abu ʿUbayd al-Qasim b. Sallam (d. 224 AH)",
+  "ref": "ص325 (Shamela page ids 652-652)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/12524/652",
+  "passage": "هَذِهِ الْحُرُوفُ الَّتِي ذَكَرْنَاهَا فِي هَذَيْنِ الْبَابَيْنِ مِنَ الزَّوَائِدِ لَمْ يَرْوِهَا الْعُلَمَاءُ",
+  "from_": "هَذِهِ الْحُرُوفُ الَّتِي ذَكَرْنَاهَا فِي هَذَيْنِ",
+  "to": "الْبَابَيْنِ مِنَ الزَّوَائِدِ لَمْ يَرْوِهَا الْعُلَمَاءُ",
+  "keys": [
+   "مِنَ الزَّوَائِدِ"
+  ],
+  "alts": [
+   "لَمْ يَرْوِهَا الْعُلَمَاءُ"
+  ],
+  "label": "D",
+  "stance": "own claim",
+  "claim_en": "Abu 'Ubayd himself says the 'additional' words he has listed in these two chapters were not transmitted by the scholars as Qur'an, and they were taken as if they were like what is between the two boards, because they were recited in prayer; he says whoever denies them is not an unbeliever, only whoever denies what is in the Uthmanic imam codex.",
+  "context": "Abu 'Ubayd's own voice (author of Fada'il). He separates these 'additions' (zawa'id) from the codex text."
+ },
+ {
+  "id": "au03",
+  "work": "abu_ubayd_fadail_shamela",
+  "author": "Abu ʿUbayd al-Qasim b. Sallam (d. 224 AH)",
+  "ref": "ص325 (Shamela page ids 653-653)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/12524/653",
+  "passage": "كَانَ مِمَّا عَابُوا عَلَى عُثْمَانَ تَمْزِيقِهِ الْمَصَاحِفَ، ثُمَّ قَبِلُوا مَا نَسْخَ",
+  "from_": "كَانَ مِمَّا عَابُوا عَلَى عُثْمَانَ تَمْزِيقِهِ",
+  "to": "تَمْزِيقِهِ الْمَصَاحِفَ، ثُمَّ قَبِلُوا مَا نَسْخَ",
+  "keys": [
+   "تَمْزِيقِهِ الْمَصَاحِفَ"
+  ],
+  "alts": [
+   "ثُمَّ قَبِلُوا مَا نَسْخَ"
+  ],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Abu Mijlaz (transmitted via Yazid b. Zuray' and Imran b. Hudayr) says that among the things people blamed Uthman for was tearing up the codices, yet they then accepted what he copied.",
+  "context": "Report quoted by Abu 'Ubayd. It is a report of criticism of Uthman's destruction of codices (suppression)."
+ },
+ {
+  "id": "au04",
+  "work": "abu_ubayd_fadail_shamela",
+  "author": "Abu ʿUbayd al-Qasim b. Sallam (d. 224 AH)",
+  "ref": "ص325 (Shamela page ids 653-653)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/12524/653",
+  "passage": "إِنَّهُ كَانَ مَأْمُونًا عَلَى مَا أُسْقِطَ، كَمَا هُوَ مَأْمُونٌ عَلَى مَا نَسَخَ",
+  "from_": "إِنَّهُ كَانَ مَأْمُونًا عَلَى مَا أُسْقِطَ،",
+  "to": "كَمَا هُوَ مَأْمُونٌ عَلَى مَا نَسَخَ",
+  "keys": [
+   "مَأْمُونًا عَلَى مَا أُسْقِطَ"
+  ],
+  "alts": [
+   "كَمَا هُوَ مَأْمُونٌ عَلَى مَا نَسَخَ"
+  ],
+  "label": "E",
+  "stance": "reports others",
+  "claim_en": "Abu 'Ubayd glosses Abu Mijlaz's point: Uthman was trusted about what he dropped, as he is trusted about what he copied.",
+  "context": "Here the gloss is Abu 'Ubayd's paraphrase of Abu Mijlaz's position (the gloss is marked 'qala Abu 'Ubayd: yaqulu'); it rejects the inference that dropped text was lost by bad faith."
+ },
+ {
+  "id": "au05",
+  "work": "abu_ubayd_fadail_shamela",
+  "author": "Abu ʿUbayd al-Qasim b. Sallam (d. 224 AH)",
+  "ref": "ص325 (Shamela page ids 653-653)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/12524/653",
+  "passage": "وَالَّذِي أَلَّفَهُ عُثْمَانُ، هُوَ الَّذِي بَيْنَ ظَهْرِي الْمُسْلِمِينَ الْيَوْمَ، وَهُوَ الَّذِي يُحْكَمُ عَلَى مَنْ أَنْكَرَ مِنْهُ شَيْئًا مِثْلَمَا يُحْكَمُ عَلَى الْمُرْتَدِّ مِنَ الِاسْتِتَابَةِ، فَإِنْ أَبَى فَالْقَتْلُ",
+  "from_": "وَالَّذِي أَلَّفَهُ عُثْمَانُ، هُوَ الَّذِي بَيْنَ",
+  "to": "الْمُرْتَدِّ مِنَ الِاسْتِتَابَةِ، فَإِنْ أَبَى فَالْقَتْلُ",
+  "keys": [
+   "هُوَ الَّذِي بَيْنَ ظَهْرِي الْمُسْلِمِينَ الْيَوْمَ"
+  ],
+  "alts": [
+   "فَإِنْ أَبَى فَالْقَتْلُ"
+  ],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Abu 'Ubayd (own voice) says that the codex compiled by Uthman is the one among Muslims today, and whoever rejects any part of it is treated like an apostate: asked to repent, and if he refuses, killed.",
+  "context": "Abu 'Ubayd's own voice. A normative statement on the Uthmanic codex; it is an explicit rejection of alteration claims."
+ },
+ {
+  "id": "au06",
+  "work": "abu_ubayd_fadail_shamela",
+  "author": "Abu ʿUbayd al-Qasim b. Sallam (d. 224 AH)",
+  "ref": "ص325 (Shamela page ids 653-653)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/12524/653",
+  "passage": "فَأَمَّا مَا جَاءَ مِنْ هَذِهِ الْحُرُوفِ الَّتِي لَمْ يُؤْخَذْ عِلْمُهَا إِلَّا بِالْإِسْنَادِ وَالرِّوَايَاتِ الَّتِي يَعْرِفُهَا الْخَاصَّةُ مِنَ الْعُلَمَاءِ دُونَ عَوَّامِ النَّاسِ، فَإِنَّمَا أَرَادَ أَهْلُ الْعِلْمِ مِنْهَا أَنْ يَسْتَشْهِدُوا بِهَا عَلَى تَأْوِيلِ مَا بَيْنَ اللَّوْحَيْنِ، وَتَكُونُ دَلَائِلَ عَلَى مَعْرِفَةِ مَعَانِيهِ وَعِلْمِ وُجُوهِهِ",
+  "from_": "فَأَمَّا مَا جَاءَ مِنْ هَذِهِ الْحُرُوفِ",
+  "to": "دَلَائِلَ عَلَى مَعْرِفَةِ مَعَانِيهِ وَعِلْمِ وُجُوهِهِ",
+  "keys": [
+   "فَإِنَّمَا أَرَادَ أَهْلُ الْعِلْمِ مِنْهَا أَنْ يَسْتَشْهِدُوا بِهَا"
+  ],
+  "alts": [
+   "وَتَكُونُ دَلَائِلَ عَلَى مَعْرِفَةِ مَعَانِيهِ وَعِلْمِ وُجُوهِهِ"
+  ],
+  "label": "D",
+  "stance": "own claim",
+  "claim_en": "Abu 'Ubayd (own voice): the variants transmitted only through chains are for scholars to cite in interpreting what is between the two boards, as evidence for its meanings; examples given are readings of Hafsa and Aisha ('al-salat al-wusta salat al-'asr'), Ibn Mas'ud and Ubayy.",
+  "context": "Abu 'Ubayd's classification of variants as interpretive evidence, not as Qur'an."
+ },
+ {
+  "id": "au07",
+  "work": "abu_ubayd_fadail_shamela",
+  "author": "Abu 'Ubayd al-Qasim b. Sallam (d. 224 AH)",
+  "ref": "ص318 (Shamela page id 635; chapter on the readings in Ibn Mas'ud's codex, per Shamela pagination)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/12524/635",
+  "passage": "كَتَبَ أُبَيُّ بْنُ كَعْبٍ فِي مُصْحَفِهِ فَاتِحَةَ الْكِتَابِ وَالْمُعَوِّذَتَيْنِ، وَاللَّهُمَّ إِنَّا نَسْتَعِينُكَ، وَاللَّهُمَّ إِيَّاكَ نَعْبُدُ. وَتَرَكَهُنَّ ابْنُ مَسْعُودٍ، وَكَتَبَ عُثْمَانُ مِنْهُنَّ فَاتِحَةَ الْكِتَابِ وَالْمُعَوِّذَتَيْنِ",
+  "from_": "كَتَبَ أُبَيُّ بْنُ كَعْبٍ فِي مُصْحَفِهِ",
+  "to": "وَكَتَبَ عُثْمَانُ مِنْهُنَّ فَاتِحَةَ الْكِتَابِ وَالْمُعَوِّذَتَيْنِ",
+  "keys": [
+   "وَتَرَكَهُنَّ ابْنُ مَسْعُودٍ"
+  ],
+  "alts": [
+   "وَكَتَبَ عُثْمَانُ مِنْهُنَّ فَاتِحَةَ الْكِتَابِ وَالْمُعَوِّذَتَيْنِ"
+  ],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Abu 'Ubayd transmits (via Ayyub, Ibn Sirin) that Ubayy b. Ka'b wrote al-Fatiha, the two mu'awwidhatan and the two qunut invocations in his codex, that Ibn Mas'ud left them out, and that 'Uthman wrote from among them al-Fatiha and the two mu'awwidhatan.",
+  "context": "Report with isnad quoted by Abu 'Ubayd; Ibn Sirin is the transmitter quoted. This is one of the few sources in this set giving Ibn Mas'ud's omission as a fact about his codex, together with the statement that 'Uthman's codex included al-Fatiha and the mu'awwidhatan."
+ },
+ {
+  "id": "au08",
+  "work": "abu_ubayd_fadail_shamela",
+  "author": "Abu 'Ubayd al-Qasim b. Sallam (d. 224 AH)",
+  "ref": "ص285 (Shamela page id 521)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/12524/521",
+  "passage": "وَإِذَا حُذَيْفَةُ وَابْنُ مَسْعُودٍ يَتَقَاوَلَانِ، وحُذَيْفَةُ يَقُولُ لِابْنِ مَسْعُودٍ: «ادْفَعْ إِلَيْهِمِ الْمُصْحَفَ» . فَقَالَ: «وَاللَّهِ لَا أَدْفَعُهُ» . فَقَالَ: «ادْفَعْهُ إِلَيْهِمْ، فَإِنَّهُمْ لَا يَأْلُونَ أُمَّةَ مُحَمَّدٍ",
+  "from_": "وَإِذَا حُذَيْفَةُ وَابْنُ مَسْعُودٍ يَتَقَاوَلَانِ، وحُذَيْفَةُ",
+  "to": "إِلَيْهِمْ، فَإِنَّهُمْ لَا يَأْلُونَ أُمَّةَ مُحَمَّدٍ",
+  "keys": [
+   "ادْفَعْ إِلَيْهِمِ الْمُصْحَفَ"
+  ],
+  "alts": [],
+  "label": "D",
+  "stance": "reports others",
+  "claim_en": "Abu 'Ubayd reports (via a chain) an exchange in which Hudhayfa asks Ibn Mas'ud to hand over his codex to the people, and Ibn Mas'ud refuses, saying he will not hand it over.",
+  "context": "Report quoted by Abu 'Ubayd; evidence of dispute over private codices (D). Not a claim about omitted verses."
+ },
+ {
+  "id": "brh01",
+  "work": "zarkashi_burhan_shamela",
+  "author": "Badr al-Din al-Zarkashi (d. 794 AH)",
+  "ref": "ج2 ص35 (Shamela page ids 544-544; Burhan, Shamela book 11436)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11436/544",
+  "passage": "ما نسخ في تِلَاوَتُهُ وَبَقِيَ حُكْمُهُ فَيُعْمَلُ بِهِ إِذَا تَلَقَّتْهُ الْأُمَّةُ بِالْقَبُولِ كَمَا رُوِيَ أَنَّهُ كَانَ يُقَالُ فِي سُورَةِ النُّورِ \"الشَّيْخُ وَالشَّيْخَةُ إِذَا زَنَيَا فَارْجُمُوهُمَا الْبَتَّةَ نَكَالًا مِنَ اللَّهِ\" وَلِهَذَا قَالَ عُمَرُ: لَوْلَا أَنْ يَقُولَ النَّاسُ زَادَ عُمَرُ فِي كِتَابِ اللَّهِ لِكَتَبْتُهَا بِيَدِي رَوَاهُ الْبُخَارِيُّ",
+  "from_": "ما نسخ في تِلَاوَتُهُ وَبَقِيَ حُكْمُهُ",
+  "to": "كِتَابِ اللَّهِ لِكَتَبْتُهَا بِيَدِي رَوَاهُ الْبُخَارِيُّ",
+  "keys": [
+   "كَمَا رُوِيَ أَنَّهُ كَانَ يُقَالُ فِي سُورَةِ النُّورِ",
+   "الشَّيْخُ وَالشَّيْخَةُ إِذَا زَنَيَا فَارْجُمُوهُمَا الْبَتَّةَ"
+  ],
+  "alts": [
+   "وَبَقِيَ حُكْمُهُ"
+  ],
+  "label": "C",
+  "stance": "own claim",
+  "claim_en": "Al-Zarkashi's first type of abrogation: what was abrogated in its recitation while its ruling remains, and the stoning verse ('al-shaykh wa-l-shaykha') is his example, citing 'Umar's statement and the report in al-Bukhari.",
+  "context": "Classical author's own classification (not a quotation). The Burhan text itself uses the stoning verse as the example."
+ },
+ {
+  "id": "brh02",
+  "work": "zarkashi_burhan_shamela",
+  "author": "Badr al-Din al-Zarkashi (d. 794 AH)",
+  "ref": "ج2 ص35 (Shamela page ids 544-544; Burhan, Shamela book 11436)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11436/544",
+  "passage": "وَأَخْرَجَ ابْنُ حِبَّانَ فِي صَحِيحِهِ عَنْ أُبَيِّ بْنِ كَعْبٍ قَالَ: كَانَتْ سورة الأحزاب توازي سورة النور فَكَانَ فِيهَا \"الشَّيْخُ وَالشَّيْخَةُ إِذَا زَنَيَا فَارْجُمُوهُمَا",
+  "from_": "وَأَخْرَجَ ابْنُ حِبَّانَ فِي صَحِيحِهِ عَنْ",
+  "to": "فِيهَا \"الشَّيْخُ وَالشَّيْخَةُ إِذَا زَنَيَا فَارْجُمُوهُمَا",
+  "keys": [
+   "كَانَتْ سورة الأحزاب توازي سورة النور"
+  ],
+  "alts": [
+   "فَكَانَ فِيهَا"
+  ],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Al-Zarkashi reports from Ibn Hibban's Sahih, on the authority of Ubayy b. Ka'b, that Surat al-Ahzab was equal to Surat al-Nur and contained the stoning wording.",
+  "context": "Classical author quoting a hadith collection; the report is quoted, not endorsed in this line."
+ },
+ {
+  "id": "brh03",
+  "work": "zarkashi_burhan_shamela",
+  "author": "Badr al-Din al-Zarkashi (d. 794 AH)",
+  "ref": "ج2 ص36 (Shamela page ids 545-545; Burhan, Shamela book 11436)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11436/545",
+  "passage": "أَنَّ ظَاهِرَ قَوْلِهِ: \"لَوْلَا أَنْ يَقُولَ النَّاسُ إِلَخْ\" أَنَّ كِتَابَتَهَا جَائِزَةٌ وَإِنَّمَا مَنَعَهُ قَوْلُ النَّاسِ وَالْجَائِزُ فِي نَفْسِهِ قَدْ يَقُومُ مِنْ خَارِجِ مَا يَمْنَعُهُ وَإِذَا كَانَتْ جَائِزَةً لَزِمَ أَنْ تَكُونَ ثَابِتَةً لِأَنَّ هَذَا شَأْنُ الْمَكْتُوبِ وَقَدْ يُقَالُ: لَوْ كَانَتِ التِّلَاوَةُ بَاقِيَةً لَبَادَرَ عُمَرُ رَضِيَ اللَّهُ عَنْهُ وَلَمْ يُعَرِّجْ عَلَى مَقَالِ النَّاسِ لِأَنَّ مَقَالَ النَّاسِ لَا يَصْلُحُ مَانِعًا وَبِالْجُمْلَةِ فَهَذِهِ الْمُلَازَمَةُ مُشْكَلَةٌ وَلَعَلَّهُ كَانَ يَعْتَقِدُ أَنَّهُ خَبَرُ وَاحِدٍ وَالْقُرْآنُ لَا يَثْبُتُ بِهِ وَإِنْ ثَبَتَ الْحُكْمُ",
+  "from_": "أَنَّ ظَاهِرَ قَوْلِهِ: \"لَوْلَا أَنْ يَقُولَ",
+  "to": "لَا يَثْبُتُ بِهِ وَإِنْ ثَبَتَ الْحُكْمُ",
+  "keys": [
+   "لَزِمَ أَنْ تَكُونَ ثَابِتَةً"
+  ],
+  "alts": [
+   "وَلَعَلَّهُ كَانَ يَعْتَقِدُ أَنَّهُ خَبَرُ وَاحِدٍ"
+  ],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Al-Zarkashi questions the inference drawn from 'Umar's remark: if the writing was permissible, the verse should have been established as Qur'an; he suggests 'Umar may have regarded it as a single report, which cannot establish Qur'an, even if the ruling is established.",
+  "context": "His own discussion; it qualifies the claim that the verse was part of the written Qur'an, but he calls the inference 'problematic' rather than settling it."
+ },
+ {
+  "id": "brh04",
+  "work": "zarkashi_burhan_shamela",
+  "author": "Badr al-Din al-Zarkashi (d. 794 AH)",
+  "ref": "ج2 ص36 (Shamela page ids 545-545; Burhan, Shamela book 11436)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11436/545",
+  "passage": "وَمِنْ هُنَا أَنْكَرَ ابْنُ ظَفَرَ فِي \"الْيَنْبُوعِ\" عَدَّ هَذَا مِمَّا نُسِخَ تِلَاوَتُهُ قَالَ: لِأَنَّ خَبَرَ الْوَاحِدِ لَا يُثْبِتُ الْقُرْآنَ. قَالَ: وَإِنَّمَا هَذَا مِنَ الْمُنْسَأِ لَا النَّسْخِ",
+  "from_": "وَمِنْ هُنَا أَنْكَرَ ابْنُ ظَفَرَ فِي",
+  "to": "وَإِنَّمَا هَذَا مِنَ الْمُنْسَأِ لَا النَّسْخِ",
+  "keys": [
+   "لِأَنَّ خَبَرَ الْوَاحِدِ لَا يُثْبِتُ الْقُرْآنَ"
+  ],
+  "alts": [
+   "إِنَّمَا هَذَا مِنَ الْمُنْسَأِ لَا النَّسْخِ"
+  ],
+  "label": "E",
+  "stance": "reports others",
+  "claim_en": "Al-Zarkashi reports Ibn Zafar (in al-Yanbu') denying that the stoning verse is an instance of abrogated recitation, because a single report cannot establish Qur'an; he calls it 'al-munsa'' (postponement) rather than naskh.",
+  "context": "Classical scholar quoted by al-Zarkashi; the gloss 'postponement' is ours."
+ },
+ {
+  "id": "brh05",
+  "work": "zarkashi_burhan_shamela",
+  "author": "Badr al-Din al-Zarkashi (d. 794 AH)",
+  "ref": "ج2 ص36-37 (Shamela page ids 545-546; Burhan, Shamela book 11436)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11436/545 and https://shamela.ws/ajax/pageContent/11436/546",
+  "passage": "إِنَّا كُنَّا نَقْرَأُ سُورَةً كُنَّا نُشَبِّهُهَا فِي الطُّولِ وَالشِّدَّةِ بِبَرَاءَةَ فَأُنْسِيتُهَا غَيْرَ أَنِّي أَحْفَظُ مِنْهَا",
+  "from_": "إِنَّا كُنَّا نَقْرَأُ سُورَةً كُنَّا نُشَبِّهُهَا",
+  "to": "بِبَرَاءَةَ فَأُنْسِيتُهَا غَيْرَ أَنِّي أَحْفَظُ مِنْهَا",
+  "keys": [
+   "فَأُنْسِيتُهَا"
+  ],
+  "alts": [
+   "غَيْرَ أَنِّي أَحْفَظُ مِنْهَا"
+  ],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Al-Zarkashi cites Muslim's Sahih (Abu Musa al-Ash'ari) that a surah resembling Bara'a in length and force was recited and then forgotten, except for a verse kept in memory.",
+  "context": "Report quoted from Muslim's Sahih by al-Zarkashi."
+ },
+ {
+  "id": "brh06",
+  "work": "zarkashi_burhan_shamela",
+  "author": "Badr al-Din al-Zarkashi (d. 794 AH)",
+  "ref": "ج2 ص37-38 (Shamela page ids 546-547; Burhan, Shamela book 11436)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11436/546 and https://shamela.ws/ajax/pageContent/11436/547",
+  "passage": "وَذَكَرَ الْإِمَامُ الْمُحَدِّثُ أَبُو الْحُسَيْنِ أَحْمَدُ بْنُ جَعْفَرٍ الْمُنَادِي فِي كِتَابِهِ النَّاسِخُ وَالْمَنْسُوخُ مِمَّا رُفِعَ رَسْمُهُ مِنَ الْقُرْآنِ وَلَمْ يُرْفَعْ مِنَ الْقُلُوبِ حِفْظُهُ سُورَتَا الْقُنُوتِ فِي الْوَتْرِ قَالَ: وَلَا خِلَافَ بَيْنَ الْمَاضِينَ وَالْغَابِرِينَ أَنَّهُمَا مَكْتُوبَتَانِ فِي الْمَصَاحِفِ الْمَنْسُوبَةِ إِلَى أُبَيِّ بْنِ كَعْبٍ وَأَنَّهُ ذَكَرَ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ أَقْرَأَهُ إِيَّاهُمَا وَتُسَمَّى سُورَتَيِ الْخَلْعِ وَالْحَفْدِ",
+  "from_": "وَذَكَرَ الْإِمَامُ الْمُحَدِّثُ أَبُو الْحُسَيْنِ أَحْمَدُ",
+  "to": "أَقْرَأَهُ إِيَّاهُمَا وَتُسَمَّى سُورَتَيِ الْخَلْعِ وَالْحَفْدِ",
+  "keys": [
+   "مِمَّا رُفِعَ رَسْمُهُ مِنَ الْقُرْآنِ",
+   "أَنَّهُمَا مَكْتُوبَتَانِ فِي الْمَصَاحِفِ الْمَنْسُوبَةِ إِلَى أُبَيِّ بْنِ كَعْبٍ"
+  ],
+  "alts": [
+   "وَلَمْ يُرْفَعْ مِنَ الْقُلُوبِ حِفْظُهُ"
+  ],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Al-Zarkashi quotes Abu al-Husayn Ibn al-Munadi (Kitab al-Nasikh wa-l-mansukh): two surahs of the qunut in the witr, called al-Khal' and al-Hafd, had their written text lifted but not their memorisation; he adds that there is no disagreement among earlier and later scholars that both are written in the codices attributed to Ubayy b. Ka'b, and that someone (the subject is not explicit in the Shamela text; probably Ubayy b. Ka'b) reported from the Prophet that he taught him both.",
+  "context": "Classical scholar quoted by al-Zarkashi. The claim that they were written in codices attributed to Ubayy is in the quoted text. The subject of 'anna-hu dhakara' (who reported from the Prophet) is ambiguous in the Shamela text."
+ },
+ {
+  "id": "brh07",
+  "work": "zarkashi_burhan_shamela",
+  "author": "Badr al-Din al-Zarkashi (d. 794 AH)",
+  "ref": "ج2 ص39 (Shamela page ids 548-548; Burhan, Shamela book 11436)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11436/548",
+  "passage": "نَسْخُهُمَا جَمِيعًا فَلَا تَجُوزُ قِرَاءَتُهُ وَلَا الْعَمَلُ بِهِ كَآيَةِ التَّحْرِيمِ بِعَشْرِ رَضَعَاتٍ فَنُسِخْنَ بِخَمْسٍ قَالَتْ عَائِشَةُ: \" كَانَ مِمَّا أُنْزِلَ عَشْرُ رَضَعَاتٍ مَعْلُومَاتٍ فَنُسِخْنَ بِخَمْسٍ مَعْلُومَاتٍ فَتُوُفِّيَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَهِيَ مِمَّا يُقْرَأُ مِنَ الْقُرْآنِ\" رَوَاهُ مُسْلِمٌ وَقَدْ تَكَلَّمُوا فِي قَوْلِهَا وَهِيَ \"مِمَّا يُقْرَأُ\" فَإِنَّ ظَاهِرَهُ بَقَاءُ التِّلَاوَةِ وَلَيْسَ كَذَلِكَ فَمِنْهُمْ مَنْ أَجَابَ بِأَنَّ الْمُرَادَ قَارَبَ الْوَفَاةَ وَالْأَظْهَرُ أَنَّ التِّلَاوَةَ نُسِخَتْ أَيْضًا وَلَمْ يَبْلُغْ ذَلِكَ كُلَّ النَّاسِ إِلَّا بَعْدَ وَفَاةِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَتُوُفِّيَ وَبَعْضُ النَّاسِ يَقْرَؤُهَا",
+  "from_": "نَسْخُهُمَا جَمِيعًا فَلَا تَجُوزُ قِرَاءَتُهُ وَلَا",
+  "to": "عَلَيْهِ وَسَلَّمَ فَتُوُفِّيَ وَبَعْضُ النَّاسِ يَقْرَؤُهَا",
+  "keys": [
+   "عَشْرِ رَضَعَاتٍ فَنُسِخْنَ بِخَمْسٍ"
+  ],
+  "alts": [
+   "وَالْأَظْهَرُ أَنَّ التِّلَاوَةَ نُسِخَتْ أَيْضًا"
+  ],
+  "label": "C",
+  "stance": "own claim",
+  "claim_en": "Al-Zarkashi's third type (both recitation and ruling abrogated), with the ten-sucklings verse as example and Aisha's report; he notes the difficulty in 'still recited' and states his own preference: 'the more evident view is that the recitation was also abrogated, and that this did not reach all people until after the Prophet's death, so some still recited it when he died.'",
+  "context": "His own preference is marked by 'wa-l-azhar' (the more evident view). Other answers quoted in the same passage are E-type."
+ },
+ {
+  "id": "brh08",
+  "work": "zarkashi_burhan_shamela",
+  "author": "Badr al-Din al-Zarkashi (d. 794 AH)",
+  "ref": "ج2 ص39 (Shamela page ids 548-548; Burhan, Shamela book 11436)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11436/548",
+  "passage": "وَجَعَلَ الْوَاحِدِيُّ مِنْ هَذَا مَا رُوِيَ عَنْ أَبِي بَكْرٍ رَضِيَ اللَّهُ عَنْهُ قَالَ كُنَّا نَقْرَأُ لَا تَرْغَبُوا عَنْ آبَائِكُمْ فَإِنَّهُ كُفْرٌ وَفِيهِ نَظَرٌ",
+  "from_": "وَجَعَلَ الْوَاحِدِيُّ مِنْ هَذَا مَا رُوِيَ",
+  "to": "عَنْ آبَائِكُمْ فَإِنَّهُ كُفْرٌ وَفِيهِ نَظَرٌ",
+  "keys": [
+   "قَالَ كُنَّا نَقْرَأُ لَا تَرْغَبُوا عَنْ آبَائِكُمْ"
+  ],
+  "alts": [
+   "وَفِيهِ نَظَرٌ"
+  ],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Al-Zarkashi reports that al-Wahidi counted among these a report from Abu Bakr that 'we used to recite: do not turn away from your fathers, for it is disbelief'; al-Zarkashi says 'there is an issue with it' (wa-fihi nazar). Note: al-Suyuti attributes the same report to Umar speaking to Zayd; the attribution differs between the two works.",
+  "context": "Classical scholar quoting al-Wahidi. The Abu Bakr / Umar discrepancy is between two works of the tradition."
+ },
+ {
+  "id": "brh09",
+  "work": "zarkashi_burhan_shamela",
+  "author": "Badr al-Din al-Zarkashi (d. 794 AH)",
+  "ref": "ج2 ص41 (Shamela page ids 550-550; Burhan, Shamela book 11436)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11436/550",
+  "passage": "وَقَسَّمَهُ الْوَاحِدِيُّ أَيْضًا إِلَى نَسْخِ مَا لَيْسَ بِثَابِتِ التِّلَاوَةِ كَعَشْرِ رَضَعَاتٍ",
+  "from_": "وَقَسَّمَهُ الْوَاحِدِيُّ أَيْضًا إِلَى نَسْخِ مَا",
+  "to": "مَا لَيْسَ بِثَابِتِ التِّلَاوَةِ كَعَشْرِ رَضَعَاتٍ",
+  "keys": [
+   "نَسْخِ مَا لَيْسَ بِثَابِتِ التِّلَاوَةِ"
+  ],
+  "alts": [
+   "كَعَشْرِ رَضَعَاتٍ"
+  ],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Al-Zarkashi reports al-Wahidi's classification of abrogation into abrogation of what was not established in recitation (such as the ten sucklings) and abrogation of what was established in recitation.",
+  "context": "Classical scholar quoted via al-Zarkashi."
+ },
+ {
+  "id": "brh10",
+  "work": "zarkashi_burhan_shamela",
+  "author": "Badr al-Din al-Zarkashi (d. 794 AH)",
+  "ref": "ج1 ص240 (Shamela page ids 257-257; Burhan, Shamela book 11436)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11436/257",
+  "passage": "أَمَّا تَعَلُّقُ الرَّوَافِضِ بِأَنَّ عُثْمَانَ أَحْرَقَ الْمَصَاحِفَ فَإِنَّهُ جَهْلٌ مِنْهُمْ وَعَمًى فَإِنَّ هَذَا مِنْ فَضَائِلِهِ وَعِلْمِهِ فَإِنَّهُ أَصْلَحَ وَلَمَّ الشَّعَثَ وَكَانَ ذَلِكَ وَاجِبًا عَلَيْهِ وَلَوْ تَرَكَهُ لَعَصَى لِمَا فِيهِ مِنَ التَّضْيِيعِ وَحَاشَاهُ مِنْ ذَلِكَ وَقَوْلُهُمْ إِنَّهُ سَبَقَ إِلَى ذَلِكَ مَمْنُوعٌ لِمَا بَيَّنَّاهُ أَنَّهُ كُتِبَ فِي زَمَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي الرِّقَاعِ وَالْأَكْتَافِ وَأَنَّهُ فِي زَمَنِ الصِّدِّيقِ جَمَعَهُ فِي حَرْفٍ وَاحِدٍ قَالَ وَأَمَّا قَوْلُهُمْ إِنَّهُ أَحْرَقَ الْمَصَاحِفَ فَإِنَّهُ غَيْرُ ثَابِتٍ وَلَوْ ثَبَتَ لَوَجَبَ حَمْلُهُ عَلَى أَنَّهُ أَحْرَقَ مَصَاحِفَ قَدْ أُودِعَتْ مَا لَا يُحِلُّ قِرَاءَتُهُ وَفِي الْجُمْلَةِ إِنَّهُ إِمَامٌ عَدْلٌ غَيْرُ مُعَانِدٍ وَلَا طَاعِنٍ فِي التَّنْزِيلِ وَلَمْ يَحْرِقْ إِلَّا مَا يَجِبُ إِحْرَاقُهُ وَلِهَذَا لَمْ يُنْكِرْ عَلَيْهِ أَحَدٌ ذَلِكَ بَلْ رَضُوهُ وَعَدُّوهُ مِنْ مَنَاقِبِهِ حَتَّى قَالَ عَلِيٌّ لَوْ وَلِيتُ مَا وَلِيَ عُثْمَانُ لَعَمِلْتُ بِالْمَصَاحِفِ مَا عَمِلَ انْتَهَى ملخصا",
+  "from_": "أَمَّا تَعَلُّقُ الرَّوَافِضِ بِأَنَّ عُثْمَانَ أَحْرَقَ",
+  "to": "لَعَمِلْتُ بِالْمَصَاحِفِ مَا عَمِلَ انْتَهَى ملخصا",
+  "keys": [
+   "فَإِنَّهُ غَيْرُ ثَابِتٍ"
+  ],
+  "alts": [
+   "وَلِهَذَا لَمْ يُنْكِرْ عَلَيْهِ أَحَدٌ"
+  ],
+  "label": "E",
+  "stance": "rejects",
+  "claim_en": "Al-Zarkashi (in a passage ending 'concluded, summarised') rejects the Shi'i claim that 'Uthman burned codices: it is ignorance and blindness; the report is not established; had it been so, it would be understood as burning codices that contained what may not be recited; 'Uthman was a just imam; and no one objected to it.",
+  "context": "The passage ends with 'انتهى ملخصا' ('ended, summarised'), so part of it is a summary of an earlier author whom the Shamela text does not name in this excerpt. The attribution is therefore not certain; the statement is in the Burhan text."
+ },
+ {
+  "id": "brh11",
+  "work": "zarkashi_burhan_shamela",
+  "author": "Badr al-Din al-Zarkashi (d. 794 AH)",
+  "ref": "ج2 ص127 (Shamela page ids 636-636; Burhan, Shamela book 11436)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11436/636",
+  "passage": "فَلَمْ يَصِحَّ عَنْهُ أَنَّهُمَا لَيْسَا بِقُرْآنٍ وَلَا حُفِظَ عَنْهُ أَنَّهُ حَكَّهُمَا وَأَسْقَطَهُمَا مِنْ مُصْحَفِهِ لِعِلَلٍ وَتَأْوِيلَاتٍ",
+  "from_": "فَلَمْ يَصِحَّ عَنْهُ أَنَّهُمَا لَيْسَا بِقُرْآنٍ",
+  "to": "حَكَّهُمَا وَأَسْقَطَهُمَا مِنْ مُصْحَفِهِ لِعِلَلٍ وَتَأْوِيلَاتٍ",
+  "keys": [
+   "فَلَمْ يَصِحَّ عَنْهُ أَنَّهُمَا لَيْسَا بِقُرْآنٍ"
+  ],
+  "alts": [
+   "لِعِلَلٍ وَتَأْوِيلَاتٍ"
+  ],
+  "label": "E",
+  "stance": "reports others",
+  "claim_en": "Al-Qadi Abu Bakr (al-Baqillani), quoted by al-Zarkashi: it is not established from Ibn Mas'ud that the two mu'awwidhatan are not Qur'an, nor that he struck them from his codex for reasons and interpretations.",
+  "context": "Classical scholar quoted via al-Zarkashi."
+ },
+ {
+  "id": "brh12",
+  "work": "zarkashi_burhan_shamela",
+  "author": "Badr al-Din al-Zarkashi (d. 794 AH)",
+  "ref": "ج2 ص127 (Shamela page ids 636-636; Burhan, Shamela book 11436)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11436/636",
+  "passage": "وَلَا يَجُوزُ أَنْ يُضَافَ إِلَى عَبْدِ اللَّهِ أَوْ إِلَى أُبَيِّ بْنِ كَعْبٍ أَوْ زَيْدٍ أَوْ عُثْمَانَ أَوْ عَلِيٍّ أَوْ وَاحِدٍ مِنْ وَلَدِهِ أَوْ عِتْرَتِهِ جَحْدُ آيَةٍ أَوْ حَرْفٍ مِنْ كِتَابِ اللَّهِ وَتَغْيِيرُهُ أَوْ قِرَاءَتُهُ عَلَى خِلَافِ الْوَجْهِ الْمَرْسُومِ فِي مُصْحَفِ الْجَمَاعَةِ بِأَخْبَارِ الْآحَادِ",
+  "from_": "وَلَا يَجُوزُ أَنْ يُضَافَ إِلَى عَبْدِ",
+  "to": "الْمَرْسُومِ فِي مُصْحَفِ الْجَمَاعَةِ بِأَخْبَارِ الْآحَادِ",
+  "keys": [
+   "جَحْدُ آيَةٍ أَوْ حَرْفٍ مِنْ كِتَابِ اللَّهِ"
+  ],
+  "alts": [
+   "بِأَخْبَارِ الْآحَادِ"
+  ],
+  "label": "E",
+  "stance": "reports others",
+  "claim_en": "Al-Qadi (Baqillani), quoted by al-Zarkashi: it is not permitted to attribute to 'Abdullah b. Mas'ud, Ubayy, Zayd, 'Uthman, 'Ali or their descendants the denial or alteration of a verse or letter of God's Book, or reading it contrary to the mushaf of the community, on the basis of single reports.",
+  "context": "Classical scholar quoted via al-Zarkashi. This is a limitation on the claim that Companions omitted verses."
+ },
+ {
+  "id": "brh13",
+  "work": "zarkashi_burhan_shamela",
+  "author": "Badr al-Din al-Zarkashi (d. 794 AH)",
+  "ref": "ج2 ص127-128 (Shamela page ids 636-637; Burhan, Shamela book 11436)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11436/636 and https://shamela.ws/ajax/pageContent/11436/637",
+  "passage": "وَإِنَّ كَلَامَ الْقُنُوتِ الْمَرْوِيَّ عَنْ أُبَيِّ بْنِ كَعْبٍ أَثْبَتَهُ فِي مُصْحَفِهِ لَمْ تَقُمْ حُجَّةٌ بِأَنَّهُ قُرْآنٌ مُنَزَّلٌ بَلْ هُوَ ضَرْبٌ مِنَ الدُّعَاءِ وَأَنَّهُ لَوْ كَانَ قُرْآنًا لَنُقِلَ نَقْلَ الْقُرْآنِ وَحَصُلَ الْعِلْمُ بِصِحَّتِهِ وَأَنَّهُ يُمْكِنُ أَنْ يَكُونَ مِنْهُ كَلَامٌ كَانَ قُرْآنًا مُنَزَّلًا ثُمَّ نُسِخَ",
+  "from_": "وَإِنَّ كَلَامَ الْقُنُوتِ الْمَرْوِيَّ عَنْ أُبَيِّ",
+  "to": "كَلَامٌ كَانَ قُرْآنًا مُنَزَّلًا ثُمَّ نُسِخَ",
+  "keys": [
+   "لَمْ تَقُمْ حُجَّةٌ بِأَنَّهُ قُرْآنٌ مُنَزَّلٌ بَلْ هُوَ ضَرْبٌ مِنَ الدُّعَاءِ"
+  ],
+  "alts": [
+   "أَنَّهُ يُمْكِنُ أَنْ يَكُونَ مِنْهُ كَلَامٌ كَانَ قُرْآنًا مُنَزَّلًا ثُمَّ نُسِخَ"
+  ],
+  "label": "E",
+  "stance": "reports others",
+  "claim_en": "Al-Qadi (Baqillani), quoted by al-Zarkashi: the qunut text reported from Ubayy b. Ka'b and included by him in his codex has not been shown to be revealed Qur'an; it is a form of supplication. He adds that it is possible some of it was once revealed Qur'an and then abrogated.",
+  "context": "Classical scholar quoted via al-Zarkashi. The main claim is a denial; the possibility of prior abrogation is an explicit hypothetical."
+ },
+ {
+  "id": "brh14",
+  "work": "zarkashi_burhan_shamela",
+  "author": "Badr al-Din al-Zarkashi (d. 794 AH)",
+  "ref": "ج2 ص127-128 (Shamela page ids 636-637; Burhan, Shamela book 11436)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11436/636 and https://shamela.ws/ajax/pageContent/11436/637",
+  "passage": "وَالْمُعَوِّذَتَانِ مِنَ الْقُرْآنِ وَاسْتِفَاضَتُهُمَا كَاسْتِفَاضَةِ جَمِيعِ الْقُرْآنِ",
+  "from_": "وَالْمُعَوِّذَتَانِ مِنَ الْقُرْآنِ وَاسْتِفَاضَتُهُمَا كَاسْتِفَاضَةِ جَمِيعِ",
+  "to": "مِنَ الْقُرْآنِ وَاسْتِفَاضَتُهُمَا كَاسْتِفَاضَةِ جَمِيعِ الْقُرْآنِ",
+  "keys": [
+   "الْمُعَوِّذَتَانِ مِنَ الْقُرْآنِ"
+  ],
+  "alts": [
+   "اسْتِفَاضَتُهُمَا كَاسْتِفَاضَةِ جَمِيعِ الْقُرْآنِ"
+  ],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Al-Zarkashi's own heading: the two mu'awwidhatan are Qur'an and their transmission is as widespread as that of the whole Qur'an.",
+  "context": "His own statement. It is a rejection of the Ibn Mas'ud report, on the grounds of mass transmission."
+ },
+ {
+  "id": "brh15",
+  "work": "zarkashi_burhan_shamela",
+  "author": "Badr al-Din al-Zarkashi (d. 794 AH)",
+  "ref": "ج2 ص128 (Shamela page ids 637-637; Burhan, Shamela book 11436)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11436/637",
+  "passage": "لَمْ يُنْكِرْ عَبْدُ اللَّهِ بْنُ مَسْعُودٍ كَوْنَ الْمُعَوِّذَتَيْنِ وَالْفَاتِحَةِ مِنَ الْقُرْآنِ وَإِنَّمَا أَنْكَرَ إِثْبَاتَهُمَا فِي الْمُصْحَفِ",
+  "from_": "لَمْ يُنْكِرْ عَبْدُ اللَّهِ بْنُ مَسْعُودٍ",
+  "to": "الْقُرْآنِ وَإِنَّمَا أَنْكَرَ إِثْبَاتَهُمَا فِي الْمُصْحَفِ",
+  "keys": [
+   "لَمْ يُنْكِرْ عَبْدُ اللَّهِ بْنُ مَسْعُودٍ كَوْنَ الْمُعَوِّذَتَيْنِ وَالْفَاتِحَةِ مِنَ الْقُرْآنِ"
+  ],
+  "alts": [
+   "وَإِنَّمَا أَنْكَرَ إِثْبَاتَهُمَا فِي الْمُصْحَفِ"
+  ],
+  "label": "E",
+  "stance": "reports others",
+  "claim_en": "Abu Bakr b. al-Tayyib (in al-Taqrib), quoted by al-Zarkashi: Ibn Mas'ud did not deny that the two mu'awwidhatan and al-Fatiha are Qur'an; he denied writing them in the codex, and this was an interpretation, not a denial that they are Qur'an.",
+  "context": "Classical scholar quoted via al-Zarkashi."
+ },
+ {
+  "id": "brh16",
+  "work": "zarkashi_burhan_shamela",
+  "author": "Badr al-Din al-Zarkashi (d. 794 AH)",
+  "ref": "ج2 ص128 (Shamela page ids 637-637; Burhan, Shamela book 11436)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11436/637",
+  "passage": "وَفِي صَحِيحِ ابْنِ حِبَّانَ عَنْ زِرٍّ قُلْنَا لِأُبَيِّ بْنِ كَعْبٍ: إِنَّ ابْنَ مَسْعُودٍ لَا يَكْتُبُ فِي مُصْحَفِهِ الْمُعَوِّذَتَيْنِ فَقَالَ: قَالَ لِي رَسُولُ اللَّهِ صَلَّى عَلَيْهِ وَسَلَّمَ: قَالَ لي جبريل: {قل أعوذ برب الْفَلَقِ} فَقُلْتُهَا وَقَالَ لِي: {قُلْ أَعُوذُ بِرَبِّ النَّاسِ} فَقُلْتُهَا فَنَحْنُ نَقُولُ مَا قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+  "from_": "وَفِي صَحِيحِ ابْنِ حِبَّانَ عَنْ زِرٍّ",
+  "to": "رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+  "keys": [
+   "إِنَّ ابْنَ مَسْعُودٍ لَا يَكْتُبُ فِي مُصْحَفِهِ الْمُعَوِّذَتَيْنِ"
+  ],
+  "alts": [
+   "فَنَحْنُ نَقُولُ"
+  ],
+  "label": "E",
+  "stance": "reports others",
+  "claim_en": "Al-Zarkashi reports from Ibn Hibban's Sahih (via Zirr b. Hubaysh): Ubayy b. Ka'b was told that Ibn Mas'ud did not write the two mu'awwidhatan in his codex; Ubayy answered that the Prophet said Gabriel taught him each of them, and he recited them, so 'we say what the Messenger of God said'.",
+  "context": "Report quoted via al-Zarkashi (Ubayy's answer, as transmitted there)."
+ },
+ {
+  "id": "brh17",
+  "work": "zarkashi_burhan_shamela",
+  "author": "Badr al-Din al-Zarkashi (d. 794 AH)",
+  "ref": "ج2 ص387 (Shamela page ids 896-896; Burhan, Shamela book 11436)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11436/896",
+  "passage": "الْجُمْلَةِ الثَّانِيَةِ لِلتَّوْكِيدِ سَقَطَتْ مِنْ مُصْحَفِ ابْنِ مسعود ومن قراءته",
+  "from_": "الْجُمْلَةِ الثَّانِيَةِ لِلتَّوْكِيدِ سَقَطَتْ مِنْ مُصْحَفِ",
+  "to": "مِنْ مُصْحَفِ ابْنِ مسعود ومن قراءته",
+  "keys": [
+   "سَقَطَتْ مِنْ مُصْحَفِ ابْنِ مسعود"
+  ],
+  "alts": [
+   "ومن قراءته"
+  ],
+  "label": "D",
+  "stance": "reports others",
+  "claim_en": "Al-Zarkashi (in a grammatical passage on repetition in the Qur'an) notes that the second repeated clause ('kalla sawfa ta'lamun' type) fell out of Ibn Mas'ud's codex and reading.",
+  "context": "A variant mentioned in a grammar/rhetoric discussion, not a claim about omitted verses; labelled D (variant evidence)."
+ },
+ {
+  "id": "iad01",
+  "work": "ibn_abi_dawud_masahif_shamela",
+  "author": "Abu Bakr Ibn Abi Dawud al-Sijistani (d. 316 AH)",
+  "ref": "ص88 (Shamela page ids 72-72)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/13067/72",
+  "passage": "وَأَمَرَ بِسِوَى ذَلِكَ فِي صَحِيفَةٍ أَوْ مُصْحَفٍ أَنْ يُحْرَقَ",
+  "from_": "وَأَمَرَ بِسِوَى ذَلِكَ فِي صَحِيفَةٍ أَوْ",
+  "to": "فِي صَحِيفَةٍ أَوْ مُصْحَفٍ أَنْ يُحْرَقَ",
+  "keys": [
+   "أَمَرَ بِسِوَى ذَلِكَ فِي صَحِيفَةٍ أَوْ مُصْحَفٍ"
+  ],
+  "alts": [],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Ibn Abi Dawud transmits (al-Zuhri's account, then Zayd b. Thabit's account) that Uthman ordered that any other sheet or codex be burned; a variant in the text reads 'yakhraq' (be torn) as another's version.",
+  "context": "Classical report with isnad (via al-Zuhri). This is the source for many modern claims about Uthman's burning. The bracketed variant is in the Shamela text."
+ },
+ {
+  "id": "iad02",
+  "work": "ibn_abi_dawud_masahif_shamela",
+  "author": "Abu Bakr Ibn Abi Dawud al-Sijistani (d. 316 AH)",
+  "ref": "ص88 (Shamela page ids 72-72)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/13067/72",
+  "passage": "فَقَدْتُ آيَةً مِنْ سُورَةِ الْأَحْزَابِ كُنْتُ أَسْمَعُ رَسُولَ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَقْرَؤُهَا",
+  "from_": "فَقَدْتُ آيَةً مِنْ سُورَةِ الْأَحْزَابِ كُنْتُ",
+  "to": "اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَقْرَؤُهَا",
+  "keys": [
+   "فَقَدْتُ آيَةً مِنْ سُورَةِ الْأَحْزَابِ"
+  ],
+  "alts": [
+   "كُنْتُ أَسْمَعُ رَسُولَ اللَّهِ"
+  ],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Ibn Abi Dawud reports (via al-Zuhri and Kharija b. Zayd) that Zayd b. Thabit said he lost a verse of Surat al-Ahzab that he used to hear the Prophet recite.",
+  "context": "Report with isnad (Zayd b. Thabit quoted via Kharija b. Zayd). The verse is then found with Khuzayma (next passage)."
+ },
+ {
+  "id": "iad03",
+  "work": "ibn_abi_dawud_masahif_shamela",
+  "author": "Abu Bakr Ibn Abi Dawud al-Sijistani (d. 316 AH)",
+  "ref": "ص109 (Shamela page ids 97-97)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/13067/97",
+  "passage": "لَمَّا نَسَخْنَا الْمُصْحَفَ مِنَ الْمَصَاحِفِ، فَقَدْتُ آيَةً مِنْ سُورَةِ الْأَحْزَابِ كُنْتُ أَسْمَعُ رَسُولَ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَقْرَؤُهَا، فَالْتَمَسْتُهَا فَلَمْ أَجِدْهَا مَعَ أَحَدٍ إِلَّا مَعَ خُزَيْمَةَ الْأَنْصَارِيِّ الَّذِي جَعَلَ رَسُولُ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ شَهَادَتَهُ بِشَهَادَةِ رَجُلَيْنِ",
+  "from_": "لَمَّا نَسَخْنَا الْمُصْحَفَ مِنَ الْمَصَاحِفِ، فَقَدْتُ",
+  "to": "اللهُ عَلَيْهِ وَسَلَّمَ شَهَادَتَهُ بِشَهَادَةِ رَجُلَيْنِ",
+  "keys": [
+   "فَقَدْتُ آيَةً مِنْ سُورَةِ الْأَحْزَابِ"
+  ],
+  "alts": [
+   "فَالْتَمَسْتُهَا فَلَمْ أَجِدْهَا مَعَ أَحَدٍ إِلَّا مَعَ خُزَيْمَةَ"
+  ],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Ibn Abi Dawud (via al-Zuhri, Kharija, Zayd) reports that when they copied the codex from the codices, Zayd lost a verse of al-Ahzab; he found it only with Khuzayma al-Ansari, whose testimony the Prophet made equal to two men's.",
+  "context": "Same report as the previous entry (different isnad chapter)."
+ },
+ {
+  "id": "iad04",
+  "work": "ibn_abi_dawud_masahif_shamela",
+  "author": "Abu Bakr Ibn Abi Dawud al-Sijistani (d. 316 AH)",
+  "ref": "ص76 (Shamela page ids 58-58)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/13067/58",
+  "passage": "إِنِّي غَالٌّ مُصْحَفِي، فَمَنِ اسْتَطَاعَ أَنْ يَغُلَّ مُصْحَفًا فَلْيَغْلُلْ، فَإِنَّ اللَّهَ يَقُولُ: {وَمَنْ يَغْلُلْ يَأْتِ بِمَا غَلَّ يَوْمَ الْقِيَامَةِ} [آل عمران: ١٦١] ، وَلَقَدْ أَخَذْتُ مِنْ فِيِّ رَسُولِ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ سَبْعِينَ سُورَةً",
+  "from_": "إِنِّي غَالٌّ مُصْحَفِي، فَمَنِ اسْتَطَاعَ أَنْ",
+  "to": "صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ سَبْعِينَ سُورَةً",
+  "keys": [
+   "إِنِّي غَالٌّ مُصْحَفِي"
+  ],
+  "alts": [
+   "أَخَذْتُ مِنْ فِيِّ رَسُولِ اللَّهِ"
+  ],
+  "label": "D",
+  "stance": "reports others",
+  "claim_en": "Ibn Abi Dawud reports (via Khumayr b. Malik) Ibn Mas'ud's statement that he would not surrender his codex, invoking Qur'an 3:161, and that he took seventy surahs from the Prophet's mouth while Zayd was a boy.",
+  "context": "Report from Ibn Mas'ud, quoted by Ibn Abi Dawud. It shows the dispute over private codices."
+ },
+ {
+  "id": "iad05",
+  "work": "ibn_abi_dawud_masahif_shamela",
+  "author": "Abu Bakr Ibn Abi Dawud al-Sijistani (d. 316 AH)",
+  "ref": "ص80 (Shamela page ids 67-67)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/13067/67",
+  "passage": "أُعْزَلُ عَنْ نَسْخِ [كِتَابِ] الْمَصَاحِفِ وَتَوَلَّاهَا رَجُلٌ، وَاللَّهِ لَقَدْ أَسْلَمْتُ وَإِنَّهُ لَفِي صُلْبِ أَبِيهِ كَافِرًا [يُرِيدُ زَيْدَ ⦗٨١⦘ بْنَ ثَابِتٍ] . وَكَذَلِكَ قَالَ عَبْدُ اللَّهِ: يَا أَهْلَ الْكُوفَةِ أَوْ يَا أَهْلَ الْعِرَاقِ اكْتُمُوا الْمَصَاحِفَ الَّتِي عِنْدَكُمْ، وَغُلُّوهَا فَإِنَّ اللَّهَ يَقُولُ: {وَمَنْ يَغْلُلْ} [سورة: آل عمران، آية رقم: ١٦١] يَأْتِ بِمَا غَلَّ يَوْمَ الْقِيَامَةِ فَالْقُوا اللَّهَ بِالْمَصَاحِفِ",
+  "from_": "أُعْزَلُ عَنْ نَسْخِ [كِتَابِ] الْمَصَاحِفِ وَتَوَلَّاهَا",
+  "to": "غَلَّ يَوْمَ الْقِيَامَةِ فَالْقُوا اللَّهَ بِالْمَصَاحِفِ",
+  "keys": [
+   "أُعْزَلُ عَنْ نَسْخِ"
+  ],
+  "alts": [
+   "فَالْقُوا اللَّهَ بِالْمَصَاحِفِ"
+  ],
+  "label": "D",
+  "stance": "reports others",
+  "claim_en": "Ibn Abi Dawud reports (via al-Zuhri) that Ibn Mas'ud disliked Zayd b. Thabit copying the codices and told the Kufans to hide their codices; al-Zuhri adds that men of the Companions disapproved of Ibn Mas'ud's words.",
+  "context": "Report of a dispute over the codices; evidence of disagreement about codex standardisation (D). Not a claim about omitted verses."
+ },
+ {
+  "id": "iad06",
+  "work": "ibn_abi_dawud_masahif_shamela",
+  "author": "Abu Bakr Ibn Abi Dawud al-Sijistani (d. 316 AH)",
+  "ref": "ص69 (Shamela page ids 49-49)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/13067/49",
+  "passage": "خَصْلَتَانِ لِعُثْمَانَ بْنِ عَفَّانَ لَيْسَتَا لِأَبِي بَكْرٍ وَلَا لِعُمَرَ، صَبْرُهُ نَفْسَهُ حَتَّى قُتِلَ مَظْلُومًا، وَجَمْعُهُ النَّاسَ عَلَى الْمُصْحَفِ",
+  "from_": "خَصْلَتَانِ لِعُثْمَانَ بْنِ عَفَّانَ لَيْسَتَا لِأَبِي",
+  "to": "قُتِلَ مَظْلُومًا، وَجَمْعُهُ النَّاسَ عَلَى الْمُصْحَفِ",
+  "keys": [
+   "خَصْلَتَانِ لِعُثْمَانَ بْنِ عَفَّانَ"
+  ],
+  "alts": [
+   "وَجَمْعُهُ النَّاسَ عَلَى الْمُصْحَفِ"
+  ],
+  "label": "E",
+  "stance": "reports others",
+  "claim_en": "Ibn Abi Dawud reports (quoting 'Abd al-Rahman b. Mahdi) that Uthman had two merits not shared with Abu Bakr or 'Umar: his patience until he was killed unjustly, and his gathering of people around the codex.",
+  "context": "Report praising Uthman's codex work; a counter-position to the alteration claim."
+ },
+ {
+  "id": "itq01",
+  "work": "suyuti_itqan_shamela",
+  "author": "Jalal al-Din al-Suyuti (d. 911 AH)",
+  "ref": "ج1 ص270-271 (Shamela page ids 263-264; al-Itqan, Egyptian General Book Authority ed. 1974 as on Shamela)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11728/263 and https://shamela.ws/ajax/pageContent/11728/264",
+  "passage": "نُقِلَ فِي بَعْضِ الْكُتُبِ الْقَدِيمَةِ أَنَّ ابْنَ مَسْعُودٍ كَانَ يُنْكِرُ كَوْنَ سُورَةِ الْفَاتِحَةِ وَالْمُعَوِّذِتَيْنِ مِنَ الْقُرْآنِ وَهُوَ فِي غَايَةِ الصُّعُوبَةِ",
+  "from_": "نُقِلَ فِي بَعْضِ الْكُتُبِ الْقَدِيمَةِ أَنَّ",
+  "to": "مِنَ الْقُرْآنِ وَهُوَ فِي غَايَةِ الصُّعُوبَةِ",
+  "keys": [
+   "كَانَ يُنْكِرُ كَوْنَ سُورَةِ الْفَاتِحَةِ وَالْمُعَوِّذِتَيْنِ"
+  ],
+  "alts": [
+   "نُقِلَ فِي بَعْضِ الْكُتُبِ الْقَدِيمَةِ"
+  ],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Fakhr al-Din al-Razi (quoted by al-Suyuti) reports that in some old books Ibn Masud denied that al-Fatiha and the two mu'awwidhatan are part of the Qur'an.",
+  "context": "Classical scholar quoted; al-Suyuti introduces it as a problem for the principle of mass transmission. Razi himself calls it very difficult."
+ },
+ {
+  "id": "itq02",
+  "work": "suyuti_itqan_shamela",
+  "author": "Jalal al-Din al-Suyuti (d. 911 AH)",
+  "ref": "ج1 ص271 (Shamela page ids 264-264; al-Itqan, Egyptian General Book Authority ed. 1974 as on Shamela)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11728/264",
+  "passage": "وَقَالَ ابْنُ حَزْمٍ فِي الْمُحَلَّى: هَذَا كَذِبٌ عَلَى ابْنِ مَسْعُودٍ وَمَوْضُوعٌ وَإِنَّمَا صَحَّ عَنْهُ قِرَاءَةُ عَاصِمٍ عَنْ زِرٍّ عَنْهُ وَفِيهَا الْمُعَوِّذَتَانِ وَالْفَاتِحَةُ",
+  "from_": "وَقَالَ ابْنُ حَزْمٍ فِي الْمُحَلَّى: هَذَا",
+  "to": "عَنْ زِرٍّ عَنْهُ وَفِيهَا الْمُعَوِّذَتَانِ وَالْفَاتِحَةُ",
+  "keys": [
+   "هَذَا كَذِبٌ عَلَى ابْنِ مَسْعُودٍ وَمَوْضُوعٌ"
+  ],
+  "alts": [
+   "إِنَّمَا صَحَّ عَنْهُ قِرَاءَةُ عَاصِمٍ عَنْ زِرٍّ عَنْهُ"
+  ],
+  "label": "E",
+  "stance": "rejects",
+  "claim_en": "Ibn Hazm (quoted by al-Suyuti) rejects the report about Ibn Masud as a lie and forgery; Ibn Masud's authentic reading contains the mu'awwidhatan and al-Fatiha.",
+  "context": "Classical scholar quoted via al-Suyuti."
+ },
+ {
+  "id": "itq03",
+  "work": "suyuti_itqan_shamela",
+  "author": "Jalal al-Din al-Suyuti (d. 911 AH)",
+  "ref": "ج1 ص271 (Shamela page ids 264-264; al-Itqan, Egyptian General Book Authority ed. 1974 as on Shamela)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11728/264",
+  "passage": "قَدْ صَحَّ عَنِ ابْنِ مَسْعُودٍ إِنْكَارُ ذَلِكَ فَأَخْرَجَ أَحْمَدُ وَابْنُ حِبَّانَ عَنْهُ أَنَّهُ كَانَ لَا يَكْتُبُ الْمُعَوِّذَتَيْنِ فِي مُصْحَفِهِ",
+  "from_": "قَدْ صَحَّ عَنِ ابْنِ مَسْعُودٍ إِنْكَارُ",
+  "to": "كَانَ لَا يَكْتُبُ الْمُعَوِّذَتَيْنِ فِي مُصْحَفِهِ",
+  "keys": [
+   "كَانَ لَا يَكْتُبُ الْمُعَوِّذَتَيْنِ فِي مُصْحَفِهِ"
+  ],
+  "alts": [
+   "قَدْ صَحَّ عَنِ ابْنِ مَسْعُودٍ إِنْكَارُ ذَلِكَ"
+  ],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Ibn Hajar (quoted by al-Suyuti) states that it is established from Ibn Masud that he did not write the two mu'awwidhatan in his mushaf (reported by Ahmad and Ibn Hibban).",
+  "context": "Classical scholar quoted via al-Suyuti (Ibn Hajar, commentary on al-Bukhari). Ibn Hajar's wording concerns writing in the codex."
+ },
+ {
+  "id": "itq04",
+  "work": "suyuti_itqan_shamela",
+  "author": "Jalal al-Din al-Suyuti (d. 911 AH)",
+  "ref": "ج1 ص271 (Shamela page ids 264-264; al-Itqan, Egyptian General Book Authority ed. 1974 as on Shamela)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11728/264",
+  "passage": "لَمْ يَصِحَّ عَنْهُ أَنَّهَا لَيْسَتْ مِنَ الْقُرْآنِ وَلَا حُفِظَ عَنْهُ. إِنَّمَا حَكَّهَا وَأَسْقَطَهَا مِنْ مُصْحَفِهِ إِنْكَارًا لِكِتَابَتِهَا لَا جَحْدًا لِكَوْنِهَا قُرْآنًا",
+  "from_": "لَمْ يَصِحَّ عَنْهُ أَنَّهَا لَيْسَتْ مِنَ",
+  "to": "إِنْكَارًا لِكِتَابَتِهَا لَا جَحْدًا لِكَوْنِهَا قُرْآنًا",
+  "keys": [
+   "إِنَّمَا حَكَّهَا وَأَسْقَطَهَا مِنْ مُصْحَفِهِ إِنْكَارًا لِكِتَابَتِهَا"
+  ],
+  "alts": [
+   "لَمْ يَصِحَّ عَنْهُ أَنَّهَا لَيْسَتْ مِنَ الْقُرْآنِ"
+  ],
+  "label": "E",
+  "stance": "rejects",
+  "claim_en": "Qadi Abu Bakr al-Baqillani (quoted by al-Suyuti) holds that it is not established that Ibn Masud said they are not Qur'an; he struck them from his codex as a denial of writing them, not a denial of their Qur'anic status.",
+  "context": "Classical scholar quoted via al-Suyuti. Qualifies the Ibn Masud report."
+ },
+ {
+  "id": "itq05",
+  "work": "suyuti_itqan_shamela",
+  "author": "Jalal al-Din al-Suyuti (d. 911 AH)",
+  "ref": "ج1 ص271 (Shamela page ids 264-264; al-Itqan, Egyptian General Book Authority ed. 1974 as on Shamela)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11728/264",
+  "passage": "أَجْمَعَ الْمُسْلِمُونَ عَلَى أَنَّ الْمُعَوِّذَتَيْنِ وَالْفَاتِحَةَ مِنَ الْقُرْآنِ وَأَنَّ مَنْ جَحَدَ مِنْهَا شَيْئًا كَفَرَ وَمَا نُقِلَ عَنِ ابْنِ مَسْعُودٍ بَاطِلٌ لَيْسَ بِصَحِيحٍ",
+  "from_": "أَجْمَعَ الْمُسْلِمُونَ عَلَى أَنَّ الْمُعَوِّذَتَيْنِ وَالْفَاتِحَةَ",
+  "to": "عَنِ ابْنِ مَسْعُودٍ بَاطِلٌ لَيْسَ بِصَحِيحٍ",
+  "keys": [
+   "وَمَا نُقِلَ عَنِ ابْنِ مَسْعُودٍ بَاطِلٌ لَيْسَ بِصَحِيحٍ"
+  ],
+  "alts": [
+   "أَجْمَعَ الْمُسْلِمُونَ عَلَى أَنَّ الْمُعَوِّذَتَيْنِ وَالْفَاتِحَةَ مِنَ الْقُرْآنِ"
+  ],
+  "label": "E",
+  "stance": "rejects",
+  "claim_en": "Al-Nawawi (quoted by al-Suyuti) states that Muslims agree the two mu'awwidhatan and al-Fatiha are Qur'an, that whoever denies any of them is a disbeliever, and that what is reported from Ibn Masud is false.",
+  "context": "Classical scholar quoted via al-Suyuti."
+ },
+ {
+  "id": "itq06",
+  "work": "suyuti_itqan_shamela",
+  "author": "Jalal al-Din al-Suyuti (d. 911 AH)",
+  "ref": "ج1 ص272 (Shamela page ids 265-265; al-Itqan, Egyptian General Book Authority ed. 1974 as on Shamela)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11728/265",
+  "passage": "ظَنَّ ابْنُ مَسْعُودٍ أَنَّ الْمُعَوِّذَتَيْنِ لَيْسَتَا مِنَ الْقُرْآنِ لِأَنَّهُ رَأَى النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يُعَوِّذُ بِهِمَا الْحَسَنَ وَالْحُسَيْنَ فَأَقَامَ عَلَى ظَنِّهِ وَلَا يقول: إِنَّهُ أَصَابَ فِي ذَلِكَ وَأَخْطَأَ الْمُهَاجِرُونَ وَالْأَنْصَارُ قَالَ: وَأَمَّا إِسْقَاطُهُ الْفَاتِحَةَ مِنْ مُصْحَفِهِ فَلَيْسَ لِظَنِّهِ أَنَّهَا لَيْسَتْ مِنَ الْقُرْآنِ مَعَاذَ اللَّهِ! وَلَكِنَّهُ ذَهَبَ إِلَى أَنَّ الْقُرْآنَ إِنَّمَا كُتِبَ وَجُمِعَ بَيْنَ اللَّوْحَيْنِ مَخَافَةَ الشَّكِّ وَالنِّسْيَانِ وَالزِّيَادَةِ وَالنُّقْصَانِ وَرَأَى أَنَّ ذَلِكَ مَأْمُونٌ فِي سُورَةِ الْحَمْدُ لِقِصَرِهَا وَوُجُوبِ تَعَلُّمِهَا عَلَى كُلِّ وَاحِدٍ",
+  "from_": "ظَنَّ ابْنُ مَسْعُودٍ أَنَّ الْمُعَوِّذَتَيْنِ لَيْسَتَا",
+  "to": "لِقِصَرِهَا وَوُجُوبِ تَعَلُّمِهَا عَلَى كُلِّ وَاحِدٍ",
+  "keys": [
+   "فَلَيْسَ لِظَنِّهِ أَنَّهَا لَيْسَتْ مِنَ الْقُرْآنِ"
+  ],
+  "alts": [
+   "إِسْقَاطُهُ الْفَاتِحَةَ مِنْ مُصْحَفِهِ"
+  ],
+  "label": "E",
+  "stance": "reports others",
+  "claim_en": "Ibn Qutayba (quoted by al-Suyuti) says Ibn Masud held the mu'awwidhatan not to be Qur'an because he saw the Prophet use them as charms for al-Hasan and al-Husayn; but his omission of al-Fatiha from his codex was not from a belief that it is not Qur'an, it was from a view that the Qur'an was written and collected to guard against doubt, forgetting, addition and loss, and that this was safe in the short al-Fatiha.",
+  "context": "Classical scholar quoted via al-Suyuti. Explains the omission as a view about writing rather than denial."
+ },
+ {
+  "id": "itq07",
+  "work": "suyuti_itqan_shamela",
+  "author": "Jalal al-Din al-Suyuti (d. 911 AH)",
+  "ref": "ج1 ص272 (Shamela page ids 265-265; al-Itqan, Egyptian General Book Authority ed. 1974 as on Shamela)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11728/265",
+  "passage": "لم يُتَابِعِ ابْنَ مَسْعُودٍ عَلَى ذَلِكَ أَحَدٌ مِنَ الصَّحَابَةِ وَقَدْ صَحَّ أَنَّهُ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَرَأَ بِهِمَا فِي الصَّلَاةِ",
+  "from_": "لم يُتَابِعِ ابْنَ مَسْعُودٍ عَلَى ذَلِكَ",
+  "to": "عَلَيْهِ وَسَلَّمَ قَرَأَ بِهِمَا فِي الصَّلَاةِ",
+  "keys": [
+   "قَدْ صَحَّ أَنَّهُ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَرَأَ بِهِمَا فِي الصَّلَاةِ"
+  ],
+  "alts": [
+   "لم يُتَابِعِ ابْنَ مَسْعُودٍ عَلَى ذَلِكَ أَحَدٌ مِنَ الصَّحَابَةِ"
+  ],
+  "label": "E",
+  "stance": "rejects",
+  "claim_en": "Al-Bazzar (quoted by al-Suyuti) says no other Companion followed Ibn Masud in this, and that the Prophet is established to have recited both in prayer.",
+  "context": "Classical scholar quoted via al-Suyuti."
+ },
+ {
+  "id": "itq08",
+  "work": "suyuti_itqan_shamela",
+  "author": "Jalal al-Din al-Suyuti (d. 911 AH)",
+  "ref": "ج1 ص272 (Shamela page ids 265-265; al-Itqan, Egyptian General Book Authority ed. 1974 as on Shamela)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11728/265",
+  "passage": "فَقَوْلُ مَنْ قَالَ إِنَّهُ كَذِبٌ عَلَيْهِ مَرْدُودٌ وَالطَّعْنُ فِي الرِّوَايَاتِ الصَّحِيحَةِ بِغَيْرِ مُسْتَنَدٍ لَا يُقْبَلُ بَلِ الرِّوَايَاتُ صَحِيحَةٌ وَالتَّأْوِيلُ مُحْتَمَلٌ. قَالَ: وَقَدْ أَوَّلَهُ الْقَاضِي وَغَيْرُهُ عَلَى إِنْكَارِ الْكِتَابَةِ كَمَا سَبَقَ. قَالَ: وَهُوَ تَأْوِيلٌ حَسَنٌ إِلَّا أَنَّ الرِّوَايَةَ الصَّرِيحَةَ الَّتِي ذَكَرْتُهَا تَدْفَعُ ذَلِكَ حَيْثُ جَاءَ فِيهَا: \"وَيَقُولُ: إِنَّهُمَا لَيْسَتَا مِنْ كِتَابِ اللَّهِ",
+  "from_": "فَقَوْلُ مَنْ قَالَ إِنَّهُ كَذِبٌ عَلَيْهِ",
+  "to": "\"وَيَقُولُ: إِنَّهُمَا لَيْسَتَا مِنْ كِتَابِ اللَّهِ",
+  "keys": [
+   "الرِّوَايَةَ الصَّرِيحَةَ الَّتِي ذَكَرْتُهَا تَدْفَعُ ذَلِكَ"
+  ],
+  "alts": [
+   "التَّأْوِيلُ مُحْتَمَلٌ",
+   "أَوَّلَهُ الْقَاضِي وَغَيْرُهُ عَلَى إِنْكَارِ الْكِتَابَةِ"
+  ],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Ibn Hajar (quoted by al-Suyuti) holds the reports are sound and the report that Ibn Masud said the two surahs are not from God's Book is explicit, so the interpretation that only writing was denied is not sufficient.",
+  "context": "Classical scholar quoted via al-Suyuti. Ibn Hajar calls the writing-only interpretation (by al-Qadi and others) a good one but says the explicit report refutes it."
+ },
+ {
+  "id": "itq09",
+  "work": "suyuti_itqan_shamela",
+  "author": "Jalal al-Din al-Suyuti (d. 911 AH)",
+  "ref": "ج1 ص273 (Shamela page ids 266-266; al-Itqan, Egyptian General Book Authority ed. 1974 as on Shamela)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11728/266",
+  "passage": "قُلْتُ وَإِسْقَاطُهُ الْفَاتِحَةَ مِنْ مُصْحَفِهِ أَخْرَجَهُ أَبُو عُبَيْدٍ بِسَنَدٍ صَحِيحٍ كَمَا تَقَدَّمَ فِي أَوَائِلِ النَّوْعِ التَّاسِعَ عَشَرَ",
+  "from_": "قُلْتُ وَإِسْقَاطُهُ الْفَاتِحَةَ مِنْ مُصْحَفِهِ أَخْرَجَهُ",
+  "to": "تَقَدَّمَ فِي أَوَائِلِ النَّوْعِ التَّاسِعَ عَشَرَ",
+  "keys": [
+   "إِسْقَاطُهُ الْفَاتِحَةَ مِنْ مُصْحَفِهِ أَخْرَجَهُ أَبُو عُبَيْدٍ بِسَنَدٍ صَحِيحٍ"
+  ],
+  "alts": [
+   "بِسَنَدٍ صَحِيحٍ كَمَا تَقَدَّمَ"
+  ],
+  "label": "C",
+  "stance": "own claim",
+  "claim_en": "Al-Suyuti himself states ('qultu') that Ibn Masud's omission of al-Fatiha from his codex is reported by Abu 'Ubayd with a sound chain.",
+  "context": "Al-Suyuti's own voice; the claim is about one codex, not the Qur'an as a whole."
+ },
+ {
+  "id": "itq10",
+  "work": "suyuti_itqan_shamela",
+  "author": "Jalal al-Din al-Suyuti (d. 911 AH)",
+  "ref": "ج1 ص225-226 (Shamela page ids 218-219; al-Itqan, Egyptian General Book Authority ed. 1974 as on Shamela)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11728/218 and https://shamela.ws/ajax/pageContent/11728/219",
+  "passage": "وَفِي مُصْحَفِ ابْنِ مَسْعُودٍ مِائَةٌ وَاثْنَتَا عَشْرَةَ سُورَةٍ لِأَنَّهُ لَمْ يَكْتُبِ الْمُعَوِّذَتَيْنِ",
+  "from_": "وَفِي مُصْحَفِ ابْنِ مَسْعُودٍ مِائَةٌ وَاثْنَتَا",
+  "to": "عَشْرَةَ سُورَةٍ لِأَنَّهُ لَمْ يَكْتُبِ الْمُعَوِّذَتَيْنِ",
+  "keys": [
+   "مِائَةٌ وَاثْنَتَا عَشْرَةَ سُورَةٍ"
+  ],
+  "alts": [
+   "لِأَنَّهُ لَمْ يَكْتُبِ الْمُعَوِّذَتَيْنِ"
+  ],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Al-Suyuti states that Ibn Masud's codex had 112 suras because he did not write the two mu'awwidhatan.",
+  "context": "Al-Suyuti's text (reporting the codex's contents within his section on the number of suras)."
+ },
+ {
+  "id": "itq11",
+  "work": "suyuti_itqan_shamela",
+  "author": "Jalal al-Din al-Suyuti (d. 911 AH)",
+  "ref": "ج1 ص222-223 (Shamela page ids 215-216; al-Itqan, Egyptian General Book Authority ed. 1974 as on Shamela)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11728/215 and https://shamela.ws/ajax/pageContent/11728/216",
+  "passage": "هَذَا تَأْلِيفُ مُصْحَفِ أُبَيٍّ الْحَمْدُ ثُمَّ الْبَقَرَةُ ثُمَّ النِّسَاءُ ثُمَّ آلُ عِمْرَانَ ثُمَّ الْأَنْعَامُ ثُمَّ الْأَعْرَافُ ثُمَّ الْمَائِدَةُ ثُمَّ يُونُسُ ثُمَّ الْأَنْفَالُ ثُمَّ بَرَاءَةٌ ثُمَّ هَوَّدٌ ثُمَّ مَرْيَمُ ثُمَّ الشُّعَرَاءُ ثُمَّ الْحَجُّ ثُمَّ يُوسُفُ ثُمَّ الْكَهْفُ ثُمَّ النَّحْلُ ثم الأحزاب ثم بني إِسْرَائِيلَ ثُمَّ الزُّمَرُ أَوَّلُهَا حم ثُمَّ طه ثُمَّ الْأَنْبِيَاءُ ثُمَّ النُّورُ ثُمَّ الْمُؤْمِنُونَ ثُمَّ سَبَأٌ ثُمَّ الْعَنْكَبُوتُ ثُمَّ الْمُؤْمِنُ ثُمَّ الرَّعْدُ ثُمَّ الْقَصَصُ ثُمَّ النَّمْلُ، ثُمَّ الصَّافَّاتُ ثُمَّ ص ثُمَّ يس ثُمَّ الحجر ثم حمعسق ثُمَّ الرُّومُ ثُمَّ الْحَدِيدُ ثُمَّ الْفَتْحُ ثُمَّ الْقِتَالُ ثُمَّ الظِّهَارُ ثُمَّ تَبَارَكَ الْمُلْكُ ثُمَّ السَّجْدَةُ ثُمَّ إِنَّا أَرْسَلْنَا نُوحًا ثُمَّ الْأَحْقَافُ ثُمَّ ق ثُمَّ الرَّحْمَنُ ثُمَّ الْوَاقِعَةُ ثُمَّ الْجِنُّ ثُمَّ النَّجْمُ ثُمَّ سَأَلَ سَائِلٌ ثُمَّ الْمُزَّمِّلُ ثُمَّ الْمُدَّثِّرُ ثُمَّ اقْتَرَبَتْ ثُمَّ حم الدُّخَانُ ثُمَّ لُقْمَانُ ثُمَّ حم الْجَاثِيَةُ ثُمَّ الطَّوْرُ ثُمَّ الذَّارِيَاتُ ثُمَّ ن ثُمَّ الْحَاقَّةُ ثُمَّ الْحَشْرُ ثُمَّ الْمُمْتَحَنَةُ ثُمَّ الْمُرْسَلَاتُ ثُمَّ عَمَّ يَتَسَاءَلُونَ ثُمَّ لَا أُقْسِمُ بِيَوْمِ الْقِيَامَةِ ثُمَّ إِذَا الشَّمْسُ كُوِّرَتْ ثُمَّ يا أيها إِذَا طَلَّقْتُمُ النِّسَاءَ ثُمَّ النَّازِعَاتُ ثُمَّ التَّغَابُنُ ثُمَّ عَبَسَ ثُمَّ الْمُطَفِّفِينَ ثُمَّ إِذَا السَّمَاءُ انْشَقَّتْ ثُمَّ وَالتِّينِ وَالزَّيْتُونِ ثُمَّ اقْرَأْ بِاسْمِ رَبِّكَ ثُمَّ الْحُجُرَاتُ ثُمَّ الْمُنَافِقُونَ ثُمَّ الْجُمُعَةُ ثُمَّ لِمَ تُحَرِّمُ ثُمَّ الْفَجْرُ ثُمَّ لَا أُقْسِمُ بِهَذَا الْبَلَدِ ثُمَّ وَاللَّيْلِ ثُمَّ إِذَا السَّمَاءُ انْفَطَرَتْ ثُمَّ وَالشَّمْسِ وَضُحَاهَا ثُمَّ وَالسَّمَاءِ وَالطَّارِقِ ثُمَّ سَبِّحِ اسْمَ رَبِّكَ ثُمَّ الْغَاشِيَةُ ثُمَّ الصَّفُّ ثُمَّ سُورَةُ أَهْلِ الْكِتَابِ وَهِيَ لَمْ يَكُنْ ثُمَّ الضُّحَى ثُمَّ أَلَمْ نَشْرَحْ ثُمَّ الْقَارِعَةُ ثُمَّ التَّكَاثُرُ ثُمَّ الْعَصْرُ ثُمَّ سُورَةُ الْخُلْعِ ثُمَّ سُورَةُ الْحَفْدِ ثُمَّ وَيْلٌ لِكُلِّ هُمَزَةٍ",
+  "from_": "هَذَا تَأْلِيفُ مُصْحَفِ أُبَيٍّ الْحَمْدُ ثُمَّ",
+  "to": "سُورَةُ الْحَفْدِ ثُمَّ وَيْلٌ لِكُلِّ هُمَزَةٍ",
+  "keys": [
+   "ثُمَّ سُورَةُ الْخُلْعِ",
+   "ثُمَّ سُورَةُ الْحَفْدِ"
+  ],
+  "alts": [],
+  "label": "D",
+  "stance": "reports others",
+  "claim_en": "Ibn Ashta (quoted by al-Suyuti, from Abu Ja'far al-Kufi) gives the order of the mushaf of Ubayy b. Ka'b, in which Surat al-Khal' and Surat al-Hafd appear between al-'Asr and Wayl li-kull humazah.",
+  "context": "Classical scholar quoted via al-Suyuti. Ordering evidence only; not a claim about wording."
+ },
+ {
+  "id": "itq12",
+  "work": "suyuti_itqan_shamela",
+  "author": "Jalal al-Din al-Suyuti (d. 911 AH)",
+  "ref": "ج3 ص85 (Shamela page ids 849-849; al-Itqan, Egyptian General Book Authority ed. 1974 as on Shamela)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11728/849",
+  "passage": "الْحُسَيْنُ بْنُ الْمُنَادِي فِي كِتَابِهِ\" النَّاسِخِ وَالْمَنْسُوخِ\" وَمِمَّا رُفِعَ رَسْمُهُ مِنَ الْقُرْآنِ وَلَمْ يُرْفَعْ مِنَ الْقُلُوبِ حِفْظُهُ سُورَتَا الْقُنُوتِ فِي الْوِتْرِ وَتُسَمَّى سُورَتَيِ الْخَلْعِ وَالْحَفْدِ",
+  "from_": "الْحُسَيْنُ بْنُ الْمُنَادِي فِي كِتَابِهِ\" النَّاسِخِ",
+  "to": "فِي الْوِتْرِ وَتُسَمَّى سُورَتَيِ الْخَلْعِ وَالْحَفْدِ",
+  "keys": [
+   "مِمَّا رُفِعَ رَسْمُهُ مِنَ الْقُرْآنِ وَلَمْ يُرْفَعْ مِنَ الْقُلُوبِ حِفْظُهُ"
+  ],
+  "alts": [
+   "سُورَتَا الْقُنُوتِ فِي الْوِتْرِ"
+  ],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Al-Husayn b. al-Munadi (quoted by al-Suyuti in his Kitab al-Nasikh wa-l-mansukh) says that two surahs of qunut in the witr, called al-Khal' and al-Hafd, were removed from the written text (rasm) but not from memory.",
+  "context": "Classical scholar quoted via al-Suyuti. Al-Suyuti records the claim within his section on abrogated text."
+ },
+ {
+  "id": "itq13",
+  "work": "suyuti_itqan_shamela",
+  "author": "Jalal al-Din al-Suyuti (d. 911 AH)",
+  "ref": "ج3 ص85 (Shamela page ids 849-849; al-Itqan, Egyptian General Book Authority ed. 1974 as on Shamela)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11728/849",
+  "passage": "حَكَى الْقَاضِي أَبُو بَكْرٍ فِي الِانْتِصَارِ عَنْ قَوْمٍ: إِنْكَارَ هَذَا الضَّرْبِ لِأَنَّ الْأَخْبَارَ فِيهِ أَخْبَارُ آحَادٍ وَلَا يَجُوزُ الْقَطْعُ عَلَى إِنْزَالِ قُرْآنٍ ونسخه بأخار آحَادٍ لَا حُجَّةَ فِيهَا",
+  "from_": "حَكَى الْقَاضِي أَبُو بَكْرٍ فِي الِانْتِصَارِ",
+  "to": "ونسخه بأخار آحَادٍ لَا حُجَّةَ فِيهَا",
+  "keys": [
+   "إِنْكَارَ هَذَا الضَّرْبِ لِأَنَّ الْأَخْبَارَ فِيهِ أَخْبَارُ آحَادٍ"
+  ],
+  "alts": [
+   "لَا يَجُوزُ الْقَطْعُ عَلَى إِنْزَالِ قُرْآنٍ ونسخه بأخار آحَادٍ"
+  ],
+  "label": "E",
+  "stance": "rejects",
+  "claim_en": "Al-Qadi Abu Bakr (al-Baqillani), in al-Intisar, reports that some people deny this kind of abrogation, since the reports are single-transmission (ahad) and cannot establish a Qur'anic text.",
+  "context": "Classical scholar quoted via al-Suyuti; he reports the denial of others."
+ },
+ {
+  "id": "itq14",
+  "work": "suyuti_itqan_shamela",
+  "author": "Jalal al-Din al-Suyuti (d. 911 AH)",
+  "ref": "ج3 ص85 (Shamela page ids 849-849; al-Itqan, Egyptian General Book Authority ed. 1974 as on Shamela)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11728/849",
+  "passage": "وَقَالَ أَبُو بَكْرٍ الرَّازِيُّ نَسْخُ الرَّسْمِ وَالتِّلَاوَةِ إِنَّمَا يَكُونُ بِأَنْ يُنْسِيَهُمُ اللَّهُ إِيَّاهُ وَيَرْفَعَهُ مِنْ أَوْهَامِهِمْ وَيَأْمُرَهُمْ بِالْإِعْرَاضِ عَنْ تِلَاوَتِهِ وَكَتْبِهِ فِي الْمُصْحَفِ فَيَنْدَرِسُ عَلَى الْأَيَّامِ كَسَائِرِ كُتُبِ اللَّهِ الْقَدِيمَةِ الَّتِي ذَكَرَهَا فِي كِتَابِهِ فِي قَوْلِهِ: {إِنَّ هَذَا لَفِي الصُّحُفِ الأُولَى صُحُفِ إِبْرَاهِيمَ وَمُوسَى} وَلَا يُعْرَفُ الْيَوْمَ مِنْهَا شَيْءٌ ثُمَّ لَا يَخْلُو ذَلِكَ مِنْ أَنْ يَكُونَ فِي زَمَانِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ حَتَّى إِذَا تُوُفِّيَ لَا يَكُونُ مَتْلُوًّا فِي الْقُرْآنِ أَوْ يَمُوتُ وَهُوَ مَتْلُوٌّ مَوْجُودٌ بِالرَّسْمِ ثُمَّ يُنْسِيهِ اللَّهُ النَّاسَ وَيَرْفَعُهُ مِنْ أَذْهَانِهِمْ وَغَيْرُ جَائِزٍ نَسْخُ شَيْءٍ مِنَ الْقُرْآنِ بَعْدَ وَفَاةِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ انْتَهَى",
+  "from_": "وَقَالَ أَبُو بَكْرٍ الرَّازِيُّ نَسْخُ الرَّسْمِ",
+  "to": "النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ انْتَهَى",
+  "keys": [
+   "نَسْخُ الرَّسْمِ وَالتِّلَاوَةِ إِنَّمَا يَكُونُ بِأَنْ يُنْسِيَهُمُ اللَّهُ إِيَّاهُ"
+  ],
+  "alts": [
+   "وَغَيْرُ جَائِزٍ نَسْخُ شَيْءٍ مِنَ الْقُرْآنِ بَعْدَ وَفَاةِ النَّبِيِّ"
+  ],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Abu Bakr al-Razi (quoted by al-Suyuti) says abrogation of the written text and recitation happens when God makes people forget it and removes it from their minds, and that abrogation of any Qur'anic text after the Prophet's death is not permitted.",
+  "context": "Classical scholar quoted via al-Suyuti. The second clause (no abrogation after death) is a limitation of the first."
+ },
+ {
+  "id": "itq15",
+  "work": "suyuti_itqan_shamela",
+  "author": "Jalal al-Din al-Suyuti (d. 911 AH)",
+  "ref": "ج3 ص86-87 (Shamela page ids 850-851; al-Itqan, Egyptian General Book Authority ed. 1974 as on Shamela)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11728/850 and https://shamela.ws/ajax/pageContent/11728/851",
+  "passage": "وَخَطَرَ لِي فِي ذَلِكَ نُكْتَةٌ حَسَنَةٌ وَهُوَ أَنَّ سَبَبَهُ التَّخْفِيفُ عَلَى الْأُمَّةِ بِعَدَمِ اشْتِهَارِ تِلَاوَتِهَا وَكِتَابَتِهَا فِي الْمُصْحَفِ وَإِنْ كَانَ حُكْمُهَا بَاقِيًا لِأَنَّهُ أَثْقَلُ الْأَحْكَامِ وَأَشَدُّهَا، وَأَغْلَظُ الْحُدُودِ",
+  "from_": "وَخَطَرَ لِي فِي ذَلِكَ نُكْتَةٌ حَسَنَةٌ",
+  "to": "لِأَنَّهُ أَثْقَلُ الْأَحْكَامِ وَأَشَدُّهَا، وَأَغْلَظُ الْحُدُودِ",
+  "keys": [
+   "سَبَبَهُ التَّخْفِيفُ عَلَى الْأُمَّةِ بِعَدَمِ اشْتِهَارِ تِلَاوَتِهَا وَكِتَابَتِهَا فِي الْمُصْحَفِ"
+  ],
+  "alts": [
+   "وَإِنْ كَانَ حُكْمُهَا بَاقِيًا"
+  ],
+  "label": "C",
+  "stance": "own claim",
+  "claim_en": "Al-Suyuti himself ('qultu') proposes that the reason for abrogating the recitation of the stoning verse is to lighten the burden on the community by not publicising its recitation and writing in the mushaf, although its ruling remains.",
+  "context": "Al-Suyuti's own proposed explanation (not a report). Context: the stoning verse ('al-shaykh wa-l-shaykha')."
+ },
+ {
+  "id": "itq16",
+  "work": "suyuti_itqan_shamela",
+  "author": "Jalal al-Din al-Suyuti (d. 911 AH)",
+  "ref": "ج3 ص86 (Shamela page ids 850-850; al-Itqan, Egyptian General Book Authority ed. 1974 as on Shamela)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11728/850",
+  "passage": "فَيُسْتَفَادُ مِنْ هَذَا الْحَدِيثِ السَّبَبُ فِي نَسْخِ تِلَاوَتِهَا لِكَوْنِ الْعَمَلِ عَلَى غَيْرِ الظَّاهِرِ مِنْ عُمُومِهَا",
+  "from_": "فَيُسْتَفَادُ مِنْ هَذَا الْحَدِيثِ السَّبَبُ فِي",
+  "to": "الْعَمَلِ عَلَى غَيْرِ الظَّاهِرِ مِنْ عُمُومِهَا",
+  "keys": [
+   "السَّبَبُ فِي نَسْخِ تِلَاوَتِهَا"
+  ],
+  "alts": [
+   "لِكَوْنِ الْعَمَلِ عَلَى غَيْرِ الظَّاهِرِ مِنْ عُمُومِهَا"
+  ],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Ibn Hajar (quoted by al-Suyuti, Sharh al-Minhaj) says the report about the stoning verse shows the reason for abrogating its recitation: practice went against the apparent generality of the verse.",
+  "context": "Classical scholar quoted via al-Suyuti."
+ },
+ {
+  "id": "itq17",
+  "work": "suyuti_itqan_shamela",
+  "author": "Jalal al-Din al-Suyuti (d. 911 AH)",
+  "ref": "ج3 ص86 (Shamela page ids 850-850; al-Itqan, Egyptian General Book Authority ed. 1974 as on Shamela)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11728/850",
+  "passage": "وَمِنْ هُنَا أَنْكَرَ ابْنُ ظَفَرٍ فِي \" الْيَنْبُوعِ \" عَدَّ هَذَا مِمَّا نُسِخَ تِلَاوَتُهُ قَالَ لِأَنَّ خَبَرَ الْوَاحِدِ لَا يُثْبِتُ الْقُرْآنَ قَالَ وَإِنَّمَا هذا الْمُنْسَأِ لَا النَّسْخِ",
+  "from_": "وَمِنْ هُنَا أَنْكَرَ ابْنُ ظَفَرٍ فِي",
+  "to": "قَالَ وَإِنَّمَا هذا الْمُنْسَأِ لَا النَّسْخِ",
+  "keys": [
+   "إِنَّمَا هذا الْمُنْسَأِ لَا النَّسْخِ"
+  ],
+  "alts": [
+   "لِأَنَّ خَبَرَ الْوَاحِدِ لَا يُثْبِتُ الْقُرْآنَ"
+  ],
+  "label": "E",
+  "stance": "rejects",
+  "claim_en": "Ibn Zafar (quoted by al-Suyuti, in al-Yanbu') denies that the stoning verse is an example of abrogated recitation, because a single report cannot establish Qur'an; he calls it 'munsa'' (a term glossed here as 'postponed' or 'deferred') rather than naskh.",
+  "context": "Classical scholar quoted via al-Suyuti."
+ },
+ {
+  "id": "itq18",
+  "work": "suyuti_itqan_shamela",
+  "author": "Jalal al-Din al-Suyuti (d. 911 AH)",
+  "ref": "ج3 ص87 (Shamela page ids 851-851; al-Itqan, Egyptian General Book Authority ed. 1974 as on Shamela)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11728/851",
+  "passage": "فَالْجَوَابُ أَنْ نقول كُلُّ مَا ثَبَتَ الْآنَ فِي الْقُرْآنِ وَلَمْ يُنْسَخْ فَهُوَ بَدَلٌ مِمَّا قَدْ نُسِخَتْ تِلَاوَتُهُ وَكُلُّ مَا نَسَخَهُ اللَّهُ مِنَ الْقُرْآنِ مِمَّا لَا نَعْلَمُهُ الْآنَ فَقَدْ أَبْدَلَهُ بِمَا عَلِمْنَاهُ وَتَوَاتَرَ إِلَيْنَا لَفْظُهُ وَمَعْنَاهُ",
+  "from_": "فَالْجَوَابُ أَنْ نقول كُلُّ مَا ثَبَتَ",
+  "to": "بِمَا عَلِمْنَاهُ وَتَوَاتَرَ إِلَيْنَا لَفْظُهُ وَمَعْنَاهُ",
+  "keys": [
+   "فَهُوَ بَدَلٌ مِمَّا قَدْ نُسِخَتْ تِلَاوَتُهُ"
+  ],
+  "alts": [
+   "فَقَدْ أَبْدَلَهُ بِمَا عَلِمْنَاهُ"
+  ],
+  "label": "E",
+  "stance": "reports others",
+  "claim_en": "Ibn al-Hassar (quoted by al-Suyuti) answers the question how abrogation can occur without a replacement: what now stands in the Qur'an is the replacement for the abrogated recitation, and what God abrogated and we no longer know has been replaced by what we know.",
+  "context": "Classical scholar quoted via al-Suyuti. This is a qualification of the claim that abrogated text was lost without trace."
+ },
+ {
+  "id": "itq19",
+  "work": "suyuti_itqan_shamela",
+  "author": "Jalal al-Din al-Suyuti (d. 911 AH)",
+  "ref": "ج3 ص82 (Shamela page ids 846-846; al-Itqan, Egyptian General Book Authority ed. 1974 as on Shamela)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11728/846",
+  "passage": "كَانَتْ سُورَةُ الْأَحْزَابِ تُقْرَأُ فِي زَمَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِائَتَيْ آيَةٍ فَلَمَّا كَتَبَ عُثْمَانُ الْمَصَاحِفَ لَمْ يُقَدَّرْ مِنْهَا إِلَّا عَلَى مَا هُوَ الْآنَ",
+  "from_": "كَانَتْ سُورَةُ الْأَحْزَابِ تُقْرَأُ فِي زَمَنِ",
+  "to": "مِنْهَا إِلَّا عَلَى مَا هُوَ الْآنَ",
+  "keys": [
+   "مِائَتَيْ آيَةٍ",
+   "لَمْ يُقَدَّرْ مِنْهَا إِلَّا عَلَى مَا هُوَ الْآنَ"
+  ],
+  "alts": [
+   "فَلَمَّا كَتَبَ عُثْمَانُ الْمَصَاحِفَ"
+  ],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Aisha (through a chain quoted by al-Suyuti) says Surat al-Ahzab was read at 200 verses in the Prophet's time and that after 'Uthman had the codices written, only what is now there could be counted.",
+  "context": "Report of the classical tradition quoted by al-Suyuti, with its isnad. Reports others."
+ },
+ {
+  "id": "itq20",
+  "work": "suyuti_itqan_shamela",
+  "author": "Jalal al-Din al-Suyuti (d. 911 AH)",
+  "ref": "ج3 ص82 (Shamela page ids 846-846; al-Itqan, Egyptian General Book Authority ed. 1974 as on Shamela)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11728/846",
+  "passage": "كَأَيٍّ تَعُدُّ سُورَةَ الْأَحْزَابِ قُلْتُ اثْنَتَيْنِ وَسَبْعِينَ آيَةً أَوْ ثَلَاثَةً وَسَبْعِينَ آيَةً قَالَ إِنْ كَانَتْ لَتَعْدِلُ سُورَةَ الْبَقَرَةِ وَإِنْ كُنَّا لَنَقْرَأُ فِيهَا آيَةَ الرَّجْمِ",
+  "from_": "كَأَيٍّ تَعُدُّ سُورَةَ الْأَحْزَابِ قُلْتُ اثْنَتَيْنِ",
+  "to": "وَإِنْ كُنَّا لَنَقْرَأُ فِيهَا آيَةَ الرَّجْمِ",
+  "keys": [
+   "وَإِنْ كُنَّا لَنَقْرَأُ فِيهَا آيَةَ الرَّجْمِ"
+  ],
+  "alts": [
+   "إِنْ كَانَتْ لَتَعْدِلُ سُورَةَ الْبَقَرَةِ"
+  ],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Ubayy b. Ka'b (through a chain quoted by al-Suyuti) states that Surat al-Ahzab was as long as al-Baqara and that they used to recite the stoning verse in it.",
+  "context": "Report quoted via al-Suyuti with isnad."
+ },
+ {
+  "id": "itq21",
+  "work": "suyuti_itqan_shamela",
+  "author": "Jalal al-Din al-Suyuti (d. 911 AH)",
+  "ref": "ج3 ص82 (Shamela page ids 846-846; al-Itqan, Egyptian General Book Authority ed. 1974 as on Shamela)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11728/846",
+  "passage": "قَرَأَ عَلَيَّ أَبِي وَهُوَ ابْنُ ثَمَانِينَ سَنَةً فِي مُصْحَفِ عَائِشَةَ \" إِنَّ اللَّهَ وملائكته يصلون على النبي يأيها الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا تَسْلِيمًا وَعَلَى الَّذِينَ يُصَلُّونَ الصُّفُوفَ الْأُوَلَ \" قَالَتْ قَبْلَ: أَنْ يُغَيِّرَ عُثْمَانُ الْمَصَاحِفَ",
+  "from_": "قَرَأَ عَلَيَّ أَبِي وَهُوَ ابْنُ ثَمَانِينَ",
+  "to": "قَالَتْ قَبْلَ: أَنْ يُغَيِّرَ عُثْمَانُ الْمَصَاحِفَ",
+  "keys": [
+   "فِي مُصْحَفِ عَائِشَةَ"
+  ],
+  "alts": [
+   "قَبْلَ: أَنْ يُغَيِّرَ عُثْمَانُ الْمَصَاحِفَ"
+  ],
+  "label": "D",
+  "stance": "reports others",
+  "claim_en": "A transmitter (quoting Hamida bint Abi Yunus) reports that her father read to her from the codex of Aisha, which contains a variant wording (with 'al-saff al-awwal'), and that this was before 'Uthman changed the codices.",
+  "context": "Report quoted by al-Suyuti with isnad; descriptive evidence of codex variation before 'Uthman's copies."
+ },
+ {
+  "id": "itq22",
+  "work": "suyuti_itqan_shamela",
+  "author": "Jalal al-Din al-Suyuti (d. 911 AH)",
+  "ref": "ج3 ص83 (Shamela page ids 847-847; al-Itqan, Egyptian General Book Authority ed. 1974 as on Shamela)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11728/847",
+  "passage": "نَزَلَتْ سُورَةٌ نَحْوَ بَرَاءَةَ ثُمَّ رُفِعَتْ وَحُفِظَ مِنْهَا",
+  "from_": "نَزَلَتْ سُورَةٌ نَحْوَ بَرَاءَةَ ثُمَّ رُفِعَتْ",
+  "to": "نَحْوَ بَرَاءَةَ ثُمَّ رُفِعَتْ وَحُفِظَ مِنْهَا",
+  "keys": [
+   "نَزَلَتْ سُورَةٌ نَحْوَ بَرَاءَةَ ثُمَّ رُفِعَتْ"
+  ],
+  "alts": [
+   "وَحُفِظَ مِنْهَا"
+  ],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Abu Musa al-Ash'ari (through a chain quoted by al-Suyuti) reports that a surah like Bara'a was revealed and then lifted, and some of it was remembered.",
+  "context": "Report quoted via al-Suyuti."
+ },
+ {
+  "id": "itq23",
+  "work": "suyuti_itqan_shamela",
+  "author": "Jalal al-Din al-Suyuti (d. 911 AH)",
+  "ref": "ج3 ص84 (Shamela page ids 848-848; al-Itqan, Egyptian General Book Authority ed. 1974 as on Shamela)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11728/848",
+  "passage": "قَالَ عُمَرُ لِعَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ: أَلَمْ تَجِدْ فِيمَا أُنْزِلَ عَلَيْنَا \" أَنْ جَاهِدُوا كَمَا جَاهَدْتُمْ أَوَّلَ مَرَّةٍ \" فَإِنَّا لَا نَجِدُهَا قَالَ: أُسْقِطَتْ فِيمَا أُسْقِطَ مِنَ الْقُرْآنِ",
+  "from_": "قَالَ عُمَرُ لِعَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ:",
+  "to": "قَالَ: أُسْقِطَتْ فِيمَا أُسْقِطَ مِنَ الْقُرْآنِ",
+  "keys": [
+   "أُسْقِطَتْ فِيمَا أُسْقِطَ مِنَ الْقُرْآنِ"
+  ],
+  "alts": [
+   "أَنْ جَاهِدُوا كَمَا جَاهَدْتُمْ أَوَّلَ مَرَّةٍ"
+  ],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Umar (quoted by al-Suyuti, via al-Miswar b. Makhrama) asks 'Abd al-Rahman b. 'Awf whether a phrase ('that strive as you strove the first time') is in what was revealed to them; he is told it was 'dropped among what was dropped from the Qur'an'.",
+  "context": "Report quoted via al-Suyuti; the answer is given in the report."
+ },
+ {
+  "id": "itq24",
+  "work": "suyuti_itqan_shamela",
+  "author": "Jalal al-Din al-Suyuti (d. 911 AH)",
+  "ref": "ج3 ص84 (Shamela page ids 848-848; al-Itqan, Egyptian General Book Authority ed. 1974 as on Shamela)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11728/848",
+  "passage": "قَالَ عُمَرُ كُنَّا نَقْرَأُ \" لَا تَرْغَبُوا عَنْ آبَائِكُمْ فَإِنَّهُ كُفْرٌ بِكُمْ \" ثُمَّ قَالَ لِزَيْدِ بْنِ ثَابِتٍ أَكَذَلِكَ قَالَ: نَعَمْ",
+  "from_": "قَالَ عُمَرُ كُنَّا نَقْرَأُ \" لَا",
+  "to": "لِزَيْدِ بْنِ ثَابِتٍ أَكَذَلِكَ قَالَ: نَعَمْ",
+  "keys": [
+   "كُنَّا نَقْرَأُ"
+  ],
+  "alts": [
+   "لَا تَرْغَبُوا عَنْ آبَائِكُمْ"
+  ],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Umar (quoted by al-Suyuti) says they used to read 'do not turn away from your fathers, for it is disbelief in you', and asks Zayd b. Thabit whether that was so; Zayd says yes.",
+  "context": "Report quoted via al-Suyuti."
+ },
+ {
+  "id": "itq25",
+  "work": "suyuti_itqan_shamela",
+  "author": "Jalal al-Din al-Suyuti (d. 911 AH)",
+  "ref": "ج3 ص84 (Shamela page ids 848-848; al-Itqan, Egyptian General Book Authority ed. 1974 as on Shamela)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11728/848",
+  "passage": "قَرَأَ رَجُلَانِ سُورَةً أَقْرَأَهُمَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَكَانَا يَقْرَآنِ بِهَا فَقَامَا ذَاتَ لَيْلَةٍ يُصَلِّيَانِ فَلَمْ يَقْدِرَا مِنْهَا عَلَى حَرْفٍ فَأَصْبَحَا غَادِيَيْنِ عَلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَذَكَرَا ذَلِكَ لَهُ فَقَالَ: إِنَّهَا مِمَّا نُسِخَ فَالْهُوَا عَنْهَا",
+  "from_": "قَرَأَ رَجُلَانِ سُورَةً أَقْرَأَهُمَا رَسُولُ اللَّهِ",
+  "to": "فَقَالَ: إِنَّهَا مِمَّا نُسِخَ فَالْهُوَا عَنْهَا",
+  "keys": [
+   "إِنَّهَا مِمَّا نُسِخَ"
+  ],
+  "alts": [
+   "فَالْهُوَا عَنْهَا"
+  ],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "A report (quoted by al-Suyuti from al-Tabarani) says two men recited a surah the Prophet taught them but could not recall any of it at night; the Prophet said it had been abrogated and told them to forget it.",
+  "context": "Report quoted via al-Suyuti."
+ },
+ {
+  "id": "itq26",
+  "work": "suyuti_itqan_shamela",
+  "author": "Jalal al-Din al-Suyuti (d. 911 AH)",
+  "ref": "ج3 ص84 (Shamela page ids 848-848; al-Itqan, Egyptian General Book Authority ed. 1974 as on Shamela)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11728/848",
+  "passage": "وَنَزَلَ فِيهِمْ قُرْآنٌ قَرَأْنَاهُ حَتَّى رُفِعَ \" أَنْ بَلِّغُوا عَنَّا قَوْمَنَا أَنَّا لَقِينَا رَبَّنَا فَرَضِيَ عَنَّا وَأَرْضَانَا",
+  "from_": "وَنَزَلَ فِيهِمْ قُرْآنٌ قَرَأْنَاهُ حَتَّى رُفِعَ",
+  "to": "أَنَّا لَقِينَا رَبَّنَا فَرَضِيَ عَنَّا وَأَرْضَانَا",
+  "keys": [
+   "قَرَأْنَاهُ حَتَّى رُفِعَ"
+  ],
+  "alts": [
+   "أَنْ بَلِّغُوا عَنَّا قَوْمَنَا"
+  ],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Anas b. Malik (quoted by al-Suyuti from the Sahihayn) says a Qur'anic passage was revealed about the men of Bi'r Ma'una, which they recited until it was lifted.",
+  "context": "Report quoted via al-Suyuti from the Sahihayn."
+ },
+ {
+  "id": "itq27",
+  "work": "suyuti_itqan_shamela",
+  "author": "Jalal al-Din al-Suyuti (d. 911 AH)",
+  "ref": "ج3 ص70 (Shamela page ids 834-834; al-Itqan, Egyptian General Book Authority ed. 1974 as on Shamela)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11728/834",
+  "passage": "قَالَتْ عَائِشَةُ: كَانَ فِيمَا أُنْزِلَ \" عَشْرُ رَضَعَاتٍ مَعْلُومَاتٍ فَنُسِخْنَ بِخَمْسٍ مَعْلُومَاتٍ فَتُوُفِّيَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَهُنَّ مِمَّا يُقْرَأُ مِنَ الْقُرْآنِ \"، رَوَاهُ الشَّيْخَانِ",
+  "from_": "قَالَتْ عَائِشَةُ: كَانَ فِيمَا أُنْزِلَ \"",
+  "to": "يُقْرَأُ مِنَ الْقُرْآنِ \"، رَوَاهُ الشَّيْخَانِ",
+  "keys": [
+   "عَشْرُ رَضَعَاتٍ مَعْلُومَاتٍ فَنُسِخْنَ بِخَمْسٍ مَعْلُومَاتٍ"
+  ],
+  "alts": [
+   "وَهُنَّ مِمَّا يُقْرَأُ مِنَ الْقُرْآنِ"
+  ],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Aisha (quoted by al-Suyuti, citing the Sahihayn) says that 'ten known sucklings' were revealed and abrogated by five known sucklings, and that when the Prophet died they were still part of what is recited.",
+  "context": "Report quoted via al-Suyuti. Note the reasoning given below in the same section on the phrase 'still recited'."
+ },
+ {
+  "id": "itq28",
+  "work": "suyuti_itqan_shamela",
+  "author": "Jalal al-Din al-Suyuti (d. 911 AH)",
+  "ref": "ج3 ص70-71 (Shamela page ids 834-835; al-Itqan, Egyptian General Book Authority ed. 1974 as on Shamela)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11728/834 and https://shamela.ws/ajax/pageContent/11728/835",
+  "passage": "وَقَدْ تَكَلَّمُوا فِي قَوْلِهَا: \" وَهُنَّ مِمَّا يُقْرَأُ \" فَإِنَّ ظَاهِرَهُ بَقَاءُ التِّلَاوَةِ وَلَيْسَ كَذَلِكَ وَأُجِيبُ بِأَنَّ الْمُرَادَ: قَارَبَ الْوَفَاةَ أَوْ أَنَّ التِّلَاوَةَ نُسِخَتْ أَيْضًا وَلَمْ يَبْلُغْ ذَلِكَ كُلَّ النَّاسِ إِلَّا بَعْدَ وَفَاةِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَتُوُفِّيَ وَبَعْضُ النَّاسِ يَقْرَؤُهَا",
+  "from_": "وَقَدْ تَكَلَّمُوا فِي قَوْلِهَا: \" وَهُنَّ",
+  "to": "عَلَيْهِ وَسَلَّمَ فَتُوُفِّيَ وَبَعْضُ النَّاسِ يَقْرَؤُهَا",
+  "keys": [
+   "فَإِنَّ ظَاهِرَهُ بَقَاءُ التِّلَاوَةِ وَلَيْسَ كَذَلِكَ"
+  ],
+  "alts": [
+   "أَنَّ التِّلَاوَةَ نُسِخَتْ أَيْضًا"
+  ],
+  "label": "E",
+  "stance": "reports others",
+  "claim_en": "Unnamed scholars (quoted by al-Suyuti) answer the difficulty in Aisha's phrase 'and they are still recited': either the Prophet was near death, or the recitation was abrogated too but this was not known to everyone until after his death.",
+  "context": "Anonymous answer quoted by al-Suyuti ('wa-ujiba' = 'it was answered'); the attribution is not given in the text."
+ },
+ {
+  "id": "itq29",
+  "work": "suyuti_itqan_shamela",
+  "author": "Jalal al-Din al-Suyuti (d. 911 AH)",
+  "ref": "ج4 ص190 (Shamela page ids 1348-1348; al-Itqan, Egyptian General Book Authority ed. 1974 as on Shamela)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/11728/1348",
+  "passage": "أَحْرَقَ عُثْمَانُ مَصَاحِفَ كَانَ فِيهَا آيَاتٌ وَقِرَاءَاتٌ مَنْسُوخَةٌ، وَلَمْ يُنْكَرْ عَلَيْهِ",
+  "from_": "أَحْرَقَ عُثْمَانُ مَصَاحِفَ كَانَ فِيهَا آيَاتٌ",
+  "to": "آيَاتٌ وَقِرَاءَاتٌ مَنْسُوخَةٌ، وَلَمْ يُنْكَرْ عَلَيْهِ",
+  "keys": [
+   "أَحْرَقَ عُثْمَانُ مَصَاحِفَ كَانَ فِيهَا آيَاتٌ وَقِرَاءَاتٌ مَنْسُوخَةٌ"
+  ],
+  "alts": [
+   "وَلَمْ يُنْكَرْ عَلَيْهِ"
+  ],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "The text (quoted by al-Suyuti, in a section on the rules for the mushaf: 'qala wa-lahu') says 'Uthman burned codices that contained abrogated verses and readings, and no one objected to him.",
+  "context": "The immediate source of the quotation is not clear from the Shamela text ('qala: wa-lahu'); attribution to a named author cannot be confirmed here. Context: a section on disposing of worn pages."
+ },
+ {
+  "id": "sas01",
+  "work": "salih_mabahith_shamela",
+  "author": "Subhi al-Salih (modern Lebanese academic; Shamela author page: state doctorate in literature, Paris, 1954)",
+  "ref": "ص265 (Shamela page ids 254-254)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/7317/254",
+  "passage": "والولوع باكتشاف النسخ في آيات الكتاب أوقع القوم في أخطاء منهجية كان خليقا بهم أن يتجنبوها لئلا يحملها الجاهلون حملا على كتاب الله: لم يكن يخفى على أحد منهم أن القرآنية لا تثبت إلا بالتواتر، وأن أخبار الآحاد ظنية لا قطعية",
+  "from_": "والولوع باكتشاف النسخ في آيات الكتاب",
+  "to": "وأن أخبار الآحاد ظنية لا قطعية",
+  "keys": [
+   "أوقع القوم في أخطاء منهجية"
+  ],
+  "alts": [
+   "أخبار الآحاد"
+  ],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Subhi al-Salih (own voice, modern Lebanese academic) argues that the zeal for finding abrogation in the Qur'an led scholars into methodological errors, since the Qur'an is established only by mass transmission while single reports are only probable (zanni).",
+  "context": "Modern academic (Lebanese). The passage is in the 'abrogation' chapter. Copyright status of this edition not verified (see work notes)."
+ },
+ {
+  "id": "sas02",
+  "work": "salih_mabahith_shamela",
+  "author": "Subhi al-Salih (modern Lebanese academic; Shamela author page: state doctorate in literature, Paris, 1954)",
+  "ref": "ص265 (Shamela page ids 254-254)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/7317/254",
+  "passage": "وما لعشاق النسخ إلا شاهد أو اثنان على كل من هذين الضربين٢، وجميع ما ذكروه منها \"أخبار آحاد، ولا يجوز القطع على إنزال قرآن ونسخه بأخبار آحاد لا حجة فيها",
+  "from_": "وما لعشاق النسخ إلا شاهد أو",
+  "to": "ونسخه بأخبار آحاد لا حجة فيها",
+  "keys": [
+   "وجميع ما ذكروه منها"
+  ],
+  "alts": [
+   "لا يجوز القطع"
+  ],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Subhi al-Salih says that the lovers of abrogation have only one or two examples for each of the two classes (abrogated recitation with or without its ruling), and that all they cite are single reports; he quotes al-Qadi Abu Bakr's (al-Baqillani's) denial that a Qur'an can be revealed and abrogated by single reports.",
+  "context": "Modern academic; the Shamela footnotes cite Itqan 2/36-37 (fn 1) and Burhan 2/40 and Itqan 2/42 (fn 3). The Baqillani line is in footnote 3."
+ },
+ {
+  "id": "sas03",
+  "work": "salih_mabahith_shamela",
+  "author": "Subhi al-Salih (modern Lebanese academic; Shamela author page: state doctorate in literature, Paris, 1954)",
+  "ref": "ص265 (Shamela page ids 254-254)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/7317/254",
+  "passage": "ومما يدل على اضطراب الرواية أن في صحيح ابن حبان ما يفيد أن هذه الآية التي زعموا نسخ تلاوتها كانت في سورة الأحزاب لا في سورة النور",
+  "from_": "ومما يدل على اضطراب الرواية أن",
+  "to": "سورة الأحزاب لا في سورة النور",
+  "keys": [
+   "في صحيح ابن حبان"
+  ],
+  "alts": [
+   "كانت في سورة الأحزاب لا في سورة النور"
+  ],
+  "label": "D",
+  "stance": "own claim",
+  "claim_en": "Subhi al-Salih (footnote 2, own voice) says that the instability of the report is shown by Ibn Hibban's Sahih, which indicates that the verse whose recitation they claim was abrogated was in Surat al-Ahzab, not in al-Nur.",
+  "context": "Modern academic (footnote). The Ibn Hibban report is also quoted in Burhan (brh02) and Itqan."
+ },
+ {
+  "id": "sas04",
+  "work": "salih_mabahith_shamela",
+  "author": "Subhi al-Salih (modern Lebanese academic; Shamela author page: state doctorate in literature, Paris, 1954)",
+  "ref": "ص265 (Shamela page ids 254-254)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/7317/254",
+  "passage": "وأما الضرب الذي نسخت تلاوته وحكمه معا فشاهده المشهور في كتب الناسخ والمنسوخ: ما ورد عن عائشة رضي الله عنها أنها قالت: \"كان فيما أنزل من القرآن: عشر رضعات معلومات يحرمن، ثم نسخن بخمس معلومات، وتوفي رسول الله صلى الله عليه وسلم وهي فيما يقرأ من القرآن",
+  "from_": "وأما الضرب الذي نسخت تلاوته وحكمه",
+  "to": "وسلم وهي فيما يقرأ من القرآن",
+  "keys": [
+   "شاهده المشهور في كتب الناسخ والمنسوخ"
+  ],
+  "alts": [],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Subhi al-Salih (footnote) reports that the 'Aisha ten-sucklings report is the well-known example of the class where both recitation and ruling were abrogated.",
+  "context": "Modern academic reporting a classical example; not an endorsement of the wording claim."
+ },
+ {
+  "id": "sas05",
+  "work": "salih_mabahith_shamela",
+  "author": "Subhi al-Salih (modern Lebanese academic; Shamela author page: state doctorate in literature, Paris, 1954)",
+  "ref": "ص83 (Shamela page ids 75-75)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/7317/75",
+  "passage": "وقد حاول مروان بن الحكم \"ت٦٥\" أن يأخذها منها ليحرقها فأبت، حتى إذا توفيت أخذ مروان الصحف وأحرقها، وقال مدافعا عن وجهة نظره: \"إنما فعلت هذا لأن ما فيها قد كتب وحفظ بالمصحف الإمام، فخشيت إن طال بالناس زمان أن يرتاب في شأن هذه الصحف مرتاب",
+  "from_": "وقد حاول مروان بن الحكم \"ت٦٥\"",
+  "to": "يرتاب في شأن هذه الصحف مرتاب",
+  "keys": [
+   "أخذ مروان الصحف وأحرقها"
+  ],
+  "alts": [
+   "خشيت إن طال بالناس زمان أن يرتاب"
+  ],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Subhi al-Salih reports that Marwan b. al-Hakam tried to take Hafsa's sheets to burn them; after her death he took them and burned them, justifying it by fear of doubt about those sheets once the imam codex existed.",
+  "context": "Modern academic reporting a classical report (quoted with Marwan's own justification). Subhi's own position on the Uthmanic copying is in the next entry."
+ },
+ {
+  "id": "sas06",
+  "work": "salih_mabahith_shamela",
+  "author": "Subhi al-Salih (modern Lebanese academic; Shamela author page: state doctorate in literature, Paris, 1954)",
+  "ref": "ص83 (Shamela page ids 75-75)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/7317/75",
+  "passage": "وإنما أمرهم عثمان أن ينسخوا من صحف حفصة مع أنهم كانوا جماعا لكتاب الله في صدورهم، لتكون مصاحفه مستندة إلى أصل أبي بكر المستند بدوره إلى أصل النبي صلى الله عليه وسلم المكتوب بين يديه بأمره وتوقيف منه، فسدت بذلك كل ذريعة للتقول والتشكيك",
+  "from_": "وإنما أمرهم عثمان أن ينسخوا من",
+  "to": "فسدت بذلك كل ذريعة للتقول والتشكيك",
+  "keys": [
+   "لتكون مصاحفه مستندة إلى أصل أبي بكر"
+  ],
+  "alts": [
+   "فسدت بذلك كل ذريعة للتقول والتشكيك"
+  ],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Subhi al-Salih (own voice) says Uthman had the committee copy from Hafsa's sheets so that his codices would rest on Abu Bakr's codex and the Prophet's own written text, and that this closed every pretext for claims of alteration and doubt.",
+  "context": "Modern academic's own position; rejects alteration claims (E)."
+ },
+ {
+  "id": "sas07",
+  "work": "salih_mabahith_shamela",
+  "author": "Subhi al-Salih (modern Lebanese academic; Shamela author page: state doctorate in literature, Paris, 1954)",
+  "ref": "ص87 (Shamela page ids 79-79)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/7317/79",
+  "passage": "ولكن، بلاشير يرى أن علي بن أبي طالب لم يقف هذا الموقف المؤيد من إحراق عثمان للمصاحف الفردية، بل كان تأييده له في إعدامه لما جمع من القرآن في عهد الرسول صلى الله عليه وسلم مفرقا في الرقاع والأكتاف والأقتاب والعسب. إذ كفى الأمة شر الاختلاف بإزالة تلك الآثار المتفرقة التي يخشى أن تزيد مع الأيام أسباب الشقاق \"Blachere,Intr, ٦٣\" وغاية بلاشير من ذلك واضحة، وهي التشكيك بموقف علي كرم الله وجهه من صنيع عثمان، وهو بذلك يحمل النصوص ما لا يسعها أن تحمل",
+  "from_": "ولكن، بلاشير يرى أن علي بن",
+  "to": "النصوص ما لا يسعها أن تحمل",
+  "keys": [
+   "بلاشير يرى أن علي بن أبي طالب لم يقف هذا الموقف"
+  ],
+  "alts": [],
+  "label": "E",
+  "stance": "rejects",
+  "claim_en": "Subhi al-Salih (own voice) argues against Blachere that 'Ali did not oppose Uthman's burning of individual codices; he calls Blachere's reading an attempt to cast doubt on 'Ali's position and to load the texts with what they cannot bear.",
+  "context": "Modern academic rejecting a Western scholar's reading (Blachere). The Blachere claim is reported within the passage."
+ },
+ {
+  "id": "sas08",
+  "work": "salih_mabahith_shamela",
+  "author": "Subhi al-Salih (modern Lebanese academic; Shamela author page: state doctorate in literature, Paris, 1954)",
+  "ref": "ص111-112 (Shamela page ids 103-104)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/7317/103 and https://shamela.ws/ajax/pageContent/7317/104",
+  "passage": "السادس: الاختلاف بشيء يسير من الزيادة والنقصان جريا على عادة العرب في حذف أدوات الجر والعطف تارة وإثباتها تارة أخرى. ولذلك لم تحفظ هذه الضروب من الزيادة والنقص إلا في أحرف قليلة محدودة مع التنبيه على شذوذ كل ما لم يحفظه الأئمة الثقات منها: فمن الزيادة قوله تعالى في سورة التوبة: {وَأَعَدَّ لَهُمْ جَنَّاتٍ تَجْرِي تَحْتَهَا الْأَنْهَارُ} قرئ: \"مِنْ تَحْتَهَا الْأَنْهَارُ\"، وهما قراءتان متواترتان، وقد وافق كل منهم رسم مصحف الإمام٤، فإن زيادتها وافقت رسم المصحف المكي, وحذفها وافق غيره٥. ومن ١ سورة التوبة ١١١ \"وانظر الإتقان ١/ ٨٠\". \r٢ سورة ق ١٩ \"وانظر البرهان ١/ ٣٣٥\". \r٣ ومثلها في الشذوذ: \"إِذَا جَاءَ فَتْحُ اللهِ وَالنَّصْرُ\" بدلا من قوله تعالى: {إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ} سورة النصر ١. فليس في مثل هذا حرف من حروف القرآن السبعة. \r٤ سورة التوبة ١٠٠ \"وانظر البرهان ١/ ٣٣٦\". \r٥ الإتقان ١/ ١٣٠. النقصان قوله تعالى: {قَالُوا اتَّخَذَ اللَّهُ وَلَدًا} من سورة البقرة بغير واو، وقد وافقت رسم المصحف الشامي١. وأما قراءة \"وَالذَّكَر والأُنْثَى\" بدلا من قوله تعالى: {وَمَا خَلَقَ الذَّكَرَ وَالْأُنْثَى} ٢ بنقص لفظتي \"ما خلق\" وقراءة ابن عباس \"وَكَانَ أَمَامَهُمْ مَلِكٌ يَأْخُذُ كُلَّ سَفِينَةٍ صَالِحَةٍ غَصْبًا\" بزيادة \"صالحة\" وإبدال كلمة \"أمام\" من كلمة \"وراء\" فقراءتان آحاديتان لا يثبت. بمثلهما قرآن٣. ويشبههما في الآحادية زيادة لفظ \"أنثى\" في قوله تعالى: {تِسْعٌ وَتِسْعُونَ نَعْجَةً} ٤ أنثى، وزيادة عبارة \"وَكَانَ كَافِرًا\" في قوله: {وَأَمَّا الْغُلامُ فَكَانَ أَبَوَاهُ مُؤْمِنَيْنِ} ٥ \"وَكَانَ كَافِرًا\"، وزيادة عبارة \"وَصَلَاةِ الْعَصْرِ\" في قوله: {حَافِظُوا عَلَى الصَّلَوَاتِ وَالصَّلاةِ الْوُسْطَى} ٦ وصلاة العصر، فهذه الزيادات جميعا أدرجت على سبيل التفسير والإيضاح, ولا سبيل إلى عدها حرفا من الأحرف السبعة ولو أثبتها ابن مسعود في مصحفه الخاص",
+  "from_": "السادس: الاختلاف بشيء يسير من الزيادة",
+  "to": "أثبتها ابن مسعود في مصحفه الخاص",
+  "keys": [
+   "الاختلاف بشيء يسير من الزيادة والنقصان"
+  ],
+  "alts": [
+   "ولو أثبتها ابن مسعود في مصحفه الخاص"
+  ],
+  "label": "D",
+  "stance": "own claim",
+  "claim_en": "Subhi al-Salih (own voice) lists readings that add or drop small words as variants that are not part of the seven ahruf; he says that even if Ibn Mas'ud wrote such additions in his private codex, they cannot be counted as one of the seven ahruf (they serve as explanation).",
+  "context": "Modern academic's classification of variant readings (D). He does not claim omission of verses here."
+ },
+ {
+  "id": "zrq01",
+  "work": "zurqani_manahil_shamela",
+  "author": "Muhammad 'Abd al-'Azim al-Zurqani (d. 1367 AH)",
+  "ref": "ج1 ص269 (Shamela page ids 322-322; Manahil al-Irfan, 3rd ed. per Shamela card, 2 vols.)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/7249/322",
+  "passage": "ثمة وجه آخر فيه وهو أنه استثناء حقيقي غير أن المراد به منسوخ التلاوة دون غيره ويكون معنى الآية أن الله تعالى يقرئ نبيه فلا ينسيه إلا ما شاءه وهو ما نسخت تلاوته لحكمة من الحكم التي بينها العلماء في مبحث النسخ",
+  "from_": "ثمة وجه آخر فيه وهو أنه",
+  "to": "التي بينها العلماء في مبحث النسخ",
+  "keys": [
+   "المراد به منسوخ التلاوة دون غيره"
+  ],
+  "alts": [],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Al-Zurqani presents, as a possible reading of Qur'an 87:6-7 ('We shall make you recite, and you will not forget except what God wills'), that the exception refers to verses whose recitation was abrogated; he treats this as one option among others.",
+  "context": "Modern Muslim scholar presenting an interpretive option. He prefers to reject that the Prophet forgot any Qur'anic word (see the next entries)."
+ },
+ {
+  "id": "zrq02",
+  "work": "zurqani_manahil_shamela",
+  "author": "Muhammad 'Abd al-'Azim al-Zurqani (d. 1367 AH)",
+  "ref": "ج1 ص270 (Shamela page ids 323-323; Manahil al-Irfan, 3rd ed. per Shamela card, 2 vols.)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/7249/323",
+  "passage": "احتجاجهم الثالث والرابع بأن الصحابة قد حذفوا من القرآن عند جمعه ما رأوا المصلحة في حذفه ومنه آية المتعة وصيغة القنوت فهو احتجاج باطل قائم على إهمال النصوص الصحيحة",
+  "from_": "احتجاجهم الثالث والرابع بأن الصحابة قد",
+  "to": "باطل قائم على إهمال النصوص الصحيحة",
+  "keys": [
+   "الصحابة قد حذفوا من القرآن عند جمعه"
+  ],
+  "alts": [
+   "فهو احتجاج باطل قائم على إهمال النصوص الصحيحة"
+  ],
+  "label": "E",
+  "stance": "rejects",
+  "claim_en": "Al-Zurqani (own voice) rejects the critics' third and fourth arguments that the Companions removed from the Qur'an during collection what they judged expedient, such as the verse of mut'a and the qunut formula; he calls this a false argument resting on neglect of sound texts.",
+  "context": "Modern Muslim scholar, rejecting the claim (E). He states the claim in the critics' voice before refuting it."
+ },
+ {
+  "id": "zrq03",
+  "work": "zurqani_manahil_shamela",
+  "author": "Muhammad 'Abd al-'Azim al-Zurqani (d. 1367 AH)",
+  "ref": "ج1 ص270 (Shamela page ids 323-323; Manahil al-Irfan, 3rd ed. per Shamela card, 2 vols.)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/7249/323",
+  "passage": "ولهذا لم يعتبروا من القرآن إلا ما ثبت بالتواتر وردوا كل ما لم يثبت تواتره لأنه غير قطعي",
+  "from_": "ولهذا لم يعتبروا من القرآن إلا",
+  "to": "لم يثبت تواتره لأنه غير قطعي",
+  "keys": [
+   "لم يعتبروا من القرآن إلا ما ثبت بالتواتر"
+  ],
+  "alts": [
+   "لأنه غير قطعي"
+  ],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Al-Zurqani (own voice) states that the Companions counted as Qur'an only what was established by mass transmission and rejected every report whose transmission was not mass, because it is not certain.",
+  "context": "Modern Muslim scholar, own statement (E). Rejects inclusion of non-mutawatir material."
+ },
+ {
+  "id": "zrq04",
+  "work": "zurqani_manahil_shamela",
+  "author": "Muhammad 'Abd al-'Azim al-Zurqani (d. 1367 AH)",
+  "ref": "ج1 ص275 (Shamela page ids 328-328; Manahil al-Irfan, 3rd ed. per Shamela card, 2 vols.)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/7249/328",
+  "passage": "بأن ابن مسعود لم يصح عنه هذا النقل الذي تمسكتم به من إنكاره كون المعوذتين من القرآن",
+  "from_": "بأن ابن مسعود لم يصح عنه",
+  "to": "من إنكاره كون المعوذتين من القرآن",
+  "keys": [
+   "لم يصح عنه هذا النقل"
+  ],
+  "alts": [
+   "نقل"
+  ],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Al-Zurqani (own voice) argues first that the report of Ibn Mas'ud's denial that the two mu'awwidhatan are Qur'an is not established.",
+  "context": "Modern Muslim scholar's first refutation (E)."
+ },
+ {
+  "id": "zrq05",
+  "work": "zurqani_manahil_shamela",
+  "author": "Muhammad 'Abd al-'Azim al-Zurqani (d. 1367 AH)",
+  "ref": "ج1 ص275 (Shamela page ids 328-328; Manahil al-Irfan, 3rd ed. per Shamela card, 2 vols.)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/7249/328",
+  "passage": "وقال ابن حزم في كتاب القدح المعلى: هذا كذب على ابن مسعود وموضوع. بل صح عن ابن مسعود نفسه قراءة عاصم وفيها المعوذتان والفاتحة",
+  "from_": "وقال ابن حزم في كتاب القدح",
+  "to": "نفسه قراءة عاصم وفيها المعوذتان والفاتحة",
+  "keys": [
+   "هذا كذب على ابن مسعود وموضوع"
+  ],
+  "alts": [
+   "بل صح عن ابن مسعود نفسه قراءة عاصم"
+  ],
+  "label": "E",
+  "stance": "reports others",
+  "claim_en": "Al-Zurqani reports Ibn Hazm's statement (the Shamela text prints the title as 'al-Qadh al-mu'alla'; the same statement is attributed to Ibn Hazm's al-Muhalla in the Burhan text of this set) that the report is a lie and forgery, and that Ibn Mas'ud's reading in Asim's transmission contains the two mu'awwidhatan and al-Fatiha.",
+  "context": "Quoted classical authority. Note: the Shamela text gives the title 'al-Qadh al-mu'alla'; the other works in this set give 'al-Muhalla'."
+ },
+ {
+  "id": "zrq06",
+  "work": "zurqani_manahil_shamela",
+  "author": "Muhammad 'Abd al-'Azim al-Zurqani (d. 1367 AH)",
+  "ref": "ج1 ص276 (Shamela page ids 329-329; Manahil al-Irfan, 3rd ed. per Shamela card, 2 vols.)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/7249/329",
+  "passage": "يحتمل أن ابن مسعود لم يسمع المعوذتين من النبي صلى الله عليه وسلم ولم تتواترا عنده فتوقف في أمرهما",
+  "from_": "يحتمل أن ابن مسعود لم يسمع",
+  "to": "ولم تتواترا عنده فتوقف في أمرهما",
+  "keys": [
+   "يحتمل أن ابن مسعود لم يسمع المعوذتين"
+  ],
+  "alts": [
+   "فتوقف في أمرهما"
+  ],
+  "label": "E",
+  "stance": "reports others",
+  "claim_en": "Al-Zurqani reports the suggestion (of some scholars) that Ibn Mas'ud had not heard the two mu'awwidhatan from the Prophet and had not received them by mass transmission, so he held back on them.",
+  "context": "Report of others' explanation (E: a qualification of the Ibn Mas'ud report)."
+ },
+ {
+  "id": "zrq07",
+  "work": "zurqani_manahil_shamela",
+  "author": "Muhammad 'Abd al-'Azim al-Zurqani (d. 1367 AH)",
+  "ref": "ج1 ص276 (Shamela page ids 329-329; Manahil al-Irfan, 3rd ed. per Shamela card, 2 vols.)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/7249/329",
+  "passage": "وقصارى ما نقل عنه أنه لم يكتبها في مصحفه وهذا لا يدل على الإنكار",
+  "from_": "وقصارى ما نقل عنه أنه لم",
+  "to": "مصحفه وهذا لا يدل على الإنكار",
+  "keys": [
+   "لم يكتبها في مصحفه"
+  ],
+  "alts": [
+   "وهذا لا يدل على الإنكار"
+  ],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Al-Zurqani (own voice) says that at most what is reported from Ibn Mas'ud is that he did not write al-Fatiha in his codex, and this does not indicate denial.",
+  "context": "Modern Muslim scholar's own qualification (E): omission from a codex is not denial."
+ },
+ {
+  "id": "zrq08",
+  "work": "zurqani_manahil_shamela",
+  "author": "Muhammad 'Abd al-'Azim al-Zurqani (d. 1367 AH)",
+  "ref": "ج1 ص276-277 (Shamela page ids 329-330; Manahil al-Irfan, 3rd ed. per Shamela card, 2 vols.)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/7249/329 and https://shamela.ws/ajax/pageContent/7249/330",
+  "passage": "ومعنى هذا أن عدم كتابة ابن مسعود للفاتحة في مصحفه كان سببه وضوح أنها من القرآن وعدم الخوف عليها من الشك والنسيان والزيادة والنقصان",
+  "from_": "ومعنى هذا أن عدم كتابة ابن",
+  "to": "عليها من الشك والنسيان والزيادة والنقصان",
+  "keys": [
+   "عدم كتابة ابن مسعود للفاتحة في مصحفه كان سببه وضوح أنها من القرآن"
+  ],
+  "alts": [],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Al-Zurqani (own voice) reads Ibn Qutayba's explanation: Ibn Mas'ud's not writing al-Fatiha was because its Qur'anic status was clear and it was not at risk of doubt, forgetting, addition or loss.",
+  "context": "Modern Muslim scholar paraphrasing Ibn Qutayba (E)."
+ },
+ {
+  "id": "zrq09",
+  "work": "zurqani_manahil_shamela",
+  "author": "Muhammad 'Abd al-'Azim al-Zurqani (d. 1367 AH)",
+  "ref": "ج1 ص280 (Shamela page ids 333-333; Manahil al-Irfan, 3rd ed. per Shamela card, 2 vols.)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/7249/333",
+  "passage": "يزعم بعض غلاة الشيعة أن عثمان ومن قبله أبو بكر وعمر أيضا حرفوا القرآن وأسقطوا كثيرا من آياته وسوره",
+  "from_": "يزعم بعض غلاة الشيعة أن عثمان",
+  "to": "القرآن وأسقطوا كثيرا من آياته وسوره",
+  "keys": [
+   "حرفوا القرآن"
+  ],
+  "alts": [
+   "أسقطوا كثيرا من آياته وسوره"
+  ],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Al-Zurqani reports the claim of 'some extreme Shi'a' that 'Uthman, and before him Abu Bakr and 'Umar, altered the Qur'an and dropped many of its verses and surahs.",
+  "context": "Modern Muslim scholar reporting a claim he goes on to refute; the claim is attributed to 'some extreme Shi'a' in his text."
+ },
+ {
+  "id": "zrq10",
+  "work": "zurqani_manahil_shamela",
+  "author": "Muhammad 'Abd al-'Azim al-Zurqani (d. 1367 AH)",
+  "ref": "ج1 ص280 (Shamela page ids 333-333; Manahil al-Irfan, 3rd ed. per Shamela card, 2 vols.)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/7249/333",
+  "passage": "ومنهم من قال: إن القرآن كانت فيه سورة تسمى سورة الولاية وأنها أسقطت بتمامها وأن أكثر سورة الأحزاب سقط إذ أنها كانت مثل سورة الأنعام فأسقطوا منها فضائل أهل البيت",
+  "from_": "ومنهم من قال: إن القرآن كانت",
+  "to": "الأنعام فأسقطوا منها فضائل أهل البيت",
+  "keys": [
+   "كانت فيه سورة تسمى سورة الولاية وأنها أسقطت بتمامها"
+  ],
+  "alts": [
+   "وأن أكثر سورة الأحزاب سقط"
+  ],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Al-Zurqani reports that some claimed the Qur'an once had a surah called 'the surah of guardianship' that was dropped entirely, and that most of Surat al-Ahzab was dropped, to remove the virtues of the Ahl al-Bayt.",
+  "context": "Modern Muslim scholar reporting claims which he refutes (next entry)."
+ },
+ {
+  "id": "zrq11",
+  "work": "zurqani_manahil_shamela",
+  "author": "Muhammad 'Abd al-'Azim al-Zurqani (d. 1367 AH)",
+  "ref": "ج1 ص280 (Shamela page ids 333-333; Manahil al-Irfan, 3rd ed. per Shamela card, 2 vols.)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/7249/333",
+  "passage": "أنها اتهامات مجردة عن السند والدليل وكانت لا تستحق الذكر لولا",
+  "from_": "أنها اتهامات مجردة عن السند والدليل",
+  "to": "والدليل وكانت لا تستحق الذكر لولا",
+  "keys": [
+   "اتهامات مجردة عن السند والدليل"
+  ],
+  "alts": [],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Al-Zurqani (own voice) answers the Shi'i claims first: they are accusations without chain or evidence, and would not deserve mention were it not for the question of the Qur'an's count.",
+  "context": "Modern Muslim scholar's first refutation (E). Only the first point of several is quoted here."
+ },
+ {
+  "id": "zrq12",
+  "work": "zurqani_manahil_shamela",
+  "author": "Muhammad 'Abd al-'Azim al-Zurqani (d. 1367 AH)",
+  "ref": "ج1 ص402 (Shamela page ids 466-466; Manahil al-Irfan, 3rd ed. per Shamela card, 2 vols.)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/7249/466",
+  "passage": "أخرج ابن أبي داود في رواية أن مروان أحرق هذه الصحف؟ وفي رواية أنه غسلها وفي رواية شققها. ولا مانع من الجمع بين هذه الروايات الثلاث",
+  "from_": "أخرج ابن أبي داود في رواية",
+  "to": "من الجمع بين هذه الروايات الثلاث",
+  "keys": [
+   "أن مروان أحرق هذه الصحف"
+  ],
+  "alts": [
+   "في رواية أنه غسلها وفي رواية شققها"
+  ],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Al-Zurqani reports (citing Ibn Abi Dawud) three versions of Marwan's treatment of Hafsa's sheets: that he burned them, washed them, or tore them; he suggests they can be combined as washing, then tearing, then burning, to honour and erase them.",
+  "context": "Modern Muslim scholar reporting the classical versions (C: destruction of sheets) and proposing a harmonisation."
+ },
+ {
+  "id": "zrq13",
+  "work": "zurqani_manahil_shamela",
+  "author": "Muhammad 'Abd al-'Azim al-Zurqani (d. 1367 AH)",
+  "ref": "ج1 ص476 (Shamela page ids 541-541; Manahil al-Irfan, 3rd ed. per Shamela card, 2 vols.)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/7249/541",
+  "passage": "غاية ما تدل عليه أن ابن مسعود لم يوافق أول الأمر على إحراق مصحفه. وهذا لا ينقض تواتر ما جاء في مصحف عثمان",
+  "from_": "غاية ما تدل عليه أن ابن",
+  "to": "تواتر ما جاء في مصحف عثمان",
+  "keys": [
+   "لم يوافق أول الأمر على إحراق مصحفه"
+  ],
+  "alts": [
+   "لا ينقض تواتر ما جاء في مصحف عثمان"
+  ],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Al-Zurqani (own voice) argues that the reports about Ibn Mas'ud's disagreement only show he did not at first agree to burn his codex; this does not undermine the mass transmission of what is in 'Uthman's codex.",
+  "context": "Modern Muslim scholar's own position (E)."
+ },
+ {
+  "id": "zrq14",
+  "work": "zurqani_manahil_shamela",
+  "author": "Muhammad 'Abd al-'Azim al-Zurqani (d. 1367 AH)",
+  "ref": "ج2 ص214 (Shamela page ids 790-790; Manahil al-Irfan, 3rd ed. per Shamela card, 2 vols.)",
+  "pdf_page": "",
+  "url": "https://shamela.ws/ajax/pageContent/7249/790",
+  "passage": "النسخ الواقع في القرآن يتنوع إلى أنوع ثلاثة نسخ التلاوة والحكم معا ونسخ الحكم دون التلاوة ونسخ التلاوة دون الحكم. ١ - أما نسخ الحكم والتلاوة جميعا فقد أجمع عليه القائلون بالنسخ من المسلمين ويدل على وقوعه سمعا ما ورد عن عائشة رضي الله عنها أنها قالت كان فيما أنزل من القرآن عشر رضعات معلومات يحرمن ثم نسخن بخمس معلومات وتوفي رسول الله صلى الله عليه وسلم وهن فيما يقرأ من القرآن وهو حديث صحيح وإذا كان موقوفا على عائشة رضي الله عنها فإن له حكم المرفوع لأن مثله لا يقال بالرأي بل لا بد فيه من توقيف وأنت خبير بأن جملة عشر رضعات معلومات يحرمن ليس لها وجود في المصحف حتى تتلى وليس العمل بما تفيده من الحكم باقيا وإذن يثبت وقوع نسخ التلاوة والحكم جميعا وإذا ثبت وقوعه ثبت جوازه لأن الوقوع أول دليل على الجواز وبطل مذهب المانعين لجوازه شرعا",
+  "from_": "النسخ الواقع في القرآن يتنوع إلى",
+  "to": "الجواز وبطل مذهب المانعين لجوازه شرعا",
+  "keys": [
+   "وهن فيما يقرأ من القرآن",
+   "نسخ التلاوة والحكم معا"
+  ],
+  "alts": [
+   "أنت خبير بأن جملة عشر رضعات معلومات يحرمن ليس لها وجود في المصحف"
+  ],
+  "label": "C",
+  "stance": "own claim",
+  "claim_en": "Al-Zurqani (own voice) holds that abrogation of both recitation and ruling occurred; he cites 'Aisha's ten sucklings report as sound (and, if it is only stated as her statement, as having the status of a report from the Prophet), and says that the ruling is not in the codex to be recited.",
+  "context": "Modern Muslim scholar's own affirmation (C). Stated firmly; he refutes those who deny the possibility (abu Muslim and others)."
+ }
+]

@@ -1,0 +1,486 @@
+[
+ {
+  "id": "kt-pref-1",
+  "work": "sinai2023_keyterms",
+  "author": "Nicolai Sinai",
+  "ref": "Preface, PDF p. 8 [PDF page = printed page in this OA file]",
+  "pdf_page": 8,
+  "url": "https://ora.ox.ac.uk/objects/uuid:2a4e4769-813e-48e9-bf95-c36fdd593c8b/files/smg74qp037",
+  "passage": "I would not a priori rule out the possibility that specific Qur’anic passages underwent a degree of early post-prophetic editing and expansion (see HCI 52–54 and under → bayyana as well as the somewhat similar model in Tesei 2019).",
+  "from_": "I would not a priori rule",
+  "to": "somewhat similar model in Tesei 2019).",
+  "keys": [
+   "I would not a priori rule out the possibility",
+   "underwent a degree of early post-prophetic editing and expansion"
+  ],
+  "alts": [],
+  "label": "B",
+  "stance": "own claim",
+  "claim_en": "Sinai says he would not a priori exclude that specific Qurʾānic passages underwent early post-prophetic editing and expansion.",
+  "context": "Preface, hedged (\"would not a priori rule out\"); he says the corpus is by and large explicable within the traditional narrative and cites his HCI 52–54 and Tesei 2019."
+ },
+ {
+  "id": "kt-pref-2",
+  "work": "sinai2023_keyterms",
+  "author": "Nicolai Sinai",
+  "ref": "Preface, PDF p. 9 [PDF page = printed page in this OA file]",
+  "pdf_page": 9,
+  "url": "https://ora.ox.ac.uk/objects/uuid:2a4e4769-813e-48e9-bf95-c36fdd593c8b/files/smg74qp037",
+  "passage": "I am not dogmatically opposed to the hypothesis of a late closure of the Qur’anic corpus; I merely think that the hypothesis has so far tended to run an explanatory budget deficit (but see, again, the careful argument for limited mid-seventh-century additions to the Qur’an in Tesei 2019).",
+  "from_": "I am not dogmatically opposed to",
+  "to": "to the Qur’an in Tesei 2019).",
+  "keys": [
+   "I am not dogmatically opposed to the hypothesis of a late closure",
+   "I merely think that the hypothesis has so far tended to run an explanatory budget deficit"
+  ],
+  "alts": [
+   "but see, again, the careful argument for limited mid-seventh-century additions"
+  ],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Sinai is not dogmatically opposed to a late closure of the Qurʾānic corpus but thinks the hypothesis runs an explanatory budget deficit.",
+  "context": "Qualifies the late-closure hypothesis (E); the parenthesis points to Tesei 2019 for a limited mid-seventh-century additions argument."
+ },
+ {
+  "id": "kt-q37-1",
+  "work": "sinai2023_keyterms",
+  "author": "Nicolai Sinai",
+  "ref": "Q 3:7 entry, PDF pp. 205–206 [PDF page = printed page in this OA file]",
+  "pdf_page": 206,
+  "url": "https://ora.ox.ac.uk/objects/uuid:2a4e4769-813e-48e9-bf95-c36fdd593c8b/files/smg74qp037",
+  "passage": "is to contemplate that 3:7, or rather the verse group containing it (Q 3:7–9), postdates the end of Muhammad’s proclamatory activity and reflects a situation in which the Qur’anic corpus was by and large considered to have reached closure (Chabbi 2020, 88; HCI 52–54).",
+  "from_": "is to contemplate that 3:7, or",
+  "to": "closure (Chabbi 2020, 88; HCI 52–54).",
+  "keys": [
+   "postdates the end of Muhammad’s proclamatory activity",
+   "reflects a situation in which the Qur’anic corpus was by and large considered to have reached closure"
+  ],
+  "alts": [],
+  "label": "A",
+  "stance": "own claim",
+  "claim_en": "Q 3:7–9 (or the verse group containing 3:7) is to be contemplated as postdating the end of Muhammad’s proclamatory activity (a post-prophetic addition of the verse group).",
+  "context": "Conditional/hedged (\"is to contemplate\"; \"If so\"). Sinai treats it as a possibility, not a settled finding. Preceded in the PDF by a sentence interrupted by footnote text in the text layer; the passage here starts at \"is to contemplate\"."
+ },
+ {
+  "id": "kt-q29-1",
+  "work": "sinai2023_keyterms",
+  "author": "Nicolai Sinai",
+  "ref": "Q 29:46 entry, PDF p. 157 [PDF page = printed page in this OA file]",
+  "pdf_page": 157,
+  "url": "https://ora.ox.ac.uk/objects/uuid:2a4e4769-813e-48e9-bf95-c36fdd593c8b/files/smg74qp037",
+  "passage": "Yet there is an additional consideration that reinforces Nöldeke’s original suspicion and thereby sways the balance of evidence in favour of a Medinan addition.",
+  "from_": "Yet there is an additional consideration",
+  "to": "in favour of a Medinan addition.",
+  "keys": [
+   "sways the balance of evidence in favour of a Medinan addition",
+   "reinforces Nöldeke’s original suspicion"
+  ],
+  "alts": [],
+  "label": "A",
+  "stance": "own claim",
+  "claim_en": "Sinai himself judges that Q 29:46 is more likely a Medinan addition (inserted into a Meccan surah), citing the bipartite credal formula parallels to Medinan ahl al-kitāb passages.",
+  "context": "Sinai endorses the Medinan-addition judgement on the basis of the credal-formula parallels (Q 2:4, 4:60.162, 5:59), but it is a text-internal stylistic argument, not a claim of textual corruption."
+ },
+ {
+  "id": "kt-q29-2",
+  "work": "sinai2023_keyterms",
+  "author": "Nicolai Sinai",
+  "ref": "Q 29:46 entry, PDF p. 156 [PDF page = printed page in this OA file]",
+  "pdf_page": 156,
+  "url": "https://ora.ox.ac.uk/objects/uuid:2a4e4769-813e-48e9-bf95-c36fdd593c8b/files/smg74qp037",
+  "passage": "In contending that v. 46 is a Medinan addition, Nöldeke highlights that the injunction to “dispute” with the “scripture-owners” (ahl al-kitāb) “in the best manner, except for those of them who are guilty of wrongdoing” implies that the wrongdoers among them may be fought, a view that is allegedly inconceivable before the hijrah (Nöldeke 1860, 116). This is hardly convincing: it it is entirely possible that the point of v. 46 is merely that disputing with wrongdoing scripturalists is futile and should therefore be avoided.",
+  "from_": "In contending that v. 46 is",
+  "to": "futile and should therefore be avoided.",
+  "keys": [
+   "Nöldeke highlights that the injunction to",
+   "This is hardly convincing"
+  ],
+  "alts": [
+   "it is entirely possible that the point of v. 46 is merely"
+  ],
+  "label": "A",
+  "stance": "reports others",
+  "claim_en": "Reports Nöldeke’s argument that Q 29:46 is a Medinan addition (because of the injunction to dispute with scripture-owners, which Nöldeke thinks presupposes fighting), then Sinai judges that argument hardly convincing.",
+  "context": "Nöldeke (1860, 116) is cited inside the passage; Sinai rejects this first argument but later endorses the Medinan-addition judgement on other grounds (see kt-q29-1)."
+ },
+ {
+  "id": "kt-q74-1",
+  "work": "sinai2023_keyterms",
+  "author": "Nicolai Sinai",
+  "ref": "Entry on free will / divine will, PDF p. 564 [PDF page = printed page in this OA file]",
+  "pdf_page": 564,
+  "url": "https://ora.ox.ac.uk/objects/uuid:2a4e4769-813e-48e9-bf95-c36fdd593c8b/files/smg74qp037",
+  "passage": "The three verses in question are often, and plausibly, considered to be secondary interpolations, probably later Meccan (e.g., PP 293, 302, 364, 373; Neuwirth 2017, 505 and 516–517).",
+  "from_": "The three verses in question are",
+  "to": "373; Neuwirth 2017, 505 and 516–517).",
+  "keys": [
+   "considered to be secondary interpolations, probably later Meccan",
+   "often, and plausibly,"
+  ],
+  "alts": [],
+  "label": "A",
+  "stance": "reports others",
+  "claim_en": "Q 74:56, 76:30 and 81:29 are \"often, and plausibly\" considered secondary interpolations, probably later Meccan (Sinai reports this view; references PP 293, 302, 364, 373 and Neuwirth 2017).",
+  "context": "Sinai reports a widely held redactional view and calls it plausible, then says that the redactional claim does not settle the interpretation of these verses. Note the passage itself is a text-critical claim about three verses."
+ },
+ {
+  "id": "kt-s39-1",
+  "work": "sinai2023_keyterms",
+  "author": "Nicolai Sinai",
+  "ref": "Entry on muqaṭṭaʿāt (letter strings), PDF p. 81 [PDF page = printed page in this OA file]",
+  "pdf_page": 81,
+  "url": "https://ora.ox.ac.uk/objects/uuid:2a4e4769-813e-48e9-bf95-c36fdd593c8b/files/smg74qp037",
+  "passage": "The similarity is so striking that one may well be tempted to surmise that Surah 39, too, originally opened with the letters ḥ-m but that these were accidentally elided (Bauer 1921, 11).",
+  "from_": "The similarity is so striking that",
+  "to": "were accidentally elided (Bauer 1921, 11).",
+  "keys": [
+   "Surah 39, too, originally opened with the letters ḥ-m",
+   "these were accidentally elided"
+  ],
+  "alts": [
+   "one may well be tempted to surmise"
+  ],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Sinai reports Bauer’s conjecture that Surah 39 originally began with the letters ḥ-m which were accidentally elided (loss of an initial letter sequence).",
+  "context": "Conjecture only (\"one may well be tempted to surmise\"); Sinai notes Ubayy’s recension prefixes ḥ-m to Sura 39 too and that this may be secondary regularisation."
+ },
+ {
+  "id": "kt-ubayy-1",
+  "work": "sinai2023_keyterms",
+  "author": "Nicolai Sinai",
+  "ref": "Footnote 15 in the entry on rabb/communal prayer, PDF p. 231 [PDF page = printed page in this OA file]",
+  "pdf_page": 231,
+  "url": "https://ora.ox.ac.uk/objects/uuid:2a4e4769-813e-48e9-bf95-c36fdd593c8b/files/smg74qp037",
+  "passage": "There are, however, two brief communal prayers that Islamic sources report to have been included in the Qur’anic recension of Ubayy ibn Kaʿb, Sūrat al-Khalʿ and Sūrat al-Ḥafd; see Anthony 2019.",
+  "from_": "There are, however, two brief communal",
+  "to": "and Sūrat al-Ḥafd; see Anthony 2019.",
+  "keys": [
+   "Islamic sources report to have been included in the Qur’anic recension of Ubayy ibn Kaʿb",
+   "Sūrat al-Khalʿ and Sūrat al-Ḥafd"
+  ],
+  "alts": [
+   "two brief communal prayers"
+  ],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Reports that Islamic sources say two brief communal prayers, Sūrat al-Khalʿ and Sūrat al-Ḥafd, were included in the recension of Ubayy ibn Kaʿb (footnote).",
+  "context": "Footnote in the entry on communal prayer (\"Our Lord\"); Sinai states it as a source report with reference to Anthony 2019 and does not assert the surahs were part of the standard text."
+ },
+ {
+  "id": "kt-muq-1",
+  "work": "sinai2023_keyterms",
+  "author": "Nicolai Sinai",
+  "ref": "Entry on muqaṭṭaʿāt, PDF p. 83 [PDF page = printed page in this OA file]",
+  "pdf_page": 83,
+  "url": "https://ora.ox.ac.uk/objects/uuid:2a4e4769-813e-48e9-bf95-c36fdd593c8b/files/smg74qp037",
+  "passage": "Goossens posits that the letters were added after the death of Muhammad yet prior to the final redaction of the Qur’anic corpus (Goossens 1923, 216–218).",
+  "from_": "Goossens posits that the letters were",
+  "to": "the Qur’anic corpus (Goossens 1923, 216–218).",
+  "keys": [
+   "Goossens posits that the letters were added after the death of Muhammad",
+   "yet prior to the final redaction of the Qur’anic corpus"
+  ],
+  "alts": [
+   "Goossens 1923, 216–218"
+  ],
+  "label": "A",
+  "stance": "reports others",
+  "claim_en": "Reports Goossens (1923) that the letter strings were added to the surahs after Muhammad’s death but before the final redaction of the corpus.",
+  "context": "Reported position within the muqaṭṭaʿāt entry; Sinai then argues against late entry of the letter strings (see kt-muq-2)."
+ },
+ {
+  "id": "kt-muq-2",
+  "work": "sinai2023_keyterms",
+  "author": "Nicolai Sinai",
+  "ref": "Entry on muqaṭṭaʿāt, PDF p. 84 [PDF page = printed page in this OA file]",
+  "pdf_page": 84,
+  "url": "https://ora.ox.ac.uk/objects/uuid:2a4e4769-813e-48e9-bf95-c36fdd593c8b/files/smg74qp037",
+  "passage": "given that surah-initial letter strings are demonstrably correlated with specific diction in the immediately following verses, as demonstrated above, there is a strong presumption that the letter sequences are original components of their respective surahs.",
+  "from_": "given that surah-initial letter strings are",
+  "to": "original components of their respective surahs.",
+  "keys": [
+   "there is a strong presumption that the letter sequences are original components of their respective surahs",
+   "surah-initial letter strings are demonstrably correlated with specific diction"
+  ],
+  "alts": [
+   "as demonstrated above"
+  ],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Sinai argues there is a strong presumption that the surah-initial letter strings are original components of their surahs, not later additions.",
+  "context": "Own counter-argument (E) to the late-addition view; acknowledges a possible counter-scenario."
+ },
+ {
+  "id": "kt-jahannam-1",
+  "work": "sinai2023_keyterms",
+  "author": "Nicolai Sinai",
+  "ref": "Footnote 19 in the entry on jahannam, PDF p. 268 [PDF page = printed page in this OA file]",
+  "pdf_page": 268,
+  "url": "https://ora.ox.ac.uk/objects/uuid:2a4e4769-813e-48e9-bf95-c36fdd593c8b/files/smg74qp037",
+  "passage": "O’Shaughnessy 1961, 457–458, posits that occurrences of jahannam in early Meccan surahs are all later interpolations, relying in part on Bell; but this claim is very doubtful. I cannot, for instance, see any justification for considering Q 52:13 or 55:43 secondary insertions.",
+  "from_": "O’Shaughnessy 1961, 457–458, posits that occurrences",
+  "to": "Q 52:13 or 55:43 secondary insertions.",
+  "keys": [
+   "this claim is very doubtful",
+   "I cannot, for instance, see any justification for considering Q 52:13 or 55:43 secondary insertions"
+  ],
+  "alts": [
+   "relying in part on Bell"
+  ],
+  "label": "E",
+  "stance": "rejects",
+  "claim_en": "Reports O’Shaughnessy (1961) that all occurrences of jahannam in early Meccan surahs are later interpolations, then rejects this as very doubtful, naming Q 52:13 and 55:43 as verses without justification for secondary insertion.",
+  "context": "Footnote 19 in the entry on jahannam (PDF p. 268). The enumerated verses (Q 52:13, 55:43) appear only as Sinai’s counter-examples."
+ },
+ {
+  "id": "kt-s7-1",
+  "work": "sinai2023_keyterms",
+  "author": "Nicolai Sinai",
+  "ref": "Footnote 4 in the Surah 7 entry, PDF p. 149 [PDF page = printed page in this OA file]",
+  "pdf_page": 149,
+  "url": "https://ora.ox.ac.uk/objects/uuid:2a4e4769-813e-48e9-bf95-c36fdd593c8b/files/smg74qp037",
+  "passage": "Note that the question of the extent of potential Medinan additions to Surah 7 has not yet been settled.",
+  "from_": "Note that the question of the",
+  "to": "7 has not yet been settled.",
+  "keys": [
+   "the question of the extent of potential Medinan additions to Surah 7",
+   "has not yet been settled"
+  ],
+  "alts": [],
+  "label": "A",
+  "stance": "own claim",
+  "claim_en": "States only that the extent of potential Medinan additions to Surah 7 is unsettled; he does not assert any specific addition in this footnote.",
+  "context": "Footnote 4 in the Surah 7 entry; included because it concerns additions, but it makes no specific claim."
+ },
+ {
+  "id": "kt-closure-1",
+  "work": "sinai2023_keyterms",
+  "author": "Nicolai Sinai",
+  "ref": "Entry on Q 3:7, PDF p. 206 [PDF page = printed page in this OA file]",
+  "pdf_page": 206,
+  "url": "https://ora.ox.ac.uk/objects/uuid:2a4e4769-813e-48e9-bf95-c36fdd593c8b/files/smg74qp037",
+  "passage": "Thus, the overall impression that the Qur’anic corpus was closed very soon after Muhammad’s demise (Sinai 2014, 520) would continue to stand even if Q 3:7 were classed as post-prophetic.",
+  "from_": "Thus, the overall impression that the",
+  "to": "Q 3:7 were classed as post-prophetic.",
+  "keys": [
+   "the overall impression that the Qur’anic corpus was closed very soon after Muhammad’s demise",
+   "would continue to stand even if Q 3:7 were classed as post-prophetic"
+  ],
+  "alts": [
+   "(Sinai 2014, 520)"
+  ],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Sinai says the impression that the Qurʾānic corpus was closed very soon after Muhammad’s death (citing his own BSOAS 2014 Part II, p. 520) would still stand even if Q 3:7 were post-prophetic.",
+  "context": "Counter-position (E) on closure; cites \"Sinai 2014, 520\" (BSOAS Part II). Relevant to the claim that closure left little room for later additions."
+ },
+ {
+  "id": "kt-rijz-1",
+  "work": "sinai2023_keyterms",
+  "author": "Nicolai Sinai",
+  "ref": "Entry on rijz, PDF p. 421 [PDF page = printed page in this OA file]",
+  "pdf_page": 421,
+  "url": "https://ora.ox.ac.uk/objects/uuid:2a4e4769-813e-48e9-bf95-c36fdd593c8b/files/smg74qp037",
+  "passage": "it is conceivable that both in Q 7:71 and 8:11 the transmission history of the Qur’an’s canonical rasm suffered from minor errors caused by inaccurate transcription from oral dictation, a phenomenon for which the lower layer of the Sanaa Palimpsest provides additional evidence",
+  "from_": "it is conceivable that both in",
+  "to": "the Sanaa Palimpsest provides additional evidence",
+  "keys": [
+   "minor errors caused by inaccurate transcription from oral dictation",
+   "the lower layer of the Sanaa Palimpsest provides additional evidence"
+  ],
+  "alts": [
+   "it is conceivable"
+  ],
+  "label": "B",
+  "stance": "own claim",
+  "claim_en": "Sinai says it is conceivable that the transmission of the canonical rasm at Q 7:71 and 8:11 suffered minor scribal errors from inaccurate transcription from dictation.",
+  "context": "Hedged (\"it is conceivable\"); he offers an alternative reading (semantic convergence of rijz/rijs). Scribal error is post-prophetic transmission, classed B."
+ },
+ {
+  "id": "kt-conv-1",
+  "work": "sinai2023_keyterms",
+  "author": "Nicolai Sinai",
+  "ref": "Conventions and Style, PDF p. 30 [PDF page = printed page in this OA file]",
+  "pdf_page": 30,
+  "url": "https://ora.ox.ac.uk/objects/uuid:2a4e4769-813e-48e9-bf95-c36fdd593c8b/files/smg74qp037",
+  "passage": "scholars have only begun to address whether and to what extent the standard rasm deserves to be privileged over non-standard recensions of the Qur’an, for which manuscript evidence is still very scarce",
+  "from_": "scholars have only begun to address",
+  "to": "manuscript evidence is still very scarce",
+  "keys": [
+   "scholars have only begun to address whether and to what extent the standard rasm deserves to be privileged over non-standard recensions",
+   "manuscript evidence is still very scarce"
+  ],
+  "alts": [],
+  "label": "D",
+  "stance": "own claim",
+  "claim_en": "Descriptive: scholars have only begun to address whether the standard rasm deserves to be privileged over non-standard recensions, for which manuscript evidence is scarce.",
+  "context": "Methodological note on the dictionary conventions (variant readings); descriptive, not a claim of alteration."
+ },
+ {
+  "id": "bs2-rough-1",
+  "work": "sinai2014_bsoas2",
+  "author": "Nicolai Sinai",
+  "ref": "Part II FirstView PDF p. 12 (journal pp. 509–521) [printed BSOAS page not verified; pdf_page = FirstView PDF page]",
+  "pdf_page": 12,
+  "url": "https://islamspring2012.voices.wooster.edu/wp-content/uploads/sites/192/2018/09/Sinai-Nicolai-2014-When-did-the-consonantal-skelet.pdf",
+  "passage": "Arguably the most striking example is provided by a handful of passages that violate basic rules of case agreement in classical Arabic (Q 2:177, 4:162, 5:69 and 20:63).",
+  "from_": "Arguably the most striking example is",
+  "to": "(Q 2:177, 4:162, 5:69 and 20:63).",
+  "keys": [
+   "a handful of passages that violate basic rules of case agreement in classical Arabic",
+   "Q 2:177, 4:162, 5:69 and 20:63"
+  ],
+  "alts": [],
+  "label": "D",
+  "stance": "own claim",
+  "claim_en": "Sinai describes passages (Q 2:177, 4:162, 5:69, 20:63) that violate case agreement in classical Arabic, as \"a handful of passages\"; he uses such rough edges as evidence of early stabilisation (the report of ʿUthmān and ʿĀʾisha is in the surrounding text, not in this passage).",
+  "context": "Part II, section on \"rough edges\". Sinai uses these as evidence the rasm was fixed early; the passage is descriptive (D)."
+ },
+ {
+  "id": "bs2-sadeghi-1",
+  "work": "sinai2014_bsoas2",
+  "author": "Nicolai Sinai",
+  "ref": "Part II FirstView PDF p. 6 [printed BSOAS page not verified; pdf_page = FirstView PDF page]",
+  "pdf_page": 6,
+  "url": "https://islamspring2012.voices.wooster.edu/wp-content/uploads/sites/192/2018/09/Sinai-Nicolai-2014-When-did-the-consonantal-skelet.pdf",
+  "passage": "Sadeghi has found that of the fourteen major pluses displayed by the standard rasm in comparison with C-1 at least three are irreducible.",
+  "from_": "Sadeghi has found that of the",
+  "to": "C-1 at least three are irreducible.",
+  "keys": [
+   "Sadeghi has found that of the fourteen major pluses displayed by the standard rasm",
+   "at least three are irreducible"
+  ],
+  "alts": [],
+  "label": "D",
+  "stance": "reports others",
+  "claim_en": "Reports Sadeghi’s finding that at least three of the fourteen major pluses of the standard rasm against C-1 are \"irreducible\" (cannot easily be explained as scribal error).",
+  "context": "Sinai reports Sadeghi and Bergmann (Codex, 401); the three variants are Q 2:196, 2:217 and 2:222 (footnote 19). Sinai raises caveats about the method."
+ },
+ {
+  "id": "bs2-default-1",
+  "work": "sinai2014_bsoas2",
+  "author": "Nicolai Sinai",
+  "ref": "Part II Conclusions FirstView PDF p. 13 (journal p. 520 region; printed page not verified) [printed BSOAS page not verified; pdf_page = FirstView PDF page]",
+  "pdf_page": 14,
+  "url": "https://islamspring2012.voices.wooster.edu/wp-content/uploads/sites/192/2018/09/Sinai-Nicolai-2014-When-did-the-consonantal-skelet.pdf",
+  "passage": "Similarly, as long as no Quranic passages with a distinct stylistic and terminological profile have been compellingly placed in a late seventh-century context, the traditional dating of the standard rasm (excepting certain orthographical features) to 650 or earlier ought to be our default view",
+  "from_": "Similarly, as long as no Quranic",
+  "to": "ought to be our default view",
+  "keys": [
+   "the traditional dating of the standard rasm",
+   "to 650 or earlier ought to be our default view"
+  ],
+  "alts": [
+   "excepting certain orthographical features"
+  ],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Sinai argues that unless passages with a distinct stylistic and terminological profile can be compellingly placed in a late seventh-century context, the traditional dating of the standard rasm to 650 or earlier should be the default view.",
+  "context": "Conclusion of Part II. The article itself calls the argument \"not unassailable\" (see bs2-q48-1)."
+ },
+ {
+  "id": "bs2-q48-1",
+  "work": "sinai2014_bsoas2",
+  "author": "Nicolai Sinai",
+  "ref": "Part II Conclusions FirstView PDF p. 13 [printed BSOAS page not verified; pdf_page = FirstView PDF page]",
+  "pdf_page": 13,
+  "url": "https://islamspring2012.voices.wooster.edu/wp-content/uploads/sites/192/2018/09/Sinai-Nicolai-2014-When-did-the-consonantal-skelet.pdf",
+  "passage": "First, can we be sure that there might not have been more passages of the sort presented above that were corrected (such as Q 48:24, where we get makka instead of bakka)?",
+  "from_": "First, can we be sure that",
+  "to": "we get makka instead of bakka)?",
+  "keys": [
+   "can we be sure that there might not have been more passages of the sort presented above that were corrected",
+   "such as Q 48:24, where we get makka instead of bakka"
+  ],
+  "alts": [],
+  "label": "B",
+  "stance": "own claim",
+  "claim_en": "Sinai raises as an objection that there might have been more passages (such as Q 48:24, makka for bakka) corrected in the rasm, i.e. post-prophetic emendation of the consonantal text.",
+  "context": "Stated as an objection to his own argument, then he defends the default dating. Q 48:24 is not claimed to be a specific alteration; the listing is of possible cases raised as objections."
+ },
+ {
+  "id": "bs2-fischer-1",
+  "work": "sinai2014_bsoas2",
+  "author": "Nicolai Sinai",
+  "ref": "Part II Conclusions footnote 47, FirstView PDF p. 13 [printed BSOAS page not verified; pdf_page = FirstView PDF page]",
+  "pdf_page": 13,
+  "url": "https://islamspring2012.voices.wooster.edu/wp-content/uploads/sites/192/2018/09/Sinai-Nicolai-2014-When-did-the-consonantal-skelet.pdf",
+  "passage": "August Fischer has argued that Q 101:10–11 constitute a later gloss (“Eine Qorān-Interpolation”, in Carl Bezold (ed.), Orientalistische Studien Theodor Nöldeke zum siebzigsten Geburstag gewidmet (Gießen: Alfred Töpelmann, 1906), 2 vols, vol. 1, 33–55), but see my comments",
+  "from_": "August Fischer has argued that Q",
+  "to": "1, 33–55), but see my comments",
+  "keys": [
+   "August Fischer has argued that Q 101:10–11 constitute a later gloss",
+   "but see my comments"
+  ],
+  "alts": [
+   "but see my comments"
+  ],
+  "label": "A",
+  "stance": "reports others",
+  "claim_en": "Reports August Fischer (1906) that Q 101:10–11 constitute a later gloss (interpolation); Sinai refers the reader to his own comments in the Corpus Coranicum commentary, implying disagreement.",
+  "context": "Footnote 47 in the Conclusions. Sinai does not endorse Fischer’s gloss here; the reference \"but see my comments\" marks a disagreement."
+ },
+ {
+  "id": "bs2-recensions-1",
+  "work": "sinai2014_bsoas2",
+  "author": "Nicolai Sinai",
+  "ref": "Part II Conclusions FirstView PDF p. 14 (per findpage; journal p. 520 region not verified) [printed BSOAS page not verified; pdf_page = FirstView PDF page]",
+  "pdf_page": 14,
+  "url": "https://islamspring2012.voices.wooster.edu/wp-content/uploads/sites/192/2018/09/Sinai-Nicolai-2014-When-did-the-consonantal-skelet.pdf",
+  "passage": "On the basis of the literary sources alone, we may also accept that different recensions disagreed about the inclusion of a handful of short sūras (Q 1, 113, 114, as well as Sūrat al-Khalʿ and Sūrat al-Ḥafd).",
+  "from_": "On the basis of the literary",
+  "to": "as Sūrat al-Khalʿ and Sūrat al-Ḥafd).",
+  "keys": [
+   "we may also accept that different recensions disagreed about the inclusion of a handful of short sūras",
+   "Sūrat al-Khalʿ and Sūrat al-Ḥafd"
+  ],
+  "alts": [],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Says that on the basis of the literary sources alone one may accept that different recensions disagreed about including a handful of short sūras (Q 1, 113, 114, Sūrat al-Khalʿ and Sūrat al-Ḥafd).",
+  "context": "Sinai accepts the literary report only as far as inclusion goes; he states that neither C-1 nor the literary sources show disagreement about the contents of each sūra, and that most sūras were extant by Muḥammad’s death."
+ },
+ {
+  "id": "bs1-intro-1",
+  "work": "sinai2014_bsoas1",
+  "author": "Nicolai Sinai",
+  "ref": "Part I Introduction FirstView PDF p. 2 (journal pp. 273–292) [printed BSOAS page not verified; pdf_page = FirstView PDF page]",
+  "pdf_page": 2,
+  "url": "https://islamspring2012.voices.wooster.edu/wp-content/uploads/sites/192/2012/02/Sinai-Nicolai-2014-When-did-the-consonantal-skeleto1.pdf",
+  "passage": "However, in recent years various scholars have espoused a conjectural dating of the Quran’s codification to the time of ʿAbd al-Malik, or have at least maintained that the Islamic scripture was open to significant revision up until c. 700 CE.",
+  "from_": "However, in recent years various scholars",
+  "to": "revision up until c. 700 CE.",
+  "keys": [
+   "various scholars have espoused a conjectural dating of the Quran’s codification to the time of ʿAbd al-Malik",
+   "open to significant revision up until c. 700 CE"
+  ],
+  "alts": [],
+  "label": "B",
+  "stance": "reports others",
+  "claim_en": "Describes recent scholars who date the Quran’s codification to ʿAbd al-Malik or hold that the scripture was open to significant revision until c. 700 CE.",
+  "context": "Introduction to Part I; this is Sinai’s description of others’ hypotheses, which Part I and II then test (and largely reject)."
+ },
+ {
+  "id": "bs1-emergent-1",
+  "work": "sinai2014_bsoas1",
+  "author": "Nicolai Sinai",
+  "ref": "Part I Introduction FirstView PDF p. 5 (journal pp. 273–292) [printed BSOAS page not verified; pdf_page = FirstView PDF page]",
+  "pdf_page": 5,
+  "url": "https://islamspring2012.voices.wooster.edu/wp-content/uploads/sites/192/2012/02/Sinai-Nicolai-2014-When-did-the-consonantal-skeleto1.pdf",
+  "passage": "the most serious rival of the traditional dating of the standard rasm would at present seem to be the hypothesis that the Quranic text, in spite of having achieved a recognizable form by 660, continued to be reworked and revised until c. 700. For convenience of reference, I shall baptize this scenario the “emergent canon model”.",
+  "from_": "the most serious rival of the",
+  "to": "this scenario the “emergent canon model”.",
+  "keys": [
+   "continued to be reworked and revised until c. 700",
+   "the “emergent canon model”"
+  ],
+  "alts": [
+   "the most serious rival of the traditional dating"
+  ],
+  "label": "B",
+  "stance": "reports others",
+  "claim_en": "Describes the hypothesis (which he names the \"emergent canon model\") that the Quranic text, though recognisable by 660, continued to be reworked and revised until c. 700.",
+  "context": "Sinai names and tests this hypothesis in Parts I–II rather than adopting it; the model covers post-prophetic revision of the text."
+ }
+]

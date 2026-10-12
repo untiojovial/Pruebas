@@ -1,0 +1,523 @@
+[
+ {
+  "id": "q5-jeffery1937-01",
+  "work": "jeffery1937",
+  "author": "Arthur Jeffery",
+  "ref": "Introduction, sec. 'The Old Codices' (printed p. 8)",
+  "pdf_page": 24,
+  "url": "https://archive.org/download/materials-for-the-history-of-the-text-of-the-quran-the-old-codices/Materials-For-The-History-Of-The-Text-Of-The-Quran-The-Old-Codices_djvu.txt",
+  "passage": "“Uthm4n’s solution was to canonize the Madinan Codex!) and order all others to be destroyed.",
+  "from_": "“Uthm4n’s solution was to canonize the",
+  "to": "order all others to be destroyed.",
+  "keys": [
+   "canonize the Madinan Codex",
+   "order all others to be destroyed"
+  ],
+  "alts": [],
+  "label": "C",
+  "stance": "own claim",
+  "claim_en": "Jeffery states that 'Uthman's solution was to canonize the Madinan codex and order all others to be destroyed (suppression of other codices).",
+  "context": "OCR text ('Uthm4n', 'Codex!)' with footnote mark); a page header/footer marker places this on printed p. 8."
+ },
+ {
+  "id": "q5-jeffery1937-02",
+  "work": "jeffery1937",
+  "author": "Arthur Jeffery",
+  "ref": "Introduction (printed p. 8)",
+  "pdf_page": 24,
+  "url": "https://archive.org/download/materials-for-the-history-of-the-text-of-the-quran-the-old-codices/Materials-For-The-History-Of-The-Text-Of-The-Quran-The-Old-Codices_djvu.txt",
+  "passage": "There can be little doubt that the text canonized by “Uthman was only one among several types of text in existence at the time",
+  "from_": "There can be little doubt that",
+  "to": "text in existence at the time",
+  "keys": [
+   "was only one among several types of text in existence at the time"
+  ],
+  "alts": [],
+  "label": "D",
+  "stance": "own claim",
+  "claim_en": "Jeffery states that the text canonized by 'Uthman was only one among several types of text in existence at the time.",
+  "context": "Descriptive claim of textual variety (OCR text)."
+ },
+ {
+  "id": "q5-jeffery1937-03",
+  "work": "jeffery1937",
+  "author": "Arthur Jeffery",
+  "ref": "Codex of Ibn Masʿūd, introduction (printed p. 21)",
+  "pdf_page": 37,
+  "url": "https://archive.org/download/materials-for-the-history-of-the-text-of-the-quran-the-old-codices/Materials-For-The-History-Of-The-Text-Of-The-Quran-The-Old-Codices_djvu.txt",
+  "passage": "It was well known in the early days of Islam that one peculiarity of Ibn Mas‘tid’s Codex was that it did not contain Siras I, CXUI and CXIV, ie. the Fata, which is an opening prayer to the book, and the Mu‘awwidhatani with which it ends’). Modern scholarship on quite other grounds holds that these were not originally part of the Quran but are of the nature of liturgical additions.",
+  "from_": "It was well known in the",
+  "to": "of the nature of liturgical additions.",
+  "keys": [
+   "Modern scholarship on quite other grounds holds that these were not originally part of the Quran",
+   "are of the nature of liturgical additions"
+  ],
+  "alts": [
+   "Modern scholarship on quite other grounds holds"
+  ],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Ibn Masʿūd's codex is known to have lacked al-Fātiḥa and the two Muʿawwidhatān; Jeffery reports that modern scholarship holds these were not originally Qurʾān but liturgical additions.",
+  "context": "The 'well known' point is reported by Jeffery from the early sources. OCR gives 'CXUI' for CXIII and 'Fata' for Fātiḥa. The sentence is from the Ibn Masʿūd introduction, printed p. 21 (per the page-marker rule)."
+ },
+ {
+  "id": "q5-jeffery1937-04",
+  "work": "jeffery1937",
+  "author": "Arthur Jeffery",
+  "ref": "Codex of Ubai b. Kaʿb, introduction (printed p. 115)",
+  "pdf_page": 131,
+  "url": "https://archive.org/download/materials-for-the-history-of-the-text-of-the-quran-the-old-codices/Materials-For-The-History-Of-The-Text-Of-The-Quran-The-Old-Codices_djvu.txt",
+  "passage": "His Codex is definitely stated to have been among those destroyed by ‘Uthman. Its Siira order was reported to have differed from that of “Uthmian’s,",
+  "from_": "His Codex is definitely stated to",
+  "to": "have differed from that of “Uthmian’s,",
+  "keys": [
+   "His Codex is definitely stated to have been among those destroyed by",
+   "Its Siira order was reported to have differed"
+  ],
+  "alts": [],
+  "label": "D",
+  "stance": "reports others",
+  "claim_en": "Jeffery reports that Ubayy's codex was destroyed by 'Uthman and that its sura order was reported to differ from the 'Uthmanic order.",
+  "context": "The 'reported' order is attributed to the Fihrist and al-Itqān lists, which Jeffery calls unreliable (OCR text)."
+ },
+ {
+  "id": "q5-jeffery1937-05",
+  "work": "jeffery1937",
+  "author": "Arthur Jeffery",
+  "ref": "Codex of Ubai b. Kaʿb (printed p. 115)",
+  "pdf_page": 131,
+  "url": "https://archive.org/download/materials-for-the-history-of-the-text-of-the-quran-the-old-codices/Materials-For-The-History-Of-The-Text-Of-The-Quran-The-Old-Codices_djvu.txt",
+  "passage": "In this list are missing Stras 29, 31, 44, 51, 66, 70, 73, 74, 90, 103, but we have two extra Siiras al-Khal‘ and al-Hafd. As, however, we actually know of variants from him in all of these save 103, the pe probability is that the material of them formed part of his Codex.",
+  "from_": "In this list are missing Stras",
+  "to": "them formed part of his Codex.",
+  "keys": [
+   "we have two extra Siiras al-Khal",
+   "probability is that the material of them formed part of his Codex"
+  ],
+  "alts": [
+   "we actually know of variants from him in all of these save 103"
+  ],
+  "label": "D",
+  "stance": "own claim",
+  "claim_en": "Jeffery states that Ubayy's codex apparently contained two extra suras (al-Khal' and al-Ḥafd) not in the 'Uthmanic text, and infers they formed part of his codex.",
+  "context": "The sentence is in Jeffery's own voice but the list it discusses comes from the Fihrist (reported). OCR has 'Siiras' and 'Stras' for Sūras."
+ },
+ {
+  "id": "q5-jeffery1937-06",
+  "work": "jeffery1937",
+  "author": "Arthur Jeffery",
+  "ref": "Codex of Ubai b. Kaʿb, end of codex (printed p. 180)",
+  "pdf_page": 196,
+  "url": "https://archive.org/download/materials-for-the-history-of-the-text-of-the-quran-the-old-codices/Materials-For-The-History-Of-The-Text-Of-The-Quran-The-Old-Codices_djvu.txt",
+  "passage": "Ubai’s Codex was known to contain two Siras not found in our ‘Uthmanic text, though there is some dispute as to their position in his Codex. In view of the doubts as to the accuracy of any of the information that has come down to us as to the Sura order in his Codex this is not of importance.",
+  "from_": "Ubai’s Codex was known to contain",
+  "to": "Codex this is not of importance.",
+  "keys": [
+   "Ubai’s Codex was known to contain two Siras not found in our",
+   "In view of the doubts as to the accuracy of any of the information"
+  ],
+  "alts": [
+   "though there is some dispute as to their position in his Codex"
+  ],
+  "label": "D",
+  "stance": "own claim",
+  "claim_en": "Jeffery states that Ubayy's codex contained two sūras not in the 'Uthmanic text, while doubting the accuracy of the sura-order information and calling its exact position unimportant.",
+  "context": "OCR text; the Khal' and Hafd headings follow this paragraph on the same page."
+ },
+ {
+  "id": "q5-jeffery1937-07",
+  "work": "jeffery1937",
+  "author": "Arthur Jeffery",
+  "ref": "Codex of Ubai b. Kaʿb, end of codex (printed p. 181)",
+  "pdf_page": 197,
+  "url": "https://archive.org/download/materials-for-the-history-of-the-text-of-the-quran-the-old-codices/Materials-For-The-History-Of-The-Text-Of-The-Quran-The-Old-Codices_djvu.txt",
+  "passage": "We also find attributed to Ubai the verse on the insatiable greed of man, which the writers on Abrogation recognize is no longer included in the Qur’an.",
+  "from_": "We also find attributed to Ubai",
+  "to": "no longer included in the Qur’an.",
+  "keys": [
+   "We also find attributed to Ubai the verse on the insatiable greed",
+   "is no longer included in the Qur’an"
+  ],
+  "alts": [],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Jeffery reports that a verse on man's insatiable greed is attributed to Ubayy and that the writers on abrogation recognize it is no longer part of the Qurʾān.",
+  "context": "Arabic text of the verse is not legible in the OCR and is not quoted. The attribution is Jeffery's report of the sources."
+ },
+ {
+  "id": "q5-deroche2014-08",
+  "work": "deroche2014",
+  "author": "François Déroche",
+  "ref": "Ch. 2 'The written transmission of the Qurʾān in ḥijāzī script' (printed p. 52)",
+  "pdf_page": 67,
+  "url": "https://archive.org/download/oapen-20.500.12657-53835/9789004261853.pdf",
+  "passage": "As noted by Sadeghi and Goudarzi, there is a broad agreement with Ubayy’s codex …",
+  "from_": "As noted by Sadeghi and Goudarzi,",
+  "to": "broad agreement with Ubayy’s codex …",
+  "keys": [
+   "there is a broad agreement with Ubayy’s codex"
+  ],
+  "alts": [],
+  "label": "D",
+  "stance": "reports others",
+  "claim_en": "Déroche reports Sadeghi and Goudarzi's observation of broad agreement between the Ṣanʿāʾ 1 sura sequence and Ubayy's codex.",
+  "context": "Sentence is Déroche citing Sadeghi and Goudarzi (2012, note 51); the ellipsis is in the original."
+ },
+ {
+  "id": "q5-deroche2014-09",
+  "work": "deroche2014",
+  "author": "François Déroche",
+  "ref": "Ch. 2 (printed p. 52)",
+  "pdf_page": 67,
+  "url": "https://archive.org/download/oapen-20.500.12657-53835/9789004261853.pdf",
+  "passage": "Other Qurʾanic manuscripts found in Sanaa similarly reveal a different sequence of the suras.",
+  "from_": "Other Qurʾanic manuscripts found in Sanaa",
+  "to": "a different sequence of the suras.",
+  "keys": [
+   "Other Qurʾanic manuscripts found in Sanaa similarly reveal a different sequence of the suras"
+  ],
+  "alts": [],
+  "label": "D",
+  "stance": "own claim",
+  "claim_en": "Déroche states that other Qurʾānic manuscripts found in Sanaa show a different sura sequence.",
+  "context": "Descriptive; he cites note 52 (Sadeghi-Goudarzi) for the Ubayy comparison in the preceding sentence."
+ },
+ {
+  "id": "q5-deroche2014-10",
+  "work": "deroche2014",
+  "author": "François Déroche",
+  "ref": "Ch. 2 (printed p. 53)",
+  "pdf_page": 68,
+  "url": "https://archive.org/download/oapen-20.500.12657-53835/9789004261853.pdf",
+  "passage": "A comparison of the latter with the ʿUthmanic version shows for instance that some textual elements are missing. In various instances, a single word is lacking but in sura 9 verse 85 was left out in its entirety (Inv. 01–27.1, f. SG 20b/P 16b).",
+  "from_": "A comparison of the latter with",
+  "to": "(Inv. 01–27.1, f. SG 20b/P 16b).",
+  "keys": [
+   "some textual elements are missing",
+   "was left out in its entirety"
+  ],
+  "alts": [
+   "In various instances, a single word is lacking"
+  ],
+  "label": "C",
+  "stance": "own claim",
+  "claim_en": "Déroche states that the Codex Ṣanʿāʾ I lacks some textual elements compared with the 'Uthmanic text, including the whole of Q 9:85.",
+  "context": "Déroche's own comparison of folio f. SG 20b/P 16b (scriptio inferior)."
+ },
+ {
+  "id": "q5-deroche2014-11",
+  "work": "deroche2014",
+  "author": "François Déroche",
+  "ref": "Ch. 2 (printed p. 53)",
+  "pdf_page": 68,
+  "url": "https://archive.org/download/oapen-20.500.12657-53835/9789004261853.pdf",
+  "passage": "Conversely, the Codex Ṣanʿāʾ I also contains additional material, from articles to words or groups of words which, in some cases, help making the sense of the verse more explicit.",
+  "from_": "Conversely, the Codex Ṣanʿāʾ I also",
+  "to": "sense of the verse more explicit.",
+  "keys": [
+   "the Codex Ṣanʿāʾ I also contains additional material",
+   "help making the sense of the verse more explicit"
+  ],
+  "alts": [],
+  "label": "D",
+  "stance": "own claim",
+  "claim_en": "Déroche states that Codex Ṣanʿāʾ I contains additional words relative to the 'Uthmanic text that sometimes clarify the verse.",
+  "context": "Descriptive of the manuscript's variants; not a claim of later insertion into the Qurʾān as such."
+ },
+ {
+  "id": "q5-deroche2014-12",
+  "work": "deroche2014",
+  "author": "François Déroche",
+  "ref": "Ch. 2 (printed p. 53)",
+  "pdf_page": 68,
+  "url": "https://archive.org/download/oapen-20.500.12657-53835/9789004261853.pdf",
+  "passage": "In her last study of Inv. 01–27.1, Puin underlined on the other hand that the text sometimes agreed with Ibn Masʿūd or Ubayy readings, but sometimes took another stand. She concluded that it is “another Qurʾan” (“ein ‘anderer Koran’ ”).",
+  "from_": "In her last study of Inv.",
+  "to": "“another Qurʾan” (“ein ‘anderer Koran’ ”).",
+  "keys": [
+   "Puin underlined on the other hand that the text sometimes agreed with Ibn Masʿūd or Ubayy readings",
+   "She concluded that it is “another Qurʾan”"
+  ],
+  "alts": [
+   "sometimes took another stand"
+  ],
+  "label": "D",
+  "stance": "reports others",
+  "claim_en": "Déroche reports Puin's conclusion that the Ṣanʿāʾ 1 text is 'another Qurʾān', sometimes agreeing with Ibn Masʿūd or Ubayy and sometimes not.",
+  "context": "Déroche reports Puin's later study; Puin's own publication is cited in the note."
+ },
+ {
+  "id": "q5-deroche2014-13",
+  "work": "deroche2014",
+  "author": "François Déroche",
+  "ref": "Ch. 2 (printed p. 53)",
+  "pdf_page": 68,
+  "url": "https://archive.org/download/oapen-20.500.12657-53835/9789004261853.pdf",
+  "passage": "Sadeghi and Goudarzi reached the same conclusion: “the lower writing of Ṣanʿāʾ I clearly falls outside the standard text type. It belongs to a different text type, which we call C-I.”",
+  "from_": "Sadeghi and Goudarzi reached the same",
+  "to": "text type, which we call C-I.”",
+  "keys": [
+   "the lower writing of Ṣanʿāʾ I clearly falls outside the standard text type",
+   "It belongs to a different text type, which we call C-I"
+  ],
+  "alts": [],
+  "label": "D",
+  "stance": "reports others",
+  "claim_en": "Sadeghi and Goudarzi conclude that the lower writing of Ṣanʿāʾ I falls outside the standard text type and belongs to a different text type (C-I).",
+  "context": "Sadeghi-Goudarzi quoted by Déroche (note 63); the original article was not accessed."
+ },
+ {
+  "id": "q5-deroche2014-14",
+  "work": "deroche2014",
+  "author": "François Déroche",
+  "ref": "Ch. 2 (printed pp. 53-54)",
+  "pdf_page": 68,
+  "url": "https://archive.org/download/oapen-20.500.12657-53835/9789004261853.pdf",
+  "passage": "the non-standard lectio found in the palimpsest is not to be considered as proof of the pre-ʿÛthmānic (sic) period, because it was just in the fourth century that Abū Bakr b. Mugāhid (sic) … accepted only the readings based on a fairly uniform consonantal text.",
+  "from_": "the non-standard lectio found in the",
+  "to": "on a fairly uniform consonantal text.",
+  "keys": [
+   "the non-standard lectio found in the palimpsest is not to be considered as proof of the pre-",
+   "accepted only the readings based on a fairly uniform consonantal text"
+  ],
+  "alts": [
+   "because it was just in the fourth century"
+  ],
+  "label": "E",
+  "stance": "reports others",
+  "claim_en": "Fedeli (quoted by Déroche) cautions that the non-standard reading in the palimpsest is not proof of a pre-'Uthmānic text, since the canonical readings were fixed only in the 4th/10th century.",
+  "context": "Déroche quotes Fedeli (2007); the 'pre-ʿÛthmānic (sic)' spelling is in the original. The date clause is Fedeli's."
+ },
+ {
+  "id": "q5-deroche2014-15",
+  "work": "deroche2014",
+  "author": "François Déroche",
+  "ref": "Ch. 2 (printed p. 54)",
+  "pdf_page": 69,
+  "url": "https://archive.org/download/oapen-20.500.12657-53835/9789004261853.pdf",
+  "passage": "The scriptio inferior of the Codex Ṣanʿāʾ I has been transcribed in a milieu which adhered to a text of the Qurʾan different from the ʿUthmanic tradition as well as from the Qurʾanic codices of Ibn Masʿūd and Ubayy.",
+  "from_": "The scriptio inferior of the Codex",
+  "to": "codices of Ibn Masʿūd and Ubayy.",
+  "keys": [
+   "has been transcribed in a milieu which adhered to a text of the Qurʾan different from the ʿUthmanic tradition",
+   "as well as from the Qurʾanic codices of Ibn Masʿūd and Ubayy"
+  ],
+  "alts": [],
+  "label": "D",
+  "stance": "own claim",
+  "claim_en": "Déroche states that the lower text of Codex Ṣanʿāʾ I follows a text different from the 'Uthmanic tradition and from the codices of Ibn Masʿūd and Ubayy.",
+  "context": "Déroche's own assessment, in the same chapter that notes that the date of the manuscript is contested."
+ },
+ {
+  "id": "q5-deroche2014-16",
+  "work": "deroche2014",
+  "author": "François Déroche",
+  "ref": "Ch. 2 (printed p. 54)",
+  "pdf_page": 69,
+  "url": "https://archive.org/download/oapen-20.500.12657-53835/9789004261853.pdf",
+  "passage": "I would therefore suggest on the basis of the various points I enumerated that the Codex Ṣanʿāʾ I was written during the second half of the first/seventh century and erased at the earliest by the middle of the following century.",
+  "from_": "I would therefore suggest on the",
+  "to": "the middle of the following century.",
+  "keys": [
+   "the Codex Ṣanʿāʾ I was written during the second half of the first/seventh century",
+   "erased at the earliest by the middle of the following century"
+  ],
+  "alts": [
+   "on the basis of the various points I enumerated"
+  ],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Déroche proposes that Codex Ṣanʿāʾ I was written in the second half of the 1st/7th century and erased by the mid-8th century at the earliest; he does not date it to before 'Uthmān.",
+  "context": "This is a dating claim, qualifying the pre-'Uthmānic early-date reading; it does not deny the variants (see the passages above)."
+ },
+ {
+  "id": "q5-deroche2014-17",
+  "work": "deroche2014",
+  "author": "François Déroche",
+  "ref": "Ch. 2 (printed p. 35)",
+  "pdf_page": 50,
+  "url": "https://archive.org/download/oapen-20.500.12657-53835/9789004261853.pdf",
+  "passage": "In addition, the small non-canonical variants and the peculiarities of the division of the text into verses suggest that at the time when the manuscript was transcribed, the rasm was not yet fully fixed, although the Codex Parisinopetropolitanus is in itself proof that the part of the canonical text corresponding to the contents of the manuscript was there—more precisely: is compatible with them.",
+  "from_": "In addition, the small non-canonical variants",
+  "to": "there—more precisely: is compatible with them.",
+  "keys": [
+   "the small non-canonical variants and the peculiarities of the division of the text into verses suggest",
+   "the rasm was not yet fully fixed"
+  ],
+  "alts": [
+   "the Codex Parisinopetropolitanus is in itself proof that the part of the canonical text corresponding to the contents of the manuscript was there"
+  ],
+  "label": "D",
+  "stance": "own claim",
+  "claim_en": "Déroche suggests that at the time the Codex Parisino-petropolitanus was transcribed, the rasm was not yet fully fixed, while the text is compatible with the canonical text.",
+  "context": "About the Parisino-petropolitanus, not Ṣanʿāʾ 1; the 'Uthmān narrative is presented as the Muslim tradition's account."
+ },
+ {
+  "id": "q5-deroche2014-18",
+  "work": "deroche2014",
+  "author": "François Déroche",
+  "ref": "Ch. 2 (printed p. 72)",
+  "pdf_page": 87,
+  "url": "https://archive.org/download/oapen-20.500.12657-53835/9789004261853.pdf",
+  "passage": "The caliph’s role may thus have been less far-reaching than the tradition reports, since in the early Umayyad period the manuscripts were unable to safeguard the text and non-canonical variants were still circulating (not to speak of different texts like that of the Codex Ṣanʿāʾ I which were in principle eliminated).",
+  "from_": "The caliph’s role may thus have",
+  "to": "I which were in principle eliminated).",
+  "keys": [
+   "The caliph’s role may thus have been less far-reaching than the tradition reports",
+   "non-canonical variants were still circulating"
+  ],
+  "alts": [
+   "in principle eliminated"
+  ],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Déroche argues that the caliph's role in fixing the text may have been less far-reaching than tradition reports, because non-canonical variants still circulated in the early Umayyad period.",
+  "context": "The 'eliminated' clause refers to suppression of other texts (cf. labels B/C); Déroche states it in parentheses."
+ },
+ {
+  "id": "q5-deroche2014-19",
+  "work": "deroche2014",
+  "author": "François Déroche",
+  "ref": "Concluding chapter (printed p. 139)",
+  "pdf_page": 154,
+  "url": "https://archive.org/download/oapen-20.500.12657-53835/9789004261853.pdf",
+  "passage": "This was achieved by addition, but also by suppression of some of the elements of the rasm. In the case of the ʿUthmanic version, these modifications did not alter the fundamental agreement with the canon (although they resulted sometimes in a rasm variant) and aimed at producing a text which was in the end closer to what the caliph is said to have intended.",
+  "from_": "This was achieved by addition, but",
+  "to": "caliph is said to have intended.",
+  "keys": [
+   "This was achieved by addition, but also by suppression of some of the elements of the rasm",
+   "aimed at producing a text which was in the end closer to what the caliph is said to have intended"
+  ],
+  "alts": [
+   "these modifications did not alter the fundamental agreement with the canon"
+  ],
+  "label": "B",
+  "stance": "own claim",
+  "claim_en": "Déroche states that the move from scriptio defectiva to a closer-to-standard orthography was achieved by addition and suppression of elements of the rasm, without altering the basic agreement with the canon.",
+  "context": "Describes orthographic changes to the 'Uthmanic rasm in the Umayyad period; the fuller passage is in the concluding chapter."
+ },
+ {
+  "id": "q5-deroche2014-20",
+  "work": "deroche2014",
+  "author": "François Déroche",
+  "ref": "Concluding chapter (printed p. 137)",
+  "pdf_page": 152,
+  "url": "https://archive.org/download/oapen-20.500.12657-53835/9789004261853.pdf",
+  "passage": "Ibn Masʿūd’s dissent had echoes in the fourth/tenth century, with copies derived from his codex still circulating. Similar information is transmitted by Ibn Qutayba who reports in the third/ninth century that Qurʾanic copies diverging from the canonical text were still found.6 The Codex Ṣanʿāʾ I, based on a textual tradition which was not altogether eliminated",
+  "from_": "Ibn Masʿūd’s dissent had echoes in",
+  "to": "tradition which was not altogether eliminated",
+  "keys": [
+   "Ibn Masʿūd’s dissent had echoes in the fourth/tenth century",
+   "copies derived from his codex still circulating"
+  ],
+  "alts": [
+   "Qurʾanic copies diverging from the canonical text were still found"
+  ],
+  "label": "D",
+  "stance": "reports others",
+  "claim_en": "Déroche reports that copies derived from Ibn Masʿūd's codex still circulated in the 4th/10th century and that Ibn Qutayba (3rd/9th c.) reports diverging copies.",
+  "context": "Reports Ibn Qutayba's claim via Déroche; the phrase 'not altogether eliminated' (Ṣanʿāʾ 1 tradition) is Déroche's."
+ },
+ {
+  "id": "q5-vanputten2019-21",
+  "work": "vanputten2019",
+  "author": "Marijn van Putten",
+  "ref": "Abstract (printed p. 271)",
+  "pdf_page": 1,
+  "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/23C45AC7BC649A5228E0DA6F6BA15C06/S0041977X19000338a.pdf/div-class-title-the-grace-of-god-as-evidence-for-a-written-uthmanic-archetype-the-importance-of-shared-orthographic-idiosyncrasies-div.pdf",
+  "passage": "It is argued that such consistency can only be explained by assuming that all these manuscripts come from a single written archetype, meaning there must have been a codification project sometime in the first century.",
+  "from_": "It is argued that such consistency",
+  "to": "project sometime in the first century.",
+  "keys": [
+   "all these manuscripts come from a single written archetype",
+   "meaning there must have been a codification project sometime in the first century"
+  ],
+  "alts": [],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Van Putten argues that the consistent spelling across 14 early manuscripts can only be explained by a single written archetype, implying a codification project in the 1st century.",
+  "context": "Argument for an early written archetype; this is the single-archetype side (E relative to the variation view). The hyphen in 'manu- scripts' is removed."
+ },
+ {
+  "id": "q5-vanputten2019-22",
+  "work": "vanputten2019",
+  "author": "Marijn van Putten",
+  "ref": "Introduction (printed p. 272)",
+  "pdf_page": 2,
+  "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/23C45AC7BC649A5228E0DA6F6BA15C06/S0041977X19000338a.pdf/div-class-title-the-grace-of-god-as-evidence-for-a-written-uthmanic-archetype-the-importance-of-shared-orthographic-idiosyncrasies-div.pdf",
+  "passage": "Considering the early date of some of the many Quranic manuscripts discussed here (many of which must date from the early Umayyad period), it seems highly unlikely that this written archetype was standardized much later than the time of ʿUthmān’s reign, and therefore the data can be seen to corroborate very precisely the traditional Muslim account.",
+  "from_": "Considering the early date of some",
+  "to": "very precisely the traditional Muslim account.",
+  "keys": [
+   "it seems highly unlikely that this written archetype was standardized much later than the time of ʿUthmān’s reign",
+   "the data can be seen to corroborate very precisely the traditional Muslim account"
+  ],
+  "alts": [],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Van Putten argues that the archetype was very unlikely to have been standardized much later than 'Uthmān's reign, so the data corroborate the traditional account very precisely.",
+  "context": "Opinion of the author; he treats the early-date claim as argued from the manuscript data, not as proven."
+ },
+ {
+  "id": "q5-vanputten2019-23",
+  "work": "vanputten2019",
+  "author": "Marijn van Putten",
+  "ref": "Uthmanic text type (printed p. 272, n. 2)",
+  "pdf_page": 2,
+  "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/23C45AC7BC649A5228E0DA6F6BA15C06/S0041977X19000338a.pdf/div-class-title-the-grace-of-god-as-evidence-for-a-written-uthmanic-archetype-the-importance-of-shared-orthographic-idiosyncrasies-div.pdf",
+  "passage": "This view has recently been challenged by Hilali (2017), who claims that none of the variants that Sadeghi and Goudarzi (2012) attribute to non-standard readings attributed to companions of the Prophet can in fact be found in the lower stratum of the text. As Hilali’s new edition of the Sanaa palimpsest regrettably does not reproduce the photos to which she had access, we have only her word against that of Sadeghi and Goudarzi wherever she claims not to see traces of a variant that they identified. Despite this, at least one of the variants attributed to Ibn Muḥayṣin, namely mikayl ‫ ﻣﻜﻴﻞ‬in Q 2: 98, instead of the ‫ ﻣﻴﻜﻴﻞ‬of the Cairo edition, is also present according to Hilali. Sadeghi and Goudarzi (2012: 116) reconstruct a final ‫ ـﻞ‬that apparently cannot be seen in the palimpsest, whereas Hilali (2017: 144 f.) takes a more conservative approach and simply reads",
+  "from_": "This view has recently been challenged",
+  "to": "more conservative approach and simply reads",
+  "keys": [
+   "Hilali (2017), who claims that none of the variants that Sadeghi and Goudarzi (2012) attribute to non-standard readings attributed to companions of the Prophet can in fact be found in the lower stratum of the text"
+  ],
+  "alts": [
+   "we have only her word against that of Sadeghi and Goudarzi"
+  ],
+  "label": "D",
+  "stance": "reports others",
+  "claim_en": "Van Putten reports Hilali's (2017) challenge that the companion-attributed non-standard variants that Sadeghi-Goudarzi identified cannot be found in the lower text of Ṣanʿāʾ 1; he calls this an unresolved dispute, not a settled finding.",
+  "context": "This is counter-evidence to the variant claims (E) reported by van Putten. The passage is from the footnote on p. 272; the footnote text runs on in the PDF."
+ },
+ {
+  "id": "q5-vanputten2019-24",
+  "work": "vanputten2019",
+  "author": "Marijn van Putten",
+  "ref": "Cook's stemma (printed p. 273)",
+  "pdf_page": 3,
+  "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/23C45AC7BC649A5228E0DA6F6BA15C06/S0041977X19000338a.pdf/div-class-title-the-grace-of-god-as-evidence-for-a-written-uthmanic-archetype-the-importance-of-shared-orthographic-idiosyncrasies-div.pdf",
+  "passage": "the very fact that such a pattern arises leads Cook to conclude that “we have to do with genuine transmission from an archetype” (2004: 104).",
+  "from_": "the very fact that such a",
+  "to": "transmission from an archetype” (2004: 104).",
+  "keys": [
+   "leads Cook to conclude that",
+   "“we have to do with genuine transmission from an archetype”"
+  ],
+  "alts": [],
+  "label": "E",
+  "stance": "reports others",
+  "claim_en": "Van Putten reports Cook (2004) concluding from al-Dānī's regional-codex variants (which form a stemma) that 'we have to do with genuine transmission from an archetype'.",
+  "context": "Cook's stemma article itself was not accessed; the quote is as van Putten gives it, from Cook 2004: 104."
+ },
+ {
+  "id": "q5-vanputten2019-25",
+  "work": "vanputten2019",
+  "author": "Marijn van Putten",
+  "ref": "Cook's stemma (printed p. 274)",
+  "pdf_page": 4,
+  "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/23C45AC7BC649A5228E0DA6F6BA15C06/S0041977X19000338a.pdf/div-class-title-the-grace-of-god-as-evidence-for-a-written-uthmanic-archetype-the-importance-of-shared-orthographic-idiosyncrasies-div.pdf",
+  "passage": "Cook’s arguments, combined with their confirmation in the manuscript evidence, make a strong case for an extremely early codification and distribution of the Uthmanic text type. It is then consistent with the traditional account of the codification and distribution of the four regional codices. While I find Cook’s arguments convincing, they seem to have gone to a large extent unnoticed, or have not been found to be fully convincing.",
+  "from_": "Cook’s arguments, combined with their confirmation",
+  "to": "been found to be fully convincing.",
+  "keys": [
+   "make a strong case for an extremely early codification and distribution of the Uthmanic text type"
+  ],
+  "alts": [
+   "While I find Cook’s arguments convincing, they seem to have gone to a large extent unnoticed, or have not been found to be fully convincing"
+  ],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "Van Putten states that Cook's stemma argument, combined with manuscript evidence, makes a strong case for an extremely early codification and distribution of the Uthmanic text type.",
+  "context": "Own claim by the author; notes that Cook's argument has not been fully accepted."
+ }
+]

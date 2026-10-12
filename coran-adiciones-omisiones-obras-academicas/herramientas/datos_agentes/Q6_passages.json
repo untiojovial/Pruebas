@@ -1,0 +1,437 @@
+[
+ {
+  "id": "vk2009-01",
+  "work": "vk2009",
+  "author": "P.S. van Koningsveld",
+  "ref": "Afscheidscollege 23 maart 2009, par. 1 'De Codex van Uthman', printed p. 2",
+  "pdf_page": 2,
+  "url": "https://bieb.islamnu.nl/download/37722/",
+  "passage": "De islamitische traditie die stelt dat Kalief Uthman omstreeks 28(650) de officiële tekst van de Koran heeft uitgevaardigd, kan op basis van de studie van manuscripten, inscripties en historische gegevens in geschreven bronnen worden onderschreven. Deze officiële tekst heeft andere codices, die volgens de overlevering kort voordien waren samengesteld, verdrongen.",
+  "from_": "De islamitische traditie die stelt dat Kalief Uthman",
+  "to": "volgens de overlevering kort voordien waren samengesteld, verdrongen.",
+  "keys": [
+   "Kalief Uthman omstreeks 28(650) de officiële tekst van de Koran heeft uitgevaardigd",
+   "Deze officiële tekst heeft andere codices"
+  ],
+  "alts": [
+   "De islamitische traditie die stelt dat"
+  ],
+  "label": "B",
+  "stance": "own claim",
+  "claim_en": "Uthman's official text (c. 650) displaced earlier codices that tradition says were compiled shortly before; the author affirms this as historically supported.",
+  "context": "Author endorses the Uthmanic codification against revisionist scepticism; 'verdrongen' is his own wording. Dutch lecture, 2009."
+ },
+ {
+  "id": "vk2009-02",
+  "work": "vk2009",
+  "author": "P.S. van Koningsveld",
+  "ref": "Afscheidscollege 2009, par. 1 'De Codex van Uthman', printed p. 2",
+  "pdf_page": 2,
+  "url": "https://bieb.islamnu.nl/download/37722/",
+  "passage": "Deze eerdere mushaf’s werden gekenmerkt door een andere redactie, vaak een andere volgorde van de soera’s.",
+  "from_": "Deze eerdere mushaf’s werden gekenmerkt door",
+  "to": "vaak een andere volgorde van de soera’s.",
+  "keys": [
+   "een andere redactie, vaak een andere volgorde van de soera’s"
+  ],
+  "alts": [],
+  "label": "D",
+  "stance": "own claim",
+  "claim_en": "Pre-Uthmanic codices (mushaf) differed in redaction and often in the order of the surahs.",
+  "context": "Descriptive evidence of variation in arrangement; the author does not say these codices were altered by anyone."
+ },
+ {
+  "id": "vk2009-03",
+  "work": "vk2009",
+  "author": "P.S. van Koningsveld",
+  "ref": "Afscheidscollege 2009, par. 1 'De Codex van Uthman', printed p. 2 (footnotes 10 and 11 omitted)",
+  "pdf_page": 2,
+  "url": "https://bieb.islamnu.nl/download/37722/",
+  "passage": "Misschien is een oud fragment uit Jemen, waarin een afwijkende tekstlezing is aangetroffen, oorspronkelijk afkomstig uit een dergelijke niet-Uthmanse codex. De variante tekstlezingen van de niet-Uthmanse codices zijn met een zekere uitvoerigheid in oude bronnen gedocumenteerd.",
+  "from_": "Misschien is een oud fragment uit",
+  "to": "met een zekere uitvoerigheid in oude bronnen gedocumenteerd.",
+  "keys": [
+   "De variante tekstlezingen van de niet-Uthmanse codices zijn met een zekere uitvoerigheid in oude bronnen gedocumenteerd"
+  ],
+  "alts": [
+   "Misschien is een oud fragment uit Jemen"
+  ],
+  "label": "D",
+  "stance": "own claim",
+  "claim_en": "Variant readings of non-Uthmanic codices are documented in old sources at some length; a Yemeni fragment with a deviating reading may come from such a codex (tentative).",
+  "context": "Variants are documented, not altered text; the Yemeni attribution is explicitly tentative ('misschien')."
+ },
+ {
+  "id": "vk2009-04",
+  "work": "vk2009",
+  "author": "P.S. van Koningsveld",
+  "ref": "Afscheidscollege 2009, par. 1, printed p. 2 (footnote 10-11 markers omitted)",
+  "pdf_page": 2,
+  "url": "https://bieb.islamnu.nl/download/37722/",
+  "passage": "Niet-Uthmanse tekstlezingen worden in de exegetische literatuur frequent aangehaald bij de bespreking van de betekenis van bepaalde woorden en verzen, maar mogen niet worden gebruikt voor liturgische doeleinden. Daar geldt alleen en uitsluitend de “canonieke” redactie, die wordt toegeschreven aan Kalief Uthman.",
+  "from_": "Niet-Uthmanse tekstlezingen worden in de exegetische",
+  "to": "die wordt toegeschreven aan Kalief Uthman.",
+  "keys": [
+   "Daar geldt alleen en uitsluitend de “canonieke” redactie"
+  ],
+  "alts": [
+   "maar mogen niet worden gebruikt voor liturgische doeleinden"
+  ],
+  "label": "N",
+  "stance": "own claim",
+  "claim_en": "Non-Uthmanic readings are cited in exegesis but not used liturgically; only the 'canonical' redaction attributed to Uthman is used liturgically.",
+  "context": "Neutral explanation of the status of variant readings in Muslim usage; relevant to how variants are classified."
+ },
+ {
+  "id": "vk2009-05",
+  "work": "vk2009",
+  "author": "P.S. van Koningsveld",
+  "ref": "Afscheidscollege 2009, par. 1, printed p. 2",
+  "pdf_page": 2,
+  "url": "https://bieb.islamnu.nl/download/37722/",
+  "passage": "Het is inderdaad deze “canonieke” redactie die over de gehele linie, ook in de oudste manuscripten, vertegenwoordigd is.",
+  "from_": "Het is inderdaad deze “canonieke” redactie",
+  "to": "ook in de oudste manuscripten, vertegenwoordigd is.",
+  "keys": [
+   "ook in de oudste manuscripten, vertegenwoordigd is"
+  ],
+  "alts": [],
+  "label": "E",
+  "stance": "own claim",
+  "claim_en": "The canonical (Uthmanic) redaction is represented throughout, including in the oldest manuscripts.",
+  "context": "Counter-evidence to instability claims; the author's own claim, based on the manuscripts he cites (his evidence is not reproduced in the passage)."
+ },
+ {
+  "id": "vk2009-06",
+  "work": "vk2009",
+  "author": "P.S. van Koningsveld",
+  "ref": "Afscheidscollege 2009, par. 'De Codex van Uthman', printed p. 5 (footnote 31 omitted); quoting Ibn Jubayr, Rihla (1964), p. 80",
+  "pdf_page": 5,
+  "url": "https://bieb.islamnu.nl/download/37722/",
+  "passage": "Vele bladen ontbreken eraan. Het is gebonden tussen twee platten van hout met koperen sloten en heeft grote, brede bladen.",
+  "from_": "Vele bladen ontbreken eraan.",
+  "to": "met koperen sloten en heeft grote, brede bladen.",
+  "keys": [
+   "Vele bladen ontbreken eraan"
+  ],
+  "alts": [],
+  "label": "D",
+  "stance": "reports others",
+  "claim_en": "Author quotes the 12th-century traveller Ibn Jubayr, who saw a Qur'an copy in Mecca attributed to Zayd ibn Thabit and noted that many leaves were missing.",
+  "context": "Physical loss of leaves in a manuscript attributed to Zayd (per Ibn Jubayr); not a claim about lost verses. Attribution is the traveller's report, which the author presents without endorsing it."
+ },
+ {
+  "id": "vk2009-07",
+  "work": "vk2009",
+  "author": "P.S. van Koningsveld",
+  "ref": "Afscheidscollege 2009, par. 3 'Revisionisme in de Islamwetenschap', printed p. 12",
+  "pdf_page": 12,
+  "url": "https://bieb.islamnu.nl/download/37722/",
+  "passage": "De Koran was volgens de grondlegger van deze richting, WANSBROUGH, pas rond het christelijke jaar 800 geredigeerd en uit verschillende voorheen zelfstandige stukken van verschillende herkomst samengesteld.",
+  "from_": "De Koran was volgens de grondlegger",
+  "to": "stukken van verschillende herkomst samengesteld.",
+  "keys": [
+   "pas rond het christelijke jaar 800 geredigeerd"
+  ],
+  "alts": [
+   "De Koran was volgens de grondlegger van deze richting, WANSBROUGH"
+  ],
+  "label": "B",
+  "stance": "reports others",
+  "claim_en": "Reports John Wansbrough's view that the Qur'an was redacted only around AD 800 from earlier independent pieces of different origin.",
+  "context": "Presented as the revisionist claim the author criticises in the same lecture (see vk2009-10 and the rejection of revisionism)."
+ },
+ {
+  "id": "vk2009-08",
+  "work": "vk2009",
+  "author": "P.S. van Koningsveld",
+  "ref": "Afscheidscollege 2009, par. 3 (Lüling), printed p. 11",
+  "pdf_page": 11,
+  "url": "https://bieb.islamnu.nl/download/37722/",
+  "passage": "In de Koran zou sprake zijn van twee te onderscheiden redactionele lagen: de eerste en oorspronkelijke “laag”, die van de zogenaamde oer-Koran, zou zuiver unitarisch christelijk zijn geweest en zelfs christelijke hymnen hebben bevat. In zijn tweede en laatste bewerking was de Koran echter in heidens-Arabische zin omgebogen.",
+  "from_": "In de Koran zou sprake zijn van",
+  "to": "de Koran echter in heidens-Arabische zin omgebogen.",
+  "keys": [
+   "In zijn tweede en laatste bewerking was de Koran echter in heidens-Arabische zin omgebogen"
+  ],
+  "alts": [
+   "In de Koran zou sprake zijn van twee te onderscheiden redactionele lagen"
+  ],
+  "label": "A",
+  "stance": "reports others",
+  "claim_en": "Reports Günter Lüling's thesis of an original 'Ur-Qur'an' with Christian hymns, later reworked ('second and last redaction') in a pagan-Arab sense.",
+  "context": "Summary of Lüling's position as described by the author, who places it among the revisionist views he rejects (see vk2009-10)."
+ },
+ {
+  "id": "vk2009-09",
+  "work": "vk2009",
+  "author": "P.S. van Koningsveld",
+  "ref": "Afscheidscollege 2009, Conclusion, printed p. 13",
+  "pdf_page": 13,
+  "url": "https://bieb.islamnu.nl/download/37722/",
+  "passage": "Mohammed was, is en blijft op zuiver wetenschappelijke gronden te beschouwen als een historische persoon, die in het geloof van zijn profeetschap boodschappen heeft verkondigd die na zijn dood in codices (mushaf’s) zijn geredigeerd en omstreeks het jaar 650 van de christelijke jaartelling in de officiële tekst van Kalief Uthman zijn vastgelegd, die de andere redacties heeft verdrongen.",
+  "from_": "Mohammed was, is en blijft op",
+  "to": "de andere redacties heeft verdrongen.",
+  "keys": [
+   "na zijn dood in codices (mushaf’s) zijn geredigeerd",
+   "die de andere redacties heeft verdrongen"
+  ],
+  "alts": [
+   "in het geloof van zijn profeetschap boodschappen heeft verkondigd"
+  ],
+  "label": "B",
+  "stance": "own claim",
+  "claim_en": "The messages attributed to Muhammad were redacted into codices after his death and fixed in Uthman's official text c. 650, displacing other redactions.",
+  "context": "Author's own concluding statement; he affirms post-prophetic redaction as historically established, and sets himself against revisionism."
+ },
+ {
+  "id": "vk2009-10",
+  "work": "vk2009",
+  "author": "P.S. van Koningsveld",
+  "ref": "Afscheidscollege 2009, par. 3 'Revisionisme in de Islamwetenschap', printed p. 11",
+  "pdf_page": 11,
+  "url": "https://bieb.islamnu.nl/download/37722/",
+  "passage": "Alle bronnen die in strijd zijn met de revisionistische “dogmatiek” gelden als vervalst of worden genegeerd. Bronnen als de eerder besproken Koran en Documenten van de Profeet zijn met deze gefixeerde ideeën telkens weer in strijd en moeten dan ook telkens weer als volstrekt onbetrouwbaar terzijde worden gesteld.",
+  "from_": "Alle bronnen die in strijd zijn",
+  "to": "telkens weer als volstrekt onbetrouwbaar terzijde worden gesteld.",
+  "keys": [
+   "Bronnen als de eerder besproken Koran en Documenten van de Profeet zijn met deze gefixeerde ideeën telkens weer in strijd"
+  ],
+  "alts": [
+   "Alle bronnen die in strijd zijn met de revisionistische “dogmatiek” gelden als vervalst of worden genegeerd"
+  ],
+  "label": "E",
+  "stance": "rejects",
+  "claim_en": "Author rejects the revisionist treatment of the Qur'an (and the Prophet's documents) as unreliable, calling it dogmatic.",
+  "context": "Rejection of the revisionist program as a whole; the passage does not itself state an evidence-based counter-argument on each thesis."
+ },
+ {
+  "id": "keyzer-01",
+  "work": "keyzer1916",
+  "author": "Albin de Kazimirski Biberstein (transl.); S. Keyzer (ed.)",
+  "ref": "Inleiding 'De Koran. Algemeen overzicht' (TOC p. 41-56); e-text has no printed page numbers, only footnote markers [29]",
+  "pdf_page": "",
+  "url": "https://www.gutenberg.org/cache/epub/19786/pg19786.txt",
+  "passage": "Wat wij Mahomet niet kunnen vergeven, is, dat hij zijne voorgewende of werkelijke openbaringen, welke, gelijk hij zelf zich dikwijls uitdrukt, de geloovigen voor alle tijden licht en leiding zouden verschaffen, niet bij zijn leven, volgens chronologische orde, of volgens den inhoud, tot een geheel heeft doen verzamelen.",
+  "from_": "Wat wij Mahomet niet kunnen vergeven,",
+  "to": "tot een geheel heeft doen verzamelen.",
+  "keys": [
+   "niet bij zijn leven, volgens chronologische orde, of volgens den inhoud"
+  ],
+  "alts": [],
+  "label": "D",
+  "stance": "own claim",
+  "claim_en": "The revelations were not collected into one whole during Muhammad's lifetime, neither in chronological order nor by subject.",
+  "context": "Claim about arrangement (order) of the text, not about verses being added or removed. Author of the 'Algemeen overzicht' is not named in the e-text."
+ },
+ {
+  "id": "keyzer-02",
+  "work": "keyzer1916",
+  "author": "Albin de Kazimirski Biberstein (transl.); S. Keyzer (ed.)",
+  "ref": "Inleiding 'De Koran. Algemeen overzicht' (TOC p. 41-56), section on the collection under Abu Bakr and Uthman",
+  "pdf_page": "",
+  "url": "https://www.gutenberg.org/cache/epub/19786/pg19786.txt",
+  "passage": "Stelt ook Omar niet vast, dat het vers, waarbij, echtbreuk met den dood wordt gestraft, en eenige andere verloren zouden zijn gegaan?",
+  "from_": "Stelt ook Omar niet vast, dat",
+  "to": "en eenige andere verloren zouden zijn gegaan?",
+  "keys": [
+   "het vers, waarbij, echtbreuk met den dood wordt gestraft",
+   "eenige andere verloren zouden zijn gegaan"
+  ],
+  "alts": [
+   "Stelt ook Omar niet vast"
+  ],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Cites (as a rhetorical question) the claim attributed to Umar that the verse punishing adultery with death and some other verses were lost.",
+  "context": "Rhetorical question in the author's text; the 'verse of stoning' is the verse meant. It is presented as a point against the Qur'an's preservation."
+ },
+ {
+  "id": "keyzer-03",
+  "work": "keyzer1916",
+  "author": "Albin de Kazimirski Biberstein (transl.); S. Keyzer (ed.)",
+  "ref": "Inleiding 'De Koran. Algemeen overzicht' (TOC p. 41-56), section on Muhammad's revelations and abrogation",
+  "pdf_page": "",
+  "url": "https://www.gutenberg.org/cache/epub/19786/pg19786.txt",
+  "passage": "Eene andere overlevering, volgens welke Abd Allah Ibn Masoed, een der gezellen van Mahomet, des avonds een vers opschreef, dat hij den volgenden ochtend niet meer vond, en tot wien Mahomet zeide, dat het weder in den hemel teruggenomen, of met andere woorden, dat het door hem des nachts uitgewischt was,",
+  "from_": "Eene andere overlevering, volgens welke",
+  "to": "dat het door hem des nachts uitgewischt was,",
+  "keys": [
+   "dat het door hem des nachts uitgewischt was",
+   "dat het weder in den hemel teruggenomen"
+  ],
+  "alts": [
+   "Eene andere overlevering"
+  ],
+  "label": "C",
+  "stance": "reports others",
+  "claim_en": "Relays a tradition that a verse written by Ibn Mas'ud disappeared overnight, Muhammad saying it had been taken back to heaven, i.e. erased.",
+  "context": "Reported tradition (naskh-type disappearance of wording), relayed by the author without endorsing the mechanism; the passage continues with the author's inference on abrogation."
+ },
+ {
+  "id": "keyzer-04",
+  "work": "keyzer1916",
+  "author": "Albin de Kazimirski Biberstein (transl.); S. Keyzer (ed.)",
+  "ref": "Inleiding 'De Koran. Algemeen overzicht' (TOC p. 41-56), section on Abu Bakr's inclusion of verses",
+  "pdf_page": "",
+  "url": "https://www.gutenberg.org/cache/epub/19786/pg19786.txt",
+  "passage": "Wij gelooven derhalve niet te ver te gaan, door aan te nemen, dat, volgens Mahomets bedoeling, de Koran in het geheel geene herroepene plaatsen moet bevatten, en dus Aboe Bekr tegen den wil des profeets handelde, toen hij verzen, welke desniettemin opgeteekend, of bij eenig Muzelman in het geheugen gebleven waren, in den Koran opnam.",
+  "from_": "Wij gelooven derhalve niet te ver",
+  "to": "in den Koran opnam.",
+  "keys": [
+   "dus Aboe Bekr tegen den wil des profeets handelde",
+   "in den Koran opnam"
+  ],
+  "alts": [
+   "dat, volgens Mahomets bedoeling, de Koran in het geheel geene herroepene plaatsen moet bevatten"
+  ],
+  "label": "B",
+  "stance": "own claim",
+  "claim_en": "Author argues (as an inference from Muhammad's supposed intention) that Abu Bakr included in the Qur'an verses Muhammad had meant to be abrogated.",
+  "context": "The author's own inference, explicitly conditional ('volgens Mahomets bedoeling'); it is an argument, not a sourced report."
+ },
+ {
+  "id": "keyzer-05",
+  "work": "keyzer1916",
+  "author": "Albin de Kazimirski Biberstein (transl.); S. Keyzer (ed.)",
+  "ref": "Inleiding 'De Koran. Algemeen overzicht' (TOC p. 41-56), section on the collection under Abu Bakr",
+  "pdf_page": "",
+  "url": "https://www.gutenberg.org/cache/epub/19786/pg19786.txt",
+  "passage": "Na den oorlog met den valschen profeet MossaÔlama, die aan vele Koranlezers het leven kostte, liet de eerstgenoemde alles wat van Mahomets openbaringen op perkament, palmbladen, beenderen, steenen en andere ruwe schrijfmaterialen opgeteekend en onder de Muzelmannen verstrooid was, bijeenzamelen en, uit wezenlijke of gehuichelde vroomheid, zonder eenigerlei zifting opzamelen.",
+  "from_": "Na den oorlog met den valschen",
+  "to": "zonder eenigerlei zifting opzamelen.",
+  "keys": [
+   "zonder eenigerlei zifting opzamelen"
+  ],
+  "alts": [
+   "uit wezenlijke of gehuichelde vroomheid"
+  ],
+  "label": "B",
+  "stance": "own claim",
+  "claim_en": "Narrates that Abu Bakr had all written Muhammad revelation material gathered after the Musaylima war and collected without any sifting.",
+  "context": "Narrated in the author's own voice without a source in the e-text; it is the traditional account, so treat as a report of tradition unless the original is checked. The e-text spells 'MossaÔlama' with an encoding artefact."
+ },
+ {
+  "id": "keyzer-06",
+  "work": "keyzer1916",
+  "author": "Albin de Kazimirski Biberstein (transl.); S. Keyzer (ed.)",
+  "ref": "Inleiding 'De Koran. Algemeen overzicht' (TOC p. 41-56), section on Uthman",
+  "pdf_page": "",
+  "url": "https://www.gutenberg.org/cache/epub/19786/pg19786.txt",
+  "passage": "Maar hebben wij Mahomet eens gekenschetst als een man, die er voor terugdeinsde, datgene wat hij, in eene reeks van drieÎntwintig jaren, in den naam des Hemels had verkondigd, aan de geloovigen als een volkomen godsdienst- en wetboek achter te laten; hebben wij hem daarin de grootste schuld opgeladen, die tegen zijne waarheidsliefde en rechtschapenheid spreekt, zoo mogen wij toch de gebreken, welke wij thans in den Koran waarnemen, niet hem, maar wel aan Aboe Bekr en Othman toeschrijven.",
+  "from_": "Maar hebben wij Mahomet eens gekenschetst",
+  "to": "maar wel aan Aboe Bekr en Othman toeschrijven.",
+  "keys": [
+   "de gebreken, welke wij thans in den Koran waarnemen",
+   "niet hem, maar wel aan Aboe Bekr en Othman toeschrijven"
+  ],
+  "alts": [
+   "Maar hebben wij Mahomet eens gekenschetst"
+  ],
+  "label": "B",
+  "stance": "own claim",
+  "claim_en": "The defects the author perceives in the Qur'an (disorder, contradictions) should be attributed to Abu Bakr and Uthman rather than to Muhammad.",
+  "context": "Conditional rhetoric ('hebben wij ... eens gekenschetst'); the author's own argument. Some of the 'defects' are not specified in the passage."
+ },
+ {
+  "id": "keyzer-07",
+  "work": "keyzer1916",
+  "author": "Albin de Kazimirski Biberstein (transl.); S. Keyzer (ed.)",
+  "ref": "Inleiding 'De Koran. Algemeen overzicht' (TOC p. 41-56), section on Uthman's second redaction; footnote [33] omitted",
+  "pdf_page": "",
+  "url": "https://www.gutenberg.org/cache/epub/19786/pg19786.txt",
+  "passage": "Ook de khalif Othman, die later eene tweede redactie van den Koran bezorgde, droeg geene zorg voor diens inwendige verbetering en rangschikking, maar vestigde zijn oogmerk slechts op ÈÈn punt, en wel om er weder eenheid in te brengen, uithoofde reeds in zijnen tijd onderscheidene lezingen van den Koran in omloop waren, die natuurlijk onder de geleerden tot hevige twisten aanleiding gaven.",
+  "from_": "Ook de khalif Othman, die later eene",
+  "to": "tot hevige twisten aanleiding gaven.",
+  "keys": [
+   "die later eene tweede redactie van den Koran bezorgde",
+   "droeg geene zorg voor diens inwendige verbetering en rangschikking"
+  ],
+  "alts": [],
+  "label": "B",
+  "stance": "own claim",
+  "claim_en": "Uthman produced a second redaction of the Qur'an, aimed at unity of reading rather than at internal improvement or arrangement.",
+  "context": "Author's own statement; it characterises Uthman's redaction as one-sided (single reading chosen) rather than as a content change."
+ },
+ {
+  "id": "keyzer-08",
+  "work": "keyzer1916",
+  "author": "Albin de Kazimirski Biberstein (transl.); S. Keyzer (ed.)",
+  "ref": "Inleiding 'De Koran. Algemeen overzicht' (TOC p. 41-56), section on Uthman's copies; footnote markers omitted",
+  "pdf_page": "",
+  "url": "https://www.gutenberg.org/cache/epub/19786/pg19786.txt",
+  "passage": "Aan de kritiek des Korans bracht Othman nochtans het grootste nadeel toe, door het bevel, hetwelk hij gaf, al de vroegere afschriften van den Koran te verbranden, zoodat slechts de lezingen die van hem waren uitgegaan, in de kopieÎn van deze, voor het nageslacht bewaard bleven.",
+  "from_": "Aan de kritiek des Korans bracht Othman",
+  "to": "voor het nageslacht bewaard bleven.",
+  "keys": [
+   "door het bevel, hetwelk hij gaf, al de vroegere afschriften van den Koran te verbranden"
+  ],
+  "alts": [],
+  "label": "C",
+  "stance": "own claim",
+  "claim_en": "Uthman ordered all earlier copies of the Qur'an burned, so that only his readings survived; the author regards this as the greatest harm to textual criticism.",
+  "context": "Burning of codices is listed in the brief under C. The e-text gives no source for the burning; it is stated as fact by the author."
+ },
+ {
+  "id": "keyzer-09",
+  "work": "keyzer1916",
+  "author": "Albin de Kazimirski Biberstein (transl.); S. Keyzer (ed.)",
+  "ref": "Inleiding 'De Koran. Algemeen overzicht' (TOC p. 41-56), section on the seven readings; footnote markers omitted",
+  "pdf_page": "",
+  "url": "https://www.gutenberg.org/cache/epub/19786/pg19786.txt",
+  "passage": "Wel is waar de Muzelmannen stellen vast, dat die varianten alleen verschillen van dialecten hadden gegolden, nademaal de Koran door Mahomet zelven in zeven verschillende dialecten geopenbaard zoude zijn geworden, en dat Othman, onder deze, het dialect gekozen had, hetgeen het nauwste met dat der KoreÔshieten verwant was. Maar deze stelling is tegenover eene gezonde kritiek niet alleen onhoudbaar, zij is ook in strijd met andere erkende en geloofwaardige Muzelmansche overleveringen.",
+  "from_": "Wel is waar de Muzelmannen stellen vast,",
+  "to": "andere erkende en geloofwaardige Muzelmansche overleveringen.",
+  "keys": [
+   "die varianten alleen verschillen van dialecten hadden gegolden"
+  ],
+  "alts": [
+   "Maar deze stelling is tegenover eene gezonde kritiek niet alleen onhoudbaar"
+  ],
+  "label": "D",
+  "stance": "reports others",
+  "claim_en": "Reports the Muslim explanation that the variant readings were only dialect differences (the seven-ahruf doctrine), which the author rejects as untenable.",
+  "context": "Muslim explanation reported and rejected by the author; the passage itself gives the variants as a fact of the tradition, not as a textual-critical finding."
+ },
+ {
+  "id": "beeckman2020-01",
+  "work": "beeckman2020",
+  "author": "Bryan Beeckman (reviewer); on Emilio Platti",
+  "ref": "Book review, paragraph 2 (of 4); no printed pagination in the file",
+  "pdf_page": "",
+  "url": "https://research.dial.uclouvain.be/bitstreams/d9626a72-e37d-4eae-822f-fc24cc09f8a7/download",
+  "passage": "Nadien wordt de tekstuele geschiedenis van de Koran in detail besproken. Hieruit wordt duidelijk dat door toedoen van kalief Uthman één gestandaardiseerde tekst van de Koran in verspreiding geraakt is. Deze bevat, zoals aangehaald supra, kleine verwaarloosbare varianten.",
+  "from_": "Nadien wordt de tekstuele geschiedenis van",
+  "to": "zoals aangehaald supra, kleine verwaarloosbare varianten.",
+  "keys": [
+   "door toedoen van kalief Uthman één gestandaardiseerde tekst van de Koran in verspreiding geraakt is"
+  ],
+  "alts": [
+   "kleine verwaarloosbare varianten"
+  ],
+  "label": "B",
+  "stance": "reports others",
+  "claim_en": "The reviewer summarises Platti's book: the textual history shows that under Uthman a standardised text spread, with only small negligible variants.",
+  "context": "Reviewer's summary of Platti (2020), not the author's own words; the review is a Dutch-language summary, the book itself was not read."
+ },
+ {
+  "id": "beeckman2020-02",
+  "work": "beeckman2020",
+  "author": "Bryan Beeckman (reviewer); on Emilio Platti",
+  "ref": "Book review, paragraph 3 (of 4); no printed pagination in the file",
+  "pdf_page": "",
+  "url": "https://research.dial.uclouvain.be/bitstreams/d9626a72-e37d-4eae-822f-fc24cc09f8a7/download",
+  "passage": "Een laatste hoofdstuk buigt zich over een palimpsest dat een pre-Uthmanische korantekst bevat. Deze tekst vertoont verschillen met de Uthmanische tekstgetuigen. Ook de volgorde van de soera’s verschilt met die van de gestandaardiseerde Koran.",
+  "from_": "Een laatste hoofdstuk buigt zich over",
+  "to": "met die van de gestandaardiseerde Koran.",
+  "keys": [
+   "Deze tekst vertoont verschillen met de Uthmanische tekstgetuigen",
+   "Ook de volgorde van de soera’s verschilt"
+  ],
+  "alts": [],
+  "label": "D",
+  "stance": "reports others",
+  "claim_en": "The reviewer reports that the pre-Uthmanic palimpsest text (as treated by Platti) differs from the Uthmanic witnesses, and its surah order differs from the standardised Qur'an.",
+  "context": "Reviewer's report of Platti's chapter on a palimpsest (the Sana'a-type evidence); the review says these differences exist but gives no list of them."
+ }
+]
