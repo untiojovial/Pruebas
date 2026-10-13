@@ -33,9 +33,9 @@ for f in FIGS:
     tr += (f'<tr><td class="who" style="white-space:normal"><div style="display:flex;align-items:center;gap:2px"><img class="av" src="img/{f["slug"]}.jpg" style="flex:none"><div>{E(f["name"])}<br><span style="font-weight:500;color:#566079;font-size:13.5px">{E(f["dates"])} · {f["id"]}</span></div></div></td>'
            f'<td style="font-size:15px">{E(obra)}</td><td>{E(dice)}</td><td style="line-height:2">{tags(th)}</td></tr>')
 body = f'''<table class="v" style="table-layout:fixed"><tr><th style="width:250px">Figura</th><th style="width:185px">Obra</th><th>Qué dice de Mahoma y del Islam</th><th style="width:205px">Tema</th></tr>{tr}</table>
-<div class="ans" style="margin-top:16px"><b>Quién habla.</b> Dos Doctores de la Iglesia (Juan Damasceno, Santo Tomás), dos papas (Inocencio III, Pío II), un cardenal (Nicolás de Cusa), un abad de Cluny, dos dominicos (Riccoldo, Savonarola), el poeta Dante y el humanista Vives: <b>diez autoridades católicas, del siglo VIII al XVI</b>, sin ningún protestante. Cada una tiene su diapositiva de cita (ISxx 1/2) y su diapositiva de obra y fuente (ISxx 2/2).</div>'''
+<div class="ans" style="margin-top:16px"><b>Quién habla.</b> Dos Doctores de la Iglesia (Juan Damasceno, Santo Tomás), dos papas (Inocencio III, Pío II), un cardenal (Nicolás de Cusa), un abad de Cluny, dos dominicos (Riccoldo, Savonarola), el poeta Dante y el humanista Vives: <b>diez figuras católicas, del siglo VIII al XVI</b>, sin ningún protestante. Cada una tiene su diapositiva de cita (ISxx 1/2) y su diapositiva de obra y fuente (ISxx 2/2).</div>'''
 page(OUT, 'IS00_es', 'IS00', 'La Iglesia ante el Islam', 'Resumen en español',
-     'La Iglesia ante el Islam, siglos VIII–XVI: lo que dijeron diez autoridades católicas',
+     'La Iglesia ante el Islam, siglos VIII–XVI: lo que dijeron diez figuras católicas',
      'Citas traducidas al español, con su obra, su fuente y qué quiere decir cada una. Retratos de dominio público (iconografía, no retratos en vida).', body,
      'Las citas entre comillas son de mi traducción al español; el texto de partida y la aclaración de cada una están en las diapositivas ISxx. Fechas aproximadas.<br>' + PACK, head_cls='alt')
 
@@ -59,7 +59,7 @@ def concl(fname, n, items):
         cd = ''.join(f'<span>{c}</span>' for c in codes)
         blocks += f'<div class="cc"><div class="nn">{num}</div><div class="tx"><h3>{E(head)}</h3><p>{marks(txt)}</p><div class="by">Lo dijeron {cd}</div></div></div>'
     h = f'''<!doctype html><html><head><meta charset="utf-8"><style>{hbcss.CSS}{genpad.CQ}{CC}</style></head><body><div class="qs">
-<div class="top"><div class="who"><b>{fname[:4]}</b>Veredicto de la Iglesia medieval<i>{n}/2 · diez autoridades, ocho siglos</i></div></div>
+<div class="top"><div class="who"><b>{fname[:4]}</b>Veredicto de la Iglesia medieval<i>{n}/2 · diez figuras, ocho siglos</i></div></div>
 <div class="mid">{blocks}</div>
 <div class="nota">Cada punto resume lo que dijo cada autor (códigos IS01–IS10). Son juicios de teólogos, papas y poetas medievales, no hallazgos de la historiografía actual. Traducciones al español mías.</div>
 <div class="ft2"><span>{PACK}</span><span>{fname[:4]} · {n}/2</span></div></div></body></html>'''
@@ -105,7 +105,7 @@ body = '''<div class="two">
 <div class="pn"><h4>Límites y qué quedó fuera</h4><ul class="l" style="font-size:17px">
 <li><b>Traducciones al español mías.</b> Solo Aquino (1923), Dante (Longfellow, 1867) y Savonarola (Procter, 1901, desde el italiano) tienen traducción inglesa de dominio público; no hay otra que haya leído.</li>
 <li><b>Fuera</b>: los pasajes que piden matar o hacer la guerra, y los insultos a pueblos enteros. Los cortes dentro de una cita van marcados con […] y la aclaración dice qué omito.</li>
-<li><b>Solo autoridades católicas</b>, como se pidió: sin protestantes.</li>
+<li><b>Solo figuras católicas</b>, como se pidió: sin protestantes.</li>
 <li>Muchas de estas afirmaciones medievales son <b>polémica sin fuentes árabes</b> (la historia del monje arriano, por ejemplo); aquí se citan como lo que dijo cada autor.</li>
 <li>Son juicios históricos de cada autor, <b>no la enseñanza actual de la Iglesia</b> (<i>Nostra aetate</i> 3 y Catecismo, n. 841).</li>
 </ul></div></div>'''

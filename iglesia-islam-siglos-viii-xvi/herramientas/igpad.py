@@ -7,7 +7,7 @@ from hbcss import E, marks, page
 import genpad
 from PIL import Image
 OUT = 'igcards'
-PACK = 'Pack «La Iglesia ante el Islam, siglos VIII–XVI: lo que dijeron sus grandes autoridades»'
+PACK = 'Pack «La Iglesia ante el Islam, siglos VIII–XVI: lo que dijeron sus grandes figuras»'
 hbcss.TAGNAME.update({'M': 'Mahoma', 'Q': 'Corán y doctrina', 'S': 'Cómo se extendió', 'H': 'El Islam como religión'})
 hbcss.CSS += """
 .tgM{background:#f9d5d9;color:#14213d}.tgQ{background:#cfe3f7;color:#14213d}.tgS{background:#ffe8b0;color:#14213d}
