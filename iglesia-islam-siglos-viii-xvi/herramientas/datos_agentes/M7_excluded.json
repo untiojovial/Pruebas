@@ -1,0 +1,18 @@
+[
+  {
+    "id": "exc_more_1",
+    "figure": "more",
+    "reference": "Dialogue of Comfort, Book Two ch. XII (Gutenberg/CCEL text; Dent 1913 Book Two ch. XII)",
+    "url": "https://www.gutenberg.org/cache/epub/17075/pg17075-images.html",
+    "gist_en": "Anthony welcomes that German princes, despite their differences, prepare a common power in defence of Christendom against the Turk.",
+    "why_excluded": "Point is military preparation for war against the Turk, not doctrine; excluded under the war rule (not quoted)."
+  },
+  {
+    "id": "exc_vives_1",
+    "figure": "vives",
+    "reference": "De Europae dissidiis et republica (1526), chapters headed 'De bello Turcico' (running heads in the OCR; chapter numbers not read)",
+    "url": "https://archive.org/stream/bub_gb_76cPtBegErcC/bub_gb_76cPtBegErcC_djvu.txt",
+    "gist_en": "Vives urges Christian princes to stop their mutual wars and turn their arms against the Turks, who threaten Christendom.",
+    "why_excluded": "Explicit call to wage war against the Turk; excluded under the war rule. Also the OCR is too poor to quote."
+  }
+]

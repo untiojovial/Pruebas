@@ -1,0 +1,28 @@
+[
+  {
+    "id": "innocent_iii",
+    "name_es": "Papa Inocencio III",
+    "name_en": "Pope Innocent III",
+    "name_orig": "Innocentius III (Lotharius de Segni / Lotario dei Conti)",
+    "born": "1161 (Anagni)",
+    "died": "1216 (Perugia)",
+    "language": "Latin",
+    "role_place": "Pope 1198-1216 (Rome, Lateran); convened the Fourth Lateran Council (1215).",
+    "why_relevant": "His crusade bull Quia maior (April 1213) calls Muhammad a 'perditionis filius' and 'pseudopropheta' and says he seduced many with worldly enticements and carnal pleasures.",
+    "fame": "Known mainly as a pope who shaped crusade policy and the Fourth Lateran Council; his Islam remarks are brief and mostly rhetorical, found in a crusade appeal, not in a theological treatise. Fame of the Muhammad sentence not verified (see passages.json, famous field).",
+    "catholic_status": "Pope (no canonization known to me; not verified in a source I read)"
+  },
+  {
+    "id": "pius_ii",
+    "name_es": "Papa Pío II (Eneas Silvio Piccolomini)",
+    "name_en": "Pope Pius II (Aeneas Silvius Piccolomini)",
+    "name_orig": "Aeneas Silvius Piccolomini (later Pius II)",
+    "born": "1405 (Corsignano, Siena territory)",
+    "died": "1464 (Ancona)",
+    "language": "Latin (also Italian and German writings)",
+    "role_place": "Humanist and diplomat; pope 1458-1464 (Rome); called for a crusade at the Congress of Mantua (1459).",
+    "why_relevant": "His Epistola ad Mahumetem (c. 1461), a long open letter to Sultan Mehmed II, refutes Muhammad's claims, the Qur'an's miracles, paradise and its doctrine of angels, and defends the Trinity and Incarnation.",
+    "fame": "A famous humanist-pope; the Epistola ad Mahumetem circulated in many 15th-century printings (archive.org copies of 1474 and 1477 read; catalogue snippets also list Cologne c. 1469-72 and Rome 1490/91) and is studied in modern scholarship (Toffanin 1953, Baca 1990, per search snippets). Its citation by later Catholic or Protestant authors was not verified.",
+    "catholic_status": "Pope (not canonized; not verified in a source I read)"
+  }
+]

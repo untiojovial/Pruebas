@@ -1,0 +1,30 @@
+[
+  {
+    "id": "cusanus",
+    "name_es": "Nicolás de Cusa",
+    "name_en": "Nicholas of Cusa",
+    "name_orig": "Nicolaus Cusanus (Nicolaus de Cusa; Nikolaus Krebs von Kues)",
+    "born": "1401, Kues (Cusa), Electorate of Trier (per en.wikipedia, read 2026-10-12)",
+    "died": "11 Aug 1464, Todi, Papal States (per en.wikipedia)",
+    "language": "Latin",
+    "role_place": "Cardinal-priest (titular church San Pietro in Vincoli, per en.wikipedia), prince-bishop of Brixen 1450-1464; wrote under Pope Pius II (Cribratio prologue is addressed to him)",
+    "why_relevant": "Only major Latin Catholic author of the period who wrote a full refutation of the Qur'an (Cribratio Alkorani) from a text he had read in Latin translation and in Arabic.",
+    "fame": "Known as philosopher of the 'coincidence of opposites' and author of De pace fidei; the Cribratio Alkorani is cited in Islam-Christianity scholarship (Hopkins, Hoffmann, etc.; citation-by-scholar NOT verified in this session, only the OAPEN book title 'Nicholas of Cusa and Islam - Polemic and Dialogue in the Late Middle Ages' (2020) was seen in search results).",
+    "catholic_status": "Cardinal (created 1448 or 1449 per en.wikipedia; infobox says 20 Dec 1448). Not beatified or canonised as far as the page read shows.",
+    "notes": "Passages in this file were read from the Basel-dated 1565 Opera scan (Herzog August Bibliothek digitisation on archive.org) and from the Paris 1514 Opera print (McGill digitisation on archive.org). The 1565 scans were OCR'd and each quoted line was checked against the page image."
+  },
+  {
+    "id": "llull",
+    "name_es": "Ramón Llull",
+    "name_en": "Ramon Llull (Raymond Lull)",
+    "name_orig": "Ramon Llull (Raimundus Lullus), Catalan; Latin variants",
+    "born": "c. 1232, Palma de Mallorca (per en.wikipedia; 1232 or 1233)",
+    "died": "1316 (place uncertain; stoned at Bougie/Tunis 1315; en.wikipedia)",
+    "language": "Catalan (main literary works), Latin (scholastic works)",
+    "role_place": "Lay Franciscan (Third Order of St Francis, per en.wikipedia); philosopher, missionary writer; Majorca / Pisa / North Africa",
+    "why_relevant": "Wrote Catalan dialogue (Llibre del gentil) in which a Saracen (Muslim) speaker defends the Qur'an, and a Latin dialogue (Disputatio) reporting a debate with a Muslim scholar.",
+    "fame": "Very widely known as the Lullian Ars and as a mystic/philosopher; the Llibre del gentil is the Catalan dialogue most often cited in studies of his irenic method. Famous status of the specific Islam passages not verified.",
+    "catholic_status": "Blessed: beatified 11 Sep 1847 by Pope Pius IX; not canonised (en.wikipedia, read 2026-10-12). Feast 30 June (Third Order).",
+    "notes": "Catalan text read from the Viquitexts transcription of the 1886 Palma Obres de Ramon Llull. Latin Disputatio and Latin Liber de gentili were NOT opened (see works.json and report)."
+  }
+]

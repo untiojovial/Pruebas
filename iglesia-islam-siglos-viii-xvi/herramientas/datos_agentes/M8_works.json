@@ -1,0 +1,34 @@
+[
+  {
+    "id": "savonarola_triumphus_crucis",
+    "figure": "savonarola",
+    "title_orig": "Triumphus crucis seu de veritate fidei (Latin); Il Trionfo della Croce (Italian version by the author)",
+    "title_es": "El triunfo de la cruz, o De la verdad de la fe",
+    "title_en": "The Triumph of the Cross (Triumphus crucis, de veritate fidei)",
+    "date": "c. 1497 (Florence printing of the Latin, dated by the Bodleian record as 'after Aug. 1497', read as a search snippet only; the Latin was written before the Italian version)",
+    "language": "Latin (original); Italian (the author's own version)",
+    "genre": "Apologetic theological treatise in four books (Book IV contains the chapters against Judaism, heresy and Islam)",
+    "edition_original": "Latin: Theodor Bibliander (ed.), 'Machumetis Saracenorum principis ... Ipse Alcoran' (Basel, March 1550, VD16 K 2586, Paderborn digital copy; the chapter title page 'Mahumetanorum sectam omni ratione carere, Commentatiuncula lectu dignissima, Hieronymo Sauonarola autore' was read as page 1 of the excerpt). Book IV ch. VII was read from this print. The 1497 Florence Latin was NOT read.",
+    "edition_english": "John Procter, OP (ed., with introduction), The Triumph of the Cross, London: Sands & Co., 1901 (Dublin: M. H. Gill & Son imprint, per search snippet). The title page says 'Translated from the Italian'. Read as the Project Gutenberg text (eBook 74508, release 3 Oct. 2024). Public domain (1901).",
+    "digital_url": "Latin (read): https://digital.ub.uni-paderborn.de/download/pdf/8330527.pdf (4-page excerpt of the 1550 print: title page of the chapter, pp. 2-5 of the excerpt read as images, rendered at 300 dpi). English (read): https://www.gutenberg.org/cache/epub/74508/pg74508.txt",
+    "licence": "Project Gutenberg text: read the Project Gutenberg licence header (free use in the US and most other parts of the world; no restrictions beyond the PG licence). Paderborn PDF: licence statement NOT read on the page.",
+    "authenticity_note": "Authorship by Savonarola is not disputed in the sources I read. Procter's introduction (read) states that the seventh chapter of the Fourth Book 'was taken out of its place, and inserted, by Theodore Bibliandrus, in his collection of works written against the Mahometan errors', printed in the Basel folios of 1543 and 1550 as 'Commentatiuncula Savonarolae Mahumeticam sectam omni ratione carere ostendens'. The Latin chapter text is therefore a Bibliander reprint of a chapter of the Triumphus crucis, not an independent treatise. Procter's English is a translation of the Italian version, not of the Latin.",
+    "notes": "Procter's preface (read) says Savonarola wrote the work in Latin, then translated it into Italian ('the Etruscan tongue') for adherents who could not read Latin, 'not indeed word for word'. So the English quotations in passages.json are a rendering of the Italian. Where the Latin and Procter's English differ in wording, the Latin is the primary text. The 1497 Latin was not read; Ferrara's 1961 Latin-Italian edition (Rome) is cited in a Bodleian record (search snippet only, not opened). A French scholarly edition of Book IV ch. VII by Gaillardon and Vigliano on HAL was NOT read (Anubis access block)."
+  },
+  {
+    "id": "ficino_de_christiana_religione",
+    "figure": "ficino",
+    "title_orig": "De christiana religione",
+    "title_es": "Sobre la religión cristiana",
+    "title_en": "On the Christian Religion (De christiana religione)",
+    "date": "Composed 1474 (per a Cambridge Core abstract seen as a search snippet only); the printed edition read is 'Marsilii ficini ... De christiana religione aureum opusculum ...' dated 1518 by the archive.org record (read).",
+    "language": "Latin",
+    "genre": "Apologetic treatise (two parts: prisca theologia and a refutation of Jewish and Islamic readings of the Old Testament, per the Cambridge abstract seen as a snippet)",
+    "edition_original": "Latin 1518 printing (Google Books scan, archive.org identifier bub_gb_7H4sMei2wRUC). Printer and place not identified in what I read; the PDF page images were read (printed page numbers read: XXIII, XXIIII (PDF pp. 45-47); XXXVI/XCIIII, XXXVII/XCV (PDF pp. 184-187); PDF pages 183 and 188 were not used for quotes). The Opera omnia (Basel: Henricpetri, 1576) that the brief mentions was NOT found on archive.org in my searches.",
+    "edition_english": "None public domain found. A 2022 University of Toronto Press translation (Porreca, Attrell, Bartlett) appears in a search snippet and is in copyright; it was NOT read and NOT quoted.",
+    "digital_url": "https://archive.org/download/bub_gb_7H4sMei2wRUC/bub_gb_7H4sMei2wRUC.pdf (PDF read; pages 45-47 and 184-187 rendered at 400 dpi). Item page: https://archive.org/details/bub_gb_7H4sMei2wRUC (metadata read via https://archive.org/metadata/bub_gb_7H4sMei2wRUC). Also read: djvu text https://archive.org/download/bub_gb_7H4sMei2wRUC/bub_gb_7H4sMei2wRUC_djvu.txt (OCR only, used to locate passages).",
+    "licence": "archive.org metadata (read): rights 'http://creativecommons.org/publicdomain/mark/1.0/' (public domain mark 1.0, US). Sourcelibrary (search snippet) lists 'Public domain originals'.",
+    "authenticity_note": "Genuine work of Ficino as far as the sources read; the 1518 print carries the attribution 'Marsilii ficini'. The Islam chapters (xii = 'Christi auctoritas apud maumethenses', xxxvi, xxxvii) are in the 1518 print; the chapter numbering in the printed table of contents is OCR-ambiguous (it appears as 'xi' for the Muhammad chapter, while the body heading reads 'Cap.xii').",
+    "notes": "Ficino's Islam material is a set of asides within the apology: chapter xii (Muhammad's view of Christ), a passage on the Qur'anic denial of the crucifixion, a passage on the Trinity, a passage on Muhammad's denial of miracles, and two passages on the Islamic practice and the violent origin of the sect (chapters xxxvi-xxxvii). Latin transcriptions were made by visual reading of the scan; abbreviations (q; for que, x for Christ, 'maumethes' for Mahumetes) are kept as printed, and a few words are uncertain (flagged in the passages' limits). Procter's English and Ficino's Latin are not comparable: Ficino's own_translation_en fields are the team's literal English."
+  }
+]

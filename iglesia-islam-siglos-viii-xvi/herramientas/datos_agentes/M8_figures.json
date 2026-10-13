@@ -1,0 +1,28 @@
+[
+  {
+    "id": "savonarola",
+    "name_es": "Girolamo Savonarola",
+    "name_en": "Girolamo Savonarola",
+    "name_orig": "Girolamo Savonarola (Hieronymus Savonarola de Ferraria)",
+    "born": "1452 (dates from the task brief; not re-verified in this run)",
+    "died": "1498 (dates from the task brief; not re-verified in this run)",
+    "language": "Latin (Triumphus crucis, original); Italian (his own Italian version of the Triumphus crucis, per Procter's introduction)",
+    "role_place": "Dominican friar of Florence (per task brief); preacher and religious reformer.",
+    "why_relevant": "His Triumphus crucis (Latin, 1497) Book IV, chapter VII, is a dedicated refutation of Islam ('Mahumetanorum sectam omni ratione carere'): it attacks the Qur'an as irrational and self-contradictory, Muhammad's character and violence, the lack of miracles, and the spread of Islam by the sword and carnal promises.",
+    "fame": "Known chiefly as the Florentine Dominican preacher and author of the apologetic Triumphus crucis. The Islam chapter was taken out of the Latin work and reprinted separately in Theodor Bibliander's Basel anthology (1543 and 1550), as stated in Procter's 1901 introduction (read on Project Gutenberg) and shown by the Paderborn digital copy of the 1550 print (read). Later scholarly citations were not verified beyond search snippets.",
+    "catholic_status": "Dominican friar (Order of Preachers) per task brief. No canonisation, beatification or Doctor status found in what I read; the brief's category (saint / Doctor / pope / cardinal / religious order) applies only as religious order."
+  },
+  {
+    "id": "ficino",
+    "name_es": "Marsilio Ficino",
+    "name_en": "Marsilio Ficino",
+    "name_orig": "Marsilius Ficinus",
+    "born": "1433 (dates from the task brief; not re-verified in this run)",
+    "died": "1499 (dates from the task brief; not re-verified in this run)",
+    "language": "Latin (De christiana religione; the Latin text read is the 1518 print). An Italian version of the same work exists (search snippets only; not read).",
+    "role_place": "Florentine Platonist and Catholic priest (per task brief); head of the Florentine Platonic circle.",
+    "why_relevant": "His apologetic treatise De christiana religione has several chapters (xii, xiii, xxxvi, xxxvii in the 1518 print) on Muhammad, the Qur'an and the Muslim view of Christ and the Trinity, mostly as asides inside an apology for Christianity against Jews, Muslims and pagans.",
+    "fame": "Famous as translator of Plato and Plotinus and as the leading Renaissance Neoplatonist. De christiana religione is a standard apology; its Islam material is brief and I found no citation of the Islam chapters in what I read.",
+    "catholic_status": "Catholic priest (per task brief). Not a saint, Doctor, pope or religious-order figure as far as the sources read here show."
+  }
+]

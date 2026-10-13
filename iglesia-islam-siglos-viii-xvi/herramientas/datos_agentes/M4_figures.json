@@ -1,0 +1,30 @@
+[
+  {
+    "id": "riccoldo",
+    "name_es": "Riccoldo da Monte di Croce",
+    "name_en": "Riccoldo da Monte di Croce (Ricoldo, Ricardus, Riculdus)",
+    "name_orig": "Ricoldus de Monte Crucis (\"frater Ricoldus\", \"Florentinus\")",
+    "born": "c. 1243 (brief; NOT VERIFIED in this session)",
+    "died": "Conflicting: 31 Oct 1309 in Florence per Poccianti, as quoted by Quetif-Echard and reprinted by Laurent 1864 (VERIFIED as a citation in that source); c. 1320 per the 2024 volume title seen in a search result (UNVERIFIED, not opened)",
+    "language": "Latin",
+    "role_place": "Dominican friar (Florentine, Santa Maria Novella); spent years in the Near East and at Baghdad (Baldach/Valdacum) studying Arabic and the Qur'an, c. 1288-1300; later in Florence.",
+    "why_relevant": "Author of the most influential medieval Latin refutation of the Qur'an (Contra legem Sarracenorum), read in manuscript and print for two centuries; also author of the Liber peregrinationis with polemic on Islam.",
+    "fame": "Well known in the specialist literature on medieval Christian views of Islam; his Contra legem was printed in Seville 1500 (per Ferrero Hernandez 2021), translated into Spanish (1501-1502), retranslated into Latin from Kydones' Greek by Bartholomaeus Picenus (Rome 1506), and reprinted through the 16th century; Luther published a German version in 1542. Not a household name outside specialist circles.",
+    "catholic_status": "Dominican friar (Order of Preachers). No canonization or beatification found in the sources I read; treat formal status as UNVERIFIED.",
+    "notes_on_brief": "Brief said c. 1243-1320. Born year: UNVERIFIED. Death: 1320 is CONTRADICTED by the 1864 Laurent intro (1309) but supported by a 2024 volume title seen only in search results; the team should flag this conflict."
+  },
+  {
+    "id": "dante",
+    "name_es": "Dante Alighieri",
+    "name_en": "Dante Alighieri",
+    "name_orig": "Dante Alighieri",
+    "born": "1265 (brief; not checked in this session)",
+    "died": "1321 (brief; not checked in this session)",
+    "language": "Italian (Tuscan)",
+    "role_place": "Florentine poet and exile; author of the Divina Commedia.",
+    "why_relevant": "Places Muhammad and his cousin-in-law Ali among the schismatics of the ninth bolgia of Hell (Inferno XXVIII), the only Islamic figures I found in the Commedia text I read.",
+    "fame": "Among the best-known works of European literature; the Inferno XXVIII Muhammad scene is a standard anthology and school text (seen in Italian school-summary pages in search results, not opened in depth). The passage is literary punishment imagery, not an argument about Islam.",
+    "catholic_status": "Catholic layman and poet; no canonical status (not a saint or doctor of the Church).",
+    "notes_on_brief": "Brief asked for anything else in Dante on Muhammad or Islam. Not completed: one Italian Wikisource search for the spelling Mäometto (top 30 hits, unfiltered) listed only Inferno XXVIII among Divina Commedia pages; later searches hit API rate limits. Convivio, Monarchia, Paradiso and Purgatorio were not checked in full."
+  }
+]

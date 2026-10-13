@@ -1,0 +1,28 @@
+[
+  {
+    "id": "more",
+    "name_es": "Santo Tomás Moro",
+    "name_en": "Saint Thomas More",
+    "name_orig": "Thomas More (Sir Thomas More)",
+    "born": "1478",
+    "died": "1535",
+    "language": "English (early modern)",
+    "role_place": "Lord Chancellor of England; lawyer, humanist and writer; executed in London in 1535 for refusing the Oath of Supremacy",
+    "why_relevant": "Wrote the Dialogue of Comfort against Tribulation (1534), a dialogue set in Hungary during the Turkish threat that repeatedly names Mahomet and the Turk's sect.",
+    "fame": "Best known for Utopia (1516) and as a martyr; the Dialogue of Comfort is much less read. The line 'there is no born Turk so cruel to Christian folk as is the false Christian that falleth from the faith' is cited by Bremond, as quoted in the Dent 1913 introduction (p. xxxvi-xxxvii), which I read.",
+    "catholic_status": "Saint (canonized 1935) and Catholic martyr; patron of statesmen (canonization status as commonly known, not re-verified in these sources)."
+  },
+  {
+    "id": "vives",
+    "name_es": "Juan Luis Vives",
+    "name_en": "Juan Luis Vives",
+    "name_orig": "Ioannes Lodovicus Vives Valentinus",
+    "born": "1492",
+    "died": "1540",
+    "language": "Latin",
+    "role_place": "Valencian humanist working in Bruges, Louvain and Oxford; educator and philosopher, friend of Erasmus and adviser on the Turkish question",
+    "why_relevant": "Book IV of De veritate fidei christianae (1543/1544) is a Christian-Alfaquí dialogue titled 'contra sectam Mahumetis', with detailed arguments on Muhammad, the Qur'an, Christ and the spread of Islam by arms; De concordia et discordia (1529) includes a section on Christian life under the Turk.",
+    "fame": "Known mainly as a humanist, educator and psychologist; Book IV of De veritate is not widely cited. I found no citation of it in the sources I opened, so its fame is UNVERIFIED and likely low.",
+    "catholic_status": "Catholic humanist; not canonized and not a Doctor of the Church (no source checked for a formal status; treat as UNVERIFIED)."
+  }
+]

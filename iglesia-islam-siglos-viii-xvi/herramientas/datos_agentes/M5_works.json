@@ -1,0 +1,34 @@
+[
+  {
+    "id": "quia_maior_1213",
+    "figure": "innocent_iii",
+    "title_orig": "Quia maior nunc instat necessitas (Migne heading: 'De negotio terrae sanctae'; addressed 'Universis Christi fidelibus per Maguntinensem provinciam constitutis')",
+    "title_es": "Bula Quia maior (1213), llamamiento a la cruzada",
+    "title_en": "Quia maior (crusade bull, 1213)",
+    "date": "c. April 1213 (Migne/Wikipedia: final version issued between 19 and 29 April 1213 per Smith 2019, as quoted on en.wikipedia.org/wiki/Quia_maior)",
+    "language": "Latin",
+    "genre": "Papal bull / encyclical letter, from Regestorum liber XVI",
+    "edition_original": "Migne PL 216, col. 818 (Innocentii III Regestorum lib. XVI, bull numbered XXVIII in Migne; the Muhammad sentence falls between the col. 818 and col. 819 markers of the OCR)",
+    "edition_english": "None found in the public domain. Riley-Smith/Tyerman-type modern translations are in copyright and were not quoted.",
+    "digital_url": "https://archive.org/details/patrologiaecursu0216mign (full text read: https://archive.org/download/patrologiaecursu0216mign/patrologiaecursu0216mign_djvu.txt)",
+    "licence": "archive.org item states Migne PL vol. 216 (1844-1855 Paris, Migne); no licence field on the item page. Migne's Latin text is public domain (Migne d. 1875); scan is an archive.org OCR, read by me, quotation is from OCR.",
+    "authenticity_note": "Genuine papal letter (Regest. XVI); the Muhammad sentence is in Innocent's own voice, not a quotation of an opponent. Not disputed in the sources I read.",
+    "notes": "The Migne OCR was read from the archive.org text layer; I did not inspect the scanned page image, so orthography (e.g. 'hac', 'sexcenta') is as printed in the OCR and not visually verified. Wikipedia (en) states the bull was copied to many provinces (Mainz, Cologne, Salzburg, Scandinavia, England, etc.)."
+  },
+  {
+    "id": "epistola_ad_mahumetem",
+    "figure": "pius_ii",
+    "title_orig": "Epistola ad Mahumetem II (Epistola ad Mahumetem)",
+    "title_es": "Carta a Mahoma II (Epistola ad Mahumetem)",
+    "title_en": "Letter to Mehmed II (Epistola ad Mahumetem)",
+    "date": "c. 1461 (per search snippets; Vatican review says composed c. 1460; not verified in the text itself)",
+    "language": "Latin",
+    "genre": "Open letter (epistola) to Sultan Mehmed II",
+    "edition_original": "Incunable, archive.org item ita-bnc-in2-00000500-001 (imprint per archive.org metadata: Bartholomaeus Guldinbeck, 1477; BNC Firenze copy Magl. E.6.25; title page not checked). Passages were read from the 100-page PDF scan, visually, with tesseract as a helper. A second incunable, ita-bnc-in1-00000493-001 (Ulrich Han and Simone Cardella, Rome, 1474; Magl. A.5.40), was checked for OCR only.",
+    "edition_english": "No public-domain English translation found. Baca, Epistola ad Mahomatem II = Epistle to Mohammed II (Peter Lang, 1990) is in copyright and was not quoted.",
+    "digital_url": "https://archive.org/details/ita-bnc-in2-00000500-001 (PDF read: https://archive.org/download/ita-bnc-in2-00000500-001/ita-bnc-in2-00000500-001.pdf)",
+    "licence": "The text is a 15th-century Latin printing and public domain. The scan carries the notice 'Early European Books, Copyright 2011 ProQuest LLC. Images reproduced by courtesy of the Biblioteca Nazionale Centrale di Firenze.' The photographic copyright is claimed by ProQuest/BNC; the team should check before reproducing the page images (the orchestrator is not downloading images in this task).",
+    "authenticity_note": "Genuine work of Aeneas Silvius (Pius II) as printed in the incunables; attribution to Piccolomini is the standard one (per search snippets). Not disputed in the sources I saw.",
+    "notes": "The 1699 Helmstedt Opera geographica et historica (archive.org bub_gb_Cd4_AAAAcAAJ) and 1700 volume were checked by OCR for Muhammad passages (Asia / Historia Bohemica chapters mention Mahumetes and the Turks) but not transcribed; they are historical and not used in passages.json. The Basel 1551 Opera omnia was not found on archive.org in my search."
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "exc_sav_01",
+    "figure": "savonarola",
+    "reference": "Savonarola, Triumphus crucis, Liber IV, cap. VII (Latin, Bibliander 1550; Paderborn excerpt p. 3, the sentence beginning 'Nonne is autor de suadeq;'). Procter 1901 counterpart: Book IV, ch. VII ('It is a matter of surprise to me, that he was not stoned by his own people...').",
+    "url": "https://digital.ub.uni-paderborn.de/download/pdf/8330527.pdf",
+    "gist_en": "Savonarola says the founder should have been stoned rather than imitated, because his law is uncertain and his commands obscure. Procter renders it as surprise that he was not stoned by his people.",
+    "why_excluded": "Rhetorical call to stone a person (Muhammad) to death. Falls under the exclusion rule (call to kill). The surrounding argument (Qur'anic obscurity and self-contradiction) is kept in sav_04; only this sentence is excluded. The Procter sentence is in the same ch. VII (Gutenberg text, read)."
+  }
+]

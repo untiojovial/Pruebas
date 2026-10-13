@@ -1,0 +1,376 @@
+[
+  {
+    "id": "CU-01",
+    "figure": "cusanus",
+    "work": "cusanus_cribratio",
+    "theme": "S",
+    "harshness": 5,
+    "famous": {
+      "value": false,
+      "where": "UNVERIFIED: not seen cited in any source read"
+    },
+    "ref": "Cribratio Alkorani, Liber III, cap. VIII ('Quod finis operis Mahumet fuit sui exaltatio'), printed p. 919 (1565 Opera)",
+    "url": "http://diglib.hab.de/drucke/413-theol-2f/start.htm?image=01019 (page p. 919 of PDF of https://archive.org/details/drucke_413-theol-2f_01014-01031)",
+    "quote_orig": "SED uisus es mihi ô Mahumet, praetextu religionis dominandi potentatum quaesisse, omnia enim in gladiū resoluis, & gladio saltem ad tributum peruenire: Persuasisti quemlibet in sua lege saluari posse, ac quod Deus fideliū constantiam diligat, uariantes uero nequaquam. Deinde accipis gladium, quasi illos uelis ad ueritatem compellere, quos animasti constantes manere: sed das optionem ipsis, ut uel uarient uel tributum soluant. Quis non intelligit finem tuae religionis, zelum & ritum tuae legis tantum ad hoc tendere, ut domineris? Tributo enim quis Deo & tibi satisfacit. Non erat alia intentio tua, quam quod Deo & religione medijs magnus esses: nunquam credidisti ea uera, quae fingis Dei praecepta, quia non seruasti ea.",
+    "orig_url": "http://diglib.hab.de/drucke/413-theol-2f/start.htm?image=01019",
+    "quote_en": "",
+    "own_translation_en": "But it seems to me, O Muhammad, that under the pretext of religion you sought power to dominate: for you resolve everything into the sword, and by the sword you aim at least at the tribute. You persuaded each person that he can be saved in his own law, and that God loves steadfast constancy, but not those who vary. Then you take up the sword, as if you wished to compel to the truth those whom you made steadfast, but you give them the choice either to vary or to pay tribute. Who does not see that the aim of your religion, your zeal and the rite of your law, tends only to this, that you may rule? For who is satisfied with tribute, whether to God or to you? Your intention was nothing else than that you might be great in the eyes of God and of religion; you never believed those true things which you feign to be precepts of God, because you did not keep them.",
+    "licence_note": "16th-century text, public domain. Scan: HAB Wolfenbuettel, CC BY-SA 3.0 DE terms on the digitisation. Transcription and English are the team's (own_translation_en). Printed 'ô', 'gladiū', 'fideliū', 'uarient' kept as printed; long s rendered as s; no abbreviation expanded in the quote.",
+    "keys": [
+      "praetextu religionis dominandi potentatum quaesisse",
+      "tantum ad hoc tendere, ut domineris",
+      "Non erat alia intentio tua"
+    ],
+    "what_it_says": "Cusanus addresses Muhammad directly and says his religion's real aim was domination, using the sword to get tribute and to compel the variants (non-believers).",
+    "context": "Liber III, chapter VIII, of the Cribratio Alkorani (written c. 1460-61, addressed in the prologue to Pope Pius II). It is an apostrophe to Muhammad as if present, in a sustained argument that Muhammad's laws are contradicted by his own practice.",
+    "limits": "Rhetorical address to a dead figure, not a call to action. The passage is an accusation about Muhammad's motives and about the Qur'anic command to fight; it condemns coercion. Own view of the author. Some Qur'anic commands are paraphrased in Cusanus's own words, not exact quotes.",
+    "stance": "own view"
+  },
+  {
+    "id": "CU-02",
+    "figure": "cusanus",
+    "work": "cusanus_cribratio",
+    "theme": "Q",
+    "harshness": 5,
+    "famous": {
+      "value": false,
+      "where": "UNVERIFIED: not seen cited in any source read"
+    },
+    "ref": "Cribratio Alkorani, Liber III, cap. IV ('Quod Deus Alchoran videatur Deus absolutus, et Deus alius de quo loquitur rebus sit immersus'), printed pp. 916-917 (1565 Opera)",
+    "url": "http://diglib.hab.de/drucke/413-theol-2f/start.htm?image=01016 and http://diglib.hab.de/drucke/413-theol-2f/start.htm?image=01017 (pages p. 916 and p. 917 of PDF of https://archive.org/details/drucke_413-theol-2f_01014-01031)",
+    "quote_orig": "Ex his patet, quomodo Deus qui in Alchoran loquitur, nominat alium Deum. Dicit enim dic quod sit Dei, non nostri uel mei. Si igitur Deus qui loquitur in Alchoran est Deus deorum, & Deus de quo loquitur est alius Deus, cuius dicit esse animam, & qui animam suam distribuit hominibus, & dividit suam diuinam substantiam sibi gratis, & suum spiritum insufflat in uentres praegnantium: utique Deus Alchoran est absolutus & inparticipabilis, & Deus de quo ille deus loquitur, est immersus rebus & diuisibilis, igitur & corporalis.",
+    "orig_url": "http://diglib.hab.de/drucke/413-theol-2f/start.htm?image=01016 ; http://diglib.hab.de/drucke/413-theol-2f/start.htm?image=01017",
+    "quote_en": "",
+    "own_translation_en": "From these things it is clear how the God who speaks in the Qur'an names another God. For he says: 'say that it is of God, not of us or of me.' So if the God who speaks in the Qur'an is the God of gods, and the God of whom he speaks is another God, whose soul he says it is, who distributes his soul among men and divides his divine substance to them as a free gift, and breathes his spirit into the wombs of pregnant women: then the God of the Qur'an is absolute and unshareable, and the God of whom that god speaks is immersed in things and divisible, therefore also corporeal.",
+    "licence_note": "16th-century text, public domain; HAB scan CC BY-SA 3.0 DE. 'Dicit enim dic quod sit Dei' and 'nominat alium Deum' read on p. 916 image. Long s normalised.",
+    "keys": [
+      "Deus Alchoran est absolutus & inparticipabilis",
+      "est immersus rebus & diuisibilis, igitur & corporalis",
+      "nominat alium Deum"
+    ],
+    "what_it_says": "Cusanus argues that the God of the Qur'an, as described, is a divided and corporeal being, and that the Qur'an speaks of 'another God' above the speaker.",
+    "context": "Cusanus's reading of Qur'anic verses about God's breath and soul, which he takes literally. He sets it in the Liber III argument that the Qur'an contradicts itself about God's nature. Written c. 1460-61.",
+    "limits": "This is an argument from Cusanus's own reading of Ketton-style Latin renderings of Qur'anic verses; the Qur'anic citations are his own. Harshness is doctrinal, not personal. Modern scholarship would dispute the literalism (not checked here).",
+    "stance": "own view"
+  },
+  {
+    "id": "CU-04",
+    "figure": "cusanus",
+    "work": "cusanus_cribratio",
+    "theme": "Q",
+    "harshness": 3,
+    "famous": {
+      "value": false,
+      "where": "UNVERIFIED: the Qur'an-appeals-to-Gospel point is in the text; no citing author checked"
+    },
+    "ref": "Cribratio Alkorani, Liber III, cap. I-II (the 'Gospel testimony' argument), printed pp. 915-916 (1565 Opera)",
+    "url": "http://diglib.hab.de/drucke/413-theol-2f/start.htm?image=01015 and http://diglib.hab.de/drucke/413-theol-2f/start.htm?image=01016 (pages p. 915 and p. 916 of PDF of https://archive.org/details/drucke_413-theol-2f_01014-01031)",
+    "quote_orig": "Ecce adducit in testimonium priores libros scilicet Euangelium et Testamentum. Dicit enim capite decimoseptimo, quod mentio de eo fiat, & nominetur in Testamento & Euangelio, Et 70. dicit Christum praedixisse, nuncium post me uenturum Mahumet nomine denuncio, quem mendaciter Magnum dicent. Ecce omne testimonium quod Mahumet sit nuncius Dei. Sed cum penitus sit falsum, constat nihil uerum manere nisi hoc solum, non est Deus nisi Deus.",
+    "orig_url": "http://diglib.hab.de/drucke/413-theol-2f/start.htm?image=01015 ; http://diglib.hab.de/drucke/413-theol-2f/start.htm?image=01016",
+    "quote_en": "",
+    "own_translation_en": "Behold, he brings forward as witnesses the earlier books, namely the Gospel and the Testament. For he says in chapter seventeen that mention of him is made and that he is named in the Testament and the Gospel; and [in chapter seventy] he says that Christ foretold a messenger coming after me, Muhammad, whom they will mendaciously call 'the great'. Behold, all this testimony that Muhammad is God's messenger. But since it is wholly false, it is clear that nothing true remains except this alone: there is no God but God.",
+    "licence_note": "16th-century text, public domain; HAB scan CC BY-SA 3.0 DE. The Qur'an chapter numbers 17 and 70 are printed as in the source (Cusanus's numbering), not checked. 'Et 70.' is printed '70.' in the image.",
+    "keys": [
+      "Ecce adducit in testimonium priores libros",
+      "Ecce omne testimonium quod Mahumet sit nuncius Dei",
+      "Sed cum penitus sit falsum"
+    ],
+    "what_it_says": "Muhammad's claim that the Gospel and the Torah name him is rejected by Cusanus as false: no book he cites mentions Muhammad, so the only remaining truth is 'there is no God but God'.",
+    "context": "Cusanus's answer to the Qur'an's own claim to be confirmed by earlier scripture. Preceded by the claim that the Gospel and Torah are cited in the Qur'an.",
+    "limits": "Cusanus reports the Qur'anic claim and answers it; the claim itself is the Qur'an's (quoted opponent). The Qur'an-chapter references are Cusanus's. Verified visually on images of p.915 and p.916.",
+    "stance": "quoting opponent"
+  },
+  {
+    "id": "CU-05",
+    "figure": "cusanus",
+    "work": "cusanus_cribratio",
+    "theme": "H",
+    "harshness": 4,
+    "famous": {
+      "value": false,
+      "where": "UNVERIFIED"
+    },
+    "ref": "Cribratio Alkorani, Liber III, cap. XI ('Contra id, quod lex Alchoran sit lex Abrahae'), printed p. 922 (1565 Opera)",
+    "url": "http://diglib.hab.de/drucke/413-theol-2f/start.htm?image=01022 (page p. 922 of PDF of https://archive.org/details/drucke_413-theol-2f_01014-01031)",
+    "quote_orig": "Quomodo igitur lex tua quae Arabum dicitur, dici potest lex Abrahae: quando ab Euangelio declinat? [...] Vtiq; non debes praesumere, Deum tibi maiorem peritiam dedisse de Christo, quem & tibi & cunctis Prophetis praefers. [...] Quid facit te adeo uariantem & uacillantem in omnibus: nisi ignorantia Christi? Dicis Iesum Mariae uirginis filium esse Christum, & in hoc non erras: sed quid Christus sit, penitus ignoras.",
+    "orig_url": "http://diglib.hab.de/drucke/413-theol-2f/start.htm?image=01022",
+    "quote_en": "",
+    "own_translation_en": "So how can your law, which is called the law of the Arabs, be called the law of Abraham, when it departs from the Gospel? [...] Certainly you ought not to presume that God gave you greater knowledge about Christ, whom you prefer to yourself and to all the prophets. [...] What makes you so wavering and unsteady in everything, if not ignorance of Christ? You say that Jesus is the Christ, son of the virgin Mary, and in this you are not wrong; but what Christ is, you wholly ignore.",
+    "licence_note": "16th-century text, public domain; HAB scan CC BY-SA 3.0 DE. Long s rendered as s; printed 'Vtiq;' kept as printed. Two sentences omitted between the [...] marks; the omitted sentences are not quoted (they continue the argument about the Qur'an's contradiction with Abraham and the Gospel).",
+    "keys": [
+      "quando ab Euangelio declinat",
+      "sed quid Christus sit, penitus ignoras",
+      "nisi ignorantia Christi"
+    ],
+    "what_it_says": "Cusanus says the Qur'an's claim to be the law of Abraham fails because it departs from the Gospel, and that Muhammad, though right that Jesus is Christ son of Mary, does not know what Christ is.",
+    "context": "Chapter XI argues that the Qur'an cannot be Abraham's law because the Old and New Testaments fulfil it, and that Christ perfects it; the passage ends with an appeal to read John's first epistle.",
+    "limits": "The two omitted sentences are marked [...]; the passage is an apostrophe to Muhammad. Own view of the author. The Qur'anic claims paraphrased are his.",
+    "stance": "own view"
+  },
+  {
+    "id": "CU-06",
+    "figure": "cusanus",
+    "work": "cusanus_cribratio",
+    "theme": "Q",
+    "harshness": 4,
+    "famous": {
+      "value": false,
+      "where": "UNVERIFIED"
+    },
+    "ref": "Cribratio Alkorani, Liber III, cap. XVII (Gabriel and Mary), printed p. 928 (1565 Opera)",
+    "url": "http://diglib.hab.de/drucke/413-theol-2f/start.htm?image=01028 (page p. 928 of PDF of https://archive.org/details/drucke_413-theol-2f_01014-01031)",
+    "quote_orig": "Credidisti aliquando Gabrielem missum à Deo ad uirginem Mariam in Nazareth, & ei annunciasse quomodo ipsa paritura esset Iesum filium Dei modo credis Amram patrem Mariae, & per consequens ipsam non esse illam de qua Euangelium dicit quae sequuta est illam primam Mariam plus [quam] mille annis. Et si dicis Alchoran in hoc errasse: consequens est quod Gabriel Euangelicus sit uerus, & Gabriel Alchoranicus sit mendax. Considera si Mahumet per Iudaeos sibi assistentes deceptus fuit, qui illi persuadebant Mariam matrem Christi, sororem Aaron fuisse: in multis eum decipere potuisse, tamque penitus ignarum historiarum temporum.",
+    "orig_url": "http://diglib.hab.de/drucke/413-theol-2f/start.htm?image=01028",
+    "quote_en": "",
+    "own_translation_en": "You once believed that Gabriel was sent by God to the virgin Mary in Nazareth and announced to her how she would bear Jesus, son of God, as you now believe; and you consequently hold that she was not the one of whom the Gospel speaks, which is the first Mary, more than a thousand years earlier. And if you say the Qur'an erred in this, it follows that the Gospel Gabriel is true and the Qur'anic Gabriel is a liar. Consider whether Muhammad was deceived by the Jews around him, who persuaded him that Mary, mother of Christ, was the sister of Aaron: and so he could be deceived in many things, being wholly ignorant of the history of the times.",
+    "licence_note": "16th-century text, public domain; HAB scan CC BY-SA 3.0 DE. Abbreviation for 'quam' printed as a sign before 'mille' rendered here as [quam] (read on zoomed image). Verified visually.",
+    "keys": [
+      "Gabriel Euangelicus sit uerus",
+      "Gabriel Alchoranicus sit mendax",
+      "sororem Aaron fuisse"
+    ],
+    "what_it_says": "Cusanus argues that the Qur'an's account of Gabriel's annunciation to Mary conflicts with the Gospel, and that Muhammad's error (that Mary, mother of Jesus, was the sister of Aaron) shows he was deceived by Jews and ignorant of history.",
+    "context": "Chapter XVII is about the Qur'anic Mary and Gabriel; Cusanus turns the Qur'an's claims against itself and then, after this passage, addresses Mary directly, asking her to restore her honour.",
+    "limits": "The Mary-as-Aaron's-sister point is a famous Qur'anic error in the Christian polemic tradition, but whether Cusanus took it from earlier sources (Ricoldo, Ketton) was not checked. Own view of the author; claim about Muhammad's ignorance is the author's.",
+    "stance": "own view"
+  },
+  {
+    "id": "CU-07",
+    "figure": "cusanus",
+    "work": "cusanus_cribratio",
+    "theme": "Q",
+    "harshness": 4,
+    "famous": {
+      "value": false,
+      "where": "UNVERIFIED"
+    },
+    "ref": "Cribratio Alkorani, Liber III, cap. XVIII ('Ad Caliphum de Baldach, quod Iudaei de Abraham apposuerunt in Alchoran'), printed pp. 928-929 (1565 Opera)",
+    "url": "http://diglib.hab.de/drucke/413-theol-2f/start.htm?image=01028 and http://diglib.hab.de/drucke/413-theol-2f/start.htm?image=01029 (pages p. 928 and p. 929 of PDF of https://archive.org/details/drucke_413-theol-2f_01014-01031)",
+    "quote_orig": "Primum à tua prudentia, qui praes legi Alchoran, depofco: utrum credis Deum esse auctorem Alchoran an non? Si non: cur mandas tantam diligentiam libro illi in studio Baldach adhiberi, qui de seipso prohibet falsum testimonium, cum dicat se à Deo compositum, quod tu non credis? Si uero credis librum illum Dei uerba continere: quomodo potest liber dicere, quod per Gabrielem Deus ipsum Mahumet intimauit, per haec uerba: Gabrielis huc librum tuo cordi per creatorem intimantis? Quomodo possunt haec uerba Deo loquenti adaptari, qui est creator?",
+    "orig_url": "http://diglib.hab.de/drucke/413-theol-2f/start.htm?image=01028 ; http://diglib.hab.de/drucke/413-theol-2f/start.htm?image=01029",
+    "quote_en": "",
+    "own_translation_en": "First, I ask you, who preside over the Qur'an: do you believe that God is the author of the Qur'an or not? If not, why do you order such great care to be given to that book in the study at Baghdad, which forbids false witness about itself, since it says it was composed by God, which you do not believe? But if you believe that book contains the words of God: how can the book say that God revealed it to Muhammad through Gabriel, in these words: 'Gabriel's bringing this book to your heart by the Creator's command'? How can these words be applied to the God who speaks, who is the Creator?",
+    "licence_note": "16th-century text, public domain; HAB scan CC BY-SA 3.0 DE. 'depofco' and 'Deum' read from zoom; 'depofco' is printed as in the source. Long s normalised. Verified visually on zoom.",
+    "keys": [
+      "utrum credis Deum esse auctorem Alchoran an non",
+      "quomodo potest liber dicere, quod per Gabrielem Deus ipsum Mahumet intimauit",
+      "Quomodo possunt haec uerba Deo loquenti adaptari"
+    ],
+    "what_it_says": "Cusanus addresses a fictional 'Caliph of Baghdad' and argues that the Qur'an, by naming Gabriel as its messenger and speaking of itself in the first person, cannot be God's own words.",
+    "context": "Chapter XVIII (heading 'Ad Caliphum de Baldach') is written as a letter to a caliph about the Jewish origin of the Qur'an's Abraham material; it concludes with the claim that the Qur'an's own words cannot be God's.",
+    "limits": "The addressee 'Caliph of Baghdad' is a rhetorical device in the printed chapter; no real caliph is identified in the pages read. The argument is about the Qur'an's self-reference, not a personal attack. Own view of the author.",
+    "stance": "own view"
+  },
+  {
+    "id": "CU-08",
+    "figure": "cusanus",
+    "work": "cusanus_cribratio",
+    "theme": "M",
+    "harshness": 4,
+    "famous": {
+      "value": false,
+      "where": "UNVERIFIED: the Sergius claim is discussed in the scholarship cited in the team brief; citing author not checked"
+    },
+    "ref": "Cribratio Alkorani, Liber III, cap. XVIII, printed p. 929 (1565 Opera)",
+    "url": "http://diglib.hab.de/drucke/413-theol-2f/start.htm?image=01029 (page p. 929 of PDF of https://archive.org/details/drucke_413-theol-2f_01014-01031)",
+    "quote_orig": "Dicito cum Mahumet. 40. annorum de idololatria conuersus sit, per Sergium monachum Christianum & Nestorianum, cuius etiam habitum religiosum acceptasse dicitur, & in ea fide mortuus asseritur. quomodo est hoc uerum, quod Abrahae legem tenuerit: [...] Sed quia Christianus licet Nestorianus, utique baptizatus fuit. Nestoriani enim Euangelium amplectuntur, & baptizantur.",
+    "orig_url": "http://diglib.hab.de/drucke/413-theol-2f/start.htm?image=01029",
+    "quote_en": "",
+    "own_translation_en": "Say that Muhammad, at forty years old, was converted from idolatry by Sergius, a Christian monk and Nestorian, whose religious habit he is said to have received, and that he is said to have died in that faith. How is it true that he kept the law of Abraham? [...] But since a Christian, even a Nestorian, was baptised: for the Nestorians embrace the Gospel and are baptised.",
+    "licence_note": "16th-century text, public domain; HAB scan CC BY-SA 3.0 DE. Abbreviated ellipsis '[...]' marks omitted words (circumcision argument). 'Dicito' is printed with hyphen 'Di-|cito' at line break and joined here.",
+    "keys": [
+      "per Sergium monachum Christianum & Nestorianum",
+      "cuius etiam habitum religiosum acceptasse dicitur",
+      "Nestoriani enim Euangelium amplectuntur"
+    ],
+    "what_it_says": "Cusanus repeats the claim that Muhammad was converted from idolatry by a Christian Nestorian monk named Sergius, and that Muhammad died in that faith; he argues that Muhammad's later religion contradicts the Abraham law he claimed.",
+    "context": "The Sergius passage is the central Cusanus argument of chapter XVIII about the origin of the Qur'an's Abraham material: he says Jews inserted Abraham after Muhammad's death, and uses Sergius to explain the Christian content of Muhammad's teaching.",
+    "limits": "The Sergius story is a Christian polemical tradition (Cusanus's source not checked here); the claim 'mortuus in ea fide' is reported, not endorsed. The Nestorian baptismal argument is the author's. Own view of the author.",
+    "stance": "own view"
+  },
+  {
+    "id": "CU-09",
+    "figure": "cusanus",
+    "work": "cusanus_cribratio",
+    "theme": "H",
+    "harshness": 4,
+    "famous": {
+      "value": false,
+      "where": "UNVERIFIED"
+    },
+    "ref": "Cribratio Alkorani, Prologue addressed to Pope Pius II, first page of the work (Paris 1514 print; PDF page 262)",
+    "url": "https://archive.org/details/McGillLibrary-rbsc_heac_accvrata-recognito_folioBX890N4851514_v1-3-21741 (text-layer PDF page 262 read as image; prologue 'CRIBRATIO ALCHORAN')",
+    "quote_orig": "neftorianã hærefim apoftolico spiritu, angelico ingenio, diuinoq; eloquio dãnãtis: tu mahumetanã sectã de illa exortã eodem spiritu pari ingenio, cūdiaq; æquali erroneã eliminãdãq; oftēdes.",
+    "orig_url": "https://archive.org/details/McGillLibrary-rbsc_heac_accvrata-recognito_folioBX890N4851514_v1-3-21741",
+    "quote_en": "",
+    "own_translation_en": "...the Nestorian heresy, which your predecessor Pope Leo, holy as he was, condemned with apostolic spirit, angelic wit and divine eloquence: you, in the same spirit and with equal wit, will show the Muhammadan sect, which came out of that heresy, to be equally erroneous and to be eliminated, with eloquence and fluency.",
+    "licence_note": "Paris 1514 print (16th century), public domain; McGill digitisation on archive.org (no licence field set in metadata read). Printed abbreviations expanded in translation only: 'cūdiaq;' read as 'facundiaque' (eloquence); 'mahumetanã' = 'mahumetanam'; 'dãnãtis' = 'damnantis'. Quote kept with printed abbreviations; right-hand edge of page was verified in a second crop.",
+    "keys": [
+      "neftorianã hærefim",
+      "tu mahumetanã sectã de illa exortã",
+      "oftēdes"
+    ],
+    "what_it_says": "Cusanus tells Pius II that just as Pope Leo condemned the Nestorian heresy, the pope should show that the Muhammadan sect, which came out of it, is equally erroneous and should be eliminated.",
+    "context": "This is the prologue (dedicatory letter) of the Cribratio to Pope Pius II, in which the author says he read the Latin Qur'an through Peter of Cluny's translation and found an Arabic copy in Constantinople.",
+    "limits": "The claim that Islam derives from Nestorianism is Cusanus's own historical reading (the Sergius story in CU-08 is the same line). The prologue is addressed to the pope and aims to persuade him to write against the Qur'an; it does not call for violence. 'eliminandam' is a theological word for refutation here; read in context as intellectual refutation, not a call to arms. Own view of the author.",
+    "stance": "own view"
+  },
+  {
+    "id": "CU-10",
+    "figure": "cusanus",
+    "work": "cusanus_depacefidei",
+    "theme": "Q",
+    "harshness": 2,
+    "famous": {
+      "value": false,
+      "where": "UNVERIFIED: the passage is in the dialogue as printed; citing authors not checked"
+    },
+    "ref": "De pace fidei, Dialogus, Cap. XIIII (speakers 'Alemannus' and 'Petrus'), fol. CXXI (Paris 1514 print; PDF page 257)",
+    "url": "https://archive.org/details/McGillLibrary-rbsc_heac_accvrata-recognito_folioBX890N4851514_v1-3-21741 (text-layer PDF page 257 read as image; 'DIALOGVS' fol. CXXI)",
+    "quote_orig": "Vnde & fi in lege Alchoran reperiatur p̄miſſio paradiſi vbi ſunt flumina vini & mellis, & virginum multitudo, & tamē multi illa in hoc mundo abominant: quomodo erunt illi felices, ſi aſſequent ibi quæ hic nollet habere? Dicit in alchorano, virgines pulcherrimas nigras reperiri cū oculis habentibus albugineū albiſſimū & magnū: nullus Alemānus in hoc mundo etiā vitiis carnis deditus, tales appeteret. Vnde oportet q[uod] ſimilitudinaliter ista intelligantur.",
+    "orig_url": "https://archive.org/details/McGillLibrary-rbsc_heac_accvrata-recognito_folioBX890N4851514_v1-3-21741",
+    "quote_en": "",
+    "own_translation_en": "And so, if in the law of the Qur'an there is a promise of paradise where there are rivers of wine and honey and a multitude of virgins, and yet many people in this world abhor those things, how will they be happy if they attain there what they did not want here? [Petrus] says in the Qur'an that there are very beautiful black virgins with eyes having the whiteness of the eye, most white and great: no German in this world, even one given to the vices of the flesh, would desire such. And so it must be understood figuratively.",
+    "licence_note": "Paris 1514 print, public domain. Quote kept as printed: long s 'ſ', macrons (p̄, tamē, cū, albugineū, albiſſimū, magnū, Alemānus) and 'æ'/'q[uod]' as printed; only 'q[uod]' expanded in brackets. Speaker 'PETRVS' (Peter) is the interlocutor of the passage; the 'Alemannus' of the dialogue is the other speaker, mentioned here.",
+    "keys": [
+      "in lege Alchoran reperiatur",
+      "virgines pulcherrimas nigras reperiri",
+      "ſimilitudinaliter ista intelligantur"
+    ],
+    "what_it_says": "Peter, one of the dialogue's speakers, says the Qur'anic promises of paradise (wine, honey, virgins) should be read figuratively, since no one who desires carnal things in this world would want them.",
+    "context": "Chapter XIIII of the dialogue, where the interlocutors compare the promised happinesses of Jews, Arabs (Qur'an), and Gospel; the passage is the dialogue's mildest comment on Islam here.",
+    "limits": "It is a figurative reading offered as irony and reconciliation, not a detailed refutation. The sentence about 'Alemannus' is a joke at the expense of the German speaker's supposed tastes, not an insult to a people. Own view of the author expressed through the interlocutor Petrus; English is the team's.",
+    "stance": "own view"
+  },
+  {
+    "id": "LL-01",
+    "figure": "llull",
+    "work": "llull_gentil",
+    "theme": "Q",
+    "harshness": 2,
+    "famous": {
+      "value": false,
+      "where": "UNVERIFIED"
+    },
+    "ref": "Llibre del gentil e dels tres savis, Quart libre (Saracen), article 1 'Creure un Deu', 1886 pp. 233-234 (Viquitexts index)",
+    "url": "https://ca.wikisource.org/wiki/Libre_del_gentil_e_los_tres_savis/Qvart_libre/Del_primer_article",
+    "quote_orig": "Mas lo sarrahi respos que eyl volia prouar que Deus no fos deuesible, ne departit en parts, ni compost; ans es vn en totes maneres, sens que en eyl no ha trinitat ne pluralitat; cor si ho hauia, couenria que fos compost, e que la bonea, granea, eternitat, poder, sauiesa e amor, fossen contraris a perfeccio; e con aço sia impossibil, per aço es maniffestat que Deus no es en trinitat.",
+    "orig_url": "https://ca.wikisource.org/wiki/Libre_del_gentil_e_los_tres_savis/Qvart_libre/Del_primer_article",
+    "quote_en": "",
+    "own_translation_en": "But the Saracen answered that he wished to prove that God is not divisible, nor divided into parts, nor composite; rather He is one in every way, without any Trinity or plurality in Him; for if there were, He would have to be composite, and goodness, greatness, eternity, power, wisdom and love would be contrary to perfection; and since this is impossible, it is clear that God is not in a Trinity.",
+    "licence_note": "Viquitexts transcription of the 1886 Palma Obres de Ramon Llull (19th-century, public domain); the wiki transcription is CC BY-SA. Footnote markers removed. Text in Old Catalan as transcribed.",
+    "keys": [
+      "sens que en eyl no ha trinitat ne pluralitat",
+      "per aço es maniffestat que Deus no es en trinitat",
+      "ans es vn en totes maneres"
+    ],
+    "what_it_says": "The Saracen speaker denies the Trinity, arguing that a Trinity would make God composite and so contrary to his perfection.",
+    "context": "The Saracen (sarrahi) opens his book with the Muslim prayer and the twelve articles of his faith; the Gentile replies that the Christian has already made the same question, and that the Christian believes the Trinity in another way, so the matter is not pursued here.",
+    "limits": "This is the Saracen character's argument (quoted opponent). The Gentile's reply in the same article is that the Christian's belief in the Trinity is different; Llull himself does not refute it here. Harshness reflects the dialectical tone, not a personal attack.",
+    "stance": "quoting opponent"
+  },
+  {
+    "id": "LL-02",
+    "figure": "llull",
+    "work": "llull_gentil",
+    "theme": "M",
+    "harshness": 1,
+    "famous": {
+      "value": false,
+      "where": "UNVERIFIED"
+    },
+    "ref": "Llibre del gentil e dels tres savis, Quart libre (Saracen), article 3 'Que Mafumet sia propheta', 'De granea e bonea', 1886 p. 236 (Viquitexts index)",
+    "url": "https://ca.wikisource.org/wiki/Libre_del_gentil_e_los_tres_savis/Qvart_libre/Del_ter%C3%A7_article",
+    "quote_orig": "Temps fo que totes les gents qui eren a Mequa e a la ciutat de Trip, on fo Mafumet propheta, foren idolatrix, e no hauien conexença de Deu, e eren en aquella error en la qual tu eres ans que venguesses en est loch, ni haguesses conexença de Deu.",
+    "orig_url": "https://ca.wikisource.org/wiki/Libre_del_gentil_e_los_tres_savis/Qvart_libre/Del_ter%C3%A7_article",
+    "quote_en": "",
+    "own_translation_en": "There was a time when all the people who were in Mecca and in the city of Trip, where Muhammad was a prophet, were idolaters and had no knowledge of God, and were in that error in which you were before you came to this place and had knowledge of God.",
+    "licence_note": "Viquitexts transcription of 1886 Palma Obres de Ramon Llull, public domain text; wiki transcription CC BY-SA. Footnote markers removed. 'Trip' is Llull's spelling for Taif (Trip in the transcription).",
+    "keys": [
+      "foren idolatrix, e no hauien conexença de Deu",
+      "on fo Mafumet propheta"
+    ],
+    "what_it_says": "The Saracen says Muhammad was a prophet sent to idolatrous peoples of Mecca and Taif, to give them knowledge of God, which shows God's goodness.",
+    "context": "The Saracen's argument for Muhammad's prophethood is that God's goodness required a prophet for the idolaters; the Gentile replies with a counter-argument about God's perfection (see LL-03 for the reply in the 'De caritat e justicia' section).",
+    "limits": "Saracen's claim (quoted opponent). The Mecca and Taif reference is Llull's; the Viquitexts footnote gives a Spanish note on Mecca. Harshness is minimal: no insult.",
+    "stance": "quoting opponent"
+  },
+  {
+    "id": "LL-03",
+    "figure": "llull",
+    "work": "llull_gentil",
+    "theme": "M",
+    "harshness": 3,
+    "famous": {
+      "value": false,
+      "where": "UNVERIFIED"
+    },
+    "ref": "Llibre del gentil e dels tres savis, Quart libre, article 3 'Que Mafumet sia propheta', section 'De caritat e justicia', Gentile's reply, 1886 p. 240 (Viquitexts index)",
+    "url": "https://ca.wikisource.org/wiki/Libre_del_gentil_e_los_tres_savis/Qvart_libre/Del_ter%C3%A7_article",
+    "quote_orig": "Respos lo gentil al sarrahi: Segons ço que tu dius, se segueix que Jhesuchrist, qui es tan honrat en est mon, sia Deu; e que los seus appostols, e los altres martirs, qui son tan honrats en est mon, sien morts en via de veritat. Cor si Deus no soferia que fossen honrats en est mon los morts qui son morts en falsetat, couenrria que ço qui es dit de Christ fos veritat; e si ho era, ta lig no seria en veritat, ni Mafumet no seria digne que fos honrat ne que fos propheta.",
+    "orig_url": "https://ca.wikisource.org/wiki/Libre_del_gentil_e_los_tres_savis/Qvart_libre/Del_ter%C3%A7_article",
+    "quote_en": "",
+    "own_translation_en": "The Gentile answered the Saracen: according to what you say, it follows that Jesus Christ, who is so honoured in this world, is God; and that his apostles and other martyrs, who are so honoured in this world, died in the way of truth. For if God would not allow those who died in falsehood to be honoured in this world, then what is said of Christ would have to be true; and if it were, your law would not be true, nor would Muhammad be worthy to be honoured or to be a prophet.",
+    "licence_note": "Viquitexts transcription of 1886 Palma Obres de Ramon Llull, public domain text; wiki transcription CC BY-SA. Footnote markers removed.",
+    "keys": [
+      "se segueix que Jhesuchrist, qui es tan honrat en est mon, sia Deu",
+      "ni Mafumet no seria digne que fos honrat ne que fos propheta"
+    ],
+    "what_it_says": "The Gentile turns the Saracen's argument from honour: if God lets the honoured be true, then Christ, honoured in the world, must be God, and Muhammad, if his law were true, would not be worthy of honour.",
+    "context": "The Gentile's reply to the Saracen's argument that God's honouring of Muhammad proves him a prophet (see LL-02). It is one of the sharpest Lullian responses to the Muslim speaker in the Quart libre.",
+    "limits": "This is Llull's own argument, but placed in the mouth of the Gentile; the Gentile's reasoning is ad hominem only in form (a reductio). It is a logical objection, not an insult. Own view (via the Gentile character).",
+    "stance": "own view"
+  },
+  {
+    "id": "LL-04",
+    "figure": "llull",
+    "work": "llull_gentil",
+    "theme": "Q",
+    "harshness": 1,
+    "famous": {
+      "value": false,
+      "where": "UNVERIFIED"
+    },
+    "ref": "Llibre del gentil e dels tres savis, Quart libre, article 4 'De l alcora', 'De poder e amor', 1886 p. 242 (Viquitexts index)",
+    "url": "https://ca.wikisource.org/wiki/Libre_del_gentil_e_los_tres_savis/Qvart_libre/Del_qvart_article",
+    "quote_orig": "Mafumet fo home lech qui no sabia letres, e l Alcora es lo pus beyl dictat qui sia ne qui esser pusca. On si no fos per volentat e per obra de Deu, Mafumet no pogra fer ne dictar tan beyl dictat, ni tan ordenades paraules con ceyles de l Alcora.",
+    "orig_url": "https://ca.wikisource.org/wiki/Libre_del_gentil_e_los_tres_savis/Qvart_libre/Del_qvart_article",
+    "quote_en": "",
+    "own_translation_en": "Muhammad was an unlettered man who did not know letters, and the Qur'an is the most beautiful dictation that there is or could be. For if it were not by the will and work of God, Muhammad could not have dictated so beautiful a book, nor such ordered words as those of the Qur'an.",
+    "licence_note": "Viquitexts transcription of 1886 Palma Obres de Ramon Llull, public domain text; wiki transcription CC BY-SA. Markers removed.",
+    "keys": [
+      "Mafumet fo home lech qui no sabia letres",
+      "l Alcora es lo pus beyl dictat qui sia ne qui esser pusca"
+    ],
+    "what_it_says": "The Saracen argues that the Qur'an's beauty proves its divine origin, since Muhammad, who could not read or write, could not have dictated it by himself.",
+    "context": "Opening of the article 'De l alcora' in the Saracen's book (Quart libre): the Qur'an's excellence and the Saracen's claim that its divine origin is shown by its style.",
+    "limits": "Saracen's argument (quoted opponent). In the transcription read, no Gentile reply is given within this article; the Gentile's reply to the Qur'an article was NOT found in the text read (UNVERIFIED whether it is elsewhere). Harshness 1: neutral reporting.",
+    "stance": "quoting opponent"
+  },
+  {
+    "id": "LL-05",
+    "figure": "llull",
+    "work": "llull_gentil",
+    "theme": "H",
+    "harshness": 2,
+    "famous": {
+      "value": false,
+      "where": "UNVERIFIED"
+    },
+    "ref": "Llibre del gentil e dels tres savis, Prolech (prologue), author's own words (page not recorded in the transcription read)",
+    "url": "https://ca.wikisource.org/wiki/Libre_del_gentil_e_los_tres_savis/Del_prolech",
+    "quote_orig": "CON ab los infaels hajam participat long de temps, e hajam enteses lurs falses oppinions e errors, per ço que eyls donen lahor de nostre senyor Deu, e que venguen a via de salut perdurable; jo qui son hom colpable, mesqui, pobre, peccador, menyspreat per les gents, indigne que mon nom sia escrit en est libre ne en altre, seguint la manera del libre arabich Del Gentil , me vuyl esforçar ab tots mos poders, confiant en la ajuda del Altisme, a ensercar noueyla manera e noueyles rahons per les quals poguessen esser endreçats los errats a gloria qui no ha fi, e que fugissen a infinits trebayls.",
+    "orig_url": "https://ca.wikisource.org/wiki/Libre_del_gentil_e_los_tres_savis/Del_prolech",
+    "quote_en": "",
+    "own_translation_en": "Since we have long been in contact with the unbelievers, and have heard their false opinions and errors, so that they may give praise to our Lord God and come to the way of everlasting salvation; I, a guilty, wretched, poor and sinful man, despised by people, unworthy that my name be written in this book or in any other, following the manner of the Arabic book of the Gentile, aim with all my powers, trusting in the help of the Most High, to seek new ways and new reasons by which those who are in error might be set right unto a glory without end, and might flee infinite toils.",
+    "licence_note": "Viquitexts transcription of 1886 Palma Obres de Ramon Llull, public domain text; wiki transcription CC BY-SA. Initial 'C' is a decorative capital ('CON' printed as 'C' plus 'ON'); 'Del Gentil ,' spacing as transcribed.",
+    "keys": [
+      "hajam enteses lurs falses oppinions e errors",
+      "seguint la manera del libre arabich Del Gentil"
+    ],
+    "what_it_says": "Llull, in his own voice, says he has long studied the 'false opinions and errors' of unbelievers so that they can be brought to salvation, and that he follows an Arabic book of the Gentile.",
+    "context": "The author's preface before the dialogue. It sets out the four books: the first on God and the resurrection; the second the Jew's; the third the Christian's; the fourth the Saracen's; each claims its own belief is superior.",
+    "limits": "The claim to follow an 'Arabic book of the Gentile' is Llull's own statement; no Arabic original was identified in the pages read. 'Falses oppinions e errors' is his own characterisation. Harshness modest: the prologue is irenic and self-deprecating.",
+    "stance": "own view"
+  }
+]

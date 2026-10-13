@@ -1,0 +1,26 @@
+[
+  {
+    "reference": "Expositio in Genesim, cap. 16 (comentario a Gén 16,12, Ismael: 'Hic erit onager homo'), Parma vol. 23",
+    "url": "https://archive.org/download/sanctithomaeaqui23thom/sanctithomaeaqui23thom_djvu.txt (leído; línea ~10512 del OCR)",
+    "gist": "Interprets Ishmael's descendants as wandering Saracens, unsettled and at war with all peoples, who attack everyone and are attacked by all.",
+    "why_excluded": "Caracterización colectiva y étnica de los sarracenos como nómadas belicosos, no una doctrina sobre el islam; además, la autenticidad de la Expositio in Genesim no se verificó (no se seleccionó como pasaje de Aquino sin esa comprobación)."
+  },
+  {
+    "reference": "Expositio in Genesim, cap. 6 (comentario a Gén 6,2, 'hijos de Dios'), Parma vol. 23",
+    "url": "https://archive.org/download/sanctithomaeaqui23thom/sanctithomaeaqui23thom_djvu.txt (leído; línea ~5553 del OCR)",
+    "gist": "Says the whole lineage of the Saracens, like the schismatics, is separated from the good Christians, and compares the prohibition of intermarriage with Saracens to the Sethite-Cainite divide.",
+    "why_excluded": "Insulto colectivo contra un pueblo (ethnic/religious group) sin argumento doctrinal, y misma dudosa autenticidad de la Expositio in Genesim; se deja fuera por la regla de exclusión y no se usa en passages.json."
+  },
+  {
+    "reference": "Expositio in Danielem (comentarios a Dan 7 y 11; 'Tertia gens Saracenorum'; 'forte seducendo Saracenos'), Parma vol. 23",
+    "url": "https://archive.org/download/sanctithomaeaqui23thom/sanctithomaeaqui23thom_djvu.txt (leído en las líneas ~29907 y ~69916 del OCR)",
+    "gist": "Lists the Saracens among the ten enemy peoples of the Church and says the Antichrist will perhaps seduce them, in an eschatological reading of Daniel's horns and kings.",
+    "why_excluded": "No es una doctrina sobre el islam sino una lista de enemigos eschatológicos en un comentario profético; la autoría del comentario tampoco se verificó. Se deja fuera para no mezclar exégesis de Daniel con la polémica sobre Mahoma."
+  },
+  {
+    "reference": "Elogium historicum de santo Tomás (editorial), citando a Egidio Romano sobre Averroes: 'Mahumetismum ... dicebat religionem porcorum', Parma vol. 1",
+    "url": "https://archive.org/download/sanctithomaeaqui01thom/sanctithomaeaqui01thom_djvu.txt (leído; línea ~1017 del OCR)",
+    "gist": "Editorial biography reports that Averroes called Mahumetism a religion of swine, because it only satisfies the senses, and that Christianity was judged by him as impossible.",
+    "why_excluded": "No es texto de Tomás de Aquino sino de la biografía editorial de Parma, que atribuye el insulto a Averroes a través de Egidio Romano; además es un insulto contra una religión. No se usa como pasaje de Aquino (se registra para evitar que se le atribuya)."
+  }
+]

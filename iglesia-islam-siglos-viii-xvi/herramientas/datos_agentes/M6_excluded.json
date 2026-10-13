@@ -1,0 +1,18 @@
+[
+  {
+    "id": "CU-EX-1",
+    "figure": "cusanus",
+    "reference": "Nicolaus Cusanus, Cribratio Alkorani, Liber III, cap. V, printed p. 917 (1565 Opera)",
+    "url": "http://diglib.hab.de/drucke/413-theol-2f/start.htm?image=01017",
+    "gist_en": "Argues that the Qur'an's God is a servant of Muhammad's sexual appetite and swears by creatures; a personal attack on Muhammad's conduct.",
+    "why_excluded": "Personal insult about Muhammad's sexual conduct (exclusion rule: personal insult). The doctrinal core (a God who swears by creatures and contradicts himself) is covered by CU-02 and the Cap. V wording itself is not reproduced in passages.json."
+  },
+  {
+    "id": "CU-EX-2",
+    "figure": "cusanus",
+    "reference": "Nicolaus Cusanus, Cribratio Alkorani, Liber III, cap. I-II, printed pp. 915-916 (1565 Opera); also in Paris 1514 print",
+    "url": "http://diglib.hab.de/drucke/413-theol-2f/start.htm?image=01015 ; http://diglib.hab.de/drucke/413-theol-2f/start.htm?image=01016",
+    "gist_en": "Says the final proof of the Qur'an is the sword: Muhammad told people to fight until they confessed God and himself; those who submitted were saved from slaughter.",
+    "why_excluded": "Borderline: it reports a Qur'anic command to fight until people testify and calls the sword the Qur'an's 'ultima resolutio'. The point is critical (S theme), but its wording is close to a call to war. Kept out of passages.json; the team may reinstate it under S with the quoted-opponent label if it accepts the S-theme's historical reading."
+  }
+]

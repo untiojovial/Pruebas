@@ -1,0 +1,50 @@
+[
+  {
+    "id": "riccoldo_contra_legem",
+    "figure": "riccoldo",
+    "title_orig": "Contra legem Sarracenorum (other early titles: Confutatio Alcorani; Improbatio Alcorani; Confutatio legis late Saracenis a maledicto Mahometo; Propugnaculum fidei)",
+    "title_es": "Contra legem Sarracenorum (refutacion de la ley de los sarracenos; Castilian version 1501-1502 titled Reprobacion del Alcoran, per Ferrero Hernandez 2021)",
+    "title_en": "Against the Law of the Saracens (Refutation of the Qur'an)",
+    "date": "c. 1300 (Ferrero Hernandez 2021 gives 1300; exact date UNVERIFIED beyond that)",
+    "language": "Latin",
+    "genre": "Polemical treatise against Islam, arranged in 17 chapters (principal errors; manner of dealing with Muslims; the law is not God's law; contradictions; no miracles; irrational; lies; violent; disorderly; unjust; author and inventor; a vision; six questions on Christ; excellence of the Gospel; Saracen replies).",
+    "edition_original": "Propugnaculum fidei Christianae... Ricoldo Florentino, Ordinis Praedicatorum, impressum denuo et illustratum opera R.P.F. Marci Antonii Serafini Veneti, Venetiis: apud Dominicum de Imbertis, 1608 (title page read as 'M.DC.VIII' in the OCR and page image; archive.org metadata says 1609; Ferrero Hernandez 2021 says 1607). This is the text I quote. Other early Latin prints: Seville 1500 'Improbatio Alcorani' (editio princeps per Ferrero 2021; NOT opened). Bartholomaeus Picenus' back-translation from Kydones' Greek: Rome 1506 (per Ferrero 2021 and Laurent 1864; not opened), and in Bibliander's Basel 1543 Qur'an volume (McGill copy opened, OCR only; the 1550 Newberry copy opened, OCR only, for cross-checking). Modern critical edition: J.-M. Merigoux, 1986, Memoires dominicaines (copyright; not opened, not quoted).",
+    "edition_english": "No public-domain English translation found. Modern translation 'Refutation of the Koran' by Londini Ensis (self-published, (c) 2010, includes a Luther preface) was seen on archive.org front matter only; NOT used (in copyright).",
+    "digital_url": "https://archive.org/details/bub_gb_lMhEuhL-bVEC (text read: https://archive.org/download/bub_gb_lMhEuhL-bVEC/bub_gb_lMhEuhL-bVEC_djvu.txt and PDF https://archive.org/download/bub_gb_lMhEuhL-bVEC/bub_gb_lMhEuhL-bVEC.pdf; pages read as page images at PDF pp. 16, 48, 49, 51, 53, 56, 64, 83)",
+    "licence": "archive.org metadata for bub_gb_lMhEuhL-bVEC: licenseurl http://creativecommons.org/publicdomain/mark/1.0/ (Public Domain Mark 1.0); the printed text is 1608.",
+    "authenticity_note": "Genuine Riccoldo text, as far as the sources read show: the 1608 editor claims to print the 'primigenio auctoris stylo' (Laurent 1864, quoting Quetif-Echard; that is a 19th-century statement, not verified against manuscripts). The Latin text itself names 'frater Ricoldus', 'Florentinus'. Attribution problems: the 1543 Basel volume calls the author 'Richardus' (Ricardus) OP; Laurent 1864 discusses the name confusion. Ferrero Hernandez 2021 counts 34 Latin manuscripts (28 catalogued by Merigoux). The 1608 Latin is NOT the same text as the Picenus back-translation printed in 1543/1550 (different wording in passages checked: e.g. the preface on Mahumetus differs), so the team must not mix the two. Chapter 1 has wording parallel to Peter the Venerable's Summa totius haeresis Saracenorum (Ferrero 2021 n.17, citing Merigoux and Kritzeck 1964; those were not opened).",
+    "notes": "Kydones' Greek translation (1360s, per Ferrero 2021) is a separate witness; Picenus' back-translation (1506, 1543) is a separate witness. Laurent 1864 also notes Quetif-Echard's view that Riccoldo may have translated the Qur'an only in part. The 1608 preface says he began to translate the Qur'an into Latin and stopped because of the lies and blasphemies he found (PDF p.49, 'Prefatio Authoris')."
+  },
+  {
+    "id": "riccoldo_liber_peregrinationis",
+    "figure": "riccoldo",
+    "title_orig": "Liber peregrinationis (Itinerarium) fratris Riculdi ordinis fratrum Praedicatorum",
+    "title_es": "Libro de la peregrinacion (Itinerario)",
+    "title_en": "Book of the Pilgrimage (Itinerary)",
+    "date": "c. 1290s (WebSearch summary says Riccoldo was in the East c. 1288-1300; not checked against the text)",
+    "language": "Latin",
+    "genre": "Travel narrative with polemical chapters on the Qur'an and Muhammad (chapters XXXII-XXXIII read here).",
+    "edition_original": "Laurent, J.C.M., Peregrinatores medii aevi quatuor (Lipsiae, 1864), Latin text of the Itinerarium, pp. 136-137 (book page numbers; the chapters 'Quod lex Sarracenorum est mendacissima' begins on p. 136). The Laurent introduction (pp. 103-104 of the same volume's Ricoldus section) cites Quetif-Echard and Poccianti.",
+    "edition_english": "No public-domain English translation found. Wright's 1848 Early Travels in Palestine (archive.org) does NOT include Riccoldo (checked the contents). Not used.",
+    "digital_url": "https://archive.org/details/peregrinatoresm00odorgoog (page image read at PDF p.148 = book p.137; PDF p.150 = book p.139 seen but not quoted)",
+    "licence": "archive.org item shows no rights field; 1864 publication (pre-1900). Licence statement UNVERIFIED; treat as public domain by date.",
+    "authenticity_note": "The Itinerarium is by Riccoldo (Laurent 1864, Quetif-Echard). The Latin text is from a 1351 copy seen by Lelong in Paris (per Laurent). Chapter headings in the Laurent text are the editor's or the MS's, not checked against the manuscript.",
+    "notes": "Read by page image; the Laurent edition has no text layer (the PDF has no OCR; I used the djvu text of the archive.org item to find the page and then read the page image to verify the quoted sentence)."
+  },
+  {
+    "id": "dante_inferno",
+    "figure": "dante",
+    "title_orig": "La Divina Commedia: Inferno, Canto XXVIII",
+    "title_es": "La Divina Comedia: Infierno, Canto XXVIII",
+    "title_en": "The Divine Comedy: Inferno, Canto XXVIII (Longfellow's translation for English)",
+    "date": "c. 1308-1321 (Inferno; dating UNVERIFIED in this session)",
+    "language": "Italian (Tuscan); English translation by Longfellow (1867, UNVERIFIED date in this session)",
+    "genre": "Epic poem (narrative, canto XXVIII of Inferno)",
+    "edition_original": "Italian Wikisource transcription, 'Divina Commedia/Inferno/Canto XXVIII' (it.wikisource.org; source edition not named on the page; the 'Informazioni sulla fonte del testo' link was not followed). Read via curl of the page (wikitext embedded in the HTML). Dartmouth Dante Project page not reached (404 via curl; not found by search).",
+    "edition_english": "Longfellow, Henry Wadsworth, The Divine Comedy (1867), Project Gutenberg eBook #1001 (Hell), text read from https://www.gutenberg.org/cache/epub/1001/pg1001.txt; Gutenberg's transcription says public domain in the US.",
+    "digital_url": "https://it.wikisource.org/wiki/Divina_Commedia/Inferno/Canto_XXVIII (read); https://www.gutenberg.org/ebooks/1001 (read, Longfellow Hell)",
+    "licence": "Italian Wikisource: CC BY-SA 3.0 transcription licence (page statement read); Dante's text is public domain. Gutenberg eBook #1001: public domain in the US (Gutenberg's statement read); Longfellow died 1882.",
+    "authenticity_note": "Authentic Dante text (no question raised). The Italian Wikisource transcription spells the name 'Mäometto' (with an umlaut) at v. 31 and v. 63; the team should check this against a critical edition before publication.",
+    "notes": "Passages D1 (vv. 28-33) and D2 (vv. 34-39) are read from these texts. No other Dante text on Muhammad was checked in full (see the figure's notes)."
+  }
+]

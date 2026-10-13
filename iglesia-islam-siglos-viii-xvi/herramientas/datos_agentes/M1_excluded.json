@@ -1,0 +1,14 @@
+[
+ {
+  "reference": "John of Damascus, De haeresibus c. 101, Migne PG 94 col. 765 (PDF p. 475 for the continuation): the 'Zayd' narrative, Mamed's wife, and the adultery claim",
+  "url": "https://archive.org/download/joannis-damasceni-opera-omnia-quae-exstant-1-pg-94/Joannis%20Damasceni%20Opera%20omnia%20quae%20exstant%201%20PG%2094.pdf (PDF p. 475)",
+  "gist_en": "Muhammad is said to have asked his companion Zayd to divorce his beautiful wife so Muhammad could take her, then making a law permitting remarriage; John calls this adultery.",
+  "why_excluded": "Personal attack on named individuals (Muhammad and Zayd) rather than a doctrinal point; it accuses Muhammad of adultery. The legal consequences are doctrinal, so the polygamy passage (jd-07) carries that content. Orchestrator may reconsider."
+ },
+ {
+  "reference": "Bede, In Canticum Canticorum (PL 91, Cedar passage; column read as ~1089 from page header, not confirmed on the image)",
+  "url": "https://archive.org/download/patrologiaecursu0091mign/patrologiaecursu0091mign.pdf (PDF text layer; OCR search)",
+  "gist_en": "Bede glosses Cedar, Ishmael's son, and says the Saracens who descended from him are today hated by all peoples, a prophecy the nation confirms.",
+  "why_excluded": "A generalising characterisation of a whole people (Saracens as hated by all) rather than a doctrinal or historical point about Islam; borderline, so listed for the orchestrator rather than selected."
+ }
+]

@@ -1,0 +1,58 @@
+{
+ "juan-damasceno": {
+  "credit": "Fresco atonita de los siglos XIV–XV, autor desconocido. Wikimedia Commons, «Athonite Fresco Icon of Saint John of Damascus.jpg», dominio público.",
+  "note": "Iconografía tradicional, no un retrato en vida. Baja resolución (390 × 450 px).",
+  "pos": "50% 20%"
+ },
+ "pedro-venerable": {
+  "credit": "«Pierre le Vénérable et ses moines», miniatura del siglo XIII (BnF). Wikimedia Commons, «Peter the Venerable.jpg», dominio público.",
+  "note": "Miniatura medieval, no un retrato en vida. Baja resolución (258 × 289 px).",
+  "pos": "15% 40%"
+ },
+ "inocencio-iii": {
+  "credit": "Fresco de mediados del siglo XIII, monasterio del Sacro Speco, Subiaco (fotografía de Carlo Raso). Wikimedia Commons, «Pope Innocent III (Monastery of Subiaco).jpg», dominio público.",
+  "note": "Fresco poco posterior a su muerte (1216), no un retrato en vida.",
+  "pos": "50% 15%"
+ },
+ "aquino": {
+  "credit": "Carlo Crivelli, «Santo Tomás de Aquino», 1476, panel del políptico de San Domenico (Ascoli Piceno). Wikimedia Commons, «St-thomas-aquinasFXD.jpg» (versión retocada digitalmente), dominio público.",
+  "note": "Pintura del siglo XV; no hay retrato de Tomás en vida.",
+  "pos": "60% 12%"
+ },
+ "riccoldo": {
+  "credit": "Miniatura de hacia 1410–1412 (Maestro de la Mazarine), BnF, Fr. 2810, f. 268: el papa Nicolás IV y el dominico Riccoldo (recorte). Wikimedia Commons, «Ricoldo de montecroce & nicolas IV.jpg», dominio público.",
+  "note": "Miniatura del siglo XV, no un retrato en vida.",
+  "pos": "50% 50%",
+  "crop": [
+   80,
+   204,
+   720,
+   1013
+  ]
+ },
+ "cusa": {
+  "credit": "Maestro de la Vida de la Virgen, pintura de hacia 1480, hospital de Kues (Alemania). Wikimedia Commons, «Nicholas of Cusa.jpg», dominio público.",
+  "note": "Pintura poco posterior a su muerte (1464).",
+  "pos": "50% 25%"
+ },
+ "pio-ii": {
+  "credit": "Pinturicchio, «Eneas Silvio Piccolomini llega a Ancona» (detalle), fresco de 1502–1507, Biblioteca Piccolomini, catedral de Siena. Wikimedia Commons, «Pintoricchio 014.jpg», dominio público.",
+  "note": "Fresco posterior a su muerte; no un retrato en vida.",
+  "pos": "50% 30%"
+ },
+ "savonarola": {
+  "credit": "Fra Bartolomeo, retrato de Savonarola, hacia 1498 (recorte). Wikimedia Commons, «Savonarola (cropped).jpg», dominio público.",
+  "note": "Retrato de la época de Savonarola.",
+  "pos": "50% 25%"
+ },
+ "vives": {
+  "credit": "Autor desconocido, retrato del siglo XVII de Juan Luis Vives. Wikimedia Commons, «LuisVives.jpg», dominio público.",
+  "note": "Retrato póstumo (siglo XVII).",
+  "pos": "50% 25%"
+ },
+ "dante": {
+  "credit": "Atribuido a Sandro Botticelli, «Retrato de Dante», hacia 1495. Wikimedia Commons, «Portrait de Dante.jpg»; obra del siglo XV, de dominio público por su antigüedad (no pude consultar su ficha de Commons).",
+  "note": "Retrato más de 170 años posterior a su muerte (1321); no es un retrato en vida.",
+  "pos": "50% 20%"
+ }
+}

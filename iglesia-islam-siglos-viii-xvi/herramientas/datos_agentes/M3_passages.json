@@ -1,0 +1,212 @@
+[
+  {
+    "id": "aquinas-scg-I-6",
+    "figure": "aquinas",
+    "work": "scg",
+    "theme": "M",
+    "harshness": 5,
+    "famous": {
+      "is_famous": true,
+      "where_cited": "Citado en el prólogo editorial de la edición Marietti 1905 (leído en archive.org): 'Quid enim Mahumetem ejusque religionem obtrudis? Hic alia via processit inquit Aquinas, eodem in libro primo eodemque capite sexto'. Otras citas en la literatura moderna: NO VERIFICADO en esta tarea (no se abrieron obras secundarias)."
+    },
+    "ref": "Summa contra Gentiles, Libro I, cap. VI ('Quod assentire his quae sunt fidei non est levitatis, quamvis supra rationem sint'); párrafo que empieza 'Hi vero, qui sectas errorum introduxerunt'",
+    "url": "https://archive.org/download/summacontragenti0000thom/summacontragenti0000thom_djvu.txt (latín, Marietti 1905, leído: 'CAPUT VI.' a 'CAPUT VII.')",
+    "orig_url": "https://archive.org/download/summacontragenti0000thom/summacontragenti0000thom_djvu.txt",
+    "quote_orig": "Hi vero, qui sectas errorum introduxerunt, processerunt via contraria, ut patet in Mahumete, qui, carnalium voluptatum promissis, ad quorum desiderium carnalis concupiscentia instigat, populos illexit. Praecepta etiam tradidit promissis conformia, voluptati carnali habenas relaxans, quibus in promptu est a carnalibus hominibus obediri. Documenta etiam veritatis non attulit, nisi quae de facili a quolibet mediocriter sapiente, naturali ingenio, cognosci possint; quin potius vera quae docuit multis fabulis et falsissimis doctrinis immiscuit. Signa etiam non adhibuit supernaturaliter facta, quibus solum divinae inspirationi conveniens testimonium adhibetur, dum operatio visibilis, quae non potest esse nisi divina, ostendit doctorem veritatis invisibiliter inspiratum; sed dixit se in armorum potentia missum; quae signa etiam latronibus et tyrannis non desunt. Ei etiam non aliqui sapientes in rebus divinis, et de divinis et humanis exercitati, a principio crediderunt, sed homines bestiales in desertis morantes, omnis doctrinae divinae prorsus ignari, per quorum multitudinem alios, armorum violentia, in suam legem coegit.",
+    "quote_en": "On the other hand those who introduced the errors of the sects proceeded in contrary fashion, as instanced by Mohammed, who enticed peoples with the promise of carnal pleasures, to the desire of which the concupiscence of the flesh instigates. He also delivered commandments in keeping with his promises, by giving the reins to carnal pleasure, wherein it is easy for carnal men to obey: and the lessons of truth which he inculcated were only such as can be easily known to any man of average wisdom by his natural powers: yea rather the truths which he taught were mingled by him with many fables and most false doctrines. Nor did he add any signs of supernatural agency, which alone are a fitting witness to divine inspiration, since a visible work that can be from God alone, proves the teacher of truth to be invisibly inspired: but he asserted that he was sent in the power of arms, a sign that is not lacking even to robbers and tyrants. Again, those who believed in him from the outset were not wise men practised in things divine and human, but beastlike men who dwelt in the wilds, utterly ignorant of all divine teaching; and it was by a multitude of such men and the force of arms that he compelled others to submit to his law.",
+    "own_translation_en": "",
+    "licence_note": "Latín: Marietti 1905 (archive.org; sin licencia declarada en los metadatos; dominio público por fecha). Inglés: English Dominican Fathers, Burns Oates & Washbourne 1923, Libro I (archive.org summacontragenti01thomuoft; dominio público por fecha, anterior a 1931). El inglés se transcribió del OCR; se eliminaron artefactos de OCR en el párrafo. Verificar contra el escaneo antes de publicar.",
+    "keys": [
+      "ut patet in Mahumete, qui, carnalium voluptatum promissis",
+      "multis fabulis et falsissimis doctrinis immiscuit",
+      "sed dixit se in armorum potentia missum",
+      "per quorum multitudinem alios, armorum violentia, in suam legem coegit"
+    ],
+    "what_it_says": "Según Aquino, Mahoma atrajo a los pueblos con promesas de placeres carnales, dio preceptos que dejan rienda suelta al placer, mezcló verdades naturales con fábulas y falsas doctrinas, no presentó signos sobrenaturales (dijo ser enviado con poder de armas) y, con una multitud de hombres ignorantes, impuso su ley por la violencia.",
+    "context": "Es el capítulo VI del Libro I de la Summa contra Gentiles, que sostiene que las verdades de fe, aunque superen la razón, no se aceptan por ligereza; el contraste con Mahoma (y con los 'errores de las sectas') se usa para mostrar que la fe cristiana se difundió por otros medios: milagros y testimonio de los profetas. La obra es apologética y no va dirigida a un destinatario concreto dentro del texto. El capítulo siguiente (VII) trata de la concordancia entre verdad de razón y verdad de fe.",
+    "limits": "(1) Polémica, no historia documentada: no cita fuentes árabes ni el Corán; la imagen de Mahoma es una generalización. (2) 'homines bestiales in desertis morantes' es un insulto colectivo contra los primeros seguidores; se incluye porque el pasaje es doctrinal/histórico, pero esa frase no está en las claves y conviene decirlo al presentarlo. (3) Variante ortográfica: 'Mahumete' en Marietti 1905 frente a 'Mahomete' en Nápoles 1846 (archive.org summacontragenti00thom, leído; el resto del párrafo coincide). (4) Latín transcrito del OCR (æ normalizada a ae; 'Praecepta' figura en el OCR como 'Preecepta'); no cotejado letra a letra con la imagen. (5) La atribución 'English Dominican Fathers' está en la portada; la atribución a Laurence Shapcote (de un resultado de búsqueda) NO está verificada. (6) La cita del prólogo de 1905 es una referencia de la propia edición, no un uso crítico verificado en la literatura moderna.",
+    "stance": "own view (Aquino, voz propia, polémica doctrinal)"
+  },
+  {
+    "id": "aquinas-parma-ps2-8",
+    "figure": "aquinas",
+    "work": "psalmi",
+    "theme": "M",
+    "harshness": 4,
+    "famous": {
+      "is_famous": false,
+      "where_cited": "No se encontró cita de este pasaje en fuentes leídas; NO VERIFICADO."
+    },
+    "ref": "Expositio super Psalmos, Psalmus II (comentario al v. 8: 'Postula a me, et dabo tibi gentes hereditatem tuam'), frase final del comentario al 'Possessionem tuam' / 'terminos terrae'",
+    "url": "https://archive.org/download/sanctithomaeaqui14thom/sanctithomaeaqui14thom_djvu.txt (Parma, Opera omnia, vol. 14; leído, líneas ~22899–23360 del OCR)",
+    "orig_url": "https://archive.org/download/sanctithomaeaqui14thom/sanctithomaeaqui14thom_djvu.txt",
+    "quote_orig": "Christus vero tamquam filius in domo sua, quae domus sumus nos. Et ideo dicit, Possessionem tuam: [Isa. 49, citación omitida] Terminos terrae; quia per totum mundum aedificata est Ecclesia. Sed postmodum per Nicolaum haereticum, et Mahumetum ad infidelitatem redierunt. Vel expectatur fundanda",
+    "quote_en": "«»",
+    "own_translation_en": "Christ, however, [is] as a son in his own house, which house we are. And therefore he says, 'Possessionem tuam' [Isa. 49, quotation omitted]: 'the ends of the earth'; because the Church has been built through the whole world. But afterwards, through the heretic Nicolaus and through Mahumet, [the nations] returned to unbelief. Or it is expected to be founded [Isa. 49, quotation omitted]. (Traducción propia; los corchetes marcan la cita de Isaías omitida y el sujeto inferido. Traducción literal del equipo.)",
+    "licence_note": "Parma (Fiaccadori, 1852–1873), dominio público; archive.org sin licencia declarada. Traducción inglesa: NO hay una traducción PD verificada; la traducción es propia.",
+    "keys": [
+      "Sed postmodum per Nicolaum haereticum, et Mahumetum ad infidelitatem redierunt"
+    ],
+    "what_it_says": "Aquino dice que, tras la difusión de la Iglesia por todo el mundo, algunos pueblos volvieron a la infidelidad por medio de un hereje (Nicolás) y de Mahoma.",
+    "context": "En el comentario al Salmo 2, al versículo que habla de dar a Cristo las naciones en herencia, Aquino recuerda que la Iglesia se extendió por todo el mundo; a continuación afirma que luego pueblos enteros regresaron a la infidelidad por obra de Nicolás y de Mahoma. Es una frase breve, sin desarrollo doctrinal.",
+    "limits": "(1) Una sola frase, sin argumento; se usa como clasificación de Mahoma (corruptor/causa de infidelidad), no como exposición de doctrina. (2) El texto es OCR; 'ei' por 'et' y 'redicrunt' por 'redierunt' se corrigieron. (3) Autenticidad: los comentarios a los Salmos se atribuyen a Aquino; no se verificó en esta tarea la discusión crítica sobre su autenticidad. (4) Traducción propia, sin versión PD. (5) Por completar la longitud mínima de cita, la cita incluye un fragmento de Hebreos 3,6 y una frase final sobre la Iglesia; las citas de Isaías (Isa. 49) se omiten con corchetes.",
+    "stance": "own view (Aquino, comentario bíblico)"
+  },
+  {
+    "id": "aquinas-parma-1cor15-lect1",
+    "figure": "aquinas",
+    "work": "in_1cor",
+    "theme": "S",
+    "harshness": 4,
+    "famous": {
+      "is_famous": false,
+      "where_cited": "No verificado como cita famosa en esta tarea."
+    },
+    "ref": "Lectura super I Epistolam ad Corinthios, cap. XV, lectio I (sobre 1 Cor 15,1–11, la aparición de Cristo a los apóstoles como prueba de la resurrección)",
+    "url": "https://archive.org/download/sanctithomaeaqui13thom/sanctithomaeaqui13thom_djvu.txt (Parma, Opera omnia, vol. 13; leído: 'CAPUT DECIMUMQUINTUM' / 'LECTIO I.' y el texto siguiente)",
+    "orig_url": "https://archive.org/download/sanctithomaeaqui13thom/sanctithomaeaqui13thom_djvu.txt",
+    "quote_orig": "Sed si objiciatur quod etiam lex Mahometi recepta est a multis; dicendum est, quod non est simile: quia ille opprimendo et vi armorum subjugavit eos; sed isti Apostoli moriendo ipsi alios ad fidem duxerunt, et faciendo signa et prodigia. Ille etiam proponebat quaedam quae ad delicias et lascivias pertinent; sed Christus et Apostoli terrenorum contemptum.",
+    "quote_en": "«»",
+    "own_translation_en": "But if it is objected that the law of Mahomet has also been received by many, it must be said that it is not similar: for he subdued them by oppression and the force of arms; but those Apostles, by dying, themselves led others to the faith, and by doing signs and wonders. He also proposed certain things that pertain to delights and wantonness; but Christ and the Apostles [taught] contempt of earthly things. (Traducción propia. El OCR no muestra un verbo tras 'sed Christus et Apostoli': posible omisión del OCR; los corchetes indican la palabra que falta.)",
+    "licence_note": "Parma (1852–1873), dominio público; archive.org sin licencia declarada. Sin traducción inglesa PD verificada (el comentario a 1 Cor de Aquino en inglés es de Larcher, 1998, no PD); traducción propia.",
+    "keys": [
+      "quia ille opprimendo et vi armorum subjugavit eos",
+      "Ille etiam proponebat quaedam quae ad delicias et lascivias pertinent"
+    ],
+    "what_it_says": "Aquino responde a la objeción de que la ley de Mahoma también fue aceptada por muchos: no es semejante, porque Mahoma los sometió por la opresión y la fuerza de las armas, mientras que los apóstoles convirtieron muriendo y con signos y prodigios; además, Mahoma propuso cosas ligadas a deleites y lascivia.",
+    "context": "En la lectura del capítulo 15 de la primera carta a los Corintios (la prueba de la resurrección por los testigos), Aquino adelanta la objeción de la difusión del islam y la contrasta con la de los apóstoles, el mismo argumento de la difusión del cristianismo por la fe y no por la violencia que aparece en SCG I.6.",
+    "limits": "(1) Sólo la frase 'vi armorum subjugavit' y el contraste de medios son de interés para el tema S; el resto es comparación retórica. (2) OCR: falta un verbo tras 'sed Christus et Apostoli' (posible omisión); no se restauró. (3) Traducción propia; no hay versión PD. (4) La obra de Aquino sobre 1 Cor es una 'lectura' (reportatio de sus clases), no un texto que él haya publicado; su autenticidad no se discute en el texto leído, pero no se verificó aquí la historia textual.",
+    "stance": "own view (Aquino, polémica en comentario bíblico)"
+  },
+  {
+    "id": "aquinas-parma-decem-praecepta-ref",
+    "figure": "aquinas",
+    "work": "decem",
+    "theme": "H",
+    "harshness": 3,
+    "famous": {
+      "is_famous": false,
+      "where_cited": "No verificado como cita famosa en esta tarea."
+    },
+    "ref": "Opusculum III, In duo praecepta caritatis et in decem legis praecepta expositio; en el argumento sobre el premio ('Quinta est ex praemii sive muneris immensitate'), antes del encabezamiento 'De secundo praecepto' (el epígrafe del primer mandamiento no se leyó en el OCR)",
+    "url": "https://archive.org/download/sanctithomaeaqui16thom/sanctithomaeaqui16thom_djvu.txt (Parma, Opera omnia, vol. 16; leído: 'OPUSCULUM III.' y el texto siguiente, líneas ~16200–16270)",
+    "orig_url": "https://archive.org/download/sanctithomaeaqui16thom/sanctithomaeaqui16thom_djvu.txt",
+    "quote_orig": "In nulla enim lege talia promittuntur praemia sicut in lege Christi. Saracenis enim promittuntur fluvii lactis et mellis, Judaeis terra promissionis; sed Christianis Angelorum gloria: Matth. 22, 30: «Erunt sicut Angeli Dei in caelo.»",
+    "quote_en": "«»",
+    "own_translation_en": "For in no other law are such rewards promised as in the law of Christ. For the Saracens are promised rivers of milk and honey, the Jews the land of promise; but Christians [are promised] the glory of the angels: Matt. 22:30, 'They shall be as the angels of God in heaven.' (Traducción propia.)",
+    "licence_note": "Parma (1852–1873), dominio público; archive.org sin licencia declarada. Sin traducción inglesa PD verificada; traducción propia.",
+    "keys": [
+      "Saracenis enim promittuntur fluvii lactis et mellis",
+      "sed Christianis Angelorum gloria"
+    ],
+    "what_it_says": "Aquino compara los premios prometidos por las leyes: a los sarracenos, ríos de leche y miel; a los judíos, la tierra prometida; a los cristianos, la gloria de los ángeles.",
+    "context": "En la exposición del primer mandamiento del Decálogo, en el argumento de que la ley cristiana exige más por la magnitud de su premio. Es una comparación de premios, no un argumento sobre la doctrina islámica en sí. El contexto inmediato de la frase (la quinta razón sobre el premio) se leyó sólo en parte.",
+    "limits": "(1) Se trata de una alusión de una frase, sin desarrollo ni fuente islámica citada; la imagen de 'ríos de leche y miel' es un tópico y no se verificó en el Corán en esta tarea. (2) Autenticidad: el opúsculo figura en la edición Parma sin discusión en el texto leído; no se verificó la crítica moderna. (3) OCR: 'lalia', 'sicui', 'Matib. 22, 50' se corrigieron a 'talia', 'sicut', 'Matth. 22, 30'. (4) Traducción propia.",
+    "stance": "own view (Aquino, comparación retórica)"
+  },
+  {
+    "id": "aquinas-declaratio-ch1",
+    "figure": "aquinas",
+    "work": "declaratio",
+    "theme": "Q",
+    "harshness": 3,
+    "famous": {
+      "is_famous": false,
+      "where_cited": "No verificado como cita famosa en esta tarea. Su título 'De rationibus fidei' aparece en la dissertatio de la edición Parma (vol. 15), que lo tiene por auténtico."
+    },
+    "ref": "Declaratio quorumdam articulorum contra Graecos, Armenos et Saracenos ad Cantorem Antiochenum (Opusculum II; 'De rationibus fidei'), cap. I",
+    "url": "https://archive.org/download/sanctithomaeaqui16thom/sanctithomaeaqui16thom_djvu.txt (Parma, Opera omnia, vol. 16; leído: 'OPUSCULUM II.', 'CAPUT I.' y el texto siguiente, líneas ~13400–13480)",
+    "orig_url": "https://archive.org/download/sanctithomaeaqui16thom/sanctithomaeaqui16thom_djvu.txt",
+    "quote_orig": "Irrident enim Saraceni, ut tu dicis, quod Christum Dei Filium dicimus, cum Deus uxorem non habeat; et reputant nos insanos, quod tres personas confitemur in Deo, etiam per hoc existimantes non tres deos profiteri. Irrident etiam quod Christum Dei Filium pro salute humani generis dicimus crucifixum; quia si Deus omnipotens potuit absque Filii sui passione genus humanum salvare, potuit sic instituere hominem ut peccare non posset.",
+    "quote_en": "«»",
+    "own_translation_en": "For the Saracens mock, as you say, that we call Christ the Son of God, since God has no wife; and they consider us mad, because we confess three persons in God, thinking by this that we profess three gods. They also mock that we say that Christ the Son of God was crucified for the salvation of the human race; for if almighty God could save the human race without the passion of his Son, he could have so constituted man that he could not sin. (Traducción propia. Aquino responde a una carta del Cantor de Antioquía, y cita sus palabras 'ut tu dicis'.)",
+    "licence_note": "Parma (1852–1873), dominio público; archive.org sin licencia declarada. Sin traducción inglesa PD; traducción propia.",
+    "keys": [
+      "Irrident enim Saraceni, ut tu dicis, quod Christum Dei Filium dicimus, cum Deus uxorem non habeat",
+      "quod tres personas confitemur in Deo",
+      "potuit sic instituere hominem ut peccare non posset"
+    ],
+    "what_it_says": "Aquino reporta que los sarracenos se burlan de la filiación divina de Cristo (porque Dios no tiene esposa), de la Trinidad (que creen tres dioses) y de la crucifixión (porque Dios podría haber salvado al género humano sin la pasión del Hijo). Este pasaje recoge las objeciones; la respuesta de Aquino se lee en el resto del capítulo, no transcrita aquí.",
+    "context": "Opúsculo dirigido a un Cantor de Antioquía (identidad desconocida, según el prólogo de Parma), que había pedido argumentos racionales y morales contra infieles. Aquino declara que se dirige a 'quienes se dicen cultores de Dios, sean sarracenos, cristianos o judíos' y que, contra quien no admite la autoridad de la Escritura, hay que usar razones morales y filosóficas, 'quas Saraceni recipiunt'.",
+    "limits": "(1) Son las objeciones del Cantor, tal como las reporta Aquino ('ut tu dicis'); no son citas de un texto islámico ni del Corán, y el Cantor no es un testigo directo de los sarracenos. (2) Autenticidad: la dissertatio de la edición Parma (vol. 15) sostiene que es obra de Aquino; la fecha c. 1264–1268 viene del encargo y no se verificó en esta tarea. (3) La edición Romana lo titula 'Declaratio' y la tradición 'De rationibus fidei'. (4) Traducción propia; no hay versión PD. (5) Sobre la frase 'Frustra enim videtur auctoritates inducere contra eos qui auctoritates non recipiunt' (misma cap. I): es el argumento sobre la autoridad frente a los sarracenos, leído pero no seleccionado como pasaje separado.",
+    "stance": "reporting (Aquino reporta las objeciones del Cantor/sarracenos y las responde) más own view en la respuesta"
+  },
+  {
+    "id": "aquinas-scg-III-27",
+    "figure": "aquinas",
+    "work": "scg",
+    "theme": "Q",
+    "harshness": 2,
+    "famous": {
+      "is_famous": false,
+      "where_cited": "No verificado como cita famosa; aparece en el índice de la edición Parma (vol. 25, 'Saraceni et Judaei fabulantur, quod praemia justorum sint voluptates carnis: ... Cg 3, c. 27, fin.')."
+    },
+    "ref": "Summa contra Gentiles, Libro III, cap. XXVII (rúbrica truncada en el OCR: 'Quod felicitas humana non consistit ...')",
+    "url": "https://archive.org/download/summacontragenti0000thom/summacontragenti0000thom_djvu.txt (latín, Marietti 1905, leído: 'CAPUT XXVII.' línea ~57829 del OCR; y la traducción inglesa: https://archive.org/download/bwb_P9-EFD-520_3/bwb_P9-EFD-520_3_djvu.txt, 'CHAPTER XXVII')",
+    "orig_url": "https://archive.org/download/summacontragenti0000thom/summacontragenti0000thom_djvu.txt",
+    "quote_orig": "Excluditur etiam error Cerinthianorum, qui in ultima felicitate post resurrectionem mille annos in regno Christi secundum carnales ventris voluptates fabulantur futuros; unde et Chiliastae, quasi Millenarii, sunt appellati; [glosa griega omitida] Excluduntur etiam Judaeorum et Saracenorum fabulae, qui retributiones justorum in praedictis voluptatibus ponunt; felicitas enim virtutis est praemium.",
+    "quote_en": "The error of the Cerinthians is also refuted: for they pretended that, in the state of final happiness, after the resurrection Christ will reign for a thousand years, and men will indulge in the carnal pleasures of the table: wherefore they are called 'Chiliastae,' or believers in the Millennium. The fables of the Jews and Mohammedans are also refuted: who pretend that the reward of the righteous consists in suchlike pleasures: for happiness is the reward of virtue.",
+    "own_translation_en": "",
+    "licence_note": "Latín: Marietti 1905 (archive.org, dominio público por fecha). Inglés: English Dominican Fathers, vol. 3, Parte I (Burns Oates & Washbourne, 1928; archive.org bwb_P9-EFD-520_3, dominio público por fecha). Transcripción desde OCR.",
+    "keys": [
+      "Excluduntur etiam Judaeorum et Saracenorum fabulae",
+      "qui retributiones justorum in praedictis voluptatibus ponunt"
+    ],
+    "what_it_says": "Aquino rechaza la fábula de judíos y sarracenos según la cual la recompensa de los justos son placeres como los de esta vida; porque la felicidad es el premio de la virtud.",
+    "context": "Dentro del Libro III (que trata de la felicidad humana), el capítulo rechaza primero que la felicidad consista en placeres corporales (contra los epicúreos y, de paso, contra los quiliastas cristianos y los 'fabulae' judías y sarracenas). La mención de los sarracenos es incidental y pertenece a la lista de errores.",
+    "limits": "(1) Breve y de paso: la mención de 'Sarracenos' se hace junto a judíos, epicúreos y quiliastas. (2) El texto latino es OCR; se eliminaron guiones de fin de línea. (3) La traducción inglesa 'Mohammedans' traduce 'Saracenorum'. (4) Las 'praedicta voluptates' se refieren a los placeres corporales del capítulo anterior, no a un texto islámico concreto. (5) La cita latina omite entre corchetes una glosa griega del OCR, ilegible; la inglesa la traduce en el mismo párrafo como 'Chiliastae'. Se cita el párrafo entero de la fábula de los judíos y sarracenos junto al error de los cerintios.",
+    "stance": "own view (Aquino, refutación de doctrinas)"
+  },
+  {
+    "id": "aquinas-scg-IV-83",
+    "figure": "aquinas",
+    "work": "scg",
+    "theme": "Q",
+    "harshness": 2,
+    "famous": {
+      "is_famous": false,
+      "where_cited": "No verificado como cita famosa en esta tarea. Aparece en el índice de la edición Parma (vol. 25, 'Lib. 4, c. 83')."
+    },
+    "ref": "Summa contra Gentiles, Libro IV, cap. LXXXIII ('Quod in resurrectione non erit usus ciborum et venereorum')",
+    "url": "https://archive.org/download/summacontragenti0000thom/summacontragenti0000thom_djvu.txt (latín, leído: 'CAPUT LXXXIII.' línea ~121460 del OCR); inglés: https://archive.org/download/summacontragenti04thomuoft/summacontragenti04thomuoft_djvu.txt",
+    "orig_url": "https://archive.org/download/summacontragenti0000thom/summacontragenti0000thom_djvu.txt",
+    "quote_orig": "Hine est quod Dominus dicit quod in resurrectione neque nubent, neque nubentur, sed erunt sicut angeli Dei (Matth. xxii, vers. 30). Per hoc autem excluditur error Judaeorum et Saracenorum, qui ponunt quod in resurrectione homines cibis et venereis utentur, sicut et nunc. Quos etiam quidam christiani heretici sunt secuti, qui, ponentes regnum Christi futurum in terris terrenum per mille annos, in ipso spatio temporis dicunt eos qui tunc resurrexerint immoderatissime carnalibus epulis vacaturos, in quibus sit cibus tantus aut potus ut non solum nullam modestiam teneant, sed modum quoque ipsius credulitatis excedant.",
+    "quote_en": "Hence, our Lord said (Matth. xxii. 30) that in the resurrection they shall neither marry, nor be married, but shall be as the angels of God in heaven. Hereby we refute the error of the Jews and Mohammedans who say that after the resurrection men will use food and sexual intercourse, even as now. They were followed by some Christian heretics, who said that Christ would reign over an earthly kingdom, that would last for a thousand years: and that for that space of time those who have risen again will give themselves to the most immoderate pleasures in eating and drinking, to such an extent as to exceed not only all moderation, but even the bounds of credibility",
+    "own_translation_en": "",
+    "licence_note": "Latín: Marietti 1905 (archive.org, dominio público por fecha). Inglés: English Dominican Fathers, vol. 4 (Burns Oates & Washbourne, 1924–1929; archive.org summacontragenti04thomuoft, dominio público por fecha). Transcripción desde OCR.",
+    "keys": [
+      "Per hoc autem excluditur error Judaeorum et Saracenorum",
+      "qui ponunt quod in resurrectione homines cibis et venereis utentur"
+    ],
+    "what_it_says": "Aquino refuta la creencia (que atribuye a judíos y sarracenos) de que tras la resurrección los hombres seguirán comiendo y teniendo relaciones sexuales como ahora; la contrapone a Mateo 22,30 (serán como los ángeles).",
+    "context": "Capítulo LXXXIII del Libro IV, sobre la vida de los resucitados: la bienaventuranza no consiste en placeres corporales. La mención de judíos y sarracenos es una refutación doctrinal de paso, junto a los milenaristas cristianos.",
+    "limits": "(1) La atribución 'Judaeorum et Saracenorum' es una caracterización polémica; no se verificó en el Corán ni en fuentes árabes en esta tarea. (2) Refutación doctrinal de baja virulencia. (3) Latín: OCR corregido en 'Hine' (de 'Hine est'), 'nubentur' (OCR 'muben- tur') y 'xxii, vers. 30' (OCR 'xxt, vers. 80'); el inglés es OCR. (4) La cita 'Mateo' va entre paréntesis en el original.",
+    "stance": "own view (Aquino, refutación doctrinal)"
+  },
+  {
+    "id": "aquinas-scg-III-97",
+    "figure": "aquinas",
+    "work": "scg",
+    "theme": "Q",
+    "harshness": 1,
+    "famous": {
+      "is_famous": false,
+      "where_cited": "No verificado como cita famosa en esta tarea."
+    },
+    "ref": "Summa contra Gentiles, Libro III, cap. XCVII ('Quomodo divinae providentiae dispositio habeat rationem')",
+    "url": "https://archive.org/download/summacontragenti0000thom/summacontragenti0000thom_djvu.txt (latín, leído: 'CAPUT XCVII.' línea ~77021 del OCR); inglés: https://archive.org/download/summacontragenti0000unse_l9e4/summacontragenti0000unse_l9e4_djvu.txt",
+    "orig_url": "https://archive.org/download/summacontragenti0000thom/summacontragenti0000thom_djvu.txt",
+    "quote_orig": "Sic igitur per praemissa duplex error excluditur: eorum scilicet qui credunt quod omnis simplicem voluntatem sequantur absque ratione, qui est error loquentium in lege Saracenorum, ut Rabbi Moyses dicit, secundum quos nulla differentia est quod ignis calefaciat et infrigidet, nisi quia Deus ita vult; excluditur etiam error eorum qui dicunt causarum ordinem ex divina providentia secundum modum necessitatis provenire.",
+    "quote_en": "Accordingly a twofold error is refuted by what we have said. First, there is the error of those who maintained that all things are the result of God's simple will without any reason. This is the error of the Moslem theologians in the law of the Mohammedans, as Rabbi Moses relates, according to whom the sole reason why fire heats rather than chills is because God so wills. Secondly, we refute the error of those who assert that the ordering of causes proceeds from divine providence by way of necessity.",
+    "own_translation_en": "",
+    "licence_note": "Latín: Marietti 1905 (archive.org, dominio público por fecha). Inglés: English Dominican Fathers, vol. 3, Parte II (Burns Oates & Washbourne, 1928; archive.org summacontragenti0000unse_l9e4, dominio público por fecha). Transcripción desde OCR.",
+    "keys": [
+      "qui est error loquentium in lege Saracenorum, ut Rabbi Moyses dicit",
+      "secundum quos nulla differentia est quod ignis calefaciat et infrigidet, nisi quia Deus ita vult"
+    ],
+    "what_it_says": "Aquino atribuye a los teólogos de la ley de los sarracenos (según la relación de Maimónides) la tesis de que todo depende de la voluntad simple de Dios, sin razón: el fuego calienta sólo porque Dios así lo quiere. Él la rechaza, junto con la necesidad causal.",
+    "context": "Capítulo sobre la razón de la providencia divina en el Libro III. La tesis del 'error de los sarracenos' se presenta como ejemplo de voluntarismo extremo; Aquino remite a Maimónides ('Rabbi Moyses') como fuente de la noticia.",
+    "limits": "(1) Atribución indirecta: Aquino depende de Maimónides ('ut Rabbi Moyses dicit'); no es una cita de un teólogo islámico concreto. (2) El doctrinal atribuido (ocasionalismo/voluntarismo) se identifica en la historiografía con teólogos asharíes; esa identificación no se verificó aquí. (3) Traducción inglesa: 'Moslem theologians' traduce 'loquentium in lege Saracenorum' y la nota 1 del original fue eliminada. (4) Es de bajo tono: no es una condena de Mahoma.",
+    "stance": "reporting (Aquino reporta la tesis de otros, citando a Maimónides, y la refuta)"
+  }
+]

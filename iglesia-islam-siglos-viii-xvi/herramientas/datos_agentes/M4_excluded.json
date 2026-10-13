@@ -1,0 +1,44 @@
+[
+  {
+    "reference": "Riccoldo, Contra legem Sarracenorum, Caput I (principal errors), Propugnaculum fidei (Venetiis 1608), p. 7 (signature A 4), PDF p. 53 of archive.org item bub_gb_lMhEuhL-bVEC",
+    "url": "https://archive.org/download/bub_gb_lMhEuhL-bVEC/bub_gb_lMhEuhL-bVEC_djvu.txt (page image PDF p. 53)",
+    "gist_en": "Riccoldo says the law commands that all who refuse it be put to death unless they pay tribute.",
+    "why_excluded": "Point is a call to kill (Qur'anic command as reported), which the exclusion rule rules out."
+  },
+  {
+    "reference": "Riccoldo, Contra legem Sarracenorum, Caput VI (contradictions), Propugnaculum fidei (1608), p. 18 (signature C 1), PDF p. 64 of archive.org item bub_gb_lMhEuhL-bVEC",
+    "url": "https://archive.org/download/bub_gb_lMhEuhL-bVEC/bub_gb_lMhEuhL-bVEC_djvu.txt (page image PDF p. 64)",
+    "gist_en": "Riccoldo says the law orders that unbelievers be killed and despoiled in many places until they believe or pay tribute.",
+    "why_excluded": "Quotes the kill-command in the Qur'an as reported; the sentence's point is a call to kill (the surrounding contradiction argument is kept in riccoldo_05 without this sentence)."
+  },
+  {
+    "reference": "Riccoldo, Contra legem Sarracenorum, Caput X (violence), Propugnaculum fidei (1608), p. 37 (signature C 3), PDF p. 83 of archive.org item bub_gb_lMhEuhL-bVEC",
+    "url": "https://archive.org/download/bub_gb_lMhEuhL-bVEC/bub_gb_lMhEuhL-bVEC_djvu.txt (page image PDF p. 83)",
+    "gist_en": "Riccoldo says the devil gave Muhammad a sword for killing, and that the book repeatedly orders 'kill, kill' against those who oppose it.",
+    "why_excluded": "The sentences quote the kill-command ('occidite, occidite') and the sword as a call to kill, which the exclusion rule rules out. The Antichrist sentence closing the same chapter is kept as riccoldo_02."
+  },
+  {
+    "reference": "Riccoldo, Contra legem Sarracenorum, Caput X (violence), Propugnaculum fidei (1608), p. 37-38 region: other sentences on the 'gladium' and the 'lex occisionis' (PDF p. 83 and following)",
+    "url": "https://archive.org/download/bub_gb_lMhEuhL-bVEC/bub_gb_lMhEuhL-bVEC_djvu.txt (page image PDF p. 83)",
+    "gist_en": "Riccoldo argues the law is a 'law of killing and death' that makes people believe what it says through fear of bodily death and killing.",
+    "why_excluded": "Coercion critique of the same chapter, but its sentences are built around the killing-commands and were not selected; the team may reconsider a shorter coercion-only sentence if it wants one (not verified in the Latin text beyond this line, 1608 p. 37)."
+  },
+  {
+    "reference": "Riccoldo, Contra legem Sarracenorum, 'Quod lex Mahometi irrationalis est' (Caput VII in the 1550 Bibliander print, Newberry copy, OCR read; the 1608 page for this passage was not located)",
+    "url": "https://archive.org/download/case_bp127_l3_1550/case_bp127_l3_1550_djvu.txt (OCR only; the 1608 pages for this chapter were not located)",
+    "gist_en": "Riccoldo recounts Muhammad's sexual conduct with his slave-woman and wives to argue that he could not have been a prophet.",
+    "why_excluded": "Personal insult against an individual (Muhammad's private life), which the exclusion rule rules out; the team can decide whether the sinlessness argument is doctrinal enough to be reconsidered."
+  },
+  {
+    "reference": "Bartholomaeus Picenus de Monte Arduo, dedicatory letter to Ferdinand of Aragon before the Latin Confutatio (in Bibliander's Basel 1543 Qur'an volume, McGill copy, OCR read)",
+    "url": "https://archive.org/download/McGillLibrary-rbsc_machumetis-saracenorum-principis_FOLIO-1379-19727/rbsc_machumetis-saracenorum-principis_FOLIO-1379_djvu.txt",
+    "gist_en": "Picenus urges King Ferdinand to continue the war, to take the whole of Africa, and then to recover Jerusalem.",
+    "why_excluded": "Not Riccoldo's text (Picenus's preface) and an explicit call to wage war, which the rule excludes."
+  },
+  {
+    "reference": "Dante, Divina Commedia, Inferno XXVIII, vv. 55-63 (Muhammad's message to Fra Dolcino)",
+    "url": "https://it.wikisource.org/wiki/Divina_Commedia/Inferno/Canto_XXVIII",
+    "gist_en": "Muhammad asks Dante to tell Fra Dolcino to arm himself with food and snow to hold off the Novarese, a call to military preparation.",
+    "why_excluded": "The point is a call to wage war, not a statement about Islam, so it is excluded under the rule and it is outside the Islam theme."
+  }
+]

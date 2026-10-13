@@ -1,0 +1,28 @@
+[
+ {
+  "id": "john-damascene",
+  "name_es": "Juan Damasceno",
+  "name_en": "John of Damascus",
+  "name_orig": "Ἰωάννης Δαμασκηνός",
+  "born": "c. 675 (per task brief; not independently checked)",
+  "died": "749 (per task brief; Wikipedia snippet gives 4 Dec 749)",
+  "language": "Greek (with Latin in Migne's facing column)",
+  "role_place": "Monk and priest at Mar Saba near Jerusalem; earlier in the Umayyad administration at Damascus (per task brief and the Vita read in PG 94).",
+  "why_relevant": "Earliest Greek Christian chapter on Islam (De haeresibus, c. 101: 'heresy of the Ishmaelites') and the Dialogue/Disputatio with a Saracen (PG 94 cols 1585-1597).",
+  "fame": "Doctor of the Church and iconodule theologian; the Ishmaelite chapter is the part of De haeresibus that most attracted scholarly attention (Pearse 2026 blog, which I read). Scholarly citation counts not checked.",
+  "catholic_status": "Doctor of the Church (per task brief; not checked against a Vatican source)"
+ },
+ {
+  "id": "bede",
+  "name_es": "Beda el Venerable",
+  "name_en": "Bede the Venerable",
+  "name_orig": "Beda Venerabilis",
+  "born": "c. 672/673 (per task brief and the Latin Library index page 'VENERABILIS BEDA PRESBYTER (672/3 - 735 A.D.)')",
+  "died": "735 (Jarrow; per task brief)",
+  "language": "Latin",
+  "role_place": "Monk and priest at Wearmouth-Jarrow, Northumbria; historian, exegete and chronographer.",
+  "why_relevant": "Brief Saracen notices in the Historia ecclesiastica (5.23, AD 729 annal), in his Genesis commentary (Ishmael, Gen 16:12) and in De temporum ratione; he gives no sustained doctrinal critique of Islam in the works I checked.",
+  "fame": "Very well known as the 'Father of English history' and for the Historia ecclesiastica; the Saracen passages are minor and rarely quoted (I found no citing literature in my searches).",
+  "catholic_status": "Doctor of the Church (per task brief; not checked against a Vatican source)"
+ }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "figure": "innocent_iii",
+    "reference": "Innocentius III, Regest. lib. XVI, bull XXVIII, Migne PL 216, cols. 818-820 (Quia maior, 1213)",
+    "url": "https://archive.org/download/patrologiaecursu0216mign/patrologiaecursu0216mign_djvu.txt",
+    "gist_en": "Calls the faithful to take the cross and fight for the Holy Land, invoking Christ's cross and promising remission of sins to crusaders and their financers.",
+    "why_excluded": "Crusade exhortation (call to war), exclusion rule."
+  },
+  {
+    "figure": "innocent_iii",
+    "reference": "Innocentius III, Regest. lib. XVI, bull XXVIII, Migne PL 216, col. 819-820 (Quia maior, 1213)",
+    "url": "https://archive.org/download/patrologiaecursu0216mign/patrologiaecursu0216mign_djvu.txt",
+    "gist_en": "Threatens excommunication and loss of goods for those who sell arms, iron and timber to the Saracens or serve their ships; cites the Lateran Council sentence.",
+    "why_excluded": "Economic war measure and sanction; not doctrinal. Refers to Fourth Lateran Council (1215) decree, text not read by me."
+  },
+  {
+    "figure": "innocent_iii",
+    "reference": "Innocentius III, Regest. lib. XVI, bull XXVIII, Migne PL 216, col. 818 (Quia maior, 1213): the Saracen seizure of Mount Tabor and the threat to Acre",
+    "url": "https://archive.org/download/patrologiaecursu0216mign/patrologiaecursu0216mign_djvu.txt",
+    "gist_en": "Narrates recent Saracen fortification on Mount Thabor and threat to Acre, used to urge a military expedition.",
+    "why_excluded": "War narrative used as call to arms; no doctrinal point about Islam."
+  },
+  {
+    "figure": "innocent_iii",
+    "reference": "Fourth Lateran Council (1215), canons on Saracens (c. 68 dress; c. 71 trade in arms/ships to Saracens) as cited in Quia maior",
+    "url": "not read",
+    "gist_en": "Canons restricting dress distinctions for Jews and Saracens and trade in arms and ships with Saracens (as described in the bull; canon texts not read by me).",
+    "why_excluded": "Not read in a public-domain text; discriminatory and war/trade measures, not doctrinal. Listed for the orchestrator to know they exist."
+  },
+  {
+    "figure": "pius_ii",
+    "reference": "Pius II, Epistola ad Mahumetem, PDF page 82 of ita-bnc-in2-00000500-001 (sentence beginning 'Audiamus eum: non sum missus inquit nisi in virtute gladii')",
+    "url": "https://archive.org/details/ita-bnc-in2-00000500-001",
+    "gist_en": "Pius quotes Muhammad as saying he was sent only with the power of the sword, and that whoever refuses his prophecy is to be killed or pay tribute for unbelief.",
+    "why_excluded": "Point concerns violence and war (sword, killing, tribute); exclusion rule. Quoting it would be a call-to-kill or war-claim passage; not put in passages.json."
+  },
+  {
+    "figure": "pius_ii",
+    "reference": "Pius II, Epistola ad Mahumetem, PDF page 70 of ita-bnc-in2-00000500-001 (sentences on ne quispiam de sua lege disputaret ... ferro vindicandum esse)",
+    "url": "https://archive.org/details/ita-bnc-in2-00000500-001",
+    "gist_en": "Pius says Muhammad forbade anyone to dispute his law and ordered that anyone opposing it be avenged with iron (sword).",
+    "why_excluded": "Point concerns forcible suppression by arms; close to a war/violence statement. Orchestrator should decide; not quoted in passages.json."
+  },
+  {
+    "figure": "pius_ii",
+    "reference": "Pius II, Epistola ad Mahumetem, PDF page 70 (sentence 'ea praecipiens quae grata essent auditoribus et maxime plebibus que iumentis similes existunt')",
+    "url": "https://archive.org/details/ita-bnc-in2-00000500-001",
+    "gist_en": "Pius says Muhammad commanded what pleased hearers, and especially the common folk, who he says are like beasts of burden.",
+    "why_excluded": "Ethnic/personal insult against people (comparison of the common people to beasts). Not quoted; the non-insulting continuation is in passages.json."
+  },
+  {
+    "figure": "pius_ii",
+    "reference": "Pius II, Cum bellum hodie (Mantua 1459) - not located",
+    "url": "not read",
+    "gist_en": "Speech urging crusade against the Turks; I did not find or read its text.",
+    "why_excluded": "War exhortation (exclusion rule); no text read, so it is listed only as not located."
+  }
+]

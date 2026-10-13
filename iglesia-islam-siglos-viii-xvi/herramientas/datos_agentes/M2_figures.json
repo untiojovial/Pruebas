@@ -1,0 +1,41 @@
+[
+ {
+  "id": "peter_venerable",
+  "name_es": "Pedro el Venerable",
+  "name_en": "Peter the Venerable",
+  "name_orig": "Petrus Venerabilis (Pierre de Montboissier)",
+  "born": "c. 1092",
+  "died": "1156",
+  "language": "Latin",
+  "role_place": "Abad de Cluny (1122-1156), Benedictino; encargó la primera traducción latina del Corán (Toledo, 1142-1143, por Roberto de Ketton).",
+  "why_relevant": "Es el autor cristiano latino más extenso sobre el Islam de su época: refutaciones completas (Summa, Liber contra sectam) y la carta a Bernardo de Claraval que acompaña la traducción.",
+  "fame": "Muy conocido en historia medieval y de las relaciones cristiano-musulmanas; sus textos sobre el Islam se citan a menudo por su trabajo de traducción. Los tratados contra el Islam son menos citados fuera de los especialistas que sus cartas y su obra sobre Cluny. (La fama es juicio mío; sólo consta por las búsquedas en las que vi la edición de Kritzeck y la reseña de Galonnier.)",
+  "catholic_status": "Benedictino; venerado como 'Venerable' pero sin canonización formal (dato de conocimiento general, NO verificado en esta tarea)."
+ },
+ {
+  "id": "alvarus_cordoba",
+  "name_es": "Álvaro de Córdoba",
+  "name_en": "Alvarus of Córdoba",
+  "name_orig": "Paulus Alvarus Cordubensis",
+  "born": "c. 800",
+  "died": "c. 861",
+  "language": "Latin",
+  "role_place": "Laico cristiano de Córdoba (al-Ándalus), amigo y corresponsal de Eulogio; autor del Indiculus luminosus (c. 854) y de epístolas.",
+  "why_relevant": "Llama al Islam (en su obra) una herejía y a Mahoma 'precursor del Anticristo'; su Indiculus es un texto polémico sobre la situación de los cristianos bajo dominio musulmán.",
+  "fame": "Menos conocido que Eulogio fuera de los especialistas en el martirologio mozárabe; citado por su Indiculus y sus cartas. Juicio de fama basado en lo leído (la Vita de Eulogio y las notas de Migne), no en búsquedas de citas.",
+  "catholic_status": "Laico (no clérigo) en la tradición mozárabe; venerado en el martirologio de Córdoba (dato de conocimiento general, NO verificado en esta tarea)."
+ },
+ {
+  "id": "eulogius_cordoba",
+  "name_es": "Eulogio de Córdoba",
+  "name_en": "Eulogius of Córdoba",
+  "name_orig": "Eulogius Cordubensis (S. Eulogius archiep. Toletanus)",
+  "born": "c. 800 (no verificado)",
+  "died": "859 (martirio)",
+  "language": "Latin",
+  "role_place": "Presbítero y después arzobispo de Toledo (así lo titula Migne, PL 115); mártir de Córdoba.",
+  "why_relevant": "Su Liber apologeticus martyrum y su Memoriale sanctorum defienden a los mártires de Córdoba y tratan a Mahoma como el falso profeta anunciado en el Evangelio (Mt 24,11).",
+  "fame": "Es el principal cronista del martirio de Córdoba; sus obras sobre el Islam son conocidas en la literatura sobre el martirio mozárabe, pero menos citadas que Pedro el Venerable. (Juicio mío: lo leído no incluye citas de otros autores.)",
+  "catholic_status": "Mártir (ejecutado en Córdoba, 11 de marzo de 859 según la tradición); venerado como santo (dato de conocimiento general; la fecha exacta no la verifiqué en el texto leído)."
+ }
+]

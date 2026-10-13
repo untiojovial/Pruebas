@@ -1,0 +1,347 @@
+[
+ {
+  "id": "peter_p01",
+  "figure": "peter_venerable",
+  "work": "peter_summula",
+  "theme": "Q",
+  "harshness": 4,
+  "famous": {
+   "is_famous": false,
+   "where": "No vi citas de esta sección en otros autores; la Summula aparece en el índice de Kritzeck 1964 (sólo vista en resultado de búsqueda). UNVERIFIED como \"famosa\"."
+  },
+  "ref": "PL 189, col. 651-652 (Summula quaedam brevis; sección \"Summa totius haeresis\")",
+  "url": "https://archive.org/stream/patrologiaecur189mign/patrologiaecur189mign_djvu.txt",
+  "quote_orig": "Summatotius haeresis, acdiabolicre fraudis sectae Saracenorum, seu Ismaelitaruna, hpec est. In primis primus, et maximusipsorum exsecrandus 6st error, quod Trinitatem in unitate deitatis negant. Sicque cium in una divinitatis essentia triiim personarum numerumnon credunt, in unitate numerum evitantes, dum ternarium numerum, inquam, omnmmformarum principium atqueflncm,sicquererum formatarum causam et originem atque terminum non recipiunt, Deum licet ore confitentes, ipsumpenitus nesciunt. Ipsiautem devii, ipsivariabiles, principium varietatis, etalteratis [alteritatisj omnis, videlicet binarium solum in unitate confitentur, scilicet ipsam divinam essentiam et ejus animam. Unde Deum phu ahter loquentem introducit suum Alcoran, quo nomine legem suam nuncupant.",
+  "orig_url": "https://archive.org/stream/patrologiaecur189mign/patrologiaecur189mign_djvu.txt",
+  "quote_en": "«»",
+  "own_translation_en": "Summary of the whole heresy and diabolical deceit of the sect of the Saracens, or Ishmaelites, is this. First and greatest of their errors, to be execrated, is that they deny the Trinity in the unity of the Godhead. Since they do not believe in a number of three persons in the one divine essence, avoiding number in unity... they confess only the binary in unity, namely the divine essence itself and its soul. Hence their Alcoran, which is the name they give their law, introduces God speaking [OCR garbled here]. [Note: the OCR of the last clause is unreliable.]",
+  "licence_note": "Migne PL 189 (reimpresión Garnier, París 1854, en archive.org); edición del siglo XIX, dominio público. La página leída (djvu.txt) no declara licencia del texto. Traducción inglesa: ninguna de dominio público localizada; la traducción es del equipo (own_translation_en) sin contrastar.",
+  "keys": [
+   "Summatotius haeresis, acdiabolicre fraudis sectae Saracenorum",
+   "quod Trinitatem in unitate deitatis negant.",
+   "suum Alcoran, quo nomine legem suam nuncupant."
+  ],
+  "what_it_says": "Peter presents the Qur'an's doctrine of God as a denial of the Trinity: the Muslims, in his reading, accept only a binary unity (essence and its \"soul\"), and he says the Qur'an's God speaks in a way that the Trinity contradicts.",
+  "context": "Opening of the Summula, a short summary (in Latin, c. 1143-1155, dating unverified) appended to the translation project; it is a summary of Islamic doctrine written for Christian readers.",
+  "limits": "OCR garbles the last clause (\"Unde Deum phu ahter loquentem\"), so the reading of the clause is uncertain. Peter's characterization of Islam as denying the Trinity is his own polemic; it is not a neutral statement of Qur'anic teaching. Migne col. references are approximate (page headers in OCR).",
+  "stance": "own view"
+ },
+ {
+  "id": "peter_p02",
+  "figure": "peter_venerable",
+  "work": "peter_ep_translatione",
+  "theme": "M",
+  "harshness": 4,
+  "famous": {
+   "is_famous": true,
+   "where": "Citada en la literatura por su papel en la traducción latina del Corán y en la edición Kritzeck 1964 (sólo vista en resultados de búsqueda). Otros autores no verificados en esta tarea."
+  },
+  "ref": "PL 189, col. 649-651 (Epistola de translatione sua, a Bernardo de Claraval)",
+  "url": "https://archive.org/stream/patrologiaecur189mign/patrologiaecur189mign_djvu.txt",
+  "quote_orig": "Sed et tolam impiam sectam vitamque nefarii hominis, ac legem,quam Alcoran, id estcoUectaneura praeceptorum, appellavit, sibiqueabangelo Gabrielede coelocoUatam miserrirais hominibus persuasit, nihilominus ex ArabicoadLatinitatem perduxi, inlerpretantibus sUicet viris utriusque linguee peritis, RobertoRetenensi de C Anglia, qui nuncPapilonensis Ecclesioe archidiaconus est, Hermano quoque Dalmata, acutissimi et litterati ingenii scholastico. Quos in Hispania circa Iberum astrologicae arti studentesinveni,eosque ad haec faciendum multopretioconduxi. Fuitautem in hoc opere intentio mea, ut morem iUum Patrum sequerer, quo nuUam unquam suorum temporum vel levissimam, utsic dicam, haeresim, silendo praeterierunt, quin ei totis fidei viribus rosisterent,et scriptisatque disputationibus esse detestandam ac dam* nabilem demonstrarent. Ilaec ego de hoc praecipuo erroreerrorum,de hac face imiversarumhaeresum, inquam, omnium diabolicarum seclarum, quaeab ipso Salvatoris adventu ortse sunt.reliquieB confluxerunt, facere volui : ut sicut ejus lethah peste diQ midius pene orbis infectus agnoscitur, ita quam exsecrandus et conculcandus detecta ejus stultitia et turpitudine a nescientibus agnoscatur, Agnoscetis ipsi legendo, et sicut arbitror, ut dignum est,deflebitis, per tam nefarias et abjectissimas sordes tantamhumanigenerispartemdeceptam,etaGonditore suoperspurcissimihominissectam,nefariam,etiam post Redemptoris gratiara, tam leviter aversam.",
+  "orig_url": "https://archive.org/stream/patrologiaecur189mign/patrologiaecur189mign_djvu.txt",
+  "quote_en": "«»",
+  "own_translation_en": "But I have also brought over from Arabic into Latin the whole impious sect and the life of that wicked man, and the law which he called Alcoran, that is \"a collection of precepts\", and which he persuaded the most wretched of men had been brought to him from heaven by the angel Gabriel. I did this with the interpreters, men skilled in both languages: Robert of Ketton, an Englishman who is now archdeacon of Pamplona, and Hermann the Dalmatian, a most sharp and learned scholar. [...] Just as, by his deadly plague, half of the world is known to be infected, so that he may be recognised as accursed and to be trampled down by those who do not know him, once his folly and foulness are exposed... so great a part of the human race has been deceived through such wicked and abject filth, and has turned away so lightly, even after the grace of the Redeemer, from its Creator by the impious sect of a most filthy man.",
+  "licence_note": "Migne PL 189 (reimpresión Garnier, París 1854, en archive.org); edición del siglo XIX, dominio público. La página leída (djvu.txt) no declara licencia del texto. Traducción inglesa: ninguna de dominio público localizada; la traducción es del equipo (own_translation_en) sin contrastar.",
+  "keys": [
+   "Sed et tolam impiam sectam vitamque nefarii hominis",
+   "ut sicut ejus lethah peste",
+   "tam leviter aversam."
+  ],
+  "what_it_says": "Peter says he had the Qur'an translated because it is the law of a \"wicked man\" that a large part of humanity has been led away by. He calls Muhammad's teaching a plague that has infected about half the world.",
+  "context": "Peter writes to Bernard of Clairvaux with the translation (made c. 1143 by Robert of Ketton, Hermann of Dalmatia and Peter of Toledo, as the letter says), asking him to read it and to write a refutation. The letter explains the purpose of the whole project.",
+  "limits": "The passage is his own polemical voice (it calls the Prophet \"the most filthy man\"), not a neutral description. The letter is addressed to a monk, not to a public audience. The mention of \"Epistola 111\" is not verifiable in the OCR. The letter names the translators; the translation itself was made by a team, and Peter's words describe the team.",
+  "stance": "own view"
+ },
+ {
+  "id": "peter_p03",
+  "figure": "peter_venerable",
+  "work": "peter_summula",
+  "theme": "M",
+  "harshness": 5,
+  "famous": {
+   "is_famous": false,
+   "where": "No vi citas en otros autores en esta tarea. UNVERIFIED como \"famoso\"."
+  },
+  "ref": "PL 189, col. 652-653 (Summula; \"Sic enim docuit eos\")",
+  "url": "https://archive.org/stream/patrologiaecur189mign/patrologiaecur189mign_djvu.txt",
+  "quote_orig": "Sic enim docuit eos miserrimus atque impiissimus Machutnel, qui omnia sacramenta Christianae pietatis, quibus maximehominessalvantur, abnegans, jam pcne tertiam humani generis partem,inescimus quo Dei judicio, inauditis fabularum dcliramentis diabolo et morti uetern;e conlradidit.",
+  "orig_url": "https://archive.org/stream/patrologiaecur189mign/patrologiaecur189mign_djvu.txt",
+  "quote_en": "«»",
+  "own_translation_en": "For thus the most wretched and most impious Muhammad taught them, who, denying all the sacraments of Christian piety by which men are chiefly saved, has now, by unknown judgment of God, surrendered almost a third of the human race to the devil and to eternal death, with unheard-of delirious fables. [...] And about him, who he was and what he taught, ... I shall say, so that those who read this book may understand better what they have read, and know how detestable his life and his teaching were.",
+  "licence_note": "Migne PL 189 (reimpresión Garnier, París 1854, en archive.org); edición del siglo XIX, dominio público. La página leída (djvu.txt) no declara licencia del texto. Traducción inglesa: ninguna de dominio público localizada; la traducción es del equipo (own_translation_en) sin contrastar.",
+  "keys": [
+   "miserrimus atque impiissimus Machutnel",
+   "diabolo et morti uetern;e conlradidit."
+  ],
+  "what_it_says": "Peter calls Muhammad the most wretched and impious man who rejected the Christian sacraments and led about a third of humanity to the devil and eternal death through invented fables.",
+  "context": "Opening of the Summula, a summary written as a companion to the Qur'an translation. Peter says the summary is for the readers of the translation, so that they may understand Muhammad.",
+  "limits": "This is a sharp polemical judgment on Muhammad's teaching and character; it is Peter's own voice. The \"third of the human race\" is his rhetorical estimate, not a statistic. The text ends the sentence before the next paragraph (not included in the quote).",
+  "stance": "own view"
+ },
+ {
+  "id": "peter_p04",
+  "figure": "peter_venerable",
+  "work": "peter_summula",
+  "theme": "Q",
+  "harshness": 4,
+  "famous": {
+   "is_famous": false,
+   "where": "No vi citas en otros autores en esta tarea. UNVERIFIED como \"famoso\"."
+  },
+  "ref": "PL 189, col. 653-655 (Summula; \"Sic ab optimis doctoribus Judaeis et haereticis Machumet instructus\")",
+  "url": "https://archive.org/stream/patrologiaecur189mign/patrologiaecur189mign_djvu.txt",
+  "quote_orig": "Sic ab optimisdoctoribus Judaeis et hsereticis Machumet inslructus, Alcoran suum condidit, et tam ex fabuUs Judaicis quam ex hsereticorum naenUs confectam nefariam Scripturam barbaro illo suo modo contexuit.",
+  "orig_url": "https://archive.org/stream/patrologiaecur189mign/patrologiaecur189mign_djvu.txt",
+  "quote_en": "«»",
+  "own_translation_en": "Thus Muhammad, instructed by the best teachers, Jews and heretics, composed his Alcoran, and in that barbarous manner of his wove together a wicked Scripture made as much from Jewish fables as from the trifles of heretics.",
+  "licence_note": "Migne PL 189 (reimpresión Garnier, París 1854, en archive.org); edición del siglo XIX, dominio público. La página leída (djvu.txt) no declara licencia del texto. Traducción inglesa: ninguna de dominio público localizada; la traducción es del equipo (own_translation_en) sin contrastar.",
+  "keys": [
+   "Alcoran suum condidit",
+   "barbaro illo suo modo contexuit."
+  ],
+  "what_it_says": "Peter says the Qur'an was assembled from Jewish fables and from heretical material, under the instruction of Jews and heretics.",
+  "context": "Continues the Summula's account of Muhammad's origin. Peter follows the medieval tradition that Muhammad was taught by a Nestorian monk (Sergius), which is part of the same paragraph.",
+  "limits": "The claim that Muhammad was instructed by Jews and heretics is a polemical medieval theory of the origin of the Qur'an, not a historical result; it is also the claim the Muslim sources would deny. Peter does not give evidence; his source for \"Sergius\" is a legend, not a document.",
+  "stance": "own view"
+ },
+ {
+  "id": "peter_p05",
+  "figure": "peter_venerable",
+  "work": "peter_liber_contra_sectam",
+  "theme": "Q",
+  "harshness": 3,
+  "famous": {
+   "is_famous": false,
+   "where": "No vi citas en otros autores en esta tarea. UNVERIFIED como \"famoso\"."
+  },
+  "ref": "PL 189, col. 686-687 (Liber primus; \"Curergo legislator vester partim has Scripturas approbat...\")",
+  "url": "https://archive.org/stream/patrologiaecur189mign/patrologiaecur189mign_djvu.txt",
+  "quote_orig": "Curergolegislator vester partim has Scripturas approbat, partim reprobat, partim suscipit, partim abjicit ? Nam, sicut dictum est, si divinae sunt, non ex parte, sed ex toto suscipiendse sunt ; si divinae non sunt, non ex parte, sed ex toto reprobandae sunt. Aut ergo suscipiat has scripturas sicut divinas, aut servet Alchoran suum, aut si divinas esse negaverit, auferat ea qu» inde assumpsit de Alchoran suo : imo justiore assumpto consilio, auferendo falsa quaedefalsisscripturis assumpserat,falsificet simul etauferateorumcauaaipsumtotumAIchoransuum.",
+  "orig_url": "https://archive.org/stream/patrologiaecur189mign/patrologiaecur189mign_djvu.txt",
+  "quote_en": "«»",
+  "own_translation_en": "Why then does your lawgiver partly approve these Scriptures, partly reject them, partly accept and partly cast them off? For, as has been said, if they are divine they must be accepted not in part but in whole; if they are not divine they must be rejected not in part but in whole. Therefore either let him accept these Scriptures as divine, or keep his Alcoran; or, if he denies that they are divine, let him remove from his Alcoran what he took from them; or rather, by a more just counsel, removing the falsehoods that he took from the false Scriptures, let him at the same time falsify and remove, for their sake, his whole Alcoran.",
+  "licence_note": "Migne PL 189 (reimpresión Garnier, París 1854, en archive.org); edición del siglo XIX, dominio público. La página leída (djvu.txt) no declara licencia del texto. Traducción inglesa: ninguna de dominio público localizada; la traducción es del equipo (own_translation_en) sin contrastar.",
+  "keys": [
+   "Curergolegislator vester partim has Scripturas approbat",
+   "partim reprobat, partim suscipit, partim abjicit",
+   "auferat ea qu"
+  ],
+  "what_it_says": "Peter argues that the Qur'an accepts parts of the Jewish and Christian Scriptures and rejects others, which he says is inconsistent: either the whole of those Scriptures is divine or none of it is.",
+  "context": "In the Liber contra sectam, a long refutation in dialogue form addressed to the Muslims. Peter argues from the Qur'an's own use of Scripture.",
+  "limits": "Peter's argument is a polemical dilemma; Muslim authors would deny that the Qur'an rejects Scripture in this way. Column and chapter numbers are approximate. The chapter headings in the OCR are not all legible.",
+  "stance": "own view"
+ },
+ {
+  "id": "peter_p06",
+  "figure": "peter_venerable",
+  "work": "peter_liber_contra_sectam",
+  "theme": "M",
+  "harshness": 3,
+  "famous": {
+   "is_famous": false,
+   "where": "No vi citas en otros autores en esta tarea. UNVERIFIED como \"famoso\"."
+  },
+  "ref": "PL 189, col. 678-679 (Liber primus; \"Verbum Dei, Spiritum Dei fatetur...\")",
+  "url": "https://archive.org/stream/patrologiaecur189mign/patrologiaecur189mign_djvu.txt",
+  "quote_orig": "Verbum Dei, Spiritum Dei fatetur, quem sine peccato vixisse, quem majorem omni homine, etiam seipso, non negat. Qui si absque peccato, juxta illum, in terris conversatus est, mendax pro certo non est; nam si notam mendaciinon cavisset, utique non parvus, sed magnus peccatorfuisset,",
+  "orig_url": "https://archive.org/stream/patrologiaecur189mign/patrologiaecur189mign_djvu.txt",
+  "quote_en": "«»",
+  "own_translation_en": "It (the Qur'an) confesses him to be the Word of God and the Spirit of God, whom it says lived without sin, whom it does not deny to be greater than every man, even than himself. He who, according to it, lived on earth without sin, certainly is not a liar; for if he had not avoided the mark of lying, he would have been not a small but a great sinner.",
+  "licence_note": "Migne PL 189 (reimpresión Garnier, París 1854, en archive.org); edición del siglo XIX, dominio público. La página leída (djvu.txt) no declara licencia del texto. Traducción inglesa: ninguna de dominio público localizada; la traducción es del equipo (own_translation_en) sin contrastar.",
+  "keys": [
+   "Verbum Dei, Spiritum Dei fatetur",
+   "mendax pro certo non est",
+   "magnus peccatorfuisset,"
+  ],
+  "what_it_says": "Peter uses the Qur'an's own statement about Jesus (Word and Spirit of God, sinless) to argue against Muhammad's claims: a sinless Christ would not have lied, so an Islamic account that depends on an opposing claim is inconsistent.",
+  "context": "Part of the Liber's argument against the Qur'an and Muhammad, in which Peter repeatedly quotes Qur'anic verses in his own Latin translation (from Robert of Ketton's version).",
+  "limits": "The exact link between the Qur'an's statement and the argument is compressed in the OCR; Peter's \"for\" argument is his own. The passage is quoted from the OCR of the Migne volume; OCR errors are possible. The Qur'an is quoted by Peter, so the sentence is partly an opponent's text as he reads it.",
+  "stance": "quoting opponent"
+ },
+ {
+  "id": "alv_p01",
+  "figure": "alvarus_cordoba",
+  "work": "alv_indiculus",
+  "theme": "M",
+  "harshness": 5,
+  "famous": {
+   "is_famous": false,
+   "where": "No vi citas de este pasaje en otros autores en esta tarea. UNVERIFIED como \"famoso\"."
+  },
+  "ref": "PL 121, Indiculus luminosus, §33 (cols. 550-556 aprox.; el OCR muestra \"33. Resurrectionem Domini...\")",
+  "url": "https://archive.org/stream/patrologiaecursu0121mign/patrologiaecursu0121mign_djvu.txt",
+  "quote_orig": "Resurreclionem Domini diem feriarum gaudiis respuit, et sextam feriam passionis Domini moestitize vel jejunio deditum, ventri et libidini dedicavit. Pacem Christus, et patientiam docuit : ille bellum et gladium innocentum cervicibus aeuendo limavit, ut de se dictum, vel de suis, esse firmaret",
+  "orig_url": "https://archive.org/stream/patrologiaecursu0121mign/patrologiaecursu0121mign_djvu.txt",
+  "quote_en": "«»",
+  "own_translation_en": "He rejects the Lord's resurrection and the day of the Lord with festive joy, and dedicates the sixth day, the day of the Lord's passion, to belly and lust, [turning it from] mourning and fasting. Christ taught peace and patience; that one sharpened war and the sword against the necks of the innocent, so that he might confirm that it was said of himself, or of his own: \"Scatter the peoples who desire war\" (Ps. 67:31). [...] Christ gave his people the gift of virginity and the good of chastity; that one defiled the minds and bodies of his followers with the fat of pleasure and the thick liquor of lust and an incestuous intercourse. Christ [taught] marriage; this one divorce. [...]",
+  "licence_note": "Migne PL (reimpresión Garnier, París, siglo XIX), en archive.org; dominio público. La página leída no declara licencia del texto. Traducción inglesa: ninguna de dominio público localizada; traducción del equipo sin contrastar.",
+  "keys": [
+   "Resurreclionem Domini diem feriarum",
+   "bellum et gladium innocentum",
+   "esse firmaret"
+  ],
+  "what_it_says": "Alvarus sets Christ's teaching (peace, patience, chastity, marriage) against the teaching of the figure he calls the Antichrist-type, whom he says taught war, indulgence, incest and divorce; the contrast is the core of his argument.",
+  "context": "Part of the Indiculus's long argument that the present enemy of Christians (Islam) is the Antichrist's figure, announced in the preceding paragraphs. The body does not name Muhammad in this section; the identification comes from the context and from the editor's note.",
+  "limits": "The text describes the enemy as \"ille\"; the name \"Mahomet\" appears in Migne's notes, not in the body text I read. The sentence about \"bellum et gladium\" is a claim about Muhammad's teaching, not a call to war; it is the opponent-side claim Alvarus makes against Islam. OCR is merged; the Psalm reference is Alvarus's own. Exclusion check: this is doctrinal and historical, not an incitement.",
+  "stance": "own view"
+ },
+ {
+  "id": "alv_p02",
+  "figure": "alvarus_cordoba",
+  "work": "alv_indiculus",
+  "theme": "M",
+  "harshness": 5,
+  "famous": {
+   "is_famous": false,
+   "where": "No vi citas en otros autores en esta tarea. UNVERIFIED como \"famoso\"."
+  },
+  "ref": "PL 121, Indiculus luminosus, paragraph before §33 (cols. 550-556 aprox.; OCR \"in hane bestiam nostris temporibus ortam\")",
+  "url": "https://archive.org/stream/patrologiaecursu0121mign/patrologiaecursu0121mign_djvu.txt",
+  "quote_orig": "in hane bestiam nostris temporibus ortam nactus sum explieare, auctoritate illa qua novi ab explanatorum regulis non aliquatenus deviare: quia nec propria temeritate usus, novas rebus intelligentias finxi, sed majores sequens illis significationibus serviens, quibus imbutus sum disciplinis. Nec in sensu eorum, nec in rerum preefigaratione discordans, Antichristi totam in hane ; imaginem trausplantavi.",
+  "orig_url": "https://archive.org/stream/patrologiaecursu0121mign/patrologiaecursu0121mign_djvu.txt",
+  "quote_en": "«»",
+  "own_translation_en": "... I have undertaken to explain in this beast born in our times, with the authority which I know does not in any way deviate from the rules of the commentators [...] and I have transplanted the whole image of Antichrist into this [...]",
+  "licence_note": "Migne PL (reimpresión Garnier, París, siglo XIX), en archive.org; dominio público. La página leída no declara licencia del texto. Traducción inglesa: ninguna de dominio público localizada; traducción del equipo sin contrastar.",
+  "keys": [
+   "in hane bestiam nostris temporibus ortam",
+   "Antichristi totam in hane"
+  ],
+  "what_it_says": "Alvarus says he applies the Antichrist's image (as described in the commentators) to the \"beast\" of his own times, that is, to the enemy of Christians.",
+  "context": "Opens the Indiculus's application of prophecy to the present; it claims the commentators' authority for the identification.",
+  "limits": "The enemy is called \"bestia\" and \"ille\"; the name Muhammad is not in the body text (editor's note only). The OCR breaks the sentence; my English translation of the OCR text is provisional. Christian commentators are cited generally.",
+  "stance": "own view"
+ },
+ {
+  "id": "alv_p03",
+  "figure": "alvarus_cordoba",
+  "work": "alv_epistola_animae",
+  "theme": "M",
+  "harshness": 4,
+  "famous": {
+   "is_famous": false,
+   "where": "No vi citas. Paralelo: Eulogio, Liber apologeticus (PL 115, cap. 16), que cita la misma historiola (ver eul_p02)."
+  },
+  "ref": "PL 121, Epistolae (letter on the origin of the soul), §9 \"Adnotatio Mammetis Arabum principis\" (cols. c. 462-464 aprox.)",
+  "url": "https://archive.org/stream/patrologiaecursu0121mign/patrologiaecursu0121mign_djvu.txt",
+  "quote_orig": "Ortus esti Mammet hareticus, Arabum .pseudo-prophetarum sigillus, Antichristi precessor, tempore imperatoris Eraclii anno septimo, currenle sera sexcenlesima quinquagesima vr. In hoe tempore Isidorus Hispalensis in nostro dogmate claruit, et Sisebutus Toleto regulae culmen obtinuit. Quem predictum nefandum prophetam tantis miraculis cum sequaces sul coruscasse narrantur, ut etiam adore sus libidinis uxorem alterius auferens, in conjugio sibimet copularit : et ut nullum prophetam fecisse legimus, in camelum, cujus intellectum gerebat, prsideret. Morte vero interveniente cum se die tertia resurrecturum polliceretur, custodientium negligentia a canibus repertus est devoratus.",
+  "orig_url": "https://archive.org/stream/patrologiaecursu0121mign/patrologiaecursu0121mign_djvu.txt",
+  "quote_en": "«»",
+  "own_translation_en": "Mammet, the heretic, arose, the seal of the pseudo-prophets of the Arabs, the forerunner of Antichrist, in the seventh year of the Emperor Heraclius, in the year 656 of the era. [...] This nefarious prophet, they say, won over peoples with such great miracles that, seizing the wife of another for his lustful desire, he joined her to himself in marriage; and [...] he was ruling for ten years; when death intervened, and he promised to rise again on the third day, he was found devoured by dogs, through the negligence of those who guarded him.",
+  "licence_note": "Migne PL (reimpresión Garnier, París, siglo XIX), en archive.org; dominio público. La página leída no declara licencia del texto. Traducción inglesa: ninguna de dominio público localizada; traducción del equipo sin contrastar.",
+  "keys": [
+   "Ortus esti Mammet hareticus",
+   "Antichristi precessor",
+   "a canibus repertus est devoratus."
+  ],
+  "what_it_says": "Alvarus sends an anonymous \"annotation\" about Muhammad: a heretic and forerunner of Antichrist whose miracles and marriage claims are described, and who died eaten by dogs.",
+  "context": "Alvarus appends this text at the end of a letter on the origin of the soul and says he sends it to his correspondent (the \"annotation\" is not written by Alvarus).",
+  "limits": "The text is anonymous (Alvarus does not claim authorship); it is a legendary historiola, not a reliable historical source; the marriage and death claims are polemical legend. Alvarus's own assessment is not in this paragraph. The text is also quoted by Eulogius, with variant wording.",
+  "stance": "quoting opponent"
+ },
+ {
+  "id": "alv_p04",
+  "figure": "alvarus_cordoba",
+  "work": "alv_indiculus",
+  "theme": "H",
+  "harshness": 3,
+  "famous": {
+   "is_famous": false,
+   "where": "No vi citas. UNVERIFIED como \"famoso\"."
+  },
+  "ref": "PL 121, Indiculus luminosus, §34 (cols. 524-527 aprox.; OCR \"34. ... Ismaelitica gente\")",
+  "url": "https://archive.org/stream/patrologiaecursu0121mign/patrologiaecursu0121mign_djvu.txt",
+  "quote_orig": "Vere calorem fidei Christiane hec Ismahelitica gens ignorat : et ministros Domini igne urente conspersos hactenus nesciebat. Facti sumus, o fidei nostre, si tamen dignatis esse, consorles, canes muti, non valentes latrare.",
+  "orig_url": "https://archive.org/stream/patrologiaecursu0121mign/patrologiaecursu0121mign_djvu.txt",
+  "quote_en": "«»",
+  "own_translation_en": "Truly this Ishmaelite people does not know the warmth of the Christian faith, and until now it has not known the ministers of the Lord, burning with fire. We have become, O (faithful) of our faith, if indeed you deign to be partners, dumb dogs, not able to bark.",
+  "licence_note": "Migne PL (reimpresión Garnier, París, siglo XIX), en archive.org; dominio público. La página leída no declara licencia del texto. Traducción inglesa: ninguna de dominio público localizada; traducción del equipo sin contrastar.",
+  "keys": [
+   "Vere calorem fidei Christiane hec Ismahelitica gens ignorat",
+   "canes muti, non valentes latrare."
+  ],
+  "what_it_says": "Alvarus says the Ishmaelite (Muslim) people does not know the warmth of Christian faith and that Christians have become silent \"dogs\" who cannot bark against the enemy.",
+  "context": "In the Indiculus's paragraph on Christian martyrs and the duty to speak; Alvarus contrasts the Ishmaelites' ignorance with the apostolic preaching (citing Arnobius, Jerome and Isaiah 56:10).",
+  "limits": "\"Ismaelitica gens\" is Alvarus's term for Muslims; the passage is more about Christian silence than about Islam's doctrine. The \"dogs\" image is self-deprecating for Christians here, not an insult against Muslims. OCR errors possible (e.g. \"Ismahelitica\").",
+  "stance": "own view"
+ },
+ {
+  "id": "eul_p01",
+  "figure": "eulogius_cordoba",
+  "work": "eul_liber_apologeticus",
+  "theme": "M",
+  "harshness": 4,
+  "famous": {
+   "is_famous": false,
+   "where": "No vi citas. UNVERIFIED como \"famoso\"."
+  },
+  "ref": "PL 115, Liber apologeticus martyrum, sección c. 12-13 (cols. 858-859 aprox.; numeración de sección aproximada en el OCR; \"Quippe quem jam vident\")",
+  "url": "https://archive.org/stream/patrologiaecur115mign/patrologiaecur115mign_djvu.txt",
+  "quote_orig": "Quippe quem jam vident sacrae legis praeconio prtedictum, ac veri magistri docentis oraculo denotatum : Multi pseudoprophetx surgent, et seducent multos Matth.xxw, tt). Nihil certe de nostra in eum exprobratione arguerent, quem tot Patrum auctoritate impugnari cernerent.",
+  "orig_url": "https://archive.org/stream/patrologiaecur115mign/patrologiaecur115mign_djvu.txt",
+  "quote_en": "«»",
+  "own_translation_en": "Because they already see him foretold by the proclamation of the sacred law, and denoted by the oracle of the true teacher: \"Many false prophets shall arise, and shall seduce many\" (Matt. 24:11). [...] Certainly they would not argue against our rebuke about him, whom they saw attacked by the authority of so many Fathers.",
+  "licence_note": "Migne PL (reimpresión Garnier, París, siglo XIX), en archive.org; dominio público. La página leída no declara licencia del texto. Traducción inglesa: ninguna de dominio público localizada; traducción del equipo sin contrastar.",
+  "keys": [
+   "Quippe quem jam vident",
+   "Multi pseudoprophetx surgent, et seducent multos",
+   "impugnari cernerent."
+  ],
+  "what_it_says": "Eulogius says that Muhammad is the false prophet foretold by Christ in Matthew 24:11, and that his critics should accept the Fathers' condemnation of him.",
+  "context": "Eulogius answers critics of the martyrs who had rebuked Muhammad: he argues that the Gospel and the Fathers already identify him as a false prophet.",
+  "limits": "The passage is part of a defence of martyrs who publicly reproached Muhammad; the author's wider apologetic (about martyrdom and insults) is not repeated here. The OCR garbles the Matthew citation (rendered \"Matth.x...\"), which I checked against Matthew 24:11 by the quotation itself.",
+  "stance": "own view"
+ },
+ {
+  "id": "eul_p02",
+  "figure": "eulogius_cordoba",
+  "work": "eul_liber_apologeticus",
+  "theme": "M",
+  "harshness": 4,
+  "famous": {
+   "is_famous": false,
+   "where": "No vi citas. Paralelo: Alvarus, Epistola (PL 121) cita la misma anotación; UNVERIFIED como \"famosa\"."
+  },
+  "ref": "PL 115, Liber apologeticus martyrum, cap. 16 (cols. 858-859 aprox.; \"Exortus est namque Mahomat\")",
+  "url": "https://archive.org/stream/patrologiaecur115mign/patrologiaecur115mign_djvu.txt",
+  "quote_orig": "Exortus est namque Mahomat (3) haercsiarches tempore Heraclii imperatoris, anno imperi! ejus septimo, currente sera nrxvi. In hoe tempore Isidorus Hispalensis episeopus in catholico dogmate claruit,",
+  "orig_url": "https://archive.org/stream/patrologiaecur115mign/patrologiaecur115mign_djvu.txt",
+  "quote_en": "«»",
+  "own_translation_en": "\"For Mahomat (3) arose as a heresiarch in the time of the Emperor Heraclius, in the seventh year of his reign, in the era 656 (?). In this time Isidore of Seville was known in the Catholic doctrine, and Sisebut reached the royal summit at Toledo...\" [The text continues with the legend of his rule and death.]",
+  "licence_note": "Migne PL (reimpresión Garnier, París, siglo XIX), en archive.org; dominio público. La página leída no declara licencia del texto. Traducción inglesa: ninguna de dominio público localizada; traducción del equipo sin contrastar.",
+  "keys": [
+   "Exortus est namque Mahomat",
+   "tempore Heraclii imperatoris"
+  ],
+  "what_it_says": "An anonymous historiola (quoted by Eulogius, who says he found it without an author's name at Leyre) presents Muhammad as a heresiarch in Heraclius's time.",
+  "context": "Eulogius quotes this text as evidence about Muhammad's origins; he says he found it in a codex at the monastery of Leyre.",
+  "limits": "Anonymous legendary text quoted by Eulogius, not Eulogius's own statement. Date and era are garbled in the OCR (the era number is unreadable: \"nrxvi\"). The text includes footnote fragments interleaved by the OCR. Not a historical source for Muhammad's biography.",
+  "stance": "quoting opponent"
+ },
+ {
+  "id": "eul_p03",
+  "figure": "eulogius_cordoba",
+  "work": "eul_liber_apologeticus",
+  "theme": "M",
+  "harshness": 5,
+  "famous": {
+   "is_famous": false,
+   "where": "No vi citas. UNVERIFIED como \"famoso\"."
+  },
+  "ref": "PL 115, Liber apologeticus martyrum, cap. 16 (cols. 859-860 aprox.; \"Quod scelus maritus ejus\")",
+  "url": "https://archive.org/stream/patrologiaecur115mign/patrologiaecur115mign_djvu.txt",
+  "quote_orig": "Quod seelus maritus ejus sentiens, exhorruit. eamque prophetae suo. cui contradicere non valebat, permisit. Ille vero qnasi ex voce Dominica .<• sua illud aunotavit, dicens : Cumque mulier llla displicuisset in oculis Zeid, et eam repudiasset, sociavimus eam prophet.e nostro in conjugiuni, quod ceeteris in exemplum, et posteris fidehbus id agere cupientibus. non sit in peecatum.",
+  "orig_url": "https://archive.org/stream/patrologiaecur115mign/patrologiaecur115mign_djvu.txt",
+  "quote_en": "«»",
+  "own_translation_en": "The husband, perceiving that crime, was horrified, and [...] she was given to his prophet, whom he could not contradict. Then [the prophet], as if from the Lord's voice, noted it, saying: \"When that woman had displeased Zeid in his eyes, and he had repudiated her, we joined her to our prophet in marriage, so that others might do likewise, and the faithful, who desire to do so, may not sin.\"",
+  "licence_note": "Migne PL (reimpresión Garnier, París, siglo XIX), en archive.org; dominio público. La página leída no declara licencia del texto. Traducción inglesa: ninguna de dominio público localizada; traducción del equipo sin contrastar.",
+  "keys": [
+   "Quod seelus maritus ejus sentiens",
+   "non sit in peecatum."
+  ],
+  "what_it_says": "Eulogius (quoting the historiola) reports the claim that Muhammad took the wife of his adopted son Zeid, justified by a revelation.",
+  "context": "Part of the historiola's account of Muhammad's private life and revelations, quoted by Eulogius as evidence against him.",
+  "limits": "This is a salacious legend in the anonymous text quoted by Eulogius; the tone is an insult to Muhammad's character. It is included only as a record of the claim (a revelation Muhammad is said to have given), and the orchestrator may prefer to exclude it. The Qur'anic reference is not identified by the text.",
+  "stance": "quoting opponent"
+ }
+]

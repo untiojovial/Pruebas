@@ -1,0 +1,262 @@
+[
+ {
+  "id": "jd-01-forerunner-antichrist",
+  "figure": "john-damascene",
+  "work": "john-de-haeresibus",
+  "theme": "M",
+  "harshness": 5,
+  "famous": {
+   "value": true,
+   "where": "Only source read that comments on its fame: Pearse 2026 blog says the Ishmaelite chapter 'has attracted most attention'. Not checked in other scholarly works."
+  },
+  "ref": "De haeresibus, c. 101 (Migne PG 94, col. 763; Greek heading 'ρα'' = 101; Kotter numbers it 100)",
+  "url": "https://archive.org/download/joannis-damasceni-opera-omnia-quae-exstant-1-pg-94/Joannis%20Damasceni%20Opera%20omnia%20quae%20exstant%201%20PG%2094.pdf (PDF p. 472, Greek column 763-764)",
+  "quote_orig": "Ἔστι δὲ καὶ ἡ μέχρι τοῦ νῦν κρατοῦσα λαοπλάνος σκεῖα τῶν Ἰσμαηλιτῶν, πρόδρομος οὖσα τοῦ Ἀντιχρίστου. Κατάγεται δὲ ἀπὸ Ἰσμαήλ, τοῦ ἐκ τῆς Ἀγὰρ τεχθέντος τῷ Ἀβραάμ· διόπερ Ἀγαρηνοὶ καὶ Ἰσμαηλῖται προσαγορεύονται.",
+  "orig_url": "https://archive.org/download/joannis-damasceni-opera-omnia-quae-exstant-1-pg-94/Joannis%20Damasceni%20Opera%20omnia%20quae%20exstant%201%20PG%2094.pdf (PDF p. 472)",
+  "quote_en": "«»",
+  "own_translation_en": "There is also the deceiving sect of the Ishmaelites, which still holds sway to the present day, being a forerunner of the Antichrist. It derives from Ishmael, who was born to Abraham from Hagar; that is why they are called Hagarenes and Ishmaelites. (Team translation, my own literal rendering.)",
+  "licence_note": "Migne PG 94 (Greek, with Lequien's Latin in facing column); scan on archive.org; PD as Migne text. Greek transcribed from the scan's text layer and checked against a 300-dpi render (PDF p.472); accents may differ slightly from Migne's print.",
+  "keys": [
+   "πρόδρομος οὖσα τοῦ Ἀντιχρίστου",
+   "λαοπλάνος σκεῖα τῶν Ἰσμαηλιτῶν"
+  ],
+  "what_it_says": "John calls the Ishmaelite sect, which still prevails, a forerunner of the Antichrist, and traces it to Ishmael, son of Abraham by Hagar.",
+  "context": "Opens the Ishmaelite chapter of De haeresibus, placed after the chapters on Christian-era and Jewish sects and before two iconoclast chapters (Pearse 2026). Migne's Latin facing column reads 'Sed et hactenus viget populorum seductrix, Ismaelitarum superstitio quae Antichristi adventum antevertit.' The chapter then gives the Saracen name, the idolatry before Heraclius, and the 'false prophet' after it.",
+  "limits": "Calls the sect, not Muhammad by name, a forerunner of Antichrist; the Antichrist claim is John's own polemic. Authenticity of the chapter disputed (see works.json). The footnote marker '(70)' in the Greek is omitted. No public-domain English exists in what I read; own translation.",
+  "stance": "own view (John's polemic)"
+ },
+ {
+  "id": "jd-02-mamed-arian-monk",
+  "figure": "john-damascene",
+  "work": "john-de-haeresibus",
+  "theme": "M",
+  "harshness": 4,
+  "famous": {
+   "value": true,
+   "where": "The Arian-monk origin is the point the Pearse 2026 post summarises first for the chapter; Pearse also quotes Sahas (1972) as treating the chapter. Scholarly citation of this specific sentence not checked."
+  },
+  "ref": "De haeresibus, c. 101 (Migne PG 94, col. 765)",
+  "url": "https://archive.org/download/joannis-damasceni-opera-omnia-quae-exstant-1-pg-94/Joannis%20Damasceni%20Opera%20omnia%20quae%20exstant%201%20PG%2094.pdf (PDF p. 473, Greek column 765)",
+  "quote_orig": "Μαμέδ ἐπονομαζόμενος, ὃς τῇ τε Παλαιᾷ καὶ Νέᾳ Διαθήκῃ περιτυχών, ὁμοίως δήθεν Ἀρειανῷ προσομιλήσας μοναχῷ, ἰδίαν συνεστήσατο αἵρεσιν. Καὶ προφάσει τὸ δοκεῖν θεοσεβείας τὸ ἔθνος εἰσποιησάμενος, ἐξ οὐρανοῦ γραφὴν κατενεχθῆναι ἐπ' αὐτὸν διαθρυλλεῖ. Τινὰ οὖν συντάγματα ἐν τῷ παρ' αὐτοῦ βιβλίῳ χαράξας γέλωτος ἄξια, τὸ σέβας αὐτοῖς παραδίδωσι.",
+  "orig_url": "https://archive.org/download/joannis-damasceni-opera-omnia-quae-exstant-1-pg-94/Joannis%20Damasceni%20Opera%20omnia%20quae%20exstant%201%20PG%2094.pdf (PDF p. 473)",
+  "quote_en": "«»",
+  "own_translation_en": "Called Mamed, who, having met with the Old and the New Testament, and having, so they say, conversed with an Arian monk, founded a heresy of his own. Under the pretext of seeming pious, he won over the people and kept proclaiming that a writing had been brought down to him from heaven. Having scratched some compositions worthy of laughter into the book that was his, he hands over the worship to them. (Team translation, my own literal rendering.)",
+  "licence_note": "Migne PG 94 (Greek, with Lequien's Latin in facing column); scan on archive.org; PD as Migne text. Greek transcribed from the scan's text layer and checked against a 300-dpi render (PDF p.473); accents may differ slightly from Migne's print.",
+  "keys": [
+   "Ἀρειανῷ προσομιλήσας μοναχῷ",
+   "ἰδίαν συνεστήσατο αἵρεσιν"
+  ],
+  "what_it_says": "John says Muhammad (here 'Mamed') learned from the Old and New Testaments and talked with an Arian monk, then founded his own sect and claimed a heavenly scripture.",
+  "context": "Continues the Ishmaelite chapter directly after the historical sketch. The Latin facing column (Lequien) renders 'Mamed nomine; qui cum in libros Veteris Novique Testamenti incidisset, habitis cum Ariano quodam monacho colloquiis, propriam sectam condidit.' This is John's account of the origin of the 'false prophet'.",
+  "limits": "Source-critical claim: the Arian-monk contact is John's own assertion ('ὁμοίως δήθεν' = 'so-called'/'supposedly'), not a verified biographical fact; it is one of the most-cited claims but it is not what John documents from Muslim sources. Greek footnote marker after 'μοναχῷ' omitted. Own translation.",
+  "stance": "own view (John's polemic; he attributes the story partly to rumour)"
+ },
+ {
+  "id": "jd-03-christ-word-mary",
+  "figure": "john-damascene",
+  "work": "john-de-haeresibus",
+  "theme": "Q",
+  "harshness": 4,
+  "famous": {
+   "value": true,
+   "where": "Pearse 2026 post reproduces the Christology paragraph of the chapter in translation as one of its main points; wider citation not checked."
+  },
+  "ref": "De haeresibus, c. 101 (Migne PG 94, col. 765)",
+  "url": "https://archive.org/download/joannis-damasceni-opera-omnia-quae-exstant-1-pg-94/Joannis%20Damasceni%20Opera%20omnia%20quae%20exstant%201%20PG%2094.pdf (PDF p. 473, Greek column 765; 300-dpi render checked)",
+  "quote_orig": "Λέγει ἕνα Θεὸν εἶναι ποιητὴν τῶν ὅλων, μήτε γεννηθέντα, μήτε γεγεννηκότα. Λέγει τὸν Χριστὸν Λόγον εἶναι τοῦ θεοῦ, καὶ πνεῦμα αὐτοῦ, κτιστὸν δὲ καὶ δοῦλον, καὶ ὅτι ἐκ Μαρίας τῆς ἀδελφῆς Μωυσέως καὶ Ἀαρὼν ἄνευ σπορᾶς ἐτέχθη. Ὁ γὰρ Λόγος, φησί, τοῦ Θεοῦ, καὶ τὸ Πνεῦμα εἰσῆλθεν εἰς τὴν Μαρίαν, καὶ ἐγέννησε τὸν Ἰησοῦν προφήτην ὄντα, καὶ δοῦλον τοῦ Θεοῦ.",
+  "orig_url": "https://archive.org/download/joannis-damasceni-opera-omnia-quae-exstant-1-pg-94/Joannis%20Damasceni%20Opera%20omnia%20quae%20exstant%201%20PG%2094.pdf (PDF p. 473)",
+  "quote_en": "«»",
+  "own_translation_en": "He says that there is one God, maker of all things, neither begotten nor begetting. He says that Christ is the Word of God and his Spirit, but created and a servant, and that he was born without seed of Mary, the sister of Moses and Aaron. For, he says, the Word of God and the Spirit entered into Mary and begot Jesus, who was a prophet and a servant of God. (Team translation, my own literal rendering.)",
+  "licence_note": "Migne PG 94 (Greek, with Lequien's Latin in facing column); scan on archive.org; PD as Migne text. Greek transcribed from the scan's text layer and checked against a 300-dpi render (PDF p.473); accents may differ slightly from Migne's print.",
+  "keys": [
+   "κτιστὸν δὲ καὶ δοῦλον",
+   "ἐκ Μαρίας τῆς ἀδελφῆς Μωυσέως"
+  ],
+  "what_it_says": "John reports that the Muslim teaching calls Christ the Word and Spirit of God but only a created servant and prophet, born of Mary, 'sister of Moses and Aaron'.",
+  "context": "Christological summary of the 'Mamed' teaching. Lequien's Latin: 'Christum autem Dei Verbum esse dicit, ejusque spiritum, sed creatum et servum, ex Maria sorore Moysis et Aaron sine semine natum.' The sentence is John's own account of what the Qur'an-based teaching says, followed in the chapter by a Christian rebuttal.",
+  "limits": "This is John's summary, not a Qur'anic quotation. The phrase 'sister of Moses and Aaron' is what John reports as part of the teaching (the Latin and Greek both say so). The Christian rebuttal in the following text is not quoted. Own translation.",
+  "stance": "reporting (John reports Muslim teaching, then rebuts it)"
+ },
+ {
+  "id": "jd-04-crucifixion-denied",
+  "figure": "john-damascene",
+  "work": "john-de-haeresibus",
+  "theme": "Q",
+  "harshness": 4,
+  "famous": {
+   "value": true,
+   "where": "The denial of the crucifixion is a standard topic in later Latin and Greek polemic; I did not check which later authors quote this sentence specifically."
+  },
+  "ref": "De haeresibus, c. 101 (Migne PG 94, col. 765)",
+  "url": "https://archive.org/download/joannis-damasceni-opera-omnia-quae-exstant-1-pg-94/Joannis%20Damasceni%20Opera%20omnia%20quae%20exstant%201%20PG%2094.pdf (PDF p. 473, Greek column 765; 300-dpi render checked)",
+  "quote_orig": "Καὶ ὅτι οἱ Ἰουδαῖοι παρανομήσαντες ἐθέλησαν αὐτὸν σταυρῶσαι, καὶ κρατήσαντες ἐσταύρωσαν τὴν σκιὰν αὐτοῦ· αὐτὸς δὲ ὁ Χριστὸς οὐκ ἐσταυρώθη, φησίν, οὔτε ἀπέθανεν· ὁ γὰρ Θεὸς ἔλαβεν αὐτὸν πρὸς ἑαυτὸν εἰς τὸν οὐρανὸν διὰ τὸ φιλεῖν αὐτόν.",
+  "orig_url": "https://archive.org/download/joannis-damasceni-opera-omnia-quae-exstant-1-pg-94/Joannis%20Damasceni%20Opera%20omnia%20quae%20exstant%201%20PG%2094.pdf (PDF p. 473)",
+  "quote_en": "«»",
+  "own_translation_en": "And that the Jews, acting lawlessly, wished to crucify him, and having seized him, they crucified his shadow; but Christ himself, he says, was neither crucified nor died; for God took him up to himself into heaven because he loved him. (Team translation, my own literal rendering.)",
+  "licence_note": "Migne PG 94 (Greek, with Lequien's Latin in facing column); scan on archive.org; PD as Migne text. Greek transcribed from the scan's text layer and checked against a 300-dpi render (PDF p.473); accents may differ slightly from Migne's print.",
+  "keys": [
+   "ἐσταύρωσαν τὴν σκιὰν αὐτοῦ",
+   "οὐκ ἐσταυρώθη"
+  ],
+  "what_it_says": "John reports the teaching that Christ was not crucified or killed: his shadow was crucified and God took him up to heaven.",
+  "context": "Immediately after the Christology summary. Lequien's Latin: 'Hunc cum Judaei per summum nefas in crucem agere voluissent, apprehendissentque, ipsius quidem umbram affixerunt cruci: Christus vero nec crucem nec mortem subiit.' The 'shadow' motif is John's report; the Qur'anic basis is not cited here.",
+  "limits": "Reporting: the sentence does not quote a Qur'anic verse; Lequien's Latin carries a marginal reference '(Sur. 4-5)' (OCR, sura numbers as printed in his note), which is his note, not John's text. The 'shadow' version is the Muslim position as John presents it. Own translation.",
+  "stance": "reporting (quoting the Muslim position as John presents it)"
+ },
+ {
+  "id": "jd-05-no-witness-no-prophecy",
+  "figure": "john-damascene",
+  "work": "john-de-haeresibus",
+  "theme": "Q",
+  "harshness": 4,
+  "famous": {
+   "value": false,
+   "where": "Not seen cited in the sources I read."
+  },
+  "ref": "De haeresibus, c. 101 (Migne PG 94, col. 765)",
+  "url": "https://archive.org/download/joannis-damasceni-opera-omnia-quae-exstant-1-pg-94/Joannis%20Damasceni%20Opera%20omnia%20quae%20exstant%201%20PG%2094.pdf (PDF p. 473, Greek column 765; text layer read, not separately rendered)",
+  "quote_orig": "Ἡμῶν δέ λεγόντων· Καὶ τίς ἐστιν ὁ μαρτυρῶν, ὅτι γραφὴν αὐτῷ δέδωκεν ὁ θεός; καὶ τίς τῶν προφητῶν προεῖπεν ὅτι τοιοῦτος ἀνίσταται προφήτης;",
+  "orig_url": "https://archive.org/download/joannis-damasceni-opera-omnia-quae-exstant-1-pg-94/Joannis%20Damasceni%20Opera%20omnia%20quae%20exstant%201%20PG%2094.pdf (PDF p. 473)",
+  "quote_en": "«»",
+  "own_translation_en": "But when we say: 'And who is the witness that God gave him a scripture? And which of the prophets foretold that such a prophet would arise?' (Team translation, my own literal rendering; the reply of the Muslims and the following Christian argument from Moses and the prophets are in the same passage.)",
+  "licence_note": "Migne PG 94 (Greek, with Lequien's Latin in facing column); scan on archive.org; PD as Migne text. Greek transcribed from the scan's text layer and checked against a 300-dpi render (PDF p.473); accents may differ slightly from Migne's print.",
+  "keys": [
+   "τίς ἐστιν ὁ μαρτυρῶν",
+   "τίς τῶν προφητῶν προεῖπεν"
+  ],
+  "what_it_says": "John's Christian interlocutors ask who witnessed that God gave the Qur'anic scripture to Muhammad, and which prophet foretold him, with the argument from Moses' public revelation at Sinai.",
+  "context": "Part of the dialogue-style argument in the chapter, which John presents as the Christian side of an exchange with Muslims. Lequien's Latin renders it 'Nos vero si sciscitemur, quo teste librum ille a Deo acceperit, quisve prophetarum ejusmodi prophetam exsurrecturum prænuntiarit'.",
+  "limits": "Apologetic argument, presented as dialogue rather than as Muslim doctrine; the Muslim replies are included in the same passage but not reproduced here. The text layer was read but this exact line was not separately rendered at 300 dpi.",
+  "stance": "own view (Christian rebuttal in John's voice)"
+ },
+ {
+  "id": "jd-06-sleep-revelation-ridicule",
+  "figure": "john-damascene",
+  "work": "john-de-haeresibus",
+  "theme": "Q",
+  "harshness": 4,
+  "famous": {
+   "value": false,
+   "where": "Not seen cited in the sources I read."
+  },
+  "ref": "De haeresibus, c. 101 (Migne PG 94, col. 768)",
+  "url": "https://archive.org/download/joannis-damasceni-opera-omnia-quae-exstant-1-pg-94/Joannis%20Damasceni%20Opera%20omnia%20quae%20exstant%201%20PG%2094.pdf (PDF p. 474, Greek column 768; text layer read, not separately rendered)",
+  "quote_orig": "Καὶ ἀποκρίνονται, ὅτι ἐν ὅσῳ κοιμᾶται, κατέβη ἡ γραφὴ ἐπάνω αὐτοῦ. Καὶ τὸ γελοιῶδες πρὸς αὐτοὺς λέγομεν ἡμεῖς· ὅτι λοιπὸν ἐπειδὴ κοιμώμενος ἐδέξατο τὴν γραφήν, καὶ οὐκ ἤσθετο τῆς ἐνεργείας, εἰς αὐτὸν ἐπληρώθη τὸ τῆς δημώδους παροιμίας",
+  "orig_url": "https://archive.org/download/joannis-damasceni-opera-omnia-quae-exstant-1-pg-94/Joannis%20Damasceni%20Opera%20omnia%20quae%20exstant%201%20PG%2094.pdf (PDF p. 474)",
+  "quote_en": "«»",
+  "own_translation_en": "And they answer that while he was sleeping the scripture came down upon him. And we say to them, laughing at it: since he received the scripture while sleeping and was not aware of the divine action, the proverb of the common people is fulfilled in him. (Team translation, my own literal rendering; the proverb in the Latin edition is 'you are spinning me dreams'.)",
+  "licence_note": "Migne PG 94 (Greek, with Lequien's Latin in facing column); scan on archive.org; PD as Migne text. Greek transcribed from the scan's text layer and checked against a 300-dpi render (PDF p.474); accents may differ slightly from Migne's print.",
+  "keys": [
+   "κοιμώμενος ἐδέξατο τὴν γραφήν",
+   "τὸ τῆς δημώδους παροιμίας"
+  ],
+  "what_it_says": "John reports that the Qur'an came to Muhammad while asleep, and mocks this as unverifiable and foolish.",
+  "context": "Continues the dialogue argument (witnesses and the 'sleep' revelation). Lequien's Latin: 'Tum nos jocosum hoc et objicimus: quandoquidem scripturam excepit dormiens ...' Lequien's notes flag the proverb's wording as variant.",
+  "limits": "Ridicule is John's own rhetoric; the 'sleep' claim is presented as the Muslim answer. The Greek proverb's wording is partly lost in the text (variant readings noted by Lequien). Text-layer reading only.",
+  "stance": "own view (ridicule in John's voice)"
+ },
+ {
+  "id": "jd-07-polygamy-law",
+  "figure": "john-damascene",
+  "work": "john-de-haeresibus",
+  "theme": "Q",
+  "harshness": 3,
+  "famous": {
+   "value": true,
+   "where": "Polygamy and divorce are the points in the chapter that the Pearse 2026 post highlights in its summary; wider citation not checked."
+  },
+  "ref": "De haeresibus, c. 101 (Migne PG 94, col. 769-770, Greek on PDF p. 475)",
+  "url": "https://archive.org/download/joannis-damasceni-opera-omnia-quae-exstant-1-pg-94/Joannis%20Damasceni%20Opera%20omnia%20quae%20exstant%201%20PG%2094.pdf (PDF p. 475; text layer read, not separately rendered)",
+  "quote_orig": "καὶ ἐν αὐτῇ τέσσαρας γυναῖκας προφανῶς λαμβάνειν νομοθετεῖ, καὶ παλλακάς, ἐάν δύνηται, χιλίας, ὅσας ἡ χεὶρ αὐτοῦ κατάσχῃ",
+  "orig_url": "https://archive.org/download/joannis-damasceni-opera-omnia-quae-exstant-1-pg-94/Joannis%20Damasceni%20Opera%20omnia%20quae%20exstant%201%20PG%2094.pdf (PDF p. 475)",
+  "quote_en": "«»",
+  "own_translation_en": "and in it he openly legislates that a man may take four wives, and concubines, if he is able, a thousand, as many as his hand may hold. (Team translation, my own literal rendering; the sentence is cut at the same word-boundary as the Greek text read, to avoid OCR-uncertain words.)",
+  "licence_note": "Migne PG 94 (Greek, with Lequien's Latin in facing column); scan on archive.org; PD as Migne text. Greek transcribed from the scan's text layer and checked against a 300-dpi render (PDF p.475); accents may differ slightly from Migne's print.",
+  "keys": [
+   "τέσσαρας γυναῖκας προφανῶς λαμβάνειν νομοθετεῖ",
+   "ἐάν δύνηται, χιλίας"
+  ],
+  "what_it_says": "John says the Qur'anic law allows four wives and, in addition, concubines, up to a thousand if one can afford them.",
+  "context": "The chapter's legal critique of the 'scripture' that Muhammad is said to have written; the same paragraph mentions an 'On Woman' book. Lequien's Latin: 'in qua propalam lege sancit quaternas uxores accipere, et concubinas, si fieri possit, mille, quoque manus ejus subditas contineat, praeter quatuor illas uxores'.",
+  "limits": "Quote is short (about 27 Greek words) because the words after 'κατάσχῃ' are OCR-uncertain (possibly 'ἐκτὸς'). Doctrinal rather than polemical. Lequien's marginal note cites 'Sur. 4' (not checked against the Qur'an). The Zayd narrative that follows in the same chapter is excluded (see excluded.json). Own translation.",
+  "stance": "reporting (John's paraphrase of Muslim law)"
+ },
+ {
+  "id": "bd-01-hist-ecc-5-23-saracen-lues",
+  "figure": "bede",
+  "work": "bede-he",
+  "theme": "S",
+  "harshness": 2,
+  "famous": {
+   "value": false,
+   "where": "UNVERIFIED: the Sellar index and Loeb-era summaries mention the Saracen raids in Gaul, but I did not find this sentence cited in scholarship."
+  },
+  "ref": "Historia ecclesiastica gentis Anglorum 5.23 (annal for AD 729)",
+  "url": "https://www.thelatinlibrary.com/bede/bede5.shtml",
+  "quote_orig": "Quo tempore grauissima Sarracenorum lues Gallias misera caede uastabat, et ipsi non multo post in eadem prouincia dignas suae perfidiae poenas luebant.",
+  "orig_url": "https://www.thelatinlibrary.com/bede/bede5.shtml",
+  "quote_en": "At which time a grievous blight fell upon Gaul, in that it was laid waste by the Saracens with cruel bloodshed; but not long after in that country they received the due reward of their unbelief.",
+  "own_translation_en": "«»",
+  "licence_note": "English: A. M. Sellar, Bede's Ecclesiastical History of England (Bell, 1907), Project Gutenberg #38326, read at https://www.gutenberg.org/cache/epub/38326/pg38326.txt (public domain in US per Gutenberg record). Latin: Latin Library text, no licence stated on page; Bede's text is PD.",
+  "keys": [
+   "grauissima Sarracenorum lues",
+   "dignas suae perfidiae poenas luebant"
+  ],
+  "what_it_says": "Bede records, in the annal for 729, that the Saracens devastated Gaul with bloodshed and were later punished for their 'perfidy' (unbelief) in that same region.",
+  "context": "A list of brief annals in book 5 chapter 23: deaths of Wictred of Kent (725), Tobias of Rochester (726), two comets (729), Egbert's death, Osric's death, Bertwald's death (731). The Gaul sentence sits between the comet report and the death of Osric. Sellar's summary also notes the devastation of Gaul by the Saracens.",
+  "limits": "Historical description of military raids, not a doctrinal statement about Islam; the 'perfidia' is Bede's providential judgement on the Saracens' unbelief, not an argument. Bede does not name Muhammad or the Qur'an here. The Latin Library page names no editor. The English is public domain (Sellar 1907), so quote_en is verbatim from that translation.",
+  "stance": "reporting with providential judgement (Bede's own view)"
+ },
+ {
+  "id": "bd-02-genesis-ishmael-saracen-nomads",
+  "figure": "bede",
+  "work": "bede-in-genesim",
+  "theme": "S",
+  "harshness": 3,
+  "famous": {
+   "value": false,
+   "where": "UNVERIFIED: not seen cited in the sources I read."
+  },
+  "ref": "In Genesim, on Gen 16:12 ('Hic erit ferus homo, manus ejus contra omnes'), Migne PL 91, col. 159 (left column of the page with header '159 | 160')",
+  "url": "https://archive.org/download/patrologiaecursu0091mign/patrologiaecursu0091mign.pdf (PDF p. 86, read at 220 dpi)",
+  "quote_orig": "Hic erit ferus homo, manus ejus contra omnes, et manus omnium contra eum, et e regione universorum fratrum suorum figet tabernacula. Significat semen ejus habitaturum in eremo, id est, Saracenos vagos, incertisque sedibus, qui universas gentes quibus desertum ex latere jungitur incursant, et expugnantur ab omnibus: sed haec antiquitus. Nunc autem in tantum manus ejus contra omnes, et manus omnium contra eum; ut Africam totam in longitudine sua ditione premant, sed et in Asiae maximam partem, et Europae nonnullam omnibus exosi et contrarii teneant.",
+  "orig_url": "https://archive.org/download/patrologiaecursu0091mign/patrologiaecursu0091mign.pdf (PDF p. 86)",
+  "quote_en": "«»",
+  "own_translation_en": "He will be a wild man, his hand against all, and the hand of all against him; and he will pitch his tents over against all his brothers. This signifies that his seed will dwell in the desert, that is, the Saracens, wandering, without fixed abode, who attack the nations bordering the desert and are themselves attacked by all. But this was so in antiquity. Now, however, his hand is so much against all, and the hand of all against him, that they hold all of Africa along its length under their rule, and most of Asia and some of Europe, hated and opposed by all. (Team translation, my own literal rendering.)",
+  "licence_note": "Migne PL 91 (1844 reprint on archive.org, no licence statement on the item); Bede's Latin PD. Read at 220 dpi from the PDF.",
+  "keys": [
+   "Saracenos vagos",
+   "Africam totam in longitudine sua ditione premant"
+  ],
+  "what_it_says": "Bede reads Gen 16:12 as a prophecy of the Saracens, Ishmael's descendants, who wander the desert, attack their neighbours, and now hold Africa, much of Asia and part of Europe.",
+  "context": "Bede's commentary on Hagar and the birth of Ishmael (Gen 16:11-12), in the Exegetica genuina. Bede explicitly identifies the Saracens with Ishmael's seed. The text's main concern is the political extent of Saracen power in his own time.",
+  "limits": "The passage is political and geographical, not doctrinal: Bede does not discuss Islamic teaching here. The Migne text has a variant ('Assyriae' for 'Asiae') in a footnote that I did not adopt; the book division of In Genesim was not checked. The 'exosi' (hated by all) phrase is a generalisation about a people; I still selected the passage because its point is historical and it names no individual. The sentence about being 'hated and opposed by all' is noted in excluded.json as a borderline item.",
+  "stance": "reporting plus Bede's exegetical reading"
+ },
+ {
+  "id": "bd-03-temporum-ratione-saracens-sicily",
+  "figure": "bede",
+  "work": "bede-de-temporum-ratione",
+  "theme": "S",
+  "harshness": 1,
+  "famous": {
+   "value": false,
+   "where": "UNVERIFIED."
+  },
+  "ref": "De temporum ratione, chronicle annal printed as '[A. M. 4 59. Chr. 688.]' (OCR; the A.M. figure is garbled); Migne PL 90, column not checked",
+  "url": "https://archive.org/download/patrologiaecursu0090mign/patrologiaecursu0090mign_djvu.txt (OCR text read)",
+  "quote_orig": "Saraceni Siciliam invadunt, et praeda nimia secum ablata mox Alexandriam redeunt.",
+  "orig_url": "https://archive.org/download/patrologiaecursu0090mign/patrologiaecursu0090mign_djvu.txt",
+  "quote_en": "«»",
+  "own_translation_en": "The Saracens invade Sicily, and, having carried off a great deal of booty, soon return to Alexandria. (Team translation, my own literal rendering; short quote, below the 25-word guide, because it is a single chronicle line.)",
+  "licence_note": "Migne PL 90 (1844 reprint on archive.org; no licence statement on item); Bede's text PD. Read from OCR text only.",
+  "keys": [
+   "Saraceni Siciliam invadunt",
+   "praeda nimia secum ablata"
+  ],
+  "what_it_says": "A chronicle entry: Saracen raiders take Sicily and then return to Alexandria with plunder.",
+  "context": "A short annal in the chronological list at the end of the De temporum ratione (the 'sixth age'). It is neutral reporting, with no comment on religion.",
+  "limits": "Single chronicle line; OCR spelling is uncertain; the year is printed as 'Chr. 688' with an OCR error in the A.M. number. It shows Bede's Saracen notices are chronicle-style, not polemical.",
+  "stance": "reporting (neutral annal)"
+ }
+]

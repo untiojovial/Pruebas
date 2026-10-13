@@ -1,0 +1,317 @@
+[
+  {
+    "id": "more_01",
+    "figure": "more",
+    "work": "more_comfort",
+    "theme": "S",
+    "harshness": 4,
+    "famous": {
+      "value": false,
+      "where": ""
+    },
+    "ref": "Book One, introductory dialogue (Vincent speaking), Dent 1913 p. 128",
+    "url": "https://archive.org/stream/utopiawiththedia00moreuoft/utopiawiththedia00moreuoft_djvu.txt",
+    "quote_orig": "Then sende hys people hither, and hys false faythe therewyth, so that suche as are here and remayn still, shall eyther both leese all and be loste too, or forced to forsake the faythe of our Sauiour Chryst, and fall to the false sect of Mahomete.",
+    "orig_url": "https://archive.org/download/utopiawiththedia00moreuoft/page/n163_w1000.jpg (page image n163 = p.128, read and matched to OCR)",
+    "quote_en": "then, sending his people hither and his false faith too, so that such as are here and still remain shall either both lose all and be lost too, or be forced to forsake the faith of our Saviour Christ and fall to the false sect of Mahomet.",
+    "own_translation_en": "",
+    "licence_note": "Dent 1913 text (public domain by date); quote_en is Monica Stevens' 1917 modernised text (Gutenberg #17075, PD in the USA per licence text).",
+    "keys": [
+      "fall to the false sect of Mahomete",
+      "forced to forsake the faythe of our Sauiour Chryst"
+    ],
+    "what_it_says": "Vincent fears that the Turks' conquest will bring their false faith, forcing Christians to renounce Christ and join Mahomet's sect.",
+    "context": "Vincent is speaking to his uncle Anthony at the start of the dialogue, about the Turkish invasion of Hungary. Anthony is about to answer with consolation; the speech is an authorial character's fear.",
+    "limits": "Speaker is a fictional nephew voicing fear, not More's own doctrinal claim. Mahomete spelling is the 16th-century print as reprinted by Dent. Verified by page image p.128.",
+    "stance": "reporting (character's fear)"
+  },
+  {
+    "id": "more_02",
+    "figure": "more",
+    "work": "more_comfort",
+    "theme": "H",
+    "harshness": 2,
+    "famous": {
+      "value": true,
+      "where": "Quoted by Bremond ('Sir Thomas More', as quoted in the Dent 1913 introduction, p. xxxvi-xxxvii, which I read); the Dent note calls it the 'quiet little parenthesis'. I did not find it cited elsewhere in the sources I opened."
+    },
+    "ref": "Book One, introductory dialogue (Vincent speaking), Dent 1913 p. 128",
+    "url": "https://archive.org/stream/utopiawiththedia00moreuoft/utopiawiththedia00moreuoft_djvu.txt",
+    "quote_orig": "and then (for there is no borne Turke so cruell to christen folke, as is ye false christen that falleth from the fayth) we shall stand in peril (if we perseuer in ye trueth) to be more hardelye handeled, and dye more cruell death by our own countrey men at home, then if we wer taken hence and caried into Turkye.",
+    "orig_url": "https://archive.org/download/utopiawiththedia00moreuoft/page/n163_w1000.jpg (p.128, verified)",
+    "quote_en": "And then--for there is no born Turk so cruel to Christian folk as is the false Christian that falleth from the faith--we shall stand in peril, if we persevere in the truth, to be more hardly handled and die a more cruel death by our own countrymen at home than if we were taken hence and carried into Turkey.",
+    "own_translation_en": "",
+    "licence_note": "Dent 1913 (PD by date); quote_en from Stevens 1917 modernisation (Gutenberg #17075).",
+    "keys": [
+      "there is no borne Turke so cruell to christen folke",
+      "that falleth from the fayth"
+    ],
+    "what_it_says": "A Christian who apostatises is worse than any Turk: forced into Turkey, a faithful Christian would fare better than at the hands of compatriots who had apostatised.",
+    "context": "In the same speech Vincent imagines the Turk's invasion and worries that Hungarian Christians will fall to Mahomet's sect. The line is a jibe at apostate Christians, not a doctrinal account of Islam.",
+    "limits": "Not a doctrinal condemnation of Islam: its point is about apostate Christians. It is famous mainly as a quoted line (Bremond). Included because it is the most cited More remark on the Turk.",
+    "stance": "reporting (character's speech; authorial voice)"
+  },
+  {
+    "id": "more_03",
+    "figure": "more",
+    "work": "more_comfort",
+    "theme": "S",
+    "harshness": 3,
+    "famous": {
+      "value": false,
+      "where": ""
+    },
+    "ref": "Book Three, introductory dialogue (Anthony speaking), Dent 1913 p. 262",
+    "url": "https://archive.org/stream/utopiawiththedia00moreuoft/utopiawiththedia00moreuoft_djvu.txt",
+    "quote_orig": "He maketh a solemne othe among the ceremonyes, of that feast, in whiche hee fyrste taketh vppon hym his authoritie, that he shall in all that he possible may, minyshe the fayth of Christe, and dilate the faith of Mahomet. But yet hath he not vsed to force euery whole coutrey at once to forsake theyr faith.",
+    "orig_url": "https://archive.org/stream/utopiawiththedia00moreuoft/utopiawiththedia00moreuoft_djvu.txt (OCR; page p.262 not image-checked)",
+    "quote_en": "He maketh a solemn oath, among the ceremonies of that feast in which he first taketh upon him his authority, that he will diminish the faith of Christ, in all that he possibly can, and dilate the faith of Mahomet. But yet hath he not used to force every whole country at once to forsake their faith.",
+    "own_translation_en": "",
+    "licence_note": "Dent 1913 (PD by date); quote_en from Stevens 1917 (Gutenberg #17075).",
+    "keys": [
+      "dilate the faith of Mahomet",
+      "minyshe the fayth of Christe"
+    ],
+    "what_it_says": "On his accession the Turk swears to diminish Christian faith and spread Mahomet's, though he does not always force whole countries at once to apostatise.",
+    "context": "Anthony answers Vincent, who had said that the Turk does not force men to forsake their faith. Anthony describes the Turk's methods: tribute, enslavement and forced change of country.",
+    "limits": "The 'solemne othe' is an authorial statement of the character Anthony, describing how the Turk is said to behave; the claim is polemical. Dent text read as OCR and matched to the Gutenberg text; p.262 page image not checked.",
+    "stance": "own view (Anthony, More's mouthpiece)"
+  },
+  {
+    "id": "more_04",
+    "figure": "more",
+    "work": "more_comfort",
+    "theme": "S",
+    "harshness": 4,
+    "famous": {
+      "value": false,
+      "where": ""
+    },
+    "ref": "Book Three, introductory dialogue (Anthony speaking), Dent 1913 p. 263",
+    "url": "https://archive.org/stream/utopiawiththedia00moreuoft/utopiawiththedia00moreuoft_djvu.txt",
+    "quote_orig": "For beeside manye other contumelies and dispightes, that the Turkes and the false renegate christiens manye tymes dooe, too good christen people that still perseuer and abide by the faith, thei finde the meane sometyme to make some false shrewes saye, that they heard such a christen man speake obprobrious woordes agaynste Mahomet. And vpon that pcynt falsely testified, wil they take occasion to compell hym forsake the fayth of Christe, and turne to the profession of their shameful supersticious sect: or elles wil they put him vnto death, with cruel intolerable tormentes.",
+    "orig_url": "https://archive.org/stream/utopiawiththedia00moreuoft/utopiawiththedia00moreuoft_djvu.txt (OCR; p.263 not image-checked; 'pcynt' is the printed contraction for 'point')",
+    "quote_en": "For, besides many other contumelies and despites that the Turks and the false renegade Christians many times do to good Christian people who still persevere and abide by the faith, they find the means sometimes to make some false knaves say that they heard such-and-such a Christian man speak opprobrious words against Mahomet. And upon that point, falsely testified, they will take occasion to compel him to forsake the faith of Christ and turn to the profession of their shameful superstitious sect, or else will they put him to death with cruel intolerable torments.",
+    "own_translation_en": "",
+    "licence_note": "Dent 1913 (PD by date); quote_en from Stevens 1917 (Gutenberg #17075).",
+    "keys": [
+      "speake obprobrious woordes agaynste Mahomet",
+      "compell hym forsake the fayth of Christe",
+      "shameful supersticious sect"
+    ],
+    "what_it_says": "Under Turkish or renegade rule, Christians who are said to have spoken against Mahomet are compelled to renounce Christ or are put to death.",
+    "context": "Anthony describes how persecution would work for Hungarian Christians, through false witnesses; Vincent then responds with fear of a 'storm'.",
+    "limits": "The account is a polemical description of Turkish persecution, not doctrine; the 'shameful superstitious sect' is More's own judgement by the character Anthony. Read as OCR; not image-checked.",
+    "stance": "own view (Anthony)"
+  },
+  {
+    "id": "more_05",
+    "figure": "more",
+    "work": "more_comfort",
+    "theme": "H",
+    "harshness": 4,
+    "famous": {
+      "value": false,
+      "where": ""
+    },
+    "ref": "Book Three, introductory dialogue (Anthony speaking), Dent 1913 p. 265",
+    "url": "https://archive.org/stream/utopiawiththedia00moreuoft/utopiawiththedia00moreuoft_djvu.txt",
+    "quote_orig": "So yt I saye for myne owne mynde, I lyttle doubte, but thys vngracious secte of Mahomette, shall haue a fowle fall and christendome springe and sprede, floure and encrease againe. Howebeit ye pleasure and the comforte shall thei see, that shalbe borne after that we be buryed, I feare me bothe twayne.",
+    "orig_url": "https://archive.org/stream/utopiawiththedia00moreuoft/utopiawiththedia00moreuoft_djvu.txt (OCR; p.265 not image-checked)",
+    "quote_en": "So I say that for mine own mind I have little doubt that this ungracious sect of Mahomet shall have a foul fall, and Christendom spring and spread, flower and increase again. Howbeit, the pleasure and comfort shall they see who shall be born after we are buried, I fear me, both twain.",
+    "own_translation_en": "",
+    "licence_note": "Dent 1913 (PD by date); quote_en from Stevens 1917 (Gutenberg #17075).",
+    "keys": [
+      "this vngracious secte of Mahomette",
+      "shall haue a fowle fall"
+    ],
+    "what_it_says": "Anthony expects Mahomet's 'ungracious sect' to suffer a foul fall and Christendom to revive, though he fears those who come after will see less comfort.",
+    "context": "Anthony responds to Vincent's report that some Hungarians speak favourably of the Turk's sect; he reads it as a sign of coming calamity.",
+    "limits": "Polemical characterisation by a fictional speaker; no doctrinal argument about Islam is given here. Read as OCR; not image-checked.",
+    "stance": "own view (Anthony)"
+  },
+  {
+    "id": "more_06",
+    "figure": "more",
+    "work": "more_comfort",
+    "theme": "M",
+    "harshness": 4,
+    "famous": {
+      "value": false,
+      "where": ""
+    },
+    "ref": "Book Three, ch. XIV (Vincent speaking in the role of a rich Hungarian lord), Dent 1913 p. 292",
+    "url": "https://archive.org/stream/utopiawiththedia00moreuoft/utopiawiththedia00moreuoft_djvu.txt",
+    "quote_orig": "Yea I maye saye to you, I haue a mocion secretelye made me farther, to keepe al thys yet better cheape, that is to witte, not bee compelled vtterly to forsake Christe, nor al the whole Christen faith, but onely some suche partes thereof as may not stande wyth Mahomettes lawe, and onelye grauntynge Mahomete for a true Prophet, and seruing the Turke truelye in hys warres agaynste all Christen kinges, I shall not be letted to prayse Christ also, and to cal hym a good man, and worship him and serue hym to.",
+    "orig_url": "https://archive.org/stream/utopiawiththedia00moreuoft/utopiawiththedia00moreuoft_djvu.txt (OCR; p.292 not image-checked; the 1557 Workes OCR also has 'stande wyth Mahomettes lawe')",
+    "quote_en": "Yea, I may say to you, I have a motion secretly made me further, to keep all this yet better cheap; that is, not to be compelled utterly to forsake Christ nor all the whole Christian faith, but only some such parts of it as may not stand with Mahomet's law. And only granting Mahomet for a true prophet and serving the Turk truly in his wars against all Christian kings, I shall not be hindered to praise Christ also, and to call him a good man, and worship and serve him too.",
+    "own_translation_en": "",
+    "licence_note": "Dent 1913 (PD by date); quote_en from Stevens 1917 (Gutenberg #17075).",
+    "keys": [
+      "onelye grauntynge Mahomete for a true Prophet",
+      "Mahomettes lawe"
+    ],
+    "what_it_says": "A hypothetical lord imagines keeping his wealth by accepting Mahomet as a true prophet and serving the Turk, while still praising Christ; Anthony rejects this as serving two masters.",
+    "context": "Anthony asks Vincent to 'play the part' of a great man who has much to lose. The speech is that hypothetical lord's compromise; Anthony then refutes it, citing Christ's words that no man can serve two lords.",
+    "limits": "The speech is a fictional apostate's offer, voiced in the character of a lord and rebutted in the same chapter; it is not More's own view of Islam. Read as OCR; not image-checked.",
+    "stance": "quoting opponent / hypothetical (refuted in the same chapter)"
+  },
+  {
+    "id": "vives_01",
+    "figure": "vives",
+    "work": "vives_veritate",
+    "theme": "M",
+    "harshness": 4,
+    "famous": {
+      "value": false,
+      "where": "Not found cited in the sources I opened (UNVERIFIED)."
+    },
+    "ref": "De veritate fidei christianae, Liber IV, cap. 'De Mahumete', Basel 1544, p. 574",
+    "url": "https://archive.org/stream/bim_early-english-books-1641-1700_joannes-lodus-viciv_1544/bim_early-english-books-1641-1700_joannes-lodus-viciv_1544_djvu.txt",
+    "quote_orig": "Excutiamus primum dignitatem legislatoris, inde enim prima authoritas legibus: ut facile intelligatur, missus sit a Deo institutor, magisterq; vitae mortalium, an a se ipso potentiae atq; imperij auidus affectator. Prima aetate Mahumetes fuit pauper, & exercuit latrocinia. tum nactus opulentas nuptias, militauit sub Heraclio Imperatore, inter populares suos Arabes. in ea militia occasionem principatus ac potentiae inuenit. Nam quum Arabes irati Heraclio, discessionem ab eo fecissent, hic se ordinibus iratorum militum admiscuit, eorumq; animos aduersus imperatorem exacuit, & in defectione confirmauit.",
+    "orig_url": "https://archive.org/download/bim_early-english-books-1641-1700_joannes-lodus-viciv_1544/page/n637_w1000.jpg (page image read; p.574)",
+    "quote_en": "«»",
+    "own_translation_en": "Let us first examine the dignity of the lawgiver, since from it comes the first authority of laws; so that it may easily be understood whether he was sent by God as teacher of mortal life, or was a self-seeking lover of power and rule. In his early life Mahumetes was poor and practised robbery. Then, having won a rich marriage, he served under the emperor Heraclius among his fellow Arabs. In that military service he found his opportunity for leadership and power. For when the Arabs, angry at Heraclius, had broken away from him, he mixed himself into the ranks of the angry soldiers, stirred their minds against the emperor and confirmed them in revolt.",
+    "licence_note": "Sixteenth-century Basel print (public domain by date); archive.org scan licence not checked.",
+    "keys": [
+      "Prima aetate Mahumetes fuit pauper, & exercuit latrocinia",
+      "Nam quum Arabes irati Heraclio"
+    ],
+    "what_it_says": "Vives's Christian interlocutor presents Muhammad's early life as poor, a robber, and a military rebel who rose by sedition.",
+    "context": "Chapter 'De Mahumete' of Book IV, opening the dialogue with a Christian (C H.) and an Alfaqui (A L.). The speaker tag is not printed at the chapter opening; the speech is the Christian's by the dialogue's pattern (inferred).",
+    "limits": "Historical characterisation with insult-language ('latrocinia'); it is an argument about Muhammad's legitimacy, not a call to violence. The speaker attribution is inferred. Verified on the page image.",
+    "stance": "reporting / own view of the Christian interlocutor"
+  },
+  {
+    "id": "vives_02",
+    "figure": "vives",
+    "work": "vives_veritate",
+    "theme": "M",
+    "harshness": 4,
+    "famous": {
+      "value": false,
+      "where": "Not found cited in the sources I opened (UNVERIFIED)."
+    },
+    "ref": "De veritate fidei christianae, Liber IV, cap. 'De Mahumete' (continued), Basel 1544, pp. 575-576",
+    "url": "https://archive.org/stream/bim_early-english-books-1641-1700_joannes-lodus-viciv_1544/bim_early-english-books-1641-1700_joannes-lodus-viciv_1544_djvu.txt",
+    "quote_orig": "Caput vero negocij erat, Deum misisse primo humano generi Mosen, hinc Christum Iesum, instructos facultate prodigiorum. homines illis non se praebuisse obsequentes. statuisse, Mahumetem mittere sine miraculis, armatum, ut quos no mouissent miracula, cogerent arma, se esse postremum nuncium, nec futurum postea alium, praedictum à Christo in Euangelio, praenunciatum luce admirabili, quae ab Eua per successionem generis in omnes mulieres transierit usq; ad matrem suam. nonne haec sunt in Alcorano? A L. Sunt, & quidem uerissima omnia & sancta.",
+    "orig_url": "https://archive.org/download/bim_early-english-books-1641-1700_joannes-lodus-viciv_1544/page/n638_w1000.jpg (page image read; p.575)",
+    "quote_en": "«»",
+    "own_translation_en": "The main point was this: God sent Moses to the human race first, then Christ Jesus, equipped with the power of miracles; men did not show themselves obedient to them. [The Qur'an's claim:] that God sent Mahumetes without miracles, armed, so that those whom miracles did not move would be forced by arms; that he was the last messenger, and no other would come after him; foretold by Christ in the Gospel, and announced by a wondrous light which passed from Eve through the succession of the race to every woman, even to his own mother. Is not all this in the Qur'an? The Alfaqui answers: Yes, and indeed all of it is most true and holy.",
+    "licence_note": "Sixteenth-century Basel print (public domain by date); archive.org scan licence not checked.",
+    "keys": [
+      "Mahumetem mittere sine miraculis, armatum",
+      "cogerent arma",
+      "nonne haec sunt in Alcorano"
+    ],
+    "what_it_says": "Vives's Christian lists the Qur'an's claims for Muhammad's mission (sent armed, without miracles, last prophet); the Alfaqui confirms them as in the Qur'an.",
+    "context": "Immediately after the 'De Mahumete' section; the claims are attributed to the Qur'an by both speakers.",
+    "limits": "The Alfaqui (Muslim interlocutor) confirms the claims; the Christian's summary is a polemical paraphrase. Quote is verified on the page image.",
+    "stance": "quoting opponent (Alfaqui confirms; Christian paraphrase)"
+  },
+  {
+    "id": "vives_03",
+    "figure": "vives",
+    "work": "vives_veritate",
+    "theme": "S",
+    "harshness": 3,
+    "famous": {
+      "value": false,
+      "where": "Not found cited in the sources I opened (UNVERIFIED)."
+    },
+    "ref": "De veritate fidei christianae, Liber IV, cap. 'De armis', Basel 1544, p. 576",
+    "url": "https://archive.org/stream/bim_early-english-books-1641-1700_joannes-lodus-viciv_1544/bim_early-english-books-1641-1700_joannes-lodus-viciv_1544_djvu.txt",
+    "quote_orig": "Quod si Deus aliquem uult cogere, quid illi opus est armis? an non qui condidit & sustentat, flectere & cogere potest, quomodocunque fuerit collibitum? [...] Nihil potest dici eruditius. est ergo Dei legem statuentis, non violentia armorum cogere corpora, sed miraculis & suasionibus adducere animos. Hoc fecerunt Moses & Christus.",
+    "orig_url": "https://archive.org/download/bim_early-english-books-1641-1700_joannes-lodus-viciv_1544/page/n639_w1000.jpg (page image read; p.576)",
+    "quote_en": "«»",
+    "own_translation_en": "If God wished to compel someone, what need would he have of arms? Does not he who made and sustains all things have power to bend and compel, however he pleases? [...] Nothing can be said more learnedly: it is therefore the law of the God who established it not to compel bodies by the violence of arms, but to draw souls by miracles and persuasion. Moses and Christ did this.",
+    "licence_note": "Sixteenth-century Basel print (public domain by date); archive.org scan licence not checked.",
+    "keys": [
+      "Quod si Deus aliquem uult cogere, quid illi opus est armis?",
+      "Hoc fecerunt Moses & Christus"
+    ],
+    "what_it_says": "Vives argues from the nature of God and of law that true faith is spread by persuasion and miracles, not by force of arms; this is his sharpest argument on how Islam spread.",
+    "context": "Chapter 'De armis' of Book IV; the Christian (C H.) asks the Alfaqui (A L.) what arms are for, and the Alfaqui answers 'to force'.",
+    "limits": "Two segments of one passage are joined with [...]; the bracket marks an omitted dialogue exchange (Alfaqui: 'persuade', 'soul', 'intelligence'). Verified on page image.",
+    "stance": "own view (Christian interlocutor)"
+  },
+  {
+    "id": "vives_04",
+    "figure": "vives",
+    "work": "vives_veritate",
+    "theme": "M",
+    "harshness": 4,
+    "famous": {
+      "value": false,
+      "where": "Not found cited in the sources I opened (UNVERIFIED)."
+    },
+    "ref": "De veritate fidei christianae, Liber IV, cap. 'De armis', Basel 1544, p. 576",
+    "url": "https://archive.org/stream/bim_early-english-books-1641-1700_joannes-lodus-viciv_1544/bim_early-english-books-1641-1700_joannes-lodus-viciv_1544_djvu.txt",
+    "quote_orig": "Nam quod Mahumetes dicit homines illis non obediuisse, manifestissimum est mendacium: quippe & Mosi dicto audientes fuerunt Iudaei, & totus pene orbis Christo, ut nunc plurimae adhuc gentes, & quum Mahumetes viueret, pleraque nationes. Rogo te quomodo manifestius poterat demonstrare a Deo esse missum se, quam si ea ageret quae solus potest Deus, quaeque illis solis tribuit quos ipse ad salutem hominum mittit?",
+    "orig_url": "https://archive.org/download/bim_early-english-books-1641-1700_joannes-lodus-viciv_1544/page/n639_w1000.jpg (page image read; p.576)",
+    "quote_en": "«»",
+    "own_translation_en": "But that Mahumetes says men did not obey those [earlier messengers] is a most manifest lie: for the Jews did obey Moses, and nearly the whole world obeyed Christ, as many nations still do; and while Mahumetes lived, many nations did too. Tell me, how could he have shown more clearly that he had been sent by God than by doing what God alone can do, and what he gave only to those whom he himself sends to save men?",
+    "licence_note": "Sixteenth-century Basel print (public domain by date); archive.org scan licence not checked.",
+    "keys": [
+      "manifestissimum est mendacium",
+      "quaeque illis solis tribuit"
+    ],
+    "what_it_says": "Vives rejects Muhammad's claim that men did not obey earlier messengers, and argues that Muhammad had no miracles, so his mission lacks proof.",
+    "context": "Continuation of 'De armis': the Christian argues that miracles, not arms, prove a mission from God.",
+    "limits": "The argument turns on the Qur'anic and Christian claim about miracles; Vives argues from the absence of miracles, which is a doctrinal refutation. Verified on page image.",
+    "stance": "own view (Christian interlocutor)"
+  },
+  {
+    "id": "vives_05",
+    "figure": "vives",
+    "work": "vives_veritate",
+    "theme": "Q",
+    "harshness": 5,
+    "famous": {
+      "value": false,
+      "where": "Not found cited in the sources I opened (UNVERIFIED)."
+    },
+    "ref": "De veritate fidei christianae, Liber IV, chapter on the Christ-Mahumet comparison (heading 'Quod Christum conveniebat venire postremum'), Basel 1544, p. 586",
+    "url": "https://archive.org/stream/bim_early-english-books-1641-1700_joannes-lodus-viciv_1544/bim_early-english-books-1641-1700_joannes-lodus-viciv_1544_djvu.txt",
+    "quote_orig": "Conferamus iam Christum cum Mahumete, non ex nostra praedicatione, sed ex Alcorano & secta vestra. Christus verbum Dei, Mahumetes homo merus. Christus Messias, promissus patribus, nunciatus ab angelo virgini excellentissimae: Mahumetes obscurus, & ignobilis. Christus semper sanctus: Mahuetes aliquando orphanus, & erro, & latro, & idolorum cultor. Christus doctor sapientissimus, Mahumetes omnis eruditionis prorsum expers, nec suum ipsius Alcoranum intelligens. Christus de se & de suis certus: Mahumetes incertus, ut ipse in Alcorano confitetur. Christus uiuens, uel ut uos dicitis, raptus in caelum a Deo: uel ut nos, reductus in vitam: Mahumetes mortuus & computrefactus.",
+    "orig_url": "https://archive.org/download/bim_early-english-books-1641-1700_joannes-lodus-viciv_1544/page/n649_w1000.jpg (page image read; p.586)",
+    "quote_en": "«»",
+    "own_translation_en": "Let us now compare Christ with Mahumetes, not from our preaching but from the Qur'an and your own sect. Christ is the Word of God; Mahumetes is a mere man. Christ is the Messiah, promised to the fathers, announced by an angel to the most excellent virgin; Mahumetes is obscure and ignoble. Christ is always holy; Mahumetes was at times an orphan, and wandering, and a robber, and a worshipper of idols. Christ is the most wise teacher; Mahumetes was utterly without any learning, not even understanding his own Qur'an. Christ is certain of himself and of his own; Mahumetes is uncertain, as he himself confesses in the Qur'an. Christ is alive, either, as you say, taken up to heaven by God, or, as we say, restored to life; Mahumetes is dead and decomposed.",
+    "licence_note": "Sixteenth-century Basel print (public domain by date); archive.org scan licence not checked.",
+    "keys": [
+      "Conferamus iam Christum cum Mahumete",
+      "Mahumetes mortuus & computrefactus",
+      "Mahumetes incertus, ut ipse in Alcorano confitetur"
+    ],
+    "what_it_says": "Vives sets Christ against Muhammad point by point, taking his evidence from the Qur'an itself, and concludes that Muhammad is dead and decomposed while Christ lives.",
+    "context": "Christian (C H.) and Alfaqui (A L.) dialogue; the Alfaqui assents to the earlier points ('Ita est').",
+    "limits": "Harsh polemic with personal insult ('latro', 'computrefactus'); the comparison's point is doctrinal (Christ's life vs Muhammad's death, the Qur'an's confession of uncertainty). The Mahuetes spelling is the print's (sic). Verified on page image.",
+    "stance": "own view (Christian interlocutor, appealing to the Qur'an)"
+  },
+  {
+    "id": "vives_06",
+    "figure": "vives",
+    "work": "vives_concordia",
+    "theme": "S",
+    "harshness": 4,
+    "famous": {
+      "value": false,
+      "where": "Not found cited (UNVERIFIED)."
+    },
+    "ref": "De concordia et discordia in humano genere, 'Quam misera est vita Christianorum sub Turca' section (Liber unus), p. not read",
+    "url": "https://archive.org/stream/bub_gb_fXYRgSGYfZMC/bub_gb_fXYRgSGYfZMC_djvu.txt",
+    "orig_url": "https://archive.org/stream/bub_gb_fXYRgSGYfZMC/bub_gb_fXYRgSGYfZMC_djvu.txt (OCR only, no page image checked)",
+    "quote_orig": "quis inter illos, vel verbum vnum per imprudentiam contra Mahumeten miserit, vel vita sit ei protinus, vel religio amittenda. Euestigio enim aut moriendum est illi ipsi, aut ad eam impiam sectam transeundum cui maledixerit.",
+    "quote_en": "«»",
+    "own_translation_en": "Among them, if anyone, even by carelessness, utters one word against Mahumetes, his life is forfeit at once, or his religion. For either he must die on the spot, or pass over to that impious sect against which he spoke.",
+    "licence_note": "Sixteenth-century Basel print (public domain by date); archive.org scan licence not checked.",
+    "keys": [
+      "contra Mahumeten miserit",
+      "ad eam impiam sectam transeundum"
+    ],
+    "what_it_says": "Under Turkish rule a Christian who speaks a single word against Mahumetes must either die at once or pass over to the impious sect.",
+    "context": "In the section on Christian life under the Turk, Vives describes the blasphemies Christians must hear and the penalties for speaking against Mahomet.",
+    "limits": "Read from OCR of a Google Books copy; the word 'quis' (for 'si quis') and 'miserit' are as OCR'd and must be checked against the facsimile before publication. Polemical description of coercion rather than doctrine.",
+    "stance": "own view (Vives)"
+  }
+]
