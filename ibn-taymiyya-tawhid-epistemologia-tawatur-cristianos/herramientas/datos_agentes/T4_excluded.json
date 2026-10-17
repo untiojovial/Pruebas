@@ -1,0 +1,192 @@
+[
+  {
+    "id": "T4-X01",
+    "work": "DarTacarud",
+    "vol_page": "n/a (OpenITI #META# blurb)",
+    "offset": 1445,
+    "reason": "not Ibn Taymiyya's text: editorial biography blurb in the OpenITI header (contains 'لا يحتاج اليه الذكي' as a paraphrase)",
+    "locator_offset": 1445,
+    "ar_window_verbatim": "دراك الحد الأوسط في القياس مثل حيوان يمشي على أربع، والكلب حيوان، الكلب يمشي على أربع، فالحد الأوسط هنا وهو الكلب حيوان لا يحتاج إليه الذكي، ولا يستفيد منه الغبي. والنتيجة تحصيل حاصل. وانتقد كذلك نظريات البرهان عند أرسطو باعتبار أن البرهان يتناول الكليات الذهنية، في حين أن الكائن",
+    "note_window": "verbatim window of about 280 chars around the locator offset (cut by itlib); the locator is the term that was searched, not the start of the quoted sentence"
+  },
+  {
+    "id": "T4-X02",
+    "work": "RaddCalaMantiqiyyin",
+    "vol_page": "vol. 1, p. 30",
+    "offset": 39512,
+    "reason": "duplicate: the 'لفظية لا تفيد تعريف الماهية' sentence reports the logicians' self-image; its core is covered by T4-E02",
+    "locator_offset": 39512,
+    "ar_window_verbatim": "وغير ذلك. وصاروا يعظمون أمر الحدود ويدعون أنهم هم المحققون لذلك وأن ما يذكره غيرهم من الحدود إنما هي لفظية لا تفيد تعريف الماهية والحقيقة بخلاف حدودهم ويسلكون الطرق الصعبة الطويلة والعبارات المتكلفة الهائلة وليس لذلك فائدة إلا تضييع الزمان وإتعاب الأذهان وكثرة الهذيان ود",
+    "note_window": "verbatim window of about 280 chars around the locator offset (cut by itlib); the locator is the term that was searched, not the start of the quoted sentence"
+  },
+  {
+    "id": "T4-X03",
+    "work": "RaddCalaMantiqiyyin",
+    "vol_page": "vol. 1, p. 35",
+    "offset": 46079,
+    "reason": "out of context: mostly a Qur'anic exegesis aside ('الحد خبر مبتدإ محذوف'), not a view on definitions as a source of knowledge",
+    "locator_offset": 46079,
+    "ar_window_verbatim": "يرا وعلمتم ما لم تعلموا أنتم ولا آباؤكم قل الله} أي الله انزل الكتاب الذي جاء به موسى. وإذا عرف أن مجرد الإسم ومجرد الحد لا يفيد ما يفيده الكلام بحال علم أن الحد خبر مبتدإ محذوف لتكون جملة تامة. ثم قد بينا فساد قولهم سواء جعل الحد مفردا كالأسماء أو مركبا كالجمل وأنه على",
+    "note_window": "verbatim window of about 280 chars around the locator offset (cut by itlib); the locator is the term that was searched, not the start of the quoted sentence"
+  },
+  {
+    "id": "T4-X04",
+    "work": "RaddCalaMantiqiyyin",
+    "vol_page": "vol. 1, p. 91",
+    "offset": 115015,
+    "reason": "reports opponent: the logicians' restriction of tawatur/experience to the knower; the refutation is used via T4-E15",
+    "locator_offset": 115015,
+    "ar_window_verbatim": "ظنها كذبا إذا صدق المنجم الخارص القائل أنه لا يرى بطلان منع المنطقيين الاحتجاج بالمتواترات والمجربات والحدسيات: وقد ذكر من ذكر من هؤلاء المنطقيين أن القضايا المعلومة ب التواتر والتجربة والحدس يختص بها من علمها بهذه الطريق فلا تكون حجة على غيره بخلاف غيرها",
+    "note_window": "verbatim window of about 280 chars around the locator offset (cut by itlib); the locator is the term that was searched, not the start of the quoted sentence"
+  },
+  {
+    "id": "T4-X05",
+    "work": "RaddCalaMantiqiyyin",
+    "vol_page": "vol. 1, p. 106-107",
+    "offset": 134295,
+    "reason": "strong candidate, cut for the 14-passage cap: his argument that the first principles (self-evident) of demonstration are known without the syllogism ('فما من قضية من هذه القضايا الكلية التي تجعل مقدمة في البرهان إلا والعلم ب النتيجة ممكن بدون توسط ذلك البرهان بل هو الواقع كثيرا')",
+    "locator_offset": 134295,
+    "ar_window_verbatim": "ك تسلسل الحوادث الماضية وأيضا فانه تسلسل في المؤثرات وكلاهما باطل. وهكذا يقال في سائر القضايا الكلية التي يجعلونها مبادئ البرهان ويسمونها الواجب قبولها سواء كانت حسية ظاهرة أو باطنة وهي التي يحسها بنفسه أو كانت من المجربات أو المتواترات أو الحدسيات عند من ي",
+    "note_window": "verbatim window of about 280 chars around the locator offset (cut by itlib); the locator is the term that was searched, not the start of the quoted sentence"
+  },
+  {
+    "id": "T4-X06",
+    "work": "RaddCalaMantiqiyyin",
+    "vol_page": "vol. 1, p. 3",
+    "offset": 2408,
+    "reason": "duplicate of preface content: the preface sentence on 'حصر طرق العلم في ما ذكروه من الحدود والأقيسة البرهانية' (a summary of his grievances against the logicians; exact text in the verbatim window), could be added to T4-E01 if the orchestrator wants the wider preface",
+    "locator_offset": 2408,
+    "ar_window_verbatim": "منطق هو من أصول فساد قولهم في الإلهيات، مثل ما ذكروه من تركيب الماهيات من الصفات التي سموها ذاتيات وما ذكروه من حصر طرق العلم في ما ذكروه من الحدود والأقيسة البرهانية بل وفيما ذكروه من الحدود التي يعرف التصورات بل ما ذكروه من صور القياس ومواده اليقينيات. فأراد بعض الناس",
+    "note_window": "verbatim window of about 280 chars around the locator offset (cut by itlib); the locator is the term that was searched, not the start of the quoted sentence"
+  },
+  {
+    "id": "T4-X07",
+    "work": "RaddCalaMantiqiyyin",
+    "vol_page": "vol. 1, p. 156",
+    "offset": 194190,
+    "reason": "reports opponent: the logicians' claim that theoretical knowledge arises only through their demonstration (refuted here); not extracted for cap reasons",
+    "locator_offset": 194190,
+    "ar_window_verbatim": "يقال لا تعلم المطالب إلا به. وهذا باب واسع لكن المقصود في هذا المقام التنبيه على بطلان قضيتهم السالبة وهي قولهم أن العلوم النظرية لا تحصل إلا بواسطة برهانهم. شناعة زعمهم أن علم الله أيضا يحصل بواسطة القياس: ثم لم يكفهم هذا السلب العام الذي تحجروا فيه واسعا وقصروا العلوم",
+    "note_window": "verbatim window of about 280 chars around the locator offset (cut by itlib); the locator is the term that was searched, not the start of the quoted sentence"
+  },
+  {
+    "id": "T4-X08",
+    "work": "RaddCalaMantiqiyyin",
+    "vol_page": "vol. 1, p. 180",
+    "offset": 225381,
+    "reason": "candidate, not extracted: 'طرق العلم على عقلاء بني آدم مسدودة إلا من الطريقين' (the logicians' claim that all ways of knowledge are blocked except two; he refutes it). Needs a fuller read of the surrounding argument",
+    "locator_offset": 225381,
+    "ar_window_verbatim": "وهى دعواهم أن برهانهم يفيد العلم التصديقى. فان قالوا أن العلم التصديقي أو التصوري أيضا لا ينال بدونه فهم ادعوا أن طرق العلم على عقلاء بني آدم مسدودة إلا من الطريقين اللتين ذكروهما ما ذكروه من الحد وما ذكروه من القياس وادعوا أن ما ذكروه من الطريقين يوصلان إلى العلوم التي",
+    "note_window": "verbatim window of about 280 chars around the locator offset (cut by itlib); the locator is the term that was searched, not the start of the quoted sentence"
+  },
+  {
+    "id": "T4-X09",
+    "work": "RaddCalaMantiqiyyin",
+    "vol_page": "vol. 1, p. 61",
+    "offset": 77581,
+    "reason": "candidate, not extracted: 'التفريق بين الذاتي والعرضي باطل' (his refutation of the essential/accidental distinction of the logicians)",
+    "locator_offset": 77581,
+    "ar_window_verbatim": "نت مشتقة أو غير مشتقة. الوجه السادس: التفريق بين الذاتي والعرضي باطل: السادس: أن يقال المفيد لتصور الحقيقة عندهم هو الحد التام وهو الحقيقي وهو المؤلف من الجنس والفصل من الذاتيات المشتركة والمميزة دون العرضيات التي هي العرض العام والخاصة والمثال المشهور عند",
+    "note_window": "verbatim window of about 280 chars around the locator offset (cut by itlib); the locator is the term that was searched, not the start of the quoted sentence"
+  },
+  {
+    "id": "T4-X10",
+    "work": "RaddCalaMantiqiyyin",
+    "vol_page": "vol. 1, p. 72-73",
+    "offset": 92308,
+    "reason": "candidate, not extracted: 'اشتراط الصفات الذاتية المشتركة أمر وضعي محض' (the requirement of common essential attributes in a definition is a purely conventional matter)",
+    "locator_offset": 92308,
+    "ar_window_verbatim": "ثبتون ماهيته متقدم عليها. الوجه السابع: اشتراط الصفات الذاتية المشتركة أمر وضعي محض: الوجه السابع: أن يقال قولهم أن الحد التام يفيد تصوير الحقيقة واشتراطهم أن يكون مؤلفا من الذاتي المميز والذاتي المشترك وهو الجنس. يقال لهم هل تشترطون فيه أن تتصور جميع صفاته الذاتية المشتر",
+    "note_window": "verbatim window of about 280 chars around the locator offset (cut by itlib); the locator is the term that was searched, not the start of the quoted sentence"
+  },
+  {
+    "id": "T4-X11",
+    "work": "RaddCalaMantiqiyyin",
+    "vol_page": "vol. 1, p. 70",
+    "offset": 89755,
+    "reason": "candidate for 'fitra': 'لو كان هذا فطريا لكانت الفطرة تدركه بدون التقليد' (argument that the logicians' claims about essential/accidental attributes are not 'fitri'); not extracted",
+    "locator_offset": 89755,
+    "ar_window_verbatim": "في الخارج كذلك وسائر بني آدم الذين لم يقلدوهم في هذا الوضع لا يستحضرون هذا التقديم والتأخير ولو كان هذا فطريا لكانت الفطرة تدركه بدون التقليد المغير لها كما تدرك سائر الأمور الفطرية والذي في الفطرة أن هذه اللوازم كلها لوازم للموصوف وقد تخطر بالبال وقد لا تخطر وكلما خطرت ك",
+    "note_window": "verbatim window of about 280 chars around the locator offset (cut by itlib); the locator is the term that was searched, not the start of the quoted sentence"
+  },
+  {
+    "id": "T4-X12",
+    "work": "RaddCalaMantiqiyyin",
+    "vol_page": "vol. 1, p. 97",
+    "offset": 123956,
+    "reason": "out of theme E: tawatur of prophetic miracles and their denial; belongs to W/C slices",
+    "locator_offset": 123956,
+    "ar_window_verbatim": "و من أصول الإلحاد والكفر: ثم هذا الفرق مع ظهور بطلانه هو من أصول الإلحاد والكفر فان المنقول عن الأنبياء بالتواتر من المعجزات وغيرها يقول احد هؤلاء بناء على هذا الفرق: \"هذا لم يتواتر عندي فلا يقوم به الحجة على\" فيقال له \"اسمع كما سمع غيرك وحينئذ يحصل لك العلم",
+    "note_window": "verbatim window of about 280 chars around the locator offset (cut by itlib); the locator is the term that was searched, not the start of the quoted sentence"
+  },
+  {
+    "id": "T4-X13",
+    "work": "RaddCalaMantiqiyyin",
+    "vol_page": "vol. 1, p. 199",
+    "offset": 247926,
+    "reason": "reports opponent: 'زعموا أن التمثيل لا يفيد اليقين' (logicians' three kinds of argument); not extracted",
+    "locator_offset": 247926,
+    "ar_window_verbatim": "زم قياس الشمول وقياس التمثيل وبيانه بالأمثلة: وجعلوا أصناف الحجج ثلاثة القياس والاستقراء والتمثيل وزعموا أن التمثيل لا يفيد اليقين وإنما يفيده القياس الذي تكون مادته من القضايا التي ذكروها. وقد بينا في غير هذا الموضع أن قياس التمثيل وقياس الشمول متلازمان وأن ما حصل بأحد",
+    "note_window": "verbatim window of about 280 chars around the locator offset (cut by itlib); the locator is the term that was searched, not the start of the quoted sentence"
+  },
+  {
+    "id": "T4-X14",
+    "work": "RaddCalaMantiqiyyin",
+    "vol_page": "vol. 1, p. 232",
+    "offset": 293530,
+    "reason": "reports opponent: 'ويزعمون أنه إنما يفيد الظن' (logicians' claim about analogy); the author's reply is covered by T4-E06 and T4-E07",
+    "locator_offset": 293530,
+    "ar_window_verbatim": "والمقصود هنا الكلام على المنطق وما ذكروه من البرهان وأنهم يعظمون قياس الشمول ويستخفون ب قياس التمثيل ويزعمون أنه إنما يفيد الظن وان العلم لا يحصل إلا بذلك وليس الأمر كذلك بل هما في الحقيقة من جنس واحد وقياس التمثيل الصحيح أولى بإفادة المطلوب علما كان أو ظنا من مجرد قياس الش",
+    "note_window": "verbatim window of about 280 chars around the locator offset (cut by itlib); the locator is the term that was searched, not the start of the quoted sentence"
+  },
+  {
+    "id": "T4-X15",
+    "work": "RaddCalaMantiqiyyin",
+    "vol_page": "vol. 1, p. 234",
+    "offset": 297058,
+    "reason": "needs context: a sentence about a common attribute and a middle term ('فلا يفيد اليقين ولو استعمل فيه قياس الشمول') inside a discussion of causal inference (ta'lil); not read fully",
+    "locator_offset": 297058,
+    "ar_window_verbatim": "حصر المشترك في أقسام لا يزيد عليها وإبطال التعليل بجميعها إلا بواحد وان لم يمكن ذلك لم يمكن جعل ذلك المشترك حدا أوسط فلا يفيد اليقين ولو استعمل فيه قياس الشمول. جواب اعتراضهم على السبر والتقسيم بقولهم: وأما قوله يجوز أن يكون الحكم ثابتا في الأصل لذات الأصل وإلا لزم التس",
+    "note_window": "verbatim window of about 280 chars around the locator offset (cut by itlib); the locator is the term that was searched, not the start of the quoted sentence"
+  },
+  {
+    "id": "T4-X17",
+    "work": "RaddCalaMantiqiyyin",
+    "vol_page": "vol. 1, p. 355",
+    "offset": 452225,
+    "reason": "pointer, not an argument: 'وقد ذكرنا طرقا من الطرق التي يعلم بها صدق الأنبياء في غير هذا الموضع' (he says he discussed other ways to know the truthfulness of prophets elsewhere). Useful lead: check the other works for these 'ways' (not located in this slice)",
+    "locator_offset": 452225,
+    "ar_window_verbatim": "التمثيل كما يعلم بقياس الشمول فكيف العلم بصدق النبي الصادق صلى الله عليه وسلم وقد ذكرنا طرقا من الطرق التي يعلم بها صدق الأنبياء في غير هذا الموضع. والناس يعلمون الأمور الموجودة وصفاتها وأحوالها من غير قياس شمولي فضلا عن أن يقال لا بد هنا من مقدمتين صغرى وكبرى فالصغرى هي",
+    "note_window": "verbatim window of about 280 chars around the locator offset (cut by itlib); the locator is the term that was searched, not the start of the quoted sentence"
+  },
+  {
+    "id": "T4-X18",
+    "work": "RaddCalaMantiqiyyin",
+    "vol_page": "vol. 1, p. 381",
+    "offset": 489430,
+    "reason": "near-duplicate of T4-E14 (prophetic teaching not confined to report)",
+    "locator_offset": 489430,
+    "ar_window_verbatim": "رفون العدل ويعرفون الأقيسة العقلية الصحيحة التي يستدل بها على المطالب الدينية فليست العلوم النبوية مقصورة على مجرد الخبر كما يظن ذلك من يظنه من أهل الكلام ويجعلون ما يعلم بالعقل قسيما للعلوم النبوية بل الرسل صلوات الله عليهم بينت العلوم العقلية التي بها يتم دين النا",
+    "note_window": "verbatim window of about 280 chars around the locator offset (cut by itlib); the locator is the term that was searched, not the start of the quoted sentence"
+  },
+  {
+    "id": "T4-X19",
+    "work": "RaddCalaMantiqiyyin",
+    "vol_page": "vol. 1, p. 390",
+    "offset": 503376,
+    "reason": "out of theme E: the logicians' claim to include the prophets' miracles and proofs ('ما تواتر عن الأنبياء') in their argumentation; C/W material",
+    "locator_offset": 503376,
+    "ar_window_verbatim": "المتواترات لا يقوم بها البرهان على المنازع ليدخل في ذلك ما تواتر عن الأنبياء صلوات الله عليهم من الآيات والبراهين والمعجزات التي بعثوا بها كما يدخلون ما اخذ عن الأنبياء من المقبولات. فيقال لهم من المعلوم بالاضطرار أن تواتر خروج محمد صلى الله عليه وسلم و",
+    "note_window": "verbatim window of about 280 chars around the locator offset (cut by itlib); the locator is the term that was searched, not the start of the quoted sentence"
+  },
+  {
+    "id": "T4-X20",
+    "work": "RaddCalaMantiqiyyin",
+    "vol_page": "vol. 1, p. 446",
+    "offset": 580693,
+    "reason": "candidate, not extracted: 'ليس هو العلم النظري الذي هو عند فلاسفة اليونان بل الحكمة' (the knowledge praised by God and the prophets is not Greek theoretical knowledge but wisdom)",
+    "locator_offset": 580693,
+    "ar_window_verbatim": "كتب محمد بن يوسف العامري وغيره يبنون كلامهم على هذا الأصل. لكن غلطوا فان مراد الله ورسوله بالعلم الذي يمدحه ليس هو العلم النظري الذي هو عند فلاسفة اليونان بل الحكمة: \"اسم يجمع العلم والعمل به في كل امة\" قال ابن قتيبة وغيره: \"الحكمة عند العرب العلم والعمل به\" وسئل مالك",
+    "note_window": "verbatim window of about 280 chars around the locator offset (cut by itlib); the locator is the term that was searched, not the start of the quoted sentence"
+  }
+]

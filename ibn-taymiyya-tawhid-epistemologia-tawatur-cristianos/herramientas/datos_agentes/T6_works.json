@@ -1,0 +1,52 @@
+[
+ {
+  "id": "JawabSahih",
+  "title_ar": "الجواب الصحيح لمن بدل دين المسيح",
+  "title_es_or_en": "al-Jawab al-Sahih li-man baddala din al-Masih (Ibn Taymiyya; refutation of Christians, incl. Paul of Sidon/Antioch letter quoted at length)",
+  "edition_note": "al-Jawab al-Sahih li-man baddala din al-Masih, 2nd ed. (1419/1999), Dar al-'Asima (Saudi Arabia), eds. 'Ali ibn Hasan, 'Abd al-'Aziz ibn Ibrahim, Hamdan ibn Muhammad (per OpenITI #META# header). Page/volume from OpenITI PageV markers in Shamela_0000170 text; verify against the printed edition before quoting.",
+  "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.JawabSahih/0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "genre": "polemical refutation (kalam/Christian polemic), 6 vols",
+  "notes": "Passages by Ibn Taymiyya in his own voice (replies) and quoted Christian text marked \"قالوا\" / \"وأما قولهم...\" (e.g., vol 3 pp. 414-425, vol 3 p. 30, vol 2 p. 79-92). Method stated in vol 1 p. 100: quotes the Christian letter verbatim, chapter by chapter, then replies."
+ },
+ {
+  "id": "MajmucFatawa",
+  "title_ar": "مجموع الفتاوى",
+  "title_es_or_en": "Majmu' al-Fatawa (fatawa collection)",
+  "edition_note": "Majmu' al-Fatawa, ed. 'Abd al-Rahman ibn Muhammad ibn Qasim, Majma' al-Malik Fahd (1416/1995) (per OpenITI header, Shamela_0007289). Page markers from the OpenITI text; verify printed page.",
+  "openiti_versionUri": "0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.MajmucFatawa/0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+  "genre": "fatawa collection",
+  "notes": "Used for the qira'at fatwa duplicate (vol 13 pp. 388-403; same text as the Risala) and for vol 20 p. 261 and vol 22 p. 352 (excluded, see excluded.json). Not used for Christian passages."
+ },
+ {
+  "id": "RisalaFiCilmQiraat",
+  "title_ar": "رسالة في علم القراءات",
+  "title_es_or_en": "Risala fi 'ilm al-qira'at (fatwa on the qira'at)",
+  "edition_note": "Risala fi 'ilm al-qira'at (fatwa), ed. Muhammad 'Ali Sultani, Majallat al-Buhuth al-Islamiyya no. 13 (1405 AH) per OpenITI header (Shamela-based, ShamAY0034398). The 'PageV13Pxxx' markers are read here as pages of that issue (inferred from the header; not confirmed on scans). The same fatwa text (with near-identical wording) is in Majmu' al-Fatawa vol. 13 (OpenITI page markers 13:388-403).",
+  "openiti_versionUri": "0728IbnTaymiyya.RisalaFiCilmQiraat.ShamAY0034398-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.RisalaFiCilmQiraat/0728IbnTaymiyya.RisalaFiCilmQiraat.ShamAY0034398-ara1",
+  "genre": "fatwa / treatise on readings",
+  "notes": "Own answer to questions on the seven ahruf, the seven readings, shadhdh readings, and prayer. Editor's CHECK tags and folio marks (1/ب) appear in the text."
+ },
+ {
+  "id": "Nubuwwat",
+  "title_ar": "النبوات",
+  "title_es_or_en": "al-Nubuwwat (on prophecy)",
+  "edition_note": "al-Nubuwwat, ed. 'Abd al-'Aziz ibn Salih al-Tuwayyan, Adwa' al-Salaf, 1st ed. 1420/2000 (per OpenITI header, Shamela_0011817; header inspected).",
+  "openiti_versionUri": "0728IbnTaymiyya.Nubuwwat.Shamela0011817-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.Nubuwwat/0728IbnTaymiyya.Nubuwwat.Shamela0011817-ara1",
+  "genre": "theology/prophecy",
+  "notes": "Searched (tawatur near Torah/Gospel/Christians; tahrif; injil). No usable passage found; vol 1 p. 516 is about miracles, not transmission."
+ },
+ {
+  "id": "MuqaddimaFiUsulTafsir",
+  "title_ar": "مقدمة في أصول التفسير",
+  "title_es_or_en": "Muqaddima fi usul al-tafsir",
+  "edition_note": "OpenITI Shamela_0012081 (edition metadata not inspected).",
+  "openiti_versionUri": "0728IbnTaymiyya.MuqaddimaFiUsulTafsir.Shamela0012081-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.MuqaddimaFiUsulTafsir/0728IbnTaymiyya.MuqaddimaFiUsulTafsir.Shamela0012081-ara1",
+  "genre": "Quranic sciences",
+  "notes": "Searched near qira'at/ahruf/tawatur; no relevant passage used."
+ }
+]

@@ -1,0 +1,587 @@
+[
+ {
+  "id": "T3-01",
+  "work": "DarTacarud",
+  "gloss_en": "[My translation] Either they are combined, which is impossible because it joins contradictories; or both are set aside; or revelation is preferred, which is impossible because reason is the root of transmission, and preferring transmission would impugn its root and so impugn both. Therefore reason must be preferred, and then the transmitted text is either interpreted (ta'wil) or left unexplained (tafwid).",
+  "what_it_says": "A summary of the opponents' four-way division (combine / reject both / prefer revelation / prefer reason, then interpret or delegate). Ibn Taymiyya reports it in order to refute it.",
+  "why_relevant": "Shows the rule he is arguing against; he names it as 'a general rule' only in the next sentence.",
+  "stance": "reports opponent",
+  "limits": "The whole passage is the opponent's view as Ibn Taymiyya summarises it (not marked as direct quotation; I did not locate Razi's text). The next sentence (not in this quote) says Razi and followers made it a 'general rule' (qanun kulli). Do not present these four options as Ibn Taymiyya's own.",
+  "significance": 4,
+  "famous": false,
+  "famous_note": "not checked",
+  "theme": [
+   "E"
+  ],
+  "ref": {
+   "work": "درء تعارض العقل والنقل أو موافقة صحيح المنقول لصريح المعقول",
+   "vol_page": "vol. 1, p. 3",
+   "chapter": "Opening fasl: 'qawl al-qa'il idha ta'arada al-adilla al-sam'iyya wa-l-'aqliyya' (the claim of the theologians)"
+  },
+  "ar": "فإما أن يجمع بينهما وهو محال لأنه جمع بين النقيضين وإما أن يردا جميعا وإما أن يقدم السمع وهو محال لأن العقل أصل النقل فلو قدمناه عليه كان ذلك قدحا في العقل الذي هو أصل النقل والقدح في أصل الشيء قدح فيه فكان تقديم النقل قدحا في النقل والعقل جميعا فوجب تقديم العقل ثم النقل إما أن يتأول وإما أن يفوض",
+  "vol_page": "vol. 1, p. 3",
+  "page_start": [
+   1,
+   3
+  ],
+  "page_end": [
+   1,
+   3
+  ],
+  "edition_note": "Edition named in OpenITI header: ed. 'Abd al-Latif 'Abd al-Rahman, Dar al-Kutub al-'Ilmiyya, Beirut 1417/1997, 10 vols. Header says Shamela pagination matches the print ('ترقيم الشاملة موافق للمطبوع'). Page numbers are from OpenITI PageV markers; I did not check page images.",
+  "openiti_versionUri": "0728IbnTaymiyya.DarTacarud.ShamAY0033865-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.DarTacarud/0728IbnTaymiyya.DarTacarud.ShamAY0033865-ara1",
+  "offset_start": 5285,
+  "offset_end": 5592,
+  "ar_before": "أن لا إله إلا الله وحده لا شريك له وأشهد أن محمدا عبده ورسوله صلى الله عليه وعلى آله وسلم تسليما كثيرا فصل قول القائل إذا تعارضت الأدلة السمعية والعقلية أو السمع والعقل أو النقل والعقل أو الظواهر النقلية والقواطع العقلية أو نحو ذلك من العبارات",
+  "ar_after": "وأما إذا تعارضا تعارض الضدين امتنع الجمع بينهما ولم يمتنع ارتفاعهما وهذا الكلام قد جعله الرازي وأتباعه قانونا كليا فيما يستدل به من كتب الله تعالى وكلام أنبيائه عليهم السلام وما لا يستدل به ولهذا ردوا الاستدلال بما جاءت به الأنبياء والمرسلون في صفات",
+  "verified_by_itlib": true,
+  "ar_chars": 297
+ },
+ {
+  "id": "T3-02",
+  "work": "DarTacarud",
+  "gloss_en": "[My translation] This rule that they have set up is like the rule that each party sets for itself about what the prophets said about God: they make the basis what they believe their own minds have grasped, and they make what the prophets said follow it. What agrees with their rule they accept; what contradicts it they do not follow.",
+  "what_it_says": "Ibn Taymiyya's own judgement of the theologians' 'rule': it makes reason the measure and revelation secondary.",
+  "why_relevant": "Gives his main charge against the rule ('the measure is reason, revelation follows'). Directly answers the question of his own view.",
+  "stance": "own view",
+  "limits": "Polemical. Names Abu Hamid al-Ghazali, Abu Bakr ibn al-'Arabi, al-Baqillani, Abu al-Ma'ali and others in the lines before. The next sentences (not in this quote) compare this to what 'the Christians' did with their creed ('amana'); that comparison belongs to theme C and needs a separate check.",
+  "significance": 5,
+  "famous": false,
+  "famous_note": "not checked",
+  "theme": [
+   "E"
+  ],
+  "ref": {
+   "work": "درء تعارض العقل والنقل أو موافقة صحيح المنقول لصريح المعقول",
+   "vol_page": "vol. 1, p. 5",
+   "chapter": "Opening of the work (vol. 1, pp. 3-6)"
+  },
+  "ar": "ومثل هذا القانون الذي وضعه هؤلاء يضع كل فريق لأنفسهم قانونا فيما جاءت به الأنبياء عن الله فيجعلون الأصل الذي يعتقدونه ويعتمدونه هو ما ظنوا أن عقولهم عرفته ويجعلون ما جاءت به الأنبياء تبعا له",
+  "vol_page": "vol. 1, p. 5",
+  "page_start": [
+   1,
+   5
+  ],
+  "page_end": [
+   1,
+   5
+  ],
+  "edition_note": "Edition named in OpenITI header: ed. 'Abd al-Latif 'Abd al-Rahman, Dar al-Kutub al-'Ilmiyya, Beirut 1417/1997, 10 vols. Header says Shamela pagination matches the print ('ترقيم الشاملة موافق للمطبوع'). Page numbers are from OpenITI PageV markers; I did not check page images.",
+  "openiti_versionUri": "0728IbnTaymiyya.DarTacarud.ShamAY0033865-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.DarTacarud/0728IbnTaymiyya.DarTacarud.ShamAY0033865-ara1",
+  "offset_start": 6567,
+  "offset_end": 6761,
+  "ar_before": "ك الأجوبة وكان يقول شيخنا أبو حامد دخل في بطون الفلاسفة ثم أراد أن يخرج منهم فما قدر وحكى هو عن أبي حامد نفسه أنه كان يقول أنا مزجى البضاعة في الحديث ووضع أبو بكر بن العربي هذا قانونا آخر مبنيا على طريقة أبي المعالي ومن قبله كالقاضي أبي بكر الباقلاني",
+  "ar_after": "فما وافق قانونهم قبلوه وما خالفه لم يتبعوه وهذا يشبه ما وضعته النصارى من أمانتهم التي جعلوها عقيدة إيمانهم وردوا نصوص التوراة والإنجيل إليها لكن تلك الأمانة اعتمدوا فيها على ما فهموه من نصوص الأنبياء أو ما بلغهم عنهم وغلطوا في الفهم أو في تصديق الناق",
+  "verified_by_itlib": true,
+  "ar_chars": 190
+ },
+ {
+  "id": "T3-03",
+  "work": "DarTacarud",
+  "gloss_en": "[My translation] I do not grant that the division is exhaustive. It can be said that the rational takes precedence at times and the transmitted at others: whichever is certain is preferred; if both are certain, conflict is impossible; if both are probable, the stronger one is preferred.",
+  "what_it_says": "His first counter to the four-way division: the division is not exhaustive. Certain evidence takes precedence over probable evidence, whatever its source.",
+  "why_relevant": "Shows how he replaces the 'rational vs transmitted' rule with a rule about the degree of certainty of each proof.",
+  "stance": "own view",
+  "limits": "This is one of several numbered replies (wujuh) and is a counter-argument within the dispute, not a summary of his whole epistemology. The sentence that follows the quote (after '| AUTO') says the opponents' claim is false and that 'there is a further case', which is the truth beyond doubt; that sentence is not in this quote (see excluded.json, T3-E02). Spelling 'فالراجع' is as in the text.",
+  "significance": 5,
+  "famous": false,
+  "famous_note": "not checked",
+  "theme": [
+   "E"
+  ],
+  "ref": {
+   "work": "درء تعارض العقل والنقل أو موافقة صحيح المنقول لصريح المعقول",
+   "vol_page": "vol. 1, p. 86",
+   "chapter": "Opening fasl, his reply ('al-wajh al-thani')"
+  },
+  "ar": "لا نسلم انحصار القسمة فيما ذكرته من الأقسام الأربعة إذ من الممكن أن يقال يقدم العقلي تارة والسمعي أخرى فأيهما كان قطعيا قدم وإن كانا جميعا قطعيين فيمتنع التعارض وإن كانا ظنيين فالراجع هو المقدم",
+  "vol_page": "vol. 1, p. 86",
+  "page_start": [
+   1,
+   86
+  ],
+  "page_end": [
+   1,
+   86
+  ],
+  "edition_note": "Edition named in OpenITI header: ed. 'Abd al-Latif 'Abd al-Rahman, Dar al-Kutub al-'Ilmiyya, Beirut 1417/1997, 10 vols. Header says Shamela pagination matches the print ('ترقيم الشاملة موافق للمطبوع'). Page numbers are from OpenITI PageV markers; I did not check page images.",
+  "openiti_versionUri": "0728IbnTaymiyya.DarTacarud.ShamAY0033865-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.DarTacarud/0728IbnTaymiyya.DarTacarud.ShamAY0033865-ara1",
+  "offset_start": 78235,
+  "offset_end": 78434,
+  "ar_before": "لظنيين فالمقدم هو الراجح مطلقا وإما أن يريد به ما أحدهما قطعي فالقطعي هو المقدم مطلقا وإذا قدر أن العقلي هو القطعي كان تقديمه لكونه قطعيا لا لكونه عقليا فعلم أن تقديم العقلي مطلقا خطأ كما أن جعل جهة الترجيح لكونه عقليا خطأ الوجه الثاني أن يقال",
+  "ar_after": "فدعوى المدعي أنه لابد من تقديم العقلي مطلقا أو السمعي مطلقا أو الجمع بين النقيضين أو رفع النقيضين دعوى باطلة بل هنا قسم ليس من هذه الأقسام كما ذكرناه بل هو الحق الذي لا ريب فيه الوجه الثالث قوله إن قدمنا النقل كان ذلك طعنا في أصله الذي هو العق",
+  "verified_by_itlib": true,
+  "ar_chars": 193
+ },
+ {
+  "id": "T3-04",
+  "work": "DarTacarud",
+  "gloss_en": "[My translation] Not everything known by reason is a root of transmission or a proof of its soundness; rational knowledge is more than can be counted. Knowledge of the truth of transmission depends at most on what establishes that the Messenger is true, and not every rational science is what establishes his truth. Rather, that is known by what establishes that God sent him, such as proof of the Creator and His confirmation of the messenger by signs, and the like.",
+  "what_it_says": "Reason is not the foundation of revelation in general; only a particular set of rational steps (those that establish the Prophet's truth) can be presupposed. These are the steps about the Creator and the signs.",
+  "why_relevant": "Answers question (2): he does say that the proof of prophecy is rational, but in a limited sense (the steps that establish that God sent him), not all reason.",
+  "stance": "own view",
+  "limits": "Important: this is not a claim that all proofs of prophecy are rational. Immediately before it he distinguishes three senses of 'aql (instinct, acquired knowledge, or the knowledge gained by reason). The sentence before the quote is part of that analysis. He adds that the knowledge of the Prophet's truth has 'many varied ways' ('turuq kathira mutanawwi'a') and refers to another work for the detail. In the text after the quote he reports the view (one of al-Ash'ari's views and Juwayni's) that knowledge of the Prophet's truth is necessary upon miracles, and then says there are many ways; that view is not in the quote itself.",
+  "significance": 4,
+  "famous": false,
+  "famous_note": "not checked",
+  "theme": [
+   "E"
+  ],
+  "ref": {
+   "work": "درء تعارض العقل والنقل أو موافقة صحيح المنقول لصريح المعقول",
+   "vol_page": "vol. 1, p. 88",
+   "chapter": "Opening fasl, reply on the sense of 'aql ('aql as instinct vs as acquired knowledge)"
+  },
+  "ar": "ليس كل ما يعرف بالعقل يكون أصلا لسمع ودليلا على صحته فإن المعارف العقلية أكثر من أن تحصر والعلم بصحة السمع غايته أن يتوقف على ما به يعلم صدق الرسول صلى الله عليه وسلم وليس كل العلوم العقلية يعلم بها صدق الرسول صلى الله عليه وسلم بل ذلك يعلم بما يعلم به أن الله تعالى أرسله مثل إثبات الصانع وتصديقه للرسول بالآيات",
+  "vol_page": "vol. 1, p. 88",
+  "page_start": [
+   1,
+   88
+  ],
+  "page_end": [
+   1,
+   88
+  ],
+  "edition_note": "Edition named in OpenITI header: ed. 'Abd al-Latif 'Abd al-Rahman, Dar al-Kutub al-'Ilmiyya, Beirut 1417/1997, 10 vols. Header says Shamela pagination matches the print ('ترقيم الشاملة موافق للمطبوع'). Page numbers are from OpenITI PageV markers; I did not check page images.",
+  "openiti_versionUri": "0728IbnTaymiyya.DarTacarud.ShamAY0033865-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.DarTacarud/0728IbnTaymiyya.DarTacarud.ShamAY0033865-ara1",
+  "offset_start": 81168,
+  "offset_end": 81490,
+  "ar_before": "ة والغريزة شرط فى كل العلوم سمعيها وعقليها فامتنع ان تكون منافية لها وهي أيضا شرط في الاعتقاد الحاصل بالاستدلال وإن لم تكن علما فيمتنع أن تكون منافية له معارضة له وإن أردت بالعقل الذي هو دليل السمع وأصله المعرفة الحاصلة بالعقل فيقال له من المعلوم أنه",
+  "ar_after": "وأمثال ذلك وإذا كان كذلك لم تكن جميع المعقولات أصلا للنقل لا بمعنى توقف العلم بالسمع عليها ولا بمعنى الدلالة على صحته ولا بغير ذلك لا سيما عند كثير من متكلمة الإثبات أو أكثرهم كالاشعري في أحد قوليه وكثير من أصحابه أو أكثرهم كالاستاذ أبي المعالي الجوي",
+  "verified_by_itlib": true,
+  "ar_chars": 312
+ },
+ {
+  "id": "T3-05",
+  "work": "DarTacarud",
+  "gloss_en": "[My translation] We state a general, universal proposition: the established texts of the Messenger have never been contradicted by any clear rational proposition, let alone been preferred over it.",
+  "what_it_says": "His own universal statement, given in his own words as 'a general universal proposition' (qawl 'amm kulli), in contrast to the theologians' 'qanun'.",
+  "why_relevant": "This is the closest thing to his own 'universal rule' in DarTacarud, and it is phrased as a claim about established (thabita) texts and clear (sarih) reason, not about all reason.",
+  "stance": "own view",
+  "limits": "The claim is restricted: 'established' texts and 'clear' reason. He adds that apparent conflicts come from 'shubah' and 'khayalat' (fallacies and imaginings). The claim is a conviction he then tries to argue for in the following pages, not a demonstrated theorem. Read with T3-06 for the qualification he gives.",
+  "significance": 4,
+  "famous": false,
+  "famous_note": "not checked",
+  "theme": [
+   "E"
+  ],
+  "ref": {
+   "work": "درء تعارض العقل والنقل أو موافقة صحيح المنقول لصريح المعقول",
+   "vol_page": "vol. 1, p. 154",
+   "chapter": "Opening fasl, the answer on the 'universal' form of the claim"
+  },
+  "ar": "نقول قولا عاما كليا إن النصوص الثابتة عن الرسول صلى الله عليه وسلم لم يعارضها قط صريح معقول فضلا عن أن يكون مقدما عليها",
+  "vol_page": "vol. 1, p. 154",
+  "page_start": [
+   1,
+   154
+  ],
+  "page_end": [
+   1,
+   154
+  ],
+  "edition_note": "Edition named in OpenITI header: ed. 'Abd al-Latif 'Abd al-Rahman, Dar al-Kutub al-'Ilmiyya, Beirut 1417/1997, 10 vols. Header says Shamela pagination matches the print ('ترقيم الشاملة موافق للمطبوع'). Page numbers are from OpenITI PageV markers; I did not check page images.",
+  "openiti_versionUri": "0728IbnTaymiyya.DarTacarud.ShamAY0033865-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.DarTacarud/0728IbnTaymiyya.DarTacarud.ShamAY0033865-ara1",
+  "offset_start": 145278,
+  "offset_end": 145399,
+  "ar_before": "ل أحد بقصوره وتقصيره في هذا الباب وبما وقع فيه من أصحابه وغير أصحابه من الإضطراب ففي الجملة النصوص الثابتة في الكتاب والسنة لا يعارضها معقول بين قط ولا يعارضها إلا ما فيه اشتباه واضطراب وما علم أنه حق لا يعارضه ما فيه اضطراب واشتباه لم يعلم أنه حق بل",
+  "ar_after": "وإنما الذي يعارضها شبه وخيالات مبناها على معان متشابهة وألفاظ مجملة فمتى وقع الإستفسار والبيان ظهر أن ما عارضها شبه سوفسطائية لا براهين عقلية ومما يوضح هذا الوجه التاسع وهو أن يقال القول بتقديم الإنسان لمعقوله على النصوص النبيوية قول لا ينضبط",
+  "verified_by_itlib": true,
+  "ar_chars": 119
+ },
+ {
+  "id": "T3-06",
+  "work": "DarTacarud",
+  "gloss_en": "[My translation] Clear reason does not contradict sound transmission; contradiction arises only between what enters into transmission but is not part of it, and what enters into reason but is not part of it.",
+  "what_it_says": "A sharp formula: clear reason never contradicts sound transmission. Apparent contradictions come from things that are only claimed to be 'transmitted' or 'rational' without being so.",
+  "why_relevant": "Gives the core of his principle in a compact form, and shows that the criterion is what really counts as reason or as transmission.",
+  "stance": "own view",
+  "limits": "The quote is in a long argument about the eternity or origin of the world, and the concluding remark is a general statement. The phrase 'ma yadkhulu fi al-sam' wa-laysa minhu' is ambiguous: I read it as 'what is claimed to belong to transmission but does not truly belong to it'. Orchestrator should check the Arabic against the page image.",
+  "significance": 5,
+  "famous": false,
+  "famous_note": "not checked",
+  "theme": [
+   "E"
+  ],
+  "ref": {
+   "work": "درء تعارض العقل والنقل أو موافقة صحيح المنقول لصريح المعقول",
+   "vol_page": "vol. 2, p. 363",
+   "chapter": "Discussion of the impossibility of an infinite series of events (dawam al-hawadith), vol. 2 p. 363"
+  },
+  "ar": "وأن صريح المعقول لا يناقض صحيح المنقول وإنما يقع التناقض بين ما يدخل في السمع وليس منه وما يدخل في العقل وليس منه",
+  "vol_page": "vol. 2, p. 363",
+  "page_start": [
+   2,
+   363
+  ],
+  "page_end": [
+   2,
+   363
+  ],
+  "edition_note": "Edition named in OpenITI header: ed. 'Abd al-Latif 'Abd al-Rahman, Dar al-Kutub al-'Ilmiyya, Beirut 1417/1997, 10 vols. Header says Shamela pagination matches the print ('ترقيم الشاملة موافق للمطبوع'). Page numbers are from OpenITI PageV markers; I did not check page images.",
+  "openiti_versionUri": "0728IbnTaymiyya.DarTacarud.ShamAY0033865-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.DarTacarud/0728IbnTaymiyya.DarTacarud.ShamAY0033865-ara1",
+  "offset_start": 727025,
+  "offset_end": 727140,
+  "ar_before": "هذا كان الدليل على حدوثه قويا والاعتراض الذي اعترض به الأرموي ضعيفا بخلاف الوجوه الدالة على امتناع جنس دوام الحوادث فإن أدلتها ضعيفة واعتراضات غيره عليها قوية وهذا مما يبين أن ما جاءت به الرسل هو الحق وأن الأدلة العقلية الصريحة توافق ما جاءت به الرسل",
+  "ar_after": "كالذين جعلوا من السمع أن الرب لم يزل معطلا عن الكلام والفعل لا يتكلم بمشيئته ولا يفعل بمشيئته بل ولا يمكنه عندهم أنه لا يزال يتكلم بمشيئته ويفعل بمشيئته فجعل هؤلاء هذا قول الرسل وليس هو قولهم وجعل هؤلاء من المعقول أنه يمتنع دوام كونه قادرا على الكلام",
+  "verified_by_itlib": true,
+  "ar_chars": 113
+ },
+ {
+  "id": "T3-07",
+  "work": "DarTacarud",
+  "gloss_en": "[My translation] The dispute is verbal: looking/reflection (al-nazar) is obligatory as a means, a wujub al-wasa'il (in the way that what a duty needs is obligatory); knowledge is obligatory as an end, wujub al-maqasid. So the first obligation in the sense of means is reflection, and in the sense of ends it is knowledge.",
+  "what_it_says": "Resolves the dispute on 'the first obligation' by distinguishing obligation as a means from obligation as an end.",
+  "why_relevant": "Answers part (3): reflection (nazar) is not the first obligation in the sense of what is sought; knowledge of God is the end. Pairs with T3-12, where he says it is not the first obligation.",
+  "stance": "own view",
+  "limits": "He first reports a long list of positions (reflection, intention to reflect, doubt according to Abu Hashim, spontaneous knowledge according to others). The quoted sentence is his own resolution. He calls the dispute verbal (lafzi).",
+  "significance": 4,
+  "famous": false,
+  "famous_note": "not checked",
+  "theme": [
+   "E"
+  ],
+  "ref": {
+   "work": "درء تعارض العقل والنقل أو موافقة صحيح المنقول لصريح المعقول",
+   "vol_page": "vol. 7, p. 352",
+   "chapter": "Discussion of the first obligation (awwal wajib) (vol. 7, p. 352)"
+  },
+  "ar": "والنزاع لفظي فإن النظر واجب وجوب الوسيلة من باب ما لا يتم الواجب إلا به والمعرفة واجبة وجوب المقاصد فأول واجب وجوب الوسائل هو النظر وأول واجب وجوب المقاصد هو المعرفة",
+  "vol_page": "vol. 7, p. 352",
+  "page_start": [
+   7,
+   352
+  ],
+  "page_end": [
+   7,
+   352
+  ],
+  "edition_note": "Edition named in OpenITI header: ed. 'Abd al-Latif 'Abd al-Rahman, Dar al-Kutub al-'Ilmiyya, Beirut 1417/1997, 10 vols. Header says Shamela pagination matches the print ('ترقيم الشاملة موافق للمطبوع'). Page numbers are from OpenITI PageV markers; I did not check page images.",
+  "openiti_versionUri": "0728IbnTaymiyya.DarTacarud.ShamAY0033865-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.DarTacarud/0728IbnTaymiyya.DarTacarud.ShamAY0033865-ara1",
+  "offset_start": 2397016,
+  "offset_end": 2397185,
+  "ar_before": "م من الطوائف من أصحاب أحمد ومالك والشافعي وأبي حنيفة وغيرهم إلى أنها لا تحصل إلا بالنظر وهؤلاء يقولون في أول واجب على العبد هل هو النظر والاستدلال المؤدي إلى معرفة الله أو المعرفة وقد تنازعوا في ذلك على قولين ذكرهما هؤلاء الطوائف من أصحاب أحمد وغيرهم",
+  "ar_after": "ومن هؤلاء من يقول أول واجب هو القصد إلى النظر وهو أيضا نزاع لفظي فإن العمل الاختياري مطلقا مشروط بالإرادة وحكى عن أبي هاشم أنه قال أول الواجبات الشك وقال كثير من أهل الكلام والصوفية والشيعة وغيرهم إن المعرفة يبتديها الله اختراعا في قلوب العقلاء البال",
+  "verified_by_itlib": true,
+  "ar_chars": 165
+ },
+ {
+  "id": "T3-08",
+  "work": "DarTacarud",
+  "gloss_en": "[My translation] Such people may cause others to doubt what is known to them by necessary fitra. The messengers were sent to complete and establish the fitra, not to corrupt or change it.",
+  "what_it_says": "The messengers' mission is to complete the natural disposition, not to damage it. Theoretical argument can produce doubt about what people already know by fitra.",
+  "why_relevant": "Core statement for question (3): the knowledge of God is known by necessary fitra, and the prophets' mission works with it.",
+  "stance": "own view",
+  "limits": "'Such people' (ha'ulaa') refers back to the philosophers and theologians discussed in the preceding lines (the text speaks of 'theoretical' and 'divine science'); the exact antecedent should be checked. The surrounding verses (Q30:30) and the hadith on fitra are quoted just after the passage, not in it.",
+  "significance": 4,
+  "famous": false,
+  "famous_note": "not checked",
+  "theme": [
+   "E"
+  ],
+  "ref": {
+   "work": "درء تعارض العقل والنقل أو موافقة صحيح المنقول لصريح المعقول",
+   "vol_page": "vol. 3, p. 69–70",
+   "chapter": "Discussion on the methods of proving the Creator (vol. 3, pp. 69-70)"
+  },
+  "ar": "قد يورثون الناس شكا فيما هو معلوم لهم بالفطرة الضرورية والرسل صلوات الله عليهم وسلامه بعثوا بتكميل الفطرة وتقريرها لا بإفسادها وتغييرها",
+  "vol_page": "vol. 3, p. 69–70",
+  "page_start": [
+   3,
+   69
+  ],
+  "page_end": [
+   3,
+   70
+  ],
+  "edition_note": "Edition named in OpenITI header: ed. 'Abd al-Latif 'Abd al-Rahman, Dar al-Kutub al-'Ilmiyya, Beirut 1417/1997, 10 vols. Header says Shamela pagination matches the print ('ترقيم الشاملة موافق للمطبوع'). Page numbers are from OpenITI PageV markers; I did not check page images.",
+  "openiti_versionUri": "0728IbnTaymiyya.DarTacarud.ShamAY0033865-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.DarTacarud/0728IbnTaymiyya.DarTacarud.ShamAY0033865-ara1",
+  "offset_start": 819660,
+  "offset_end": 819813,
+  "ar_before": "في غير هذا الموضع وهؤلاء تجدهم مع كثرة كلامهم في النظريات والعقليات وتعظيمهم للعلم الإلهي الذي هو سيد العلوم وأعلاها أشرفها واسناها لا يحققون ما هو المقصود منه بل لا يحققون ما هو المعلوم لجماهير الخلائق وان اثبتوه طولوا فيه الطريق مع إمكان تقصيرها بل",
+  "ar_after": "قال تعالى { فأقم وجهك للدين حنيفا فطرة الله التي فطر الناس عليها لا تبديل لخلق الله ذلك الدين القيم ولكن أكثر الناس لا يعلمون منيبين إليه واتقوه وأقيموا الصلاة ولا تكونوا من المشركين من الذين فرقوا دينهم وكانوا شيعا كل حزب بما لديهم فرحون } سورة الرو",
+  "verified_by_itlib": true,
+  "ar_chars": 135
+ },
+ {
+  "id": "T3-09",
+  "work": "DarTacarud",
+  "gloss_en": "[My translation] Razi proved the Creator in five ways, all based on one premise. The first is the proof from the origination of entities (dhawat), like the proof from the origination of bodies, which rests on the origination of accidents such as motion and rest and on the impossibility of an infinite regress. This is the method of the Mu'tazila and of those Ash'aris who agree with them, such as Abu al-Ma'ali, on the basis that the bodies of the world are originated and that whatever is originated has an originator.",
+  "what_it_says": "Ibn Taymiyya's summary of Razi's first proof (origination of bodies via accidents and infinite regress), and of its school.",
+  "why_relevant": "Identifies the theologians' 'jawhar/'arad' proof that he later criticises (T3-10, T3-14).",
+  "stance": "reports opponent",
+  "limits": "Summary in Ibn Taymiyya's words, not a quotation of Razi. I did not check Razi's text (al-Matalib al-'aliya or other). Ibn Taymiyya says the second premise (contingency needs a cause) is 'more evident', so do not present this passage as his rejection of every step of the argument.",
+  "significance": 3,
+  "famous": false,
+  "famous_note": "not checked",
+  "theme": [
+   "E"
+  ],
+  "ref": {
+   "work": "درء تعارض العقل والنقل أو موافقة صحيح المنقول لصريح المعقول",
+   "vol_page": "vol. 3, p. 71–72",
+   "chapter": "Commentary on Razi (vol. 3, pp. 71-72)"
+  },
+  "ar": "الاول الاستدلال بحدوث الذوات كالاستدلال بحدوث الأجسام المبني على حدوث الاعراض كالحركة والسكون وامتناع مالا نهاية له وهذا طريق المعتزلة ومن وافقهم من الاشعرية كأبي المعالي بناء على أن أجسام العالم محدثة وكل محدث فله محدث",
+  "vol_page": "vol. 3, p. 71–72",
+  "page_start": [
+   3,
+   71
+  ],
+  "page_end": [
+   3,
+   72
+  ],
+  "edition_note": "Edition named in OpenITI header: ed. 'Abd al-Latif 'Abd al-Rahman, Dar al-Kutub al-'Ilmiyya, Beirut 1417/1997, 10 vols. Header says Shamela pagination matches the print ('ترقيم الشاملة موافق للمطبوع'). Page numbers are from OpenITI PageV markers; I did not check page images.",
+  "openiti_versionUri": "0728IbnTaymiyya.DarTacarud.ShamAY0033865-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.DarTacarud/0728IbnTaymiyya.DarTacarud.ShamAY0033865-ara1",
+  "offset_start": 820989,
+  "offset_end": 821226,
+  "ar_before": "زلي كما أنه مركوز في الفطرة مستقر في القلوب فبراهينه وأدلته متعددة جدا ليس هذا موضعها وهؤلاء عامة ما يذكرونه من الطرق أما ان يكون فيه خلل واما ان يكون طويلا كثير التعب والغالب عليهم الاول فالرازي أثبت الصانع بخمسة مسالك وهي كلها مبينة على مقدمة واحدة",
+  "ar_after": "أما المقدمة الاولى فقد تبين كلامهم فيها ومناقضة بعضهم بعضا وانهم التزموا لأجلها أما جحد صفات الله وأفعاله القائمة به وإما جحد بعض ذلك وأنهم اشترطوا في خلق الله تعالى للعالم ما ينافي خلق العالم فسلطوا عليهم أهل الملل والفلاسفة جميعا وأما الثانية فهي أ",
+  "verified_by_itlib": true,
+  "ar_chars": 219
+ },
+ {
+  "id": "T3-10",
+  "work": "DarTacarud",
+  "gloss_en": "[My translation] As for the first premise, their statements on it have been shown to be contradictory, and they were compelled by it either to deny God's attributes and the actions that subsist in Him, or to deny some of them. They also imposed conditions on God's creation of the world that contradict the creation of the world; so both the people of the religions and the philosophers were set against them.",
+  "what_it_says": "His assessment of the first premise of the proof from origination: it is internally inconsistent and forces denial of God's attributes and actions, or else it sets conditions that contradict creation.",
+  "why_relevant": "Criticism of the theologians' proof from origination (question 4). Limited to the first premise.",
+  "stance": "own view",
+  "limits": "In this passage he does not reject the conclusion that the world is originated; he states right after the passage that the second premise is 'more evident and clearer to minds'. Do not present this as a rejection of the proof from creation. The phrase 'fa-sallatu 'alayhim' is rhetorical.",
+  "significance": 4,
+  "famous": false,
+  "famous_note": "not checked",
+  "theme": [
+   "E"
+  ],
+  "ref": {
+   "work": "درء تعارض العقل والنقل أو موافقة صحيح المنقول لصريح المعقول",
+   "vol_page": "vol. 3, p. 72",
+   "chapter": "Commentary on Razi (vol. 3, p. 72)"
+  },
+  "ar": "أما المقدمة الاولى فقد تبين كلامهم فيها ومناقضة بعضهم بعضا وانهم التزموا لأجلها أما جحد صفات الله وأفعاله القائمة به وإما جحد بعض ذلك وأنهم اشترطوا في خلق الله تعالى للعالم ما ينافي خلق العالم فسلطوا عليهم أهل الملل والفلاسفة جميعا",
+  "vol_page": "vol. 3, p. 72",
+  "page_start": [
+   3,
+   72
+  ],
+  "page_end": [
+   3,
+   72
+  ],
+  "edition_note": "Edition named in OpenITI header: ed. 'Abd al-Latif 'Abd al-Rahman, Dar al-Kutub al-'Ilmiyya, Beirut 1417/1997, 10 vols. Header says Shamela pagination matches the print ('ترقيم الشاملة موافق للمطبوع'). Page numbers are from OpenITI PageV markers; I did not check page images.",
+  "openiti_versionUri": "0728IbnTaymiyya.DarTacarud.ShamAY0033865-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.DarTacarud/0728IbnTaymiyya.DarTacarud.ShamAY0033865-ara1",
+  "offset_start": 821229,
+  "offset_end": 821466,
+  "ar_before": "وهي كلها مبينة على مقدمة واحدة الاول الاستدلال بحدوث الذوات كالاستدلال بحدوث الأجسام المبني على حدوث الاعراض كالحركة والسكون وامتناع مالا نهاية له وهذا طريق المعتزلة ومن وافقهم من الاشعرية كأبي المعالي بناء على أن أجسام العالم محدثة وكل محدث فله محدث",
+  "ar_after": "وأما الثانية فهي أظهر وأعرف وأبده في العقول من أن تحتاج إلى بيان فبنوها على أن كل محدث فهو ممكن الوجود وأن الممكن يحتاج في وجوده إلى مؤثر موجود وكل من هاتين المقدمتين صحيحة في نفسها مع أن القول بافتقار المحدث إلى المحدث أبين وأظهر في العقل من القول ب",
+  "verified_by_itlib": true,
+  "ar_chars": 231
+ },
+ {
+  "id": "T3-11",
+  "work": "DarTacarud",
+  "gloss_en": "[My translation] The point here is that what the Messenger brought is the truth agreeing with clear reason, and that what he set out of signs, proofs and rational demonstrations about the existence of the Creator is beyond the reach of minds; and that the best of what the masters among the ancients and moderns, philosophers and theologians, have is part of it, but they dress truth in falsehood. Likewise, the method of inferring the Creator from the origination of originated things is a fitri and necessary (daruri) method; it is the best of what they have, and they have no other sound method, but they introduced into it disorder and corruption.",
+  "what_it_says": "Ibn Taymiyya affirms that the inference from originated things to a Creator is fitri and necessary in its basic form, while holding that the theologians' version is corrupted.",
+  "why_relevant": "Important for fairness: it shows he does not reject the basic inference from creation; he rejects the form (accidents, infinite regress) used by the kalam. Also gives a fitra statement for question (3).",
+  "stance": "own view",
+  "limits": "The word 'qult' ('I say') that introduces his own voice comes just before the quoted span and is not in it. 'Al-maqsud huna' ('the point here') introduces his summary of Razi's fifth proof. The phrase 'khiyar ma 'indahum' means 'the best of what they have'.",
+  "significance": 5,
+  "famous": false,
+  "famous_note": "not checked",
+  "theme": [
+   "E"
+  ],
+  "ref": {
+   "work": "درء تعارض العقل والنقل أو موافقة صحيح المنقول لصريح المعقول",
+   "vol_page": "vol. 3, p. 86",
+   "chapter": "Commentary on Razi, after the five ways (vol. 3, p. 86)"
+  },
+  "ar": "والمقصود هنا التنبيه على أن ما جاء به الرسول صلى الله عليه وسلم هو الحق الموافق لصريح المعقول وأن ما بينه من الآيات والدلائل والبراهين العقلية في إثبات الصانع سبحانه ومعرفة صفاته وأفعاله هو فوق نهاية العقول وأن خيار ما عند حذاق الأولين والآخرين من الفلاسفة والمتكلمين هو بعض ما فيه لكنهم يلبسون الحق بالباطل فلا يأتون به على وجهه كما أن طريقة الاستدلال بحدوث المحدثات على إثبات الصانع الخالق هي طريقة فطرية ضرورية وهي خيار ما عندهم بل ليس عندهم طريقة صحيحة غيرها لكنهم أدخلوا فيها من الاختلال والفساد ما يعرفه أهل التحقيق والانتقاد",
+  "vol_page": "vol. 3, p. 86",
+  "page_start": [
+   3,
+   86
+  ],
+  "page_end": [
+   3,
+   86
+  ],
+  "edition_note": "Edition named in OpenITI header: ed. 'Abd al-Latif 'Abd al-Rahman, Dar al-Kutub al-'Ilmiyya, Beirut 1417/1997, 10 vols. Header says Shamela pagination matches the print ('ترقيم الشاملة موافق للمطبوع'). Page numbers are from OpenITI PageV markers; I did not check page images.",
+  "openiti_versionUri": "0728IbnTaymiyya.DarTacarud.ShamAY0033865-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.DarTacarud/0728IbnTaymiyya.DarTacarud.ShamAY0033865-ara1",
+  "offset_start": 833716,
+  "offset_end": 834261,
+  "ar_before": "مفترقا أخرى ومتحركا تارة وساكنا أخرى وهذا مبسوط في غير هذا الموضع قال الرازي والطريقة الخامسة وهي عند التحقيق عائدة إلى الطرق الأربع وهي الاستدلال بما في العالم من الإحكام والإتقان على علم الفاعل والذي يدل على علم الفاعل هو بالدلالة على ذاته أولى قلت",
+  "ar_after": "الذين آتاهم الله الهدى والسداد وقد بسط الكلام على هذه المطالب في غير هذا الموضع فصل وأما ما تكلموا به في وجود واجب الوجود وتحيرهم فيه هل وجوده حقيقته أو زائد على حقيقته وفي صفاته وأفعاله فهذا بحر واسع قد بسطناه في غير هذا الموضع وقد اعترف الرا",
+  "verified_by_itlib": true,
+  "ar_chars": 531
+ },
+ {
+  "id": "T3-12",
+  "work": "MajmucFatawa",
+  "gloss_en": "[My translation] This verse also shows that reflection is not the first obligation. The first thing God commanded His Prophet, 'Read in the name of your Lord', does not say 'reflect and infer until you know the Creator'. So those addressed by this sura were not commanded to reflect and infer.",
+  "what_it_says": "Argues from the first revelation that God's first command was to read, not to reflect, so reflection is not the first obligation.",
+  "why_relevant": "Direct statement for question (3): the first obligation is not nazar. He ties this to the view that knowledge of the Creator is fitri and necessary for many people.",
+  "stance": "own view",
+  "limits": "The section heading is not verified; the surrounding text is a commentary on the first verses of al-'Alaq. The preceding line (not in the quote) says that the acknowledgement of the Creator is 'fitri daruri' in people's souls, and that some people's fitra is corrupted and needs reflection. He also says this is the view of most people and of 'hudhdhaq al-nuzzar' (skilled theorists). The 'first obligation' issue is treated again in T3-07.",
+  "significance": 4,
+  "famous": false,
+  "famous_note": "not checked",
+  "theme": [
+   "E"
+  ],
+  "ref": {
+   "work": "مجموع الفتاوى",
+   "vol_page": "vol. 16, p. 327",
+   "chapter": "Commentary on Surah al-'Alaq (Q96:1), inferred from the text"
+  },
+  "ar": "وهذه الآية أيضا تدل على أنه ليس النظر أول واجب بل أول ما أوجب الله على نبيه صلى الله عليه وسلم {اقرأ باسم ربك} لم يقل \" انظر واستدل حتى تعرف الخالق \" وكذلك هو أول ما بلغ هذه السورة. فكان المبلغون مخاطبين بهذه الآية قبل كل شيء ولم يؤمروا فيها بالنظر والاستدلال",
+  "vol_page": "vol. 16, p. 327",
+  "page_start": [
+   16,
+   327
+  ],
+  "page_end": [
+   16,
+   327
+  ],
+  "edition_note": "Majma' al-Malik Fahd edition, ed. 'Abd al-Rahman b. Muhammad b. Qasim (per OpenITI header; header says pagination matches the print). Page numbers from OpenITI PageV markers.",
+  "openiti_versionUri": "0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.MajmucFatawa/0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+  "offset_start": 8483557,
+  "offset_end": 8483829,
+  "ar_before": "ر والاعتراف بالخالق فطري ضروري في نفوس الناس وإن كان بعض الناس قد يحصل له ما يفسد فطرته حتى يحتاج إلى نظر تحصل له به المعرفة. وهذا قول جمهور الناس وعليه حذاق النظار أن المعرفة تارة تحصل بالضرورة وتارة بالنظر كما اعترف بذلك غير واحد من أئمة المتكلمين.",
+  "ar_after": ". وقد ذهب كثير من أهل الكلام إلى أن اعتراف النفس بالخالق وإثباتها له لا يحصل إلا بالنظر. ثم كثير منهم جعلوا ذلك نظرا مخصوصا وهو النظر في الأعراض وأنها لازمة للأجسام فيمتنع وجود الأجسام بدونها. قالوا: وما لا يخلو عن الحوادث أو ما لا يسبق الحوادث فهو ح",
+  "verified_by_itlib": true,
+  "ar_chars": 259
+ },
+ {
+  "id": "T3-13",
+  "work": "MajmucFatawa",
+  "gloss_en": "[My translation] Some of them held this premise to be self-evident, and did not distinguish between a determinate originated thing, a bounded one, and a continuous series of things one after another, either thinking it impossible or not considering it. But even if it is said to be impossible, knowing that is not self-evident. What is self-evident is that a thing with a bounded starting point is originated, and that what does not precede a bounded set of originated things is originated.",
+  "what_it_says": "He criticises the theologians' premise that 'whatever does not precede originated events is originated': it is not self-evident, and the impossibility of an infinite past series needs proof.",
+  "why_relevant": "Gives a precise criticism of the kalam premise used in the proof from accidents (question 4).",
+  "stance": "own view",
+  "limits": "The quoted premise ('ma la yakhlu 'an al-hawadith aw ma la yasbiq al-hawadith fa-huwa hadith') is set just before the quote and is reported; the criticism is his. He does not in this passage say that the world is eternal; he says the proof is not self-evident and requires argument, which is compatible with his views elsewhere. Note that the text is dense and the quote uses 'al-jins al-muttasil' for a continuous series.",
+  "significance": 4,
+  "famous": false,
+  "famous_note": "not checked",
+  "theme": [
+   "E"
+  ],
+  "ref": {
+   "work": "مجموع الفتاوى",
+   "vol_page": "vol. 16, p. 328",
+   "chapter": "Commentary on Surah al-'Alaq (vol. 16, p. 328)"
+  },
+  "ar": "ثم منهم من اعتقد أن هذه المقدمة بينة بنفسها بل ضرورية ولم يميز بين الحادث المعين والمحدود وبين الجنس المتصل شيئا بعد شيء إما لظنه أن هذا ممتنع أو لعدم خطوره بقلبه. لكن وإن قيل هو ممتنع فليس العلم بذلك بديهيا",
+  "vol_page": "vol. 16, p. 328",
+  "page_start": [
+   16,
+   328
+  ],
+  "page_end": [
+   16,
+   328
+  ],
+  "edition_note": "Majma' al-Malik Fahd edition, ed. 'Abd al-Rahman b. Muhammad b. Qasim (per OpenITI header; header says pagination matches the print). Page numbers from OpenITI PageV markers.",
+  "openiti_versionUri": "0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.MajmucFatawa/0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+  "offset_start": 8484108,
+  "offset_end": 8484321,
+  "ar_before": "د ذهب كثير من أهل الكلام إلى أن اعتراف النفس بالخالق وإثباتها له لا يحصل إلا بالنظر. ثم كثير منهم جعلوا ذلك نظرا مخصوصا وهو النظر في الأعراض وأنها لازمة للأجسام فيمتنع وجود الأجسام بدونها. قالوا: وما لا يخلو عن الحوادث أو ما لا يسبق الحوادث فهو حادث.",
+  "ar_after": ". وإنما العلم البديهي أن الحادث الذي له مبدأ محدود كالحادث. والحوادث المقدرة من حين محدود فتلك ما لا يسبقها فهو حادث. وما لا يخلو منها لم يسبقها فهو حادث. فإنه إذا لم يسبقها كان معها أو متأخرا عنها. وعلى التقديرين فهو حادث. وأما إذا قدر حوادث دائمة ش",
+  "verified_by_itlib": true,
+  "ar_chars": 207
+ },
+ {
+  "id": "T3-14",
+  "work": "MinhajSunna",
+  "gloss_en": "[My translation] But proving it through the Jahmi-Mu'tazili method, the method of accidents, motion and rest, which rests on the claim that bodies are originated because they do not precede events, and on the impossibility of an infinite series of events, is an innovation in the Law by the agreement of the people of knowledge of the Sunna; and it is a dangerous and frightening method in reason, blamed even by many groups, though its falsity may not be obvious because of the multiplicity and obscurity of its premises.",
+  "what_it_says": "A judgement: the accident-based proof of creation is an innovation in religion and dangerous in reason, though its falsity is not self-evident.",
+  "why_relevant": "A direct and quotable statement of his view on the kalam's proof of creation (question 4), with the qualification that its falsity is not obvious.",
+  "stance": "own view",
+  "limits": "Ibn Taymiyya's own judgement, not a neutral report. He labels the method 'Jahmi-Mu'tazili', which is polemical; the Ash'ari dispute (al-Ash'ari in his Risala to the people of the frontier) is mentioned in the next lines, and he cites others who disputed it. The claim of consensus ('ittifaq ahl al-'ilm bil-sunna') is his own. Edition page not checked against print.",
+  "significance": 5,
+  "famous": false,
+  "famous_note": "not checked",
+  "theme": [
+   "E"
+  ],
+  "ref": {
+   "work": "منهاج السنة النبوية",
+   "vol_page": "vol. 1, p. 302",
+   "chapter": "Discussion of the Jahmi/Mu'tazili method of proof from accidents (vol. 1, pp. 302-303)"
+  },
+  "ar": "ولكن الاستدلال على ذلك بالطريقة الجهمية المعتزلية طريقة الأعراض والحركة والسكون التي مبناها على أن الأجسام محدثة لكونها لا تخلو عن الحوادث وامتناع حوادث لا أول لها طريقة مبتدعة في الشرع باتفاق أهل العلم بالسنة وطريقة مخطرة مخوفة في العقل بل مذمومة عند طوائف كثيرة وإن لم يعلم بطلانها لكثرة مقدماتها وخفائها",
+  "vol_page": "vol. 1, p. 302",
+  "page_start": [
+   1,
+   302
+  ],
+  "page_end": [
+   1,
+   302
+  ],
+  "edition_note": "OpenITI text from Shamela al-Zaydiyya (header: bkid 108, 'al-Maktaba al-Shamela al-Zaydiyya'). Printed edition not named in header. Inline page markers such as '(1/302)' and '(1/303)' appear in the text and agree with the OpenITI PageV markers used here. Page to be checked against a print edition before citing.",
+  "openiti_versionUri": "0728IbnTaymiyya.MinhajSunna.Zaydiyya0000108-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.MinhajSunna/0728IbnTaymiyya.MinhajSunna.Zaydiyya0000108-ara1",
+  "offset_start": 245377,
+  "offset_end": 245691,
+  "ar_before": "إنه يخلق بمشيئته وقدرته كما يقوله المسلمون وغيرهم أو قيل إنه موجب بذاته أو علة مستلزمة للمعلول أو سمى مؤثرا لكون لفظ التأثير يعم هذه الأنواع فيدخل فيه الفاعل باختياره ويدخل فيه بذاته وغير ذلك بل هو المختص بالقدم الذي استحق ما سواه كونه مسبوقا بالعدم",
+  "ar_after": "والنزاع فيها عند كثير من أهل النظر كالأشعري في رسالته إلى أهل الثغر ومن سلك سبيله في ذلك كالخطابي وأبي عمر (1/303) الطلمنكي وغيرهم وهي طريقة باطلة في الشرع والعقل عند محققي الأئمة العالمين بحقائق المعقول والمسموع والاستدلال بهذه الطريق أوجب نفي صفات",
+  "verified_by_itlib": true,
+  "ar_chars": 306
+ },
+ {
+  "id": "T3-15",
+  "work": "QacidaJamicaFiTawhid",
+  "gloss_en": "[My translation] It is known by fitra that every made thing must have a maker, as God said: 'Were they created from nothing, or are they the creators?' (Q52:35). Some theologians proved this by analogy and by example. Proof of it is possible and its evidences are many, but the fitra, when it is sound, affirms it more strongly; it is more self-evident (abdah) to it, and it is more compelling to it than analogy (mithal).",
+  "what_it_says": "The knowledge that every made thing has a maker is known by fitra; the fitra, when sound, affirms it more strongly than the theologians' proofs by analogy.",
+  "why_relevant": "Answers question (3) with a second text. Shows that he regards analogy as possible but weaker than the fitra.",
+  "stance": "own view",
+  "limits": "WARNING: the Shamela text contains an unrelated insertion right after the passage (on usul al-fiqh and 'ilat al-shar'i), so the page image must be checked. The Quranic quotation is his. 'Al-mithal' here means the analogy/example (of the theologians); the word 'abdah' is hard to render, and my translation is provisional.",
+  "significance": 3,
+  "famous": false,
+  "famous_note": "not checked",
+  "theme": [
+   "E"
+  ],
+  "ref": {
+   "work": "قاعدة جامعة في توحيد الله وإخلاص الوجه والعمل له عبادة واستعانة",
+   "vol_page": "vol. 1, p. 79–80",
+   "chapter": "Treatise on tawhid, passage on fitra (pp. 79-80)"
+  },
+  "ar": "ولهذا كان معلوما بالفطرة أنه لابد لكل مصنوع من صانع، كما قال تعالى: {أم خلقوا من غير شيء أم هم الخالقون} [الطور: 35] ، يقول: أخلقوا من غير خالق خلقهم، أم هم خلقوا أنفسهم؟ ومن المتكلمين من استدل على هذا المطلوب بالقياس، وضرب المثال، والاستدلال عليه ممكن ودلائله كثيرة، والفطرة عند صحتها أشد إقرارا به، وهو لها أبده، وهى إليه أشد اضطرارا من المثال",
+  "vol_page": "vol. 1, p. 79–80",
+  "page_start": [
+   1,
+   79
+  ],
+  "page_end": [
+   1,
+   80
+  ],
+  "edition_note": "OpenITI text from Shamela (header: publisher Dar al-'Asima, Riyadh; editor not recorded in the header). Page numbers are OpenITI PageV markers (single volume).",
+  "openiti_versionUri": "0728IbnTaymiyya.QacidaJamicaFiTawhid.Shamela0011285-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.QacidaJamicaFiTawhid/0728IbnTaymiyya.QacidaJamicaFiTawhid.Shamela0011285-ara1",
+  "offset_start": 43882,
+  "offset_end": 44251,
+  "ar_before": "ا إلا لضعف المقتضى، وكل ما ذكرته واضح بين، إلا هذا الموضع ففيه غموض يتبين عند التأمل وله طرفان: أحدهما: أن الموجود لا يكون سببه عدما محضا. والثانى: أن الموجود لا يكون سببا للعدم المحض، وهذا معلوم بالبديهة أن الكائنات الموجودة لا تصدر إلا عن حق موجود.",
+  "ar_after": "الذى يقاس به. اختلاف الأصوليين في العلة الشرعية: وقد اختلف أهل الأصول فى العلة الشرعية، هل يجوز تعلىل الحكم الوجودى بالوصف العدمى فيها مع قولهم: إن العدمى يعلل بالعدمى؟ فمنهم من قال: يعلل به، ومنهم من أنكر ذلك، ومنهم من فصل بين ما لا يجوز أن يكون علة",
+  "verified_by_itlib": true,
+  "ar_chars": 345
+ }
+]

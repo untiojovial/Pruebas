@@ -1,0 +1,62 @@
+[
+  {
+    "id": "DarTacarud",
+    "title_ar": "درء تعارض العقل والنقل",
+    "title_es_or_en": "Dar' ta'arud al-'aql wa-l-naql (Averting the Conflict between Reason and Revelation)",
+    "edition_note": "Header: Dar al-Kutub al-Ilmiyya, Beirut 1417 AH (ed. Abd al-Latif Abd al-Rahman); page refs are the OpenITI PageV markers (vol.page), 10-vol. print edition as reflected in the header. Printed page numbers not checked against a page image.",
+    "genre": "theology / polemic (usul al-din)",
+    "notes": "Ibn Taymiyya's own work. Contains long reports of kalam and philosophical positions which he then critiques; passages used are marked by stance. No editorial headings in the spans used.",
+    "openiti_versionUri": "0728IbnTaymiyya.DarTacarud.ShamAY0033865-ara1",
+    "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.DarTacarud/0728IbnTaymiyya.DarTacarud.ShamAY0033865-ara1"
+  },
+  {
+    "id": "Istighatha",
+    "title_ar": "الاستغاثة في الرد على البكري",
+    "title_es_or_en": "Al-Istighatha fi al-Radd ala al-Bakri (Refutation of al-Bakri on seeking help from the dead)",
+    "edition_note": "Header: Dar al-Minhaj, Riyadh, 1st ed. 1426 AH, study and ed. Abd Allah ibn Dujayn al-Sahli; header says numbering matches the print edition. Page refs = OpenITI PageV markers (single volume).",
+    "genre": "polemic (refutation of a Sufi-leaning opponent)",
+    "notes": "Editor's study and numbered summary points (e.g. '11 - القبورية...') are editorial and NOT Ibn Taymiyya's words. The digital text has inline editorial markers ('|| CHECK', '|| AUTO') and footnote markers (¬n); the span used avoids them. Span used is his own text.",
+    "openiti_versionUri": "0728IbnTaymiyya.Istighatha.Sham19Y0018328-ara2",
+    "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.Istighatha/0728IbnTaymiyya.Istighatha.Sham19Y0018328-ara2"
+  },
+  {
+    "id": "MajmucFatawa",
+    "title_ar": "مجموع الفتاوى",
+    "title_es_or_en": "Majmu al-Fatawa (Collected Fatwas)",
+    "edition_note": "Header: Majma al-Malik Fahd, Medina 1416/1995, ed. Abd al-Rahman ibn Muhammad ibn Qasim. Page refs = OpenITI PageV markers (vol.page); volume/page should be checked against the printed 37-vol. set.",
+    "genre": "fatwa collection",
+    "notes": "Mostly Ibn Taymiyya's own answers. Some passages reproduce Quran/hadith/tafsir narrations (Ibn Abbas, Ikrima, Ata, Mujahid) inside his argument. Duplicates of the same texts appear in other works (e.g. Fatawa Kubra, Majmu'at Rasa'il wa-Masa'il). Inline '|' and '###' section markers occur in the digital text.",
+    "openiti_versionUri": "0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+    "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.MajmucFatawa/0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1"
+  },
+  {
+    "id": "MinhajSunna",
+    "title_ar": "منهاج السنة النبوية",
+    "title_es_or_en": "Minhaj al-Sunna al-Nabawiyya",
+    "edition_note": "Header gives source 'al-Maktaba al-Shamela al-Zaydiyya'; no printed edition named in the header. Printed page references appear inside the text as '(vol/page)' (e.g. (3/288)); these are used here. Not checked against a print edition or page image.",
+    "genre": "polemic / theology (refutation of Shia and Qadariyya)",
+    "notes": "Ibn Taymiyya's own work. Long polemic; passage used is his critique of kalam theologians' concept of tawhid.",
+    "openiti_versionUri": "0728IbnTaymiyya.MinhajSunna.Zaydiyya0000108-ara1",
+    "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.MinhajSunna/0728IbnTaymiyya.MinhajSunna.Zaydiyya0000108-ara1"
+  },
+  {
+    "id": "RisalaTadmuriyya",
+    "title_ar": "الرسالة التدمرية",
+    "title_es_or_en": "Al-Tadmuriyya (Tahqiq al-ithbat li-l-asma wa-l-sifat)",
+    "edition_note": "Header: Shamela 0022666, ed. Muhammad ibn Awda al-Sawi; page refs = OpenITI PageV markers (single volume, page 175 used). Printed edition details not in header; check page image.",
+    "genre": "creed treatise (aqida)",
+    "notes": "Ibn Taymiyya's own treatise. Contains a passage quoting Q 9:31 and Q 5:116-117 on Christians before the sentence used here. Digital headings ('| ... |') appear inline and are not his words.",
+    "openiti_versionUri": "0728IbnTaymiyya.RisalaTadmuriyya.Shamela0022666-ara1",
+    "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.RisalaTadmuriyya/0728IbnTaymiyya.RisalaTadmuriyya.Shamela0022666-ara1"
+  },
+  {
+    "id": "SharhCaqidaIsfahaniyya",
+    "title_ar": "شرح العقيدة الأصفهانية",
+    "title_es_or_en": "Commentary on the Isfahani Creed (Sharh al-Aqida al-Isfahaniyya)",
+    "edition_note": "Header: Maktabat Dar al-Minhaj, Riyadh, 1st ed. 1430 AH, ed. Muhammad ibn Awda al-Sawi (listed as best edition). Page refs = OpenITI PageV markers (vol.page). Shamela 'authinf' field wrongly names al-Wahidi; the title/author fields name Ibn Taymiyya.",
+    "genre": "creed commentary (aqida)",
+    "notes": "Ibn Taymiyya's commentary on a creed by another author (the creed text itself is not in the spans used). The digital text contains editorial headings in square brackets preceded by 'AUTO' (e.g. [أنواع التوحيد], [توحيد الصفات]); these are NOT his words and are excluded from the Arabic quoted here. Verify on page image before quoting.",
+    "openiti_versionUri": "0728IbnTaymiyya.SharhCaqidaIsfahaniyya.ShamAY0034392-ara1",
+    "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.SharhCaqidaIsfahaniyya/0728IbnTaymiyya.SharhCaqidaIsfahaniyya.ShamAY0034392-ara1"
+  }
+]

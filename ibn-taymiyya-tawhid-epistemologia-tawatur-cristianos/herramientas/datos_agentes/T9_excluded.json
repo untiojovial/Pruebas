@@ -1,0 +1,100 @@
+[
+  {
+    "id": "T9-C02",
+    "work": "C-creeds",
+    "reason": "Cap of 15: Athanasian 5 (persons) is kept only once; the persons-vs-substance point is covered by T9-C05 (Basil), T9-C09 and T9-C10 (Augustine).",
+    "quote": "For there is one Person of the Father: another of the Son: and another of the Holy Ghost.",
+    "ref": "Athanasian Creed, verse 5 (Latin 'Alia est enim persona Patris: alia Filii: alia Spiritus Sancti.')"
+  },
+  {
+    "id": "T9-C03",
+    "work": "C-creeds",
+    "reason": "Cap of 15: verse 19 alone adds little beyond verse 20 (kept).",
+    "quote": "For like as we are compelled by the Christian verity: to acknowledge every Person by himself to be God and Lord",
+    "ref": "Athanasian Creed, verse 19 (Schaff's English)"
+  },
+  {
+    "id": "T9-C08",
+    "work": "C-gregory-or31",
+    "reason": "Cap of 15: Gregory Or. 31 section IX overlaps with section VI (kept) for the attributes question.",
+    "quote": "The Three are One in Godhead, and the One Three in properties",
+    "ref": "Gregory Nazianzen, Oration 31, section IX"
+  },
+  {
+    "id": "T9-C11",
+    "work": "C-aug-trin5",
+    "reason": "Cap of 15: Augustine De Trin. V.9 overlaps with V.8 (kept).",
+    "quote": "we do not dare to say one essence, three substances, but one essence or substance and three persons",
+    "ref": "Augustine, De Trinitate V.9 (Chapter 9, 'The Three Persons Not Properly So Called [in a Human Sense]'); unnumbered paragraph in NPNF"
+  },
+  {
+    "id": "T9-C13",
+    "work": "C-aquinas-st",
+    "reason": "Cap of 15: Aquinas q.28 a.2 (relations = essence) overlaps with q.39 a.1 (kept).",
+    "quote": "relation really existing in God is really the same as His essence and only differs in its mode of intelligibility",
+    "ref": "Thomas Aquinas, Summa Theologiae I, q.28, a.2 (Whether relation in God is the same as His essence?), respondeo"
+  },
+  {
+    "id": "T9-X-A1",
+    "work": "JawabSahih",
+    "reason": "duplicate formula; kept T9-C17 and T9-C19 instead. Ibn Taymiyya's words 'if you say: we say one in essence, triune in attributes' (vol 3 p.230) - a hypothetical address; useful, but overlaps T9-C18/C19.",
+    "quote": "وإذا قلتم نحن نقول أحدي الذات ثلاثي الصفات، قيل لكم: قد صرحتم بإثبات إله حق من إله حق وبأنه مساو للأب في الجوهر، وهذا تصريح بإثبات جوهر ثاني لا بصفة، فجمعتم بين القولين بين إثبات ثلاثة جواهر، وبين دعوى إثبات جوهر واحد",
+    "ref": "vol. 3, p. 230"
+  },
+  {
+    "id": "T9-X-A3",
+    "work": "JawabSahih",
+    "reason": "Ibn Taymiyya's own rebuttal of the Zayd analogy (vol 3 p.231: 'Zayd is one substance with three attributes; no three substances'); kept only as context for T9-C18 (not separately listed due to cap).",
+    "quote": "فإن زيدا هنا هو جوهر واحد له ثلاث صفات: الطب والحساب والكتابة، وليس هنا ثلاثة جواهر، ولكن لكل صفة حكم ليس للأخرى",
+    "ref": "vol. 3, p. 231"
+  },
+  {
+    "id": "T9-X-A4",
+    "work": "JawabSahih",
+    "reason": "Ibn Taymiyya's own statement (vol 3 p.466) that the attributes are not 'essence-and-attribute hypostases' but that there is one essence with attributes. Good for the straw-man check; dropped for the 15 cap, see T9-C19 for the same point.",
+    "quote": "وليست الصفات أقنوما هو ذات وصفة، بل ليس إلا ذات واحدة لها صفات) متعددة، فالتعدد في الصفات لا في الذات التي يسمونها الجوهر، ولا في الذات والصفة التي يسمونها الأقنوم",
+    "ref": "vol. 3, p. 466"
+  },
+  {
+    "id": "T9-X-LAT2",
+    "work": "C-lateran4-firmiter",
+    "reason": "Not used (cap). Canon 2 against Joachim: reported as 'collective one or one by way of similitude'; kept as T9-C16 instead.",
+    "quote": "not quaternity",
+    "ref": "Fourth Lateran, Canon 2"
+  },
+  {
+    "id": "T9-X-ATH4",
+    "work": "C-creeds",
+    "reason": "Cap of 15; 'Neither confounding the Persons: nor dividing the Substance [Essence]' (Athanasian 4) is good but overlaps with Athanasian 5 (kept) and Basil (kept).",
+    "quote": "Neither confounding the Persons: nor dividing the Substance [Essence].",
+    "ref": "Athanasian Creed, verse 4"
+  },
+  {
+    "id": "T9-X-ATH24",
+    "work": "C-creeds",
+    "reason": "Cap of 15; 'So there is one Father, not three Fathers' (Athanasian 24) duplicates T9-C04 on 'not three'.",
+    "quote": "So there is one Father, not three Fathers: one Son, not three Sons: one Holy Ghost, not three Holy Ghosts.",
+    "ref": "Athanasian Creed, verse 24"
+  },
+  {
+    "id": "T9-X-GREG14",
+    "work": "C-gregory-or31",
+    "reason": "Cap of 15; 'To us there is One God, for the Godhead is One ... though we believe in Three Persons' (Or. 31 XIV) overlaps with section IX (kept).",
+    "quote": "To us there is One God, for the Godhead is One, and all that proceedeth from Him is referred to One, though we believe in Three Persons.",
+    "ref": "Gregory Nazianzen, Or. 31, section XIV"
+  },
+  {
+    "id": "T9-X-AQ28A2OBJ",
+    "work": "C-aquinas-st",
+    "reason": "Cap of 15; 'For there is no accident in God; since all in Him is His essence' (ST I q.28 a.2 respondeo) is strong for 'God not composed of attributes' - recommended if the orchestrator drops another Christian passage.",
+    "quote": "there is no accident in God ; since all in Him is His essence",
+    "ref": "ST I, q.28, a.2, respondeo"
+  },
+  {
+    "id": "T9-X-AQ30A2",
+    "work": "C-aquinas-st",
+    "reason": "Cap of 15; 'Therefore the subsisting paternity is the person of the Father; and the subsisting filiation is the person of the Son' (ST I q.30 a.2 respondeo) duplicates the 'subsisting relation' point of T9-C14.",
+    "quote": "Therefore the subsisting paternity is the person of the Father; and the subsisting filiation is the person of the Son",
+    "ref": "ST I, q.30, a.2, respondeo"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "X-IS-EDITOR-429",
+    "work": "Istighatha",
+    "location": "vol. 1, p. 429",
+    "arabic_excerpt_verbatim": "القبورية من أخطر الطوائف على الإسلام وأهله، وقد جمعوا شرك الطوائف؛ فأشركوا في توحيد الأسماء والصفات وفي توحيد الربوبية والإلهية. وهم أشد وثنية من مشركي العرب، وأكثر خضوعا للأموات من خالق البريات",
+    "why_note": "Editor's numbered summary, not Ibn Taymiyya's words: '...فأشركوا في توحيد الأسماء والصفات وفي توحيد الربوبية والإلهية'. This is the only place I found the exact label 'توحيد الأسماء والصفات' with 'الربوبية' and 'الإلهية' together in a verifiable form in the Istighatha, and it is EDITORIAL. Do not use as Ibn Taymiyya's classification.",
+    "reason": "editorial (editor's summary of the book)"
+  },
+  {
+    "id": "X-TS-798",
+    "work": "Tisciniyya",
+    "location": "vol. 3, p. 798",
+    "arabic_excerpt_verbatim": "فكان الكفار يقرون بتوحيد الربوبية، وهو نهاية ما يثبته هؤلاء المتكلمون -إذا سلموا من البدع فيه- وكانوا مع هذا مشركين",
+    "why_note": "Good parallel text: 'ويقولون: له ولد، وثالث ثلاثة. فكان الكفار يقرون بتوحيد الربوبية...'. Excluded for the 15-passage limit; it is a tafsir-narration (Ibn Abbas, Ata, Ikrima, Mujahid) about the mushrikun, and the 'له ولد وثالث ثلاثة' phrase is not explicitly tied to Christians there.",
+    "reason": "duplicate text (also in Fatawa Kubra vol 6 p.564); limit"
+  },
+  {
+    "id": "X-FK-564",
+    "work": "FatawaKubra",
+    "location": "vol. 6, p. 564",
+    "arabic_excerpt_verbatim": "فكان الكفار يقرون بتوحيد الربوبية وهو نهاية ما يثبته هؤلاء المتكلمون إذا سلموا من البدع فيه وكانوا مع هذا مشركين",
+    "why_note": "Same passage as Tisciniyya vol 3 p.798 in Fatawa Kubra; duplicate.",
+    "reason": "duplicate of Tisciniyya passage"
+  },
+  {
+    "id": "X-MS-V5-326",
+    "work": "MinhajSunna",
+    "location": "vol. 5, p. 326",
+    "arabic_excerpt_verbatim": "بعثوا بتوحيد الألوهية المتضمن توحيد الربوبية وأما توحيد الربوبية مجردا فقد كان المشركون يقرون بأن الله وحده خالق السموات والأرض كما أخبر الله بذلك عنهم",
+    "why_note": "Own view: 'والرسل ... بعثوا بتوحيد الألوهية المتضمن توحيد الربوبية وأما توحيد الربوبية مجردا فقد كان المشركون يقرون بأن الله وحده خالق السموات والأرض'. Strong and close to passage T1-MS-V3-288; excluded for the 15-passage limit and because it is inside a discussion of love (mahabba) and Sufi practice.",
+    "reason": "overlaps with T1-MS-V3-288; limit"
+  },
+  {
+    "id": "X-DT-V3-263",
+    "work": "DarTacarud",
+    "location": "vol. 3, p. 263",
+    "arabic_excerpt_verbatim": "وفيه من بيان توحيد الإلهية ما لم يهتد اليه كثير من النظار ولا العباد بل هو الذي بعث الله به رسله وانزل به كتبه",
+    "why_note": "Own view: the Quran explains tawhid of divinity (uluhiyya) which the messengers brought; relevant to the 'derived from the Quran' question. Not used for the limit; good backup for the Quran-derivation point.",
+    "reason": "limit (backup for Quran-derivation point)"
+  },
+  {
+    "id": "X-DT-V6-55",
+    "work": "DarTacarud",
+    "location": "vol. 6, p. 55",
+    "arabic_excerpt_verbatim": "ولو قدر أنه فناء في توحيد الربوبية المتضمن للإقرار بما بعث الله به رسوله من الأسماء والصفات لم يكن هذا التوحيد وحده موجبا لكون الرجل مسلما",
+    "why_note": "Own view, on Sufi mystics and Ibn Sina's 'Ishara': fana' in tawhid al-rububiyya alone does not make a man a Muslim. Relevant to criterion (b); excluded because it overlaps P13 and P12 and is about Sufi/philosophical texts that need more context.",
+    "reason": "overlaps with T1-IS-162 and T1-SI-V1-130; needs more context"
+  },
+  {
+    "id": "X-MF-V1-22",
+    "work": "MajmucFatawa",
+    "location": "vol. 1, p. 22",
+    "arabic_excerpt_verbatim": "فأما توحيد الربوبية الذي أقر به الخلق، وقرره أهل الكلام؛ فلا يكفي وحده",
+    "why_note": "Own view (preface of the fatwa collection): tawhid al-rububiyya admitted by people and established by kalam theologians 'is not enough by itself'. Relevant to criterion (b); excluded for the 15-passage limit; good backup.",
+    "reason": "limit (backup for criterion (b))"
+  },
+  {
+    "id": "X-MF-V13-212",
+    "work": "MajmucFatawa",
+    "location": "vol. 13, p. 212",
+    "arabic_excerpt_verbatim": "منتهى توحيدهم توحيد المشركين وهو توحيد الربوبية فأما توحيد الإلهية",
+    "why_note": "Own view applied to specific groups (Jabriyya/Qadariyya/Sufi): their tawhid ends at the tawhid of polytheists, which is tawhid al-rububiyya. The statement is about named groups, not a general claim; excluded.",
+    "reason": "about specific groups; needs context"
+  },
+  {
+    "id": "X-MF-V8-99",
+    "work": "MajmucFatawa",
+    "location": "vol. 8, p. 100",
+    "arabic_excerpt_verbatim": "توحيد أهل الكلام المثبتين للقدر والمشيئة من غير إثبات المحبة والبغض والرضى والسخط الذين يقولون: \" التوحيد \" هو توحيد الربوبية. و \" الإلهية \" عندهم هي القدرة على الاختراع",
+    "why_note": "Own view: the kalam theologians 'say that tawhid is tawhid al-rububiyya and divinity means the power to create'. Overlaps with T1-DT-V9-375 (same charge) and is inside a critique of Sufi fana'; excluded as duplicate of the kalam critique.",
+    "reason": "overlaps with T1-DT-V9-375"
+  },
+  {
+    "id": "X-SI-V1-115",
+    "work": "SharhCaqidaIsfahaniyya",
+    "location": "vol. 1, p. 115",
+    "arabic_excerpt_verbatim": "والنوع الثاني: توحيد الربوبية؛ كالإقرار بأن الله خالق كل شيء، وأنه ليس للعالم صانعان متكافئان",
+    "why_note": "Own view: defines the second kind (tawhid al-rububiyya) as affirming God created everything and that the world has no two equal creators. Sits under an editorial heading 'فصل || AUTO [توحيد الربوبية]'; the content duplicates T1-SI-V1-106.",
+    "reason": "duplicate of T1-SI-V1-106; editorial heading in the span"
+  },
+  {
+    "id": "X-RT-P2",
+    "work": "RisalaTadmuriyya",
+    "location": "vol. 1, p. 2–3",
+    "arabic_excerpt_verbatim": "الكلام في توحيد الربوبية والصفات من باب الخبر، وفي توحيد الشرع والقدر من باب الطلب فالكلام في باب التوحيد والصفات هو من باب الخبر، الدائر بين النفي والإثبات، والكلام في الشرع والقدر هو من باب الطلب والإرادة، الدائر بين الإرادة والمحبة، وبين الكراهة والبغض نفيا وإثباتا. والإنسان يجد في نفسه الفرق بين النفي والإثبات، والتصديق والتكذيب، وبين الحب والبغض، والحض والمنع، حتى إن الفرق بين هذا النوع وبين ...",
+    "why_note": "Own view: the Tadmuriyya's own framing divides the discussion into khabar (statements: rububiyya and attributes) and talab (commands: sharia and qadar). This is a different binary from rububiyya / uluhiyya / asma' wa sifat. Recorded because it shows that the division is not fixed; excluded from the 15 passages.",
+    "reason": "different division (khabar/talab); not the three-part scheme"
+  },
+  {
+    "id": "X-JM-V7-162",
+    "work": "JamicMasail",
+    "location": "vol 7 p. 162",
+    "arabic_excerpt_verbatim": null,
+    "why_note": "Own view in a critique of Sufi 'fana' and the 'command falls' claim; sentence is similar to T1-IS-162. Excluded for the limit. (End anchor not set; excerpt left empty.)",
+    "reason": "limit; similar to T1-IS-162"
+  }
+]

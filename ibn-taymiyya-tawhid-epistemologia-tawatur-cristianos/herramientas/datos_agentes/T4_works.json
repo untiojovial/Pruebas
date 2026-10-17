@@ -1,0 +1,32 @@
+[
+  {
+    "id": "RaddCalaMantiqiyyin",
+    "title_ar": "الرد على المنطقيين",
+    "title_es_or_en": "Refutation of the Logicians (al-Radd 'ala al-Mantiqiyyin)",
+    "edition_note": "OpenITI #META# header: Shamela 0007626 transcription; author Ibn Taymiyya (d. 728); BookVOLS 1; publisher 'دار المعرفة، بيروت، لبنان' (Dar al-Ma'rifa, Beirut); editor not given ('-'); printed page numbers from OpenITI PageV01P### markers (single volume). Text is the full work (cache 712,046 chars incl. markers; TSV char_length 545,540). Front matter (preface) has no page numbers before PageV01P003. Edition/printing not identified beyond the publisher name; page numbers therefore not checked against a scan. Second OpenITI version JK000371 (complete) has publisher 'دار المعرفة' and no editor.",
+    "openiti_versionUri": "0728IbnTaymiyya.RaddCalaMantiqiyyin.Shamela0007626-ara1",
+    "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.RaddCalaMantiqiyyin/0728IbnTaymiyya.RaddCalaMantiqiyyin.Shamela0007626-ara1",
+    "genre": "polemical treatise against Greek/Aristotelian logic (kitab)",
+    "notes": "Ibn Taymiyya's own text, with occasional quotations of opponents (al-Razi, al-Ghazali, Ibn Sina, the logicians) which the passage notes mark. The opening preface is introduced by 'قال شيخنا' (the formula of a transmitter/disciple); the same preface appears in Majmu' al-Fatawa vol. 9 (see below). The OpenITI text is a Shamela transcription, so OCR-type artifacts occur (e.g. 'ك الشمول', 'يبده', 'ms069' milestone markers, cleaned by itlib). No scanned page image was checked in this slice. Two OpenITI versions exist: Shamela0007626 (used; contains the preface; ends mid-sentence, so incomplete) and JK000371 (complete ending; lacks the preface; same page markers at the checked passages). Use the JK version for completeness checks."
+  },
+  {
+    "id": "MajmucFatawa_vol9",
+    "title_ar": "مجموع الفتاوى (المجلد التاسع)",
+    "title_es_or_en": "Majmu' al-Fatawa, vol. 9 (corroborating variant of the Radd preface)",
+    "edition_note": "OpenITI #META#: Majmu' al-Fatawa, ed. 'عبد الرحمن بن محمد بن قاسم' (ed. of Majma' al-Malik Fahd, Medina), 1416/1995. Page markers PageV09P081 used (vol. 9, p. 81). The OpenITI header does not give volume count; volume and page taken from the PageV markers in the text. Majmu' index in the same text lists 'نصيحة أهل الإيمان في الرد على منطق اليونان' at 9/82-254 and 'نقض المنطق' at 4/1-190 (index entries, not checked in the body).",
+    "openiti_versionUri": "0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+    "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.MajmucFatawa/0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+    "genre": "collected fatawa (large compilation); vol. 9 contains the logic treatise",
+    "notes": "Used only to corroborate the Radd preface (E01). Variant reading: 'لما رأينا من صدق كثير منها' here vs. 'لما رأيت من صدق كثير منها' in the Radd. The wording 'قال شيخ الإسلام أحمد ابن تيمية - قدس الله روحه -: أما بعد' is an editorial heading in this edition."
+  },
+  {
+    "id": "DarTacarud",
+    "title_ar": "درء تعارض العقل والنقل",
+    "title_es_or_en": "Dar' ta'arud al-'aql wa-l-naql (checked for logic passages; nothing used)",
+    "edition_note": "OpenITI Shamela0021506 / JK000362 / ShamAY0033865 versions in TSV; the phrase 'لا يحتاج اليه الذكي' occurs only in the OpenITI #META# authinf biography blurb (an editorial summary, not Ibn Taymiyya's text).",
+    "openiti_versionUri": "0728IbnTaymiyya.DarTacarud.ShamAY0033865-ara1",
+    "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.DarTacarud/0728IbnTaymiyya.DarTacarud.ShamAY0033865-ara1",
+    "genre": "theological-philosophical treatise (against logic and kalam)",
+    "notes": "Not used for any slide passage. Three occurrences of 'المنطق اليوناني' in the text (vol. 5-7 by the cached page markers); not read in full and not extracted within this slice. The 'لا يحتاج اليه الذكي' hit is in the editorial #META# blurb only."
+  }
+]

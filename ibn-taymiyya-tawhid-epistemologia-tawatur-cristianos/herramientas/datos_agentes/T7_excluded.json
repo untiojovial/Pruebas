@@ -1,0 +1,29 @@
+[
+  {
+    "id": "T7-X01",
+    "work": "JawabSahih",
+    "vol_page": "vol. 1, p. 122",
+    "offset_start": 40372,
+    "offset_end": 40575,
+    "ar_preview": "هذه ألفاظهم بأعيانها في الفصل الأول، وهذا الفصل لم يتعرضوا فيه لا لتصديقه ولا لتكذيبه، بل زعموا أن في نفس هذا الكتاب أنه لم يقل إنه مرسل إليهم، بل إلى جاهلية ال",
+    "reason": "duplicate of T7-06/T7-09: the explicit verbatim marker for section 1. Kept out to avoid repetition; the orchestrator may want it as the sentence that claims literal reproduction of section 1 (vol 1 p.122, offsets 40372-40575)."
+  },
+  {
+    "id": "T7-X02",
+    "work": "JawabSahih",
+    "vol_page": "vol. 1, p. 123",
+    "offset_start": 41038,
+    "offset_end": 41257,
+    "ar_preview": "ومعلوم أن الكلام في صدق مدعي الرسالة وكذبه متقدم على الكلام في عموم رسالته وخصوصها، وإن كان قد يعلم أحدهما قبل الآخر لكن هؤلاء القوم ادعوا خصوص رسالته، وذكروا أ",
+    "reason": "method statement, overlaps T7-05/T7-06; the core point (answer in their order, section by section) is in T7-06. Vol 1 p.123, offsets 41038-41257."
+  },
+  {
+    "id": "T7-X03",
+    "work": "JawabSahih",
+    "vol_page": "vol. 3, p. 256",
+    "offset_start": 779824,
+    "offset_end": 780322,
+    "ar_preview": "فيقال لهم: هذا عمدتكم على ما تدعونه من الأقانيم الثلاثة وليس فيه شيء يدل على ذلك لا نصا ولا ظاهرا، فإن لفظ الابن لم يستعمل قط في الكتب الإلهية في معنى صفة من صف",
+    "reason": "out of the letter: Ibn Taymiyya answers the Christian Matthew 28:19 baptismal-formula argument (vol 3 p.256). Belongs to the Trinity proof-texts slice, not to the six sections of the letter."
+  }
+]

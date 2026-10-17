@@ -1,0 +1,92 @@
+[
+  {
+    "id": "JawabSahih",
+    "title_ar": "الجواب الصحيح لمن بدل دين المسيح",
+    "title_es_or_en": "al-Jawab al-Sahih li-man baddala din al-Masih (Ibn Taymiyya)",
+    "edition_note": "al-Jawab al-Sahih li-man baddala din al-Masih, ed. Ali b. Hasan, Abd al-Aziz b. Ibrahim, Hamdan b. Muhammad, Dar al-Asima (Saudi Arabia), 2nd ed. 1419/1999 (per OpenITI #META# header; page markers from the Shamela-derived OpenITI text; vol. and page refer to this printed edition). Not checked against a scan.",
+    "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.JawabSahih/0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "genre": "polemic (refutation of Christianity), 6 vols",
+    "notes": "Primary text by Ibn Taymiyya; contains extensive verbatim quotation of the Christian letter (Cyprus/Paul of Antioch material) which is marked in the passages. Vol. 3 = main Trinity/hypostasis discussion; vol. 6 = miracles/signs and tawatur typology."
+  },
+  {
+    "id": "RisalaTadmuriyya",
+    "title_ar": "التدمرية",
+    "title_es_or_en": "al-Tadmuriyya",
+    "edition_note": "al-Tadmuriyya, ed. Muhammad b. Awda al-Saawi, Maktabat al-Ubaykan (Riyadh), 6th ed. 1421/2000 (per OpenITI #META# header). Page markers from the OpenITI text; not checked against a scan.",
+    "openiti_versionUri": "0728IbnTaymiyya.RisalaTadmuriyya.Shamela0022666-ara1",
+    "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.RisalaTadmuriyya/0728IbnTaymiyya.RisalaTadmuriyya.Shamela0022666-ara1",
+    "genre": "creed / theology (tawhid, qadar)",
+    "notes": "Ibn Taymiyya own text; passage T-01 reports the kalam theologians before he critiques them."
+  },
+  {
+    "id": "MajmucFatawa",
+    "title_ar": "مجموع الفتاوى",
+    "title_es_or_en": "Majmu al-Fatawa",
+    "edition_note": "Majmu al-Fatawa, ed. Abd al-Rahman b. Muhammad b. Qasim, Majmac al-Malik Fahd (Medina), 1416/1995 (per OpenITI #META# header; vol./page markers are of this edition). Not checked against a scan.",
+    "openiti_versionUri": "0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+    "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.MajmucFatawa/0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+    "genre": "fatawa collection, 37 vols",
+    "notes": "Ibn Taymiyya own text (fatawa). Only the cited section is used; the same kalam threefold appears here at vol. 3 p. 97 (not extracted)."
+  },
+  {
+    "id": "RaddCalaMantiqiyyin",
+    "title_ar": "الرد على المنطقيين",
+    "title_es_or_en": "al-Radd ala al-Mantiqiyyin (Refutation of the Logicians)",
+    "edition_note": "al-Radd ala al-Mantiqiyyin, Dar al-Maarifa (Beirut); no editor listed in OpenITI header (\"-\"). Page markers from the OpenITI text; not checked against a scan.",
+    "openiti_versionUri": "0728IbnTaymiyya.RaddCalaMantiqiyyin.Shamela0007626-ara1",
+    "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.RaddCalaMantiqiyyin/0728IbnTaymiyya.RaddCalaMantiqiyyin.Shamela0007626-ara1",
+    "genre": "logic critique",
+    "notes": "Ibn Taymiyya own critique of Greek/Aristotelian logic (the \"Mantiqiyyun\" = logicians); the Arabic is the OpenITI Shamela-derived text."
+  },
+  {
+    "id": "abdullah2006",
+    "title_ar": null,
+    "title_es_or_en": "Ismail Abdullah, \"Tawhid and Trinity: A Study of Ibn Taymiyyah's al-Jawab al-Sahih\", Intellectual Discourse 14(1), 2006, pp. 89-106",
+    "edition_note": "Journal article, open access PDF (read in full via pdftotext).",
+    "openiti_versionUri": null,
+    "openiti_url": "https://journals.iium.edu.my/intdiscourse/index.php/id/article/download/89/86/150",
+    "genre": "secondary scholarship (article)",
+    "notes": "READ. English summary of al-Jawab al-Sahih vol. on Trinity; quotes IT in his own English translation (translations are Abdullah's, not checked against Arabic). Page numbers from the journal page headers."
+  },
+  {
+    "id": "zwirahn2018",
+    "title_ar": null,
+    "title_es_or_en": "Faris Zwirahn, \"Typologies and Argumentation Tactics in Religious Polemics: An Analysis of al-Jawab al-Sahih and the Cyprus Letter\", Entangled Religions 5 (2018), DOI 10.13154/er.v5.2018.44-94 (CC BY-NC-ND)",
+    "edition_note": "Journal article, open access; read in full (HTML text from er.ceres.rub.de).",
+    "openiti_versionUri": null,
+    "openiti_url": "https://er.ceres.rub.de/index.php/ER/article/view/7255",
+    "genre": "secondary scholarship (article)",
+    "notes": "READ. Pagination taken from inline page numbers in the HTML text (approximate, check against the PDF). Cites Roberts 1996 and Abdullah 2006 (Roberts not read directly)."
+  },
+  {
+    "id": "rayan2026",
+    "title_ar": null,
+    "title_es_or_en": "Sobhi Rayan & Isa Baraijia (Abdullahoglu), \"Doctrine of Fitrah in the Thought of Ibn Taymiyyah: Critical Analysis with Especial Reference to the Contemporary Authors\", Journal of Islamic Thought and Civilization 16(1), Spring 2026, DOI 10.32350/jitc.161.21",
+    "edition_note": "Journal article, open access PDF; read in full (pdftotext). Pagination from PDF page footers.",
+    "openiti_versionUri": null,
+    "openiti_url": "https://journals.umt.edu.pk/index.php/JITC/article/view/7056",
+    "genre": "secondary scholarship (article)",
+    "notes": "READ. Argues IT's fitra doctrine is internally inconsistent; cites Radd and other IT texts (not checked against the Arabic)."
+  },
+  {
+    "id": "john_damascus_fdo",
+    "title_ar": null,
+    "title_es_or_en": "John of Damascus, Exposition of the Orthodox Faith (De fide orthodoxa), Bk I, ch. 8 \"Concerning the Holy Trinity\" (Greek 8th c.), trans. in NPNF2 vol. 9 (ed. Schaff)",
+    "edition_note": "English translation (NPNF2 vol. 9, Hilary of Poitiers & John of Damascus), full text read at CCEL; chapter numbering from the text; bracketed Greek footnote numbers omitted.",
+    "openiti_versionUri": null,
+    "openiti_url": "https://ccel.org/ccel/schaff/npnf209/npnf209.iv.iii.ix.html",
+    "genre": "Christian primary source (Greek Orthodox dogmatics)",
+    "notes": "Used as the Christian check for hypostasis/attribute claims. Not a 13th-century Arabic source; it is a Greek-language summary of the same doctrine."
+  },
+  {
+    "id": "hebrews_1_3_greek",
+    "title_ar": null,
+    "title_es_or_en": "New Testament, Hebrews 1:3, Greek text (interlinear)",
+    "edition_note": "Interlinear (Greek with Strong numbers) at biblehub; the Greek word is hypostaseos (ὑποστάσεως, Strong G5287).",
+    "openiti_versionUri": null,
+    "openiti_url": "https://biblehub.com/interlinear/hebrews/1-3.htm",
+    "genre": "Christian primary source (Scripture, Greek)",
+    "notes": "Used to test the claim that the term hypostasis is absent from the apostolic writings. Authorship of Hebrews is anonymous; whether it counts as \"words of the apostles\" is itself disputed."
+  }
+]

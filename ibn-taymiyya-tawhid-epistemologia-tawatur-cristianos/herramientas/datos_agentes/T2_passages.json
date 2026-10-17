@@ -1,0 +1,449 @@
+[
+ {
+  "id": "T2-01",
+  "work": "wasitiyya",
+  "theme": [
+   "T"
+  ],
+  "ar": "وبما وصفه به رسوله محمد صلى الله عليه وسلم من غير تحريف ولا تعطيل، ومن غير تكييف ولا تمثيل (¬4) بل يؤمنون بأن الله سبحانه ليس كمثله شيء وهو السميع البصير. فلا ينفون عنه ما وصف به نفسه ولا يحرفون الكلم عن مواضعه، ولا يلحدون في أسماء الله وآياته (¬1) ولا يكيفون ولا يمثلون صفات",
+  "ref": {
+   "work": "Al-Aqida al-Wasitiyya (creed of Wasit)",
+   "volume": 1,
+   "page": 1,
+   "chapter": null
+  },
+  "vol_page": "vol. 1, p. 1–2",
+  "edition_note": "Maktabat al-Ma'arif, Riyadh (no edition date). Header: \"العقيدة الواسطية بتعليق ابن مانع\" (with commentary by Ibn Mani' in footnotes). 1 volume. Digitisation note: page numbering matches the printed edition.",
+  "openiti_versionUri": "0728IbnTaymiyya.CaqidaWasitiyya.Sham19Y0018098-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.CaqidaWasitiyya/0728IbnTaymiyya.CaqidaWasitiyya.Sham19Y0018098-ara1",
+  "offset_start": 5264,
+  "offset_end": 5561,
+  "ar_before": "هذا اعتقاد الفرقة الناجية المنصورة إلى قيام الساعة، أهل السنة والجماعة، وهو الإيمان بالله وملائكته وكتبه ورسله والبعث بعد الموت والإيمان بالقدر خيره وشره. | AUTO الإيمان بما وصف الله به نفسه في كتابه ومن الإيمان بالله الإيمان بما وصف به نفسه في كتابه",
+  "ar_after": "ه بصفات خلقه (¬2) لأنه سبحانه لا سمي (¬3) له، ولا كفو له، ولا ند له (¬4) ولا يقاس # بخلقه سبحانه وتعالى فإنه أعلم بنفسه وبغيره، وأصدق قيلا وأحسن حديثا من خلقه. ثم رسله صادقون مصدوقون، بخلاف الذين يقولون عليه ما لا يعلمون، ولهذا قال (سبحان ربك رب العز",
+  "gloss_en": "Ahl al-Sunna affirm what God described Himself with in His Book and what His Messenger described Him with, without distortion (tahrif) and without denial (ta'til), and without modality (takyif) and without likening (tamthil). They believe that He is not like anything, and they do not deny what He described Himself with, nor distort words from their places, nor deviate concerning His names and signs; they do not assign modality to His attributes or liken them. [gloss_en: my own translation, not a published one]",
+  "what_it_says": "Ibn Taymiyya's summary creed: the four negations/affirmations (no distortion, no denial, no modality, no likening) are stated as the Sunni rule for God's attributes.",
+  "why_relevant": "The most quoted formula for 'ithbat bila kayf' and the 'middle path' against Jahmiyya (denial) and anthropomorphists (likening).",
+  "stance": "own view",
+  "limits": "Edition includes footnotes by the commentator Ibn Mani' (markers '(¬n)' inside the Arabic); these are not Ibn Taymiyya's. The Spanish translation should omit the markers. Passage is his own creed text, not a quotation.",
+  "significance": 5,
+  "famous": true,
+  "ar_without_footnote_markers": "وبما وصفه به رسوله محمد صلى الله عليه وسلم من غير تحريف ولا تعطيل، ومن غير تكييف ولا تمثيل بل يؤمنون بأن الله سبحانه ليس كمثله شيء وهو السميع البصير. فلا ينفون عنه ما وصف به نفسه ولا يحرفون الكلم عن مواضعه، ولا يلحدون في أسماء الله وآياته ولا يكيفون ولا يمثلون صفات",
+  "ar_without_footnote_markers_verified": true
+ },
+ {
+  "id": "T2-02",
+  "work": "tadmuriyya",
+  "theme": [
+   "T"
+  ],
+  "ar": "مذهب السلف فيه وقد علم أن طريقة سلف الأمة وأئمتها، إثبات ما أثبته من الصفات من غير تكييف ولا تمثيل، ومن غير تحريف ولا تعطيل، وكذلك ينفون عنه ما نفاه عن نفسه - مع ما أثبته من الصفات - من غير إلحاد، لا في أسمائه ولا في آياته",
+  "ref": {
+   "work": "Al-Risala al-Tadmuriyya (Tadmuriyya)",
+   "volume": null,
+   "page": 6,
+   "chapter": null
+  },
+  "vol_page": "vol. 1, p. 6",
+  "edition_note": "Maktabat al-Ubaykan, Riyadh, 6th ed. 1421/2000; ed. Muhammad ibn Awda al-Sa'wi (per OpenITI header). Single volume; OpenITI marker \"PageV01\" = vol. 1.",
+  "openiti_versionUri": "0728IbnTaymiyya.RisalaTadmuriyya.Shamela0022666-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.RisalaTadmuriyya/0728IbnTaymiyya.RisalaTadmuriyya.Shamela0022666-ara1",
+  "offset_start": 4199,
+  "offset_end": 4427,
+  "ar_before": " الفجر وركعتي الطواف وغير ذلك. | الأصل الأول - توحيد الصفات | الأصل فيه فأما الأول، وهو التوحيد في الصفات، فالأصل في هذا الباب أن يوصف الله تعالى بما وصف به نفسه، وبما وصفته به رسله نفيا وإثباتا، فيثبت لله ما أثبته لنفسه، وينفى عنه ما نفاه عن نفسه. |",
+  "ar_after": "، فإن الله ذم الذين يلحدون في أسمائه وآياته، كما قال تعالى: {ولله الأسماء الحسنى فادعوه بها وذروا الذين يلحدون في أسمائه سيجزون ما كانوا يعملون} وقال تعالى: {إن الذين يلحدون في آياتنا لا يخفون علينا أفمن يلقى في النار خير أم من يأتي آمنا يوم القيامة ",
+  "gloss_en": "The principle of tawhid in attributes: God is described with what He described Himself with and what His messengers described Him with, by affirmation and negation. The way of the Salaf and their imams is to affirm the attributes He affirmed without modality and without likening, without distortion and without denial, and likewise to negate what He negated of Himself, without deviation (ilhad) regarding His names and signs. [gloss_en: my own translation, not a published one]",
+  "what_it_says": "Preface of the Tadmuriyya states the Salaf method (affirm without modality or likening, without distortion or denial).",
+  "why_relevant": "Second strong statement of the formula, from an independent work; shows the rule is his method, not only a creed summary.",
+  "stance": "own view",
+  "limits": "Single-volume edition; page 6 per OpenITI marker. Stated as the method of 'the Salaf' in Ibn Taymiyya's own preface, not a quotation of another author.",
+  "significance": 5,
+  "famous": true
+ },
+ {
+  "id": "T2-03",
+  "work": "hamawiyya",
+  "theme": [
+   "T"
+  ],
+  "ar": "فقول ربيعة ومالك: «الاستواء غير مجهول، والكيف غير معقول» موافق لقول الباقين: «أمروها كما جاءت بلا كيف» ، فإنما نفوا علم الكيفية، ولم ينفوا حقيقة الصفة",
+  "ref": {
+   "work": "Al-Fatwa al-Hamawiyya al-Kubra",
+   "volume": 1,
+   "page": 305,
+   "chapter": null
+  },
+  "vol_page": "vol. 1, p. 305",
+  "edition_note": "Dar al-Sumay'i, Riyadh, 2nd ed. 1425/2004 (per OpenITI header). OpenITI page markers (vol.1 pp. 299-306, 363-369, 467) were NOT compared to this printing; page numbers need checking against the page image.",
+  "openiti_versionUri": "0728IbnTaymiyya.HamawiyyaKubra.Shamela0018381-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.HamawiyyaKubra/0728IbnTaymiyya.HamawiyyaKubra.Shamela0018381-ara1",
+  "offset_start": 44702,
+  "offset_end": 44861,
+  "ar_before": "د الله {الرحمن على العرش استوى} كيف استوى؟، فأطرق مالك برأسه حتى علاه الرحضاء ثم قال: «الاستواء غير مجهول، والكيف غيرمعقول، والإيمان به واجب، والسؤال عنه بدعة، وما أراك إلا مبتدعا، ثم أمر به أن يخرج» اه. | معنى قول ربيعة ومالك: الاستواء غير مجهول ] :",
+  "ar_after": ". ولو كان القوم قد آمنوا باللفظ المجرد من غير فهم لمعناه على ما يليق بالله لما قالوا: «الاستواء غير مجهول، والكيف غير معقول» ، ولما قالوا: «أمروها كما جاءت بلا كيف» ، فإن الاستواء حينئذ لا يكون معلوما، بل مجهولا بمنزلة حروف المعجم. وأيضا: فإنه لا يحت",
+  "gloss_en": "The words of Rabi'a and Malik ('the istiwa' is not unknown, the modality is not intelligible') agree with the others' 'let them pass as they came.' They only negated knowledge of the modality, and did not negate the reality of the attribute. [gloss_en: my own translation, not a published one]",
+  "what_it_says": "Ibn Taymiyya's commentary explaining that the Salaf formula 'without modality' denies knowing the how, not the attribute itself.",
+  "why_relevant": "Shows his reading of 'bila kayf' as denying knowledge of the modality, not the attribute; directly relevant to the question of 'ithbat bila kayf'.",
+  "stance": "own view",
+  "limits": "The quoted sayings (Rabi'a, Malik) are reported narrations; the commentary is his. The page's text has editorial brackets elsewhere (see T2-04). Page numbering not verified against print.",
+  "significance": 4,
+  "famous": false
+ },
+ {
+  "id": "T2-04",
+  "work": "hamawiyya",
+  "theme": [
+   "T"
+  ],
+  "ar": "وأيضا: فقولهم: أمروها كما جاءت. يقتضي إبقاء دلالتها على [ما هي عليه، فإنها جاءت ألفاظا دالة على معاني، فلو كانت] دلالتها منتفية لكان الواجب [أن يقال: أمروا ألفاظها مع اعتقاد أن المفهوم منها غير مراد، أو أمروا ألفاظها مع] اعتقاد أن الله لا يوصف بما دلت عليه حقيقة، وحينئذ فلا [تكون قد أمرت] كما جاءت، ولا يقال حينئذ: بلا كيف، إذ نفي الكيفية عما ليس بثابت لغو من القول",
+  "ref": {
+   "work": "Al-Fatwa al-Hamawiyya al-Kubra",
+   "volume": 1,
+   "page": 306,
+   "chapter": null
+  },
+  "vol_page": "vol. 1, p. 306",
+  "edition_note": "Dar al-Sumay'i, Riyadh, 2nd ed. 1425/2004 (per OpenITI header). OpenITI page markers (vol.1 pp. 299-306, 363-369, 467) were NOT compared to this printing; page numbers need checking against the page image.",
+  "openiti_versionUri": "0728IbnTaymiyya.HamawiyyaKubra.Shamela0018381-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.HamawiyyaKubra/0728IbnTaymiyya.HamawiyyaKubra.Shamela0018381-ara1",
+  "offset_start": 45509,
+  "offset_end": 45885,
+  "ar_before": "ا: فإن من ينفي الصفات الخبرية أو الصفات مطلقا لا يحتاج أن يقول: بلا كيف، فمن قال: إن الله سبحانه وتعالى ليس على العرش، لا يحتاج أن يقول: بلا كيف، فلو كان من مذهب السلف نفي الصفات في نفس الأمر لما قالوا: بلا كيف. | معنى قول الأئمة: أمروها كما جاءت ] :",
+  "ar_after": ". | قول عبد العزيز بن الماجشون ] : وروى [الأثرم في السنة] وأبو عبد الله بن بطة في الإبانة، [وأبو عمر الطلمنكي وغيرهم] بإسناد صحيح، عن عبد العزيز بن عبد الله بن أبي سلمة الماجشون وهو أحد أئمة المدينة الثلاثة الذين هم مالك بن أنس، وابن الماجشون، وابن أ",
+  "gloss_en": "Moreover, 'let them pass as they came' requires keeping their indication as it is, since the words came as expressions of meanings. If their indication had been negated, the correct instruction would be to 'pass the words while holding that the apparent meaning is not intended'; and one would not then say 'without modality', because denying modality of something not established is vain speech. [gloss_en: my own translation, not a published one]",
+  "what_it_says": "His argument that the Salaf formula presupposes that the attributes have real meanings; 'without modality' only makes sense for affirmed attributes.",
+  "why_relevant": "Answers the reading that 'bila kayf' is a covert denial of attributes; a key argument for the 'ithbat bila kayf' position.",
+  "stance": "own view",
+  "limits": "Contains square brackets [ ] that are the editor's restorations of damaged text; the bracketed words are not certain. Earlier context (narrations of Walid ibn Muslim etc.) is quoted material (outside this passage).",
+  "significance": 4,
+  "famous": false
+ },
+ {
+  "id": "T2-05",
+  "work": "dartacarud",
+  "theme": [
+   "T"
+  ],
+  "ar": "هل يقال إنه غيره هذا فيه نزاع لفظي منهم من يقول إن علمه غيره ومنهم من يقول لا هو هو ولا هو غيره ومنهم من يقول لا نقول لا هو هو ولا هو غيره فأنفيهما جميعا بل أقول ليس هو إياه منفردا وأقول ليس هو غيره مفردا ولا أجمع بينهما فأقول لا هو هو ولا هو غيره",
+  "ref": {
+   "work": "Dar' ta'arud al-'aql wa-l-naql",
+   "volume": 10,
+   "page": 69,
+   "chapter": null
+  },
+  "vol_page": "vol. 10, p. 69",
+  "edition_note": "Dar al-Kutub al-'Ilmiyya, Beirut, 1417/1997; ed. 'Abd al-Latif 'Abd al-Rahman (per OpenITI header). Page markers cited as (vol, page) from the OpenITI text.",
+  "openiti_versionUri": "0728IbnTaymiyya.DarTacarud.ShamAY0033865-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.DarTacarud/0728IbnTaymiyya.DarTacarud.ShamAY0033865-ara1",
+  "offset_start": 3458019,
+  "offset_end": 3458276,
+  "ar_before": "ى تنوع أصنافهم فلم يقل منهم أحد إن علمه بنفسه هو عين نفسه وإنما يحكي ما يشبه هذا عن المعطلة الجهمية من أهل الكلام والفلسفة كابن رشد ونحوه بل علمه بنفسه في كونه ليس هو نفسه كعلمه بسائر المعلومات فليس العلم نفس العالم عند أحد من أهل الإثبات للصفات ولكن",
+  "ar_after": "وأما السلف والأئمة كأحمد بن حنبل وغيره فلم يقولوا شيئا من ذلك بل امتنعوا من إطلاق القول بأنه غيره كما لم يطلقوا أنه هو ولم يقولوا إنه لا هو هو ولا غيره فينفوهما جميعا لا مجتمعين ولا منفردين بل منعوا من إطلاق لفظ الغير لأن لفظ الغير مجمل يراد به المبا",
+  "gloss_en": "Is it said that it is other? That is a verbal dispute. Some say 'His knowledge is other'; some say 'it is neither He nor other'; some say 'we do not say neither-nor, but negate both.' I say: 'not He Himself, taken singly; not other, taken singly; I do not combine them; so I say: neither He Himself nor other.' [gloss_en: my own translation, not a published one]",
+  "what_it_says": "His own qualified formula 'la huwa huwa wa-la huwa ghayruhu' (neither identical nor other), used only in the sense of negating each term separately, not jointly.",
+  "why_relevant": "Direct answer to question (4): the 'neither identical nor other' formula as he himself phrases it, with its qualification.",
+  "stance": "own view",
+  "limits": "Apparent tension with T2-06 (Majmu' 17/159), where he calls the 'neither/nor' formula 'a third category' and an error; the two must be read together. Passage also reports other positions (within the same sentence). Page 69 vol.10 per OpenITI marker; check the image.",
+  "significance": 4,
+  "famous": false
+ },
+ {
+  "id": "T2-06",
+  "work": "majmu",
+  "theme": [
+   "T"
+  ],
+  "ar": "فهؤلاء لا يطلقون أنه هو ولا يطلقون أنه غيره ولا يقولون ليس هو هو ولا غيره. فإن هذا أيضا إثبات قسم ثالث وهو خطأ ففرق بين ترك إطلاق اللفظين لما في ذلك من الإجمال وبين نفي مسمى اللفظين مطلقا وإثبات معنى ثالث خارج عن مسمى اللفظين",
+  "ref": {
+   "work": "Majmu' al-Fatawa (vols. 5, 6, 12, 17 used)",
+   "volume": 17,
+   "page": 159,
+   "chapter": null
+  },
+  "vol_page": "vol. 17, p. 159",
+  "edition_note": "Majmu' al-Fatawa, Majma' al-Malik Fahd, Medina, 1416/1995; ed. 'Abd al-Rahman ibn Muhammad ibn Qasim (per OpenITI header). Volume/page from OpenITI PageV markers (checked against header).",
+  "openiti_versionUri": "0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.MajmucFatawa/0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+  "offset_start": 8897256,
+  "offset_end": 8897494,
+  "ar_before": " لفظ مجمل: يراد بالغير ما هو منفصل عن الشيء ويراد بالغير ما ليس هو الشيء فلهذا لا يطلق القول بأن كلام الله وعلم الله ونحو ذلك هو هو لأن هذا باطل. ولا يطلق أنه غيره لئلا يفهم أنه بائن عنه منفصل عنه. وهذا الذي ذكره الإمام أحمد عليه الحذاق من أئمة السنة",
+  "ar_after": ". فجاء بعد هؤلاء \" أبو الحسن \" وكان أحذق ممن بعده فقال: ننفي مفردا لا مجموعا فنقول مفردا: ليست الصفة هي الموصوف ونقول مفردا: ليست غيره ولا يجمع بينهما فيقال: لا هي هو ولا هي غيره لأن الجمع بين النفي فيه من الإيهام ما ليس في التفريق. وجاء بعده أقوام ف",
+  "gloss_en": "Those who follow Imam Ahmad's approach neither say 'it is He' nor 'it is other', and they do not say 'it is not He and not other'; for that too would affirm a third category, which is an error. One must distinguish between refraining from both terms because of their ambiguity, and negating what both terms mean while affirming a third meaning outside them. [gloss_en: my own translation, not a published one]",
+  "what_it_says": "He calls the joint 'neither He nor other' formula an error (a 'third category'), while defending refraining from the two words.",
+  "why_relevant": "Key counter-statement to T2-05; relevant to question (4).",
+  "stance": "own view",
+  "limits": "Part of a discussion of the Ibn Kullab/Jahmi argument on the Qur'an being 'other' (ghayr); the surrounding paragraph reports the opponents' terms. Read with T2-05 (tension noted).",
+  "significance": 4,
+  "famous": false
+ },
+ {
+  "id": "T2-07",
+  "work": "majmu",
+  "theme": [
+   "T"
+  ],
+  "ar": "كلام الله غير بائن عن الله. ليس هو دونه ولا غيره ولا هو؛ بل هو صفة من صفات ذاته كعلمه الذي هو صفة من صفات ذاته لم يزل ربنا عالما ولا يزال عالما ولم يزل متكلما ولا يزال يتكلم",
+  "ref": {
+   "work": "Majmu' al-Fatawa (vols. 5, 6, 12, 17 used)",
+   "volume": 6,
+   "page": 172,
+   "chapter": null
+  },
+  "vol_page": "vol. 6, p. 172",
+  "edition_note": "Majmu' al-Fatawa, Majma' al-Malik Fahd, Medina, 1416/1995; ed. 'Abd al-Rahman ibn Muhammad ibn Qasim (per OpenITI header). Volume/page from OpenITI PageV markers (checked against header).",
+  "openiti_versionUri": "0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.MajmucFatawa/0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+  "offset_start": 2719925,
+  "offset_end": 2720104,
+  "ar_before": "ما ولا يزال متكلما لا مثل لكلامه؛ لأنه صفة من صفات ذاته نفى الله المثل عن كلامه كما نفى المثل عن نفسه ونفى النفاد عن كلامه كما نفى الهلاك عن نفسه فقال: {كل شيء هالك إلا وجهه} وقال: {قل لو كان البحر مدادا لكلمات ربي لنفد البحر قبل أن تنفد كلمات ربي} .",
+  "ar_after": "؛ فهو الموصوف بالصفات العلى؛ لم يزل بجميع صفاته التي هي صفات ذاته واحدا ولا يزال: {وهو اللطيف الخبير} . كلم موسى فقال له: {إني أنا ربك} فمن زعم أن غير الله كلمه كفر بالله. فإن الله ينزل كل ليلة إلى سماء الدنيا فيقول: هل من داع فأجيبه؟ هل من تائب فأتو",
+  "gloss_en": "God's speech is not separated from God: it is neither lower than Him, nor other than Him, nor He [identical with Him]; rather it is an attribute of His essence, like His knowledge. He has always been speaking and still speaks. [gloss_en: my own translation, not a published one]",
+  "what_it_says": "States that God's speech is an attribute of His essence, not separate from Him, not 'other' in the sense of separation, and eternal in the sense that He has always spoken.",
+  "why_relevant": "Own statement on the Word of God as attribute (theme 'T'), with the 'not other, not He' wording (question 4) applied to speech.",
+  "stance": "own view",
+  "limits": "Ambiguous in translation: 'ليس هو دونه ولا غيره ولا هو' can be read as 'not lower than Him, not other, not Him'. Note the sentence also says God 'has always spoken', which concerns eternity of attribute, not of the Qur'an as recited text (see T2-08).",
+  "significance": 4,
+  "famous": false
+ },
+ {
+  "id": "T2-08",
+  "work": "majmu",
+  "theme": [
+   "T"
+  ],
+  "ar": "والصواب الذي عليه سلف الأمة - كالإمام أحمد والبخاري صاحب الصحيح في \" كتاب خلق أفعال العباد \" وغيره وسائر الأئمة قبلهم وبعدهم - أتباع النصوص الثابتة وإجماع سلف الأمة وهو أن القرآن جميعه كلام الله حروفه ومعانيه ليس شيء من ذلك كلاما لغيره؛ ولكن أنزله على رسوله وليس القرآن اسما لمجرد المعنى ولا لمجرد الحرف؛ بل لمجموعهما",
+  "ref": {
+   "work": "Majmu' al-Fatawa (vols. 5, 6, 12, 17 used)",
+   "volume": 12,
+   "page": 242,
+   "chapter": null
+  },
+  "vol_page": "vol. 12, p. 242–243",
+  "edition_note": "Majmu' al-Fatawa, Majma' al-Malik Fahd, Medina, 1416/1995; ed. 'Abd al-Rahman ibn Muhammad ibn Qasim (per OpenITI header). Volume/page from OpenITI PageV markers (checked against header).",
+  "openiti_versionUri": "0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.MajmucFatawa/0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+  "offset_start": 6556771,
+  "offset_end": 6557112,
+  "ar_before": "ات لها لا أقسام لها وإن حروف القرآن مخلوقة خلقها الله ولم يتكلم بها وليست من كلامه؛ إذ كلامه لا يكون بحرف وصوت. عارضهم آخرون من المثبتة فقالوا: بل القرآن هو الحروف والأصوات وتوهم قوم أنهم يعنون بالحروف المداد وبالأصوات أصوات العباد وهذا لم يقله عالم.",
+  "ar_after": "وكذلك سائر الكلام ليس هو الحروف فقط؛ ولا المعاني فقط. كما أن الإنسان المتكلم الناطق ليس هو مجرد الروح ولا مجرد الجسد؛ بل مجموعهما. وأن الله تعالى يتكلم بصوت كما جاءت به الأحاديث الصحاح وليس ذلك كأصوات العباد لا صوت القارئ ولا غيره. وأن الله ليس كمثله",
+  "gloss_en": "The correct position held by the early community (Ahmad, al-Bukhari and other imams) is that the whole Qur'an is God's speech, its letters and its meanings, and none of it is the speech of another. The Qur'an is not the name of mere meaning, nor of mere letters, but of both together. [gloss_en: my own translation, not a published one]",
+  "what_it_says": "His own answer to the question whether God's speech is letters and sound: the position of the Salaf is that the Qur'an is God's speech in both letters and meanings.",
+  "why_relevant": "Central statement on the Word as attribute (theme T) and the uncreated Qur'an.",
+  "stance": "own view",
+  "limits": "Immediately before this passage (not in the extract) he says that answering 'yes' or 'no' flatly to 'is God's speech letters and sound?' is an error, and that the Kullabi-type view ('one meaning') and the 'letters and sound' view are both reported. The passage itself is his own. Page spans 242-243.",
+  "significance": 4,
+  "famous": false
+ },
+ {
+  "id": "T2-09",
+  "work": "majmu",
+  "theme": [
+   "T"
+  ],
+  "ar": "لكن الله تعالى تكلم بها بصوت نفسه وحروف نفسه وذلك غير مخلوق وصفات الله تعالى لا تماثل صفات العباد؛ فإن الله تعالى ليس كمثله شيء لا في ذاته ولا صفاته ولا أفعاله",
+  "ref": {
+   "work": "Majmu' al-Fatawa (vols. 5, 6, 12, 17 used)",
+   "volume": 12,
+   "page": 64,
+   "chapter": null
+  },
+  "vol_page": "vol. 12, p. 64",
+  "edition_note": "Majmu' al-Fatawa, Majma' al-Malik Fahd, Medina, 1416/1995; ed. 'Abd al-Rahman ibn Muhammad ibn Qasim (per OpenITI header). Volume/page from OpenITI PageV markers (checked against header).",
+  "openiti_versionUri": "0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.MajmucFatawa/0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+  "offset_start": 6375545,
+  "offset_end": 6375710,
+  "ar_before": " ألست مخلوقا؟ قال: بلى قال: أليس كلامك منك؟ قال: بلى قال: أليس كلامك مخلوقا؟ قال: بلى قال: فالله تعالى غير مخلوق وكلامه منه ليس بمخلوق. فقد نص أحمد وغيره على أن | كلام العباد مخلوق وهم إنما يتكلمون بالأسماء والحروف التي يوجد نظيرها في كلام الله تعالى",
+  "ar_after": "والصوت الذي ينادي به عباده يوم القيامة والصوت الذي سمعه منه موسى ليس كأصوات شيء من المخلوقات والصوت المسموع هو حروف مؤلفة وتلك لا يماثلها شيء من صفات المخلوقين كما أن علم الله القائم بذاته ليس مثل علم عباده فإن الله لا يماثل المخلوقين في شيء من الصفا",
+  "gloss_en": "But God spoke these with His own voice and His own letters, and that is uncreated; God's attributes are not like the attributes of servants, for God is not like anything, neither in His essence, nor in His attributes, nor in His acts. [gloss_en: my own translation, not a published one]",
+  "what_it_says": "Says God's speech is with His own letters and voice, uncreated, and not like human voices; contrasts it with created human recitation.",
+  "why_relevant": "Own statement on 'God speaks with letters and sound' with the 'not like creatures' rule (theme T).",
+  "stance": "own view",
+  "limits": "Comes from a longer passage on Imam Ahmad's dialogue (his own argument, using Ahmad's words in the preceding lines). Translation of 'huruf nafsih' as 'His own letters' is literal.",
+  "significance": 3,
+  "famous": false
+ },
+ {
+  "id": "T2-10",
+  "work": "majmu",
+  "theme": [
+   "T"
+  ],
+  "ar": "بل قول القائل: إن القرآن حرف وصوت قائم به بدعة وقوله معنى قائم بذاته: بدعة لم يقل أحد من السلف لا هذا ولا هذا",
+  "ref": {
+   "work": "Majmu' al-Fatawa (vols. 5, 6, 12, 17 used)",
+   "volume": 5,
+   "page": 264,
+   "chapter": null
+  },
+  "vol_page": "vol. 5, p. 264",
+  "edition_note": "Majmu' al-Fatawa, Majma' al-Malik Fahd, Medina, 1416/1995; ed. 'Abd al-Rahman ibn Muhammad ibn Qasim (per OpenITI header). Volume/page from OpenITI PageV markers (checked against header).",
+  "openiti_versionUri": "0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.MajmucFatawa/0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+  "offset_start": 2211777,
+  "offset_end": 2211890,
+  "ar_before": "ة. وإن أراد بذلك أن الله لا تحيط به مخلوقاته ولا يكون في جوف الموجودات فهذا مذكور مصرح به في كلامي؛ فإني قائله فما الفائدة في تجديده؟ . وأما قول القائل: لا يقول إن كلام الله حرف وصوت قائم به؛ بل هو معنى قائم بذاته: فليس في كلامي هذا أيضا ولا قلته قط؛",
+  "ar_after": "وأنا ليس في كلامي شيء من البدع؛ بل في كلامي ما أجمع عليه السلف أن القرآن كلام الله غير مخلوق. وأما قول القائل: لا يشار إليه بالأصابع إشارة حسية فليس هذا اللفظ في كلامي؛ بل في كلامي إنكار ما ابتدعه المبتدعون من الألفاظ النافية مثل قوله إنه لا يشار إلي",
+  "gloss_en": "Rather, the saying 'the Qur'an is letters and sound subsisting in Him' is an innovation, and the saying 'a meaning subsisting in His essence' is an innovation too: none of the Salaf said either this or that. [gloss_en: my own translation, not a published one]",
+  "what_it_says": "Rejects both formulas ('letters and sound subsisting in Him' and 'a meaning subsisting in His essence') as innovations, while affirming the uncreated Qur'an as the consensus of the Salaf.",
+  "why_relevant": "Important nuance for the Word-as-attribute question: he rejects both the 'letters and sound' formula and the 'meaning only' formula.",
+  "stance": "own view",
+  "limits": "A reply within a question-and-answer fatwa in which a questioner summarised his views; the passage is his reply to that summary. Short passage (109 chars).",
+  "significance": 3,
+  "famous": false
+ },
+ {
+  "id": "T2-11",
+  "work": "tadmuriyya",
+  "theme": [
+   "T"
+  ],
+  "ar": "قيل لهم: واتصاف الذات بالصفات اللازمة لها توحيد في الحقيقة وليس هو تركيبا ممتنعا. وذلك أنه من المعلوم بصريح المعقول أنه ليس معنى كون الشيء عالما هو معنى كونه قادرا، ولا نفس ذاته هو نفس كونه عالما قادرا",
+  "ref": {
+   "work": "Al-Risala al-Tadmuriyya (Tadmuriyya)",
+   "volume": null,
+   "page": 40,
+   "chapter": null
+  },
+  "vol_page": "vol. 1, p. 40",
+  "edition_note": "Maktabat al-Ubaykan, Riyadh, 6th ed. 1421/2000; ed. Muhammad ibn Awda al-Sa'wi (per OpenITI header). Single volume; OpenITI marker \"PageV01\" = vol. 1.",
+  "openiti_versionUri": "0728IbnTaymiyya.RisalaTadmuriyya.Shamela0022666-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.RisalaTadmuriyya/0728IbnTaymiyya.RisalaTadmuriyya.Shamela0022666-ara1",
+  "offset_start": 26496,
+  "offset_end": 26708,
+  "ar_before": "قلتم: هو موجود واجب، وعقل وعاقل ومعقول، وعاشق ومعشوق، ولذيذ وملتذ ولذة، أفليس المفهوم من هذا هو المفهوم من هذا؟، فهذه معان متعددة متغايرة في العقل وهذا تركيب عندكم، وأنتم تثبتونه وتسمونه توحيدا. فإن قالوا: هذا توحيد في الحقيقة وليس هذا تركيبا ممتنعا.",
+  "ar_after": "، فمن جوز أن تكون هذه الصفة هي الأخرى، وأن تكون الصفة هي الموصوف فهو من أعظم الناس سفسطة، ثم إنه متناقض، فإنه إن جوز ذلك جاز أن يكون وجود هذا هو وجود هذا، فيكون الوجود واحدا بالعين لا بالنوع. وحينئذ، فإذا كان وجود الممكن هو وجود الواجب، كان وجود كل م",
+  "gloss_en": "Reply to the objection: the union of the essence with attributes that are necessary to it is unity in reality, not forbidden composition. It is evident to sound reason that the meaning of a thing's being knowing is not the meaning of its being powerful, and that its essence is not the same as its being knowing and powerful. [gloss_en: my own translation, not a published one]",
+  "what_it_says": "Answers the 'composition' objection (affirming knowledge, power and will implies multiple attributes, hence composition): attributes necessarily attached to the essence are not 'composition'.",
+  "why_relevant": "Direct answer to the question whether rejecting simplicity removes the objection of composition: he says that composition is not implied by essential attributes in the forbidden sense.",
+  "stance": "hypothetical",
+  "limits": "The argument is dialectical ('if they say... we reply'), so the 'hypothetical' label applies to the objector's phrasing; the conclusion is his own. Parts/persons are not discussed in this passage (see T2-12, T2-13).",
+  "significance": 4,
+  "famous": false
+ },
+ {
+  "id": "T2-12",
+  "work": "jawab",
+  "theme": [
+   "T"
+  ],
+  "ar": "وأما اتصاف الذات بصفات تقوم بها، فهذا هو الذي يعرفه عامة العقلاء، ولكن لا يسمون هذا تركيبا، فمن سماه تركيبا لم يكن نزاعه اللفظي قادحا فيما علم بالأدلة السمعية والعقلية",
+  "ref": {
+   "work": "Al-Jawab al-Sahih li-man baddala din al-Masih",
+   "volume": 3,
+   "page": 288,
+   "chapter": null
+  },
+  "vol_page": "vol. 3, p. 288",
+  "edition_note": "Dar al-'Asima, Saudi Arabia, 2nd ed. 1419/1999; eds. 'Ali ibn Hasan, 'Abd al-'Aziz ibn Ibrahim, Hamdan ibn Muhammad (per OpenITI header). Page numbers come from the OpenITI text (Shamela-derived) and were not compared to this print.",
+  "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.JawabSahih/0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "offset_start": 804672,
+  "offset_end": 804850,
+  "ar_before": "سام من الجواهر المنفردة أو من المادة والصورة فهذا مما تنازع فيه جمهور العقلاء، وكذلك تركيب الشيء من الموجود، والماهية سواء كان واجبا أو ممكنا هو مما تنازع فيه جمهور العقلاء، وكذلك تركبه من الصفات الذاتية المشتركة والمميزة التي يسمونها: الجنس، والفصل.",
+  "ar_after": ". ثم هم يقولون: المركب يفتقر إلى أجزائه، وأجزاؤه غيره، وواجب الوجود لا يفتقر إلى غيره، وهذه كلها ألفاظ مجملة، فإن لفظ الافتقار هنا لم يعنوا به افتقار المفعول إلى فاعله، ولا المعلول إلى علته الفاعلية، فإن جزء الشيء لا يكون فاعله ولا علته الموجبة له، ب",
+  "gloss_en": "As for the essence being described by attributes that subsist in it: this is what ordinary rational people recognise, but they do not call it 'composition'. Whoever calls it composition has a verbal dispute, which does not undermine what is known from the revealed and rational proofs. [gloss_en: my own translation, not a published one]",
+  "what_it_says": "Says that the dispute over 'composition' regarding attributes is verbal: the essence being described by attributes is not composition in the proper sense.",
+  "why_relevant": "Most direct statement that rejecting Aristotelian simplicity does not reintroduce composition in the sense of parts; answers question (2).",
+  "stance": "own view",
+  "limits": "Within his critique of philosophers (Aristotelian classification of essential vs. accidental attributes), not of Christians. In the same work he uses composition (of genus/differentia) as a category; the claim 'not parts' is the key point. Does not explicitly address 'persons'.",
+  "significance": 5,
+  "famous": false
+ },
+ {
+  "id": "T2-13",
+  "work": "isfahaniyya",
+  "theme": [
+   "T"
+  ],
+  "ar": "أحدها: أن يقال: قول القائل: إنه يلزم افتقاره إلى ما ركب منه، وذلك ينافي وجوب الوجود - ممنوع؛ لأن غاية ما فيه: أن ما ركب منه جزء من أجزائه، وقول القائل: إن المركب مفتقر إلى جزئه، ليس بأعظم من قوله: إنه مفتقر إلى كله",
+  "ref": {
+   "work": "Sharh al-Aqida al-Isfahaniyya",
+   "volume": 1,
+   "page": 63,
+   "chapter": null
+  },
+  "vol_page": "vol. 1, p. 63",
+  "edition_note": "Dar al-Minhaj, Riyadh, 1st ed. 1430 AH; ed. Muhammad ibn Awda al-Sa'wi (per OpenITI header). Section headings in square brackets marked \"AUTO\" are editorial, not Ibn Taymiyya's.",
+  "openiti_versionUri": "0728IbnTaymiyya.SharhCaqidaIsfahaniyya.ShamAY0034392-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.SharhCaqidaIsfahaniyya/0728IbnTaymiyya.SharhCaqidaIsfahaniyya.ShamAY0034392-ara1",
+  "offset_start": 45815,
+  "offset_end": 46035,
+  "ar_before": "أن إثبات الصفات ينافي هذا التوحيد. || AUTO [فساد هذه الحجة من وجوه]: وقد تفطن لفساد هذه الحجة بعض العقلاء؛ كأبي حامد5 الغزالي وغيره، وذلك من وجوه: || AUTO [لفظ «التركيب» ونحوه من الألفاظ التي تعددت أقوال الناس في معناها تحتاج إلى الاستفسار والتفصيل]:",
+  "ar_after": "؛ فإن الافتقار إلى المجموع أشد من الافتقار إلى بعض المجموع، فالمفتقر إلى المجموع مفتقر إلى كل جزء منه، والمفتقر إلى جزء منه لا يلزم أن يكون مفتقرا إلى الجزء الآخر، ومعلوم أن افتقاره إلى الجميع هو افتقاره إلى نفسه، [*وقول القائل: مفتقر إلى نفسه*]، هو ",
+  "gloss_en": "First: the claim that composition implies the thing's dependence on what composes it, which would contradict necessary existence, is disputed. What follows is only that what is composed is a part of it; to say the composite depends on its part is no worse than to say it depends on its whole, since dependence on the whole is greater, and dependence on a part does not require dependence on another part. [gloss_en: my own translation, not a published one]",
+  "what_it_says": "Refutes the philosophers' composition argument against attributes: dependence on parts does not contradict necessary existence; the argument has no force.",
+  "why_relevant": "Answers the composition argument (question 2) in the Isfahaniyya, the text where he discusses 'tarkib' most systematically.",
+  "stance": "own view",
+  "limits": "Section headings in square brackets marked 'AUTO' (e.g. 'the word tarkib ... needs explanation') are editorial, not his. The edition has footnote digits; this passage is clean. Page 63 per OpenITI marker. Passage refers to the Ghazali (Tahafut) list of five types of composition.",
+  "significance": 3,
+  "famous": false
+ },
+ {
+  "id": "T2-14",
+  "work": "jawab",
+  "theme": [
+   "T",
+   "C"
+  ],
+  "ar": "ولهذا يضطربون في تفسير الأقانيم تارة يقولون: أشخاص، وتارة خواص وتارة صفات وتارة جواهر وتارة يجعلون الأقنوم اسما للذات والصفة معا، وهذا تفسير حذاقهم",
+  "ref": {
+   "work": "Al-Jawab al-Sahih li-man baddala din al-Masih",
+   "volume": 3,
+   "page": 199,
+   "chapter": null
+  },
+  "vol_page": "vol. 3, p. 199",
+  "edition_note": "Dar al-'Asima, Saudi Arabia, 2nd ed. 1419/1999; eds. 'Ali ibn Hasan, 'Abd al-'Aziz ibn Ibrahim, Hamdan ibn Muhammad (per OpenITI header). Page numbers come from the OpenITI text (Shamela-derived) and were not compared to this print.",
+  "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.JawabSahih/0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "offset_start": 733867,
+  "offset_end": 734018,
+  "ar_before": "ي موضع آخر. الوجه الثامن: أن قولهم بالأقانيم مع بطلانه في العقل والشرع لم ينطق به عندهم كتاب، ولم يوجد هذا اللفظ في شيء من كتب الأنبياء التي بأيديهم ولا في كلام الحواريين، بل هي لفظة ابتدعوها، ويقال: إنها رومية، وقد قيل: الأقنوم في لغتهم معناه الأصل،",
+  "ar_after": ". الوجه التاسع: قولهم في المسيح - عليه السلام - إنه خالق، قول مع بطلانه في الشرع والعقل، قول لم ينطق به شيء من النبوات التي عندهم، ولكن يستدلون على ذلك بما لا يدل عليه كما سنبينه إن شاء الله - تعالى -. الوجه العاشر: قولهم في تجسد اللاهوت - أيضا - هو ",
+  "gloss_en": "Christians themselves differ in explaining 'hypostases' (aqanim): some say persons (ashkhas), some properties (khawass), some attributes (sifat), some substances (jawahir), and some make 'hypostasis' a name for essence and attribute together; this is the explanation of their most skilled. [gloss_en: my own translation, not a published one]",
+  "what_it_says": "Reports that Christians disagree on what 'hypostasis' means: persons, properties, attributes, substances, or essence-plus-attribute.",
+  "why_relevant": "Central to whether Christian 'persons' can be mapped onto 'attributes' (theme C); also relevant to the simplicity question.",
+  "stance": "own view",
+  "limits": "His characterisation of Christian usage, not a quotation of a Christian text. He also says the word is 'said to be Roman' (unsourced). The Christian position is not verified here (see christian_check).",
+  "significance": 3,
+  "famous": false,
+  "attributed_to_christians": "Christians (Melkite, Jacobite, Nestorian and others) use 'uqnum' ('hypostasis') in different senses: person, property, attribute, substance, or essence-plus-attribute.",
+  "christian_check": "Not verified in this pass. One Arabic web search returned only secondary or polemical pages (see notes.md); no Christian primary text was read. Leads not yet read: Coptology PDFs 'Brief Dialogue on the Trinity' (https://www.coptology.com/website/wp-content/documents/Brief_Dialogue_on_the_Trinity.pdf) and 'Our Need to Trinity' (https://www.coptology.com/Theology/downloads/Our_Need_to_Trinity.pdf).",
+  "verdict_candidate": "unverifiable",
+  "verdict_reason": "Ibn Taymiyya's claim of variation in Christian usage is plausible for Arab Christian and Western theology alike, but the Christian sources have not been read here, so the 'faithful/straw man' verdict cannot yet be given."
+ },
+ {
+  "id": "T2-15",
+  "work": "jawab",
+  "theme": [
+   "T",
+   "C"
+  ],
+  "ar": "فكثير منهم يقول الأب هو الوجود، والابن هو الكلمة، وروح القدس هو الحياة. ومنهم من يقول: بل الأب هو الوجود، والابن هو الكلمة، وروح القدس هو القدرة. وبعضهم يقول: إن الأقانيم الثلاثة: جواد حكيم قادر، فيجعل الأب هو الجواد، والابن هو الحكيم، وروح القدس هو القادر، ويزعمون أن جميع الصفات تدخل تحت هذه الثلاثة، ويقولون: إنا استدللنا على وجوده بإخراجه الأشياء من العدم إلى الوجود، وذلك من جوده. وقد رأيت في كتب النصارى هذا وهذا وهذا، ومنهم من يعبر عن الكلمة بالعلم، فيقولون: موجود حي عالم، أو موجود عالم قادر، كما يقول بعضهم: ناطق، ومنهم من يقول موجود حي حكيم",
+  "ref": {
+   "work": "Al-Jawab al-Sahih li-man baddala din al-Masih",
+   "volume": 3,
+   "page": 189,
+   "chapter": null
+  },
+  "vol_page": "vol. 3, p. 189",
+  "edition_note": "Dar al-'Asima, Saudi Arabia, 2nd ed. 1419/1999; eds. 'Ali ibn Hasan, 'Abd al-'Aziz ibn Ibrahim, Hamdan ibn Muhammad (per OpenITI header). Page numbers come from the OpenITI text (Shamela-derived) and were not compared to this print.",
+  "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.JawabSahih/0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "offset_start": 723898,
+  "offset_end": 724468,
+  "ar_before": "ك بالأدلة الشرعية والسمعية والعقلية، والتعبير عنه بالعبارات البينة كما يقوله المسلمون وغيرهم بدون قولنا أب وابن وروح قدس. ومما يبين ذلك الوجه الثاني: وهو أن النصارى - المقرون بأن هذه العبارة في الإنجيل المأخوذ عن المسيح - مختلفون في تفسير هذا الكلام،",
+  "ar_after": "، ومنهم من يقول قائم بنفسه حي حكيم، وهم متفقون على أن المتحد بالمسيح والحال فيه هو أقنوم الكلمة، وهو الذي يسمونه الابن دون الأب، ومن أنكر الحلول والاتحاد منهم كالأريوسية يقول: إن المسيح - عليه السلام - عبد مرسل، كسائر الرسل - صلوات الله عليهم وسلامه ",
+  "gloss_en": "Christians who accept the formula 'Father, Son and Holy Spirit' from the Gospel differ on its meaning: many say the Father is existence, the Son the Word, and the Holy Spirit life; some say the Father is existence, the Son the Word, and the Spirit power; others say the three are 'generous, wise, powerful'; some call the Word knowledge and speak of 'existent, living, knowing' or 'existent, knowing, powerful'; some say 'existent, living, wise'. [gloss_en: my own translation, not a published one]",
+  "what_it_says": "Reports several Christian glosses equating each hypostasis with an attribute (existence, Word/knowledge, life/power).",
+  "why_relevant": "Shows how Ibn Taymiyya reads the Trinity through the attributes (theme C); tests whether the 'attributes' reading is a Christian view or his construction.",
+  "stance": "reports opponent",
+  "limits": "Ibn Taymiyya's summary of Christian positions, with no named Christian author in the passage. He says he saw these views 'in Christian books' ('wa-qad ra'aytu fi kutub al-nasara'), but does not cite them here. Passage (550 chars) is long; the orchestrator may shorten to the first sentence.",
+  "significance": 3,
+  "famous": false,
+  "attributed_to_christians": "Christians differ on the glosses: Father = existence, Son = Word (or knowledge), Holy Spirit = life (or power), or the three as 'generous, wise, powerful'.",
+  "christian_check": "Not verified in this pass; no Christian primary text read. Ibn Taymiyya says he saw these in Christian books but gives no citation. Lead to check: Arabic Christian Trinitarian treatises (e.g. Abu Qurra, Ibn al-Tayyib) and the Coptology 'Brief Dialogue on the Trinity' PDF (https://www.coptology.com/website/wp-content/documents/Brief_Dialogue_on_the_Trinity.pdf).",
+  "verdict_candidate": "unverifiable",
+  "verdict_reason": "Plausible: Christian writers did use attribute-based analogies (existence, life, knowledge) for the hypostases, but the specific triads have not been checked against a Christian source, so no verdict on faithfulness."
+ }
+]

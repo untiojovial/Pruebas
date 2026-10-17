@@ -1,0 +1,128 @@
+[
+  {
+    "id": "T11-X01",
+    "work": "JawabSahih",
+    "ref": "vol. 6, p. 352",
+    "kind": "Arabic passage (verified text available)",
+    "reason": "near-duplicate: the meaning-based tawatur passage (ma'nawi, \"fa-yahsulu bi-majmu' al-akhbar ilm darury\") elaborates the third kind listed in T11-W01; kept in reserve if the orchestrator wants the definition and the worked example."
+  },
+  {
+    "id": "T11-X02",
+    "work": "JawabSahih",
+    "ref": "vol. 3, p. 466",
+    "kind": "Arabic passage (verified text available)",
+    "reason": "duplicate of the essence-and-attribute gloss (T11-C03) and the essential-attributes charge (T11-C04); IT says \"the hypostasis is essence and attribute\" and \"the plurality is in attributes, not in the essence\". Kept in reserve."
+  },
+  {
+    "id": "T11-X03",
+    "work": "MajmucFatawa",
+    "ref": "vol. 3, p. 97",
+    "kind": "Arabic passage (verified text available)",
+    "reason": "duplicate of T11-T01: the same kalam threefold (essence, attributes, acts) as in al-Tadmuriyya. Useful only as a second witness that the threefold is the kalam one."
+  },
+  {
+    "id": "T11-X04",
+    "work": "JawabSahih",
+    "ref": "vol. 6, p. 478",
+    "kind": "Arabic passage (snippet only, not extracted)",
+    "reason": "seen in a search snippet; it discusses empirical, tawatur and intuitive knowledge in the Greek logic. Context not read in full, so not extracted."
+  },
+  {
+    "id": "T11-X05",
+    "work": "zwirahn2018",
+    "ref": "Zwirahn 2018, p. 68",
+    "kind": "secondary (read)",
+    "reason": "method description (taḥrīf as a recurring polemic trope); lower priority than T11-S-ZWI1. Quote verified in text: \"builds some of his moves on the claim of unauthentic Christian scripture by accusing them of taḥrīf\"."
+  },
+  {
+    "id": "T11-X06",
+    "work": "UNVERIFIED: Roberts, Nancy N. 1996, \"Reopening the Muslim-Christian Dialogue...\" The Muslim World 86: 342-366",
+    "ref": "as cited in Zwirahn 2018 p. 70",
+    "kind": "secondary, NOT READ",
+    "reason": "UNVERIFIED: only the quotation given in Zwirahn is known; the article itself was not accessed."
+  },
+  {
+    "id": "T11-X07",
+    "work": "UNVERIFIED: Michel, Thomas F. 1984, A Muslim Theologian's Response to Christianity (Caravan Books, Delmar NY); Zwirahn cites a 1999 Caravan printing",
+    "ref": "publisher record from search snippet",
+    "kind": "secondary, NOT READ",
+    "reason": "UNVERIFIED: the 1984 date comes from a WebSearch record; no review or translation text was read, so no accuracy assessment is available. Dates differ between sources (1984 vs 1999)."
+  },
+  {
+    "id": "T11-X08",
+    "work": "UNVERIFIED: Ebied, Rifaat & David Thomas (eds.) 2005, Muslim-Christian Polemic During the Crusades (Brill), vol. 2, incl. \"Paul of Antioch's Letter\"",
+    "ref": "as cited in Zwirahn 2018",
+    "kind": "Christian primary source (Arabic Paul text), NOT READ",
+    "reason": "UNVERIFIED: the best Christian check for Paul's formula (C01-C02) is this edition; not accessed, so Paul's Arabic wording was not compared with IT's quotation."
+  },
+  {
+    "id": "T11-X09",
+    "work": "UNVERIFIED: Thomas, David 2001, \"Paul of Antioch's Letter to a Muslim Friend and the Letter from the People of Cyprus\", in Syrian Christians under Islam (Brill)",
+    "ref": "as cited in Zwirahn 2018 bibliography",
+    "kind": "secondary, NOT READ",
+    "reason": "UNVERIFIED: citation only."
+  },
+  {
+    "id": "T11-X10",
+    "work": "UNVERIFIED: Hallaq, Wael B. 1993, Ibn Taymiyya Against the Greek Logicians (Clarendon)",
+    "ref": "OUP chapter on definition (academic.oup.com/book/34793/chapter/297622885)",
+    "kind": "secondary, NOT READ",
+    "reason": "UNVERIFIED: only a search snippet (chapter on IT's theory of definition, paywalled). The snippet says IT contested both the Aristotelian definition and syllogism theories; this could not be checked in the text."
+  },
+  {
+    "id": "T11-X11",
+    "work": "UNVERIFIED: Hoover, Jon 2022, \"Law, Justice, and Grace: Ibn Taymiyya on the Gospel's Relation to the Torah\" (Nottingham repository)",
+    "ref": "nottingham-repository.worktribe.com (Cloudflare challenge; 403)",
+    "kind": "secondary, NOT READ",
+    "reason": "UNVERIFIED: repository blocked by a bot challenge; title and year from a search result only."
+  },
+  {
+    "id": "T11-X12",
+    "work": "UNVERIFIED: Hoover, Jon 2019, Ibn Taymiyya (Makers of the Muslim World, Oneworld); review by Hafiz Abdul Karim in Shajarah",
+    "ref": "journals.iium.edu.my/shajarah ... article/download/1310/467/2084",
+    "kind": "secondary, NOT READ",
+    "reason": "UNVERIFIED: a review excerpt in search results only; it does not discuss the Trinity or the Jawab."
+  },
+  {
+    "id": "T11-X13",
+    "work": "UNVERIFIED: Laher, Suheil 2026, Tawatur in Islamic Thought (Edinburgh UP)",
+    "ref": "publisher page, Vietnamese bookseller listing",
+    "kind": "secondary, NOT READ",
+    "reason": "UNVERIFIED: the only tawatur book-length source found; no text read; whether it covers IT is unknown. Likely the best next lead for (d)."
+  },
+  {
+    "id": "T11-X14",
+    "work": "UNVERIFIED: Turkish article on the history of the uluhiyya/rububiyya/asma classification (Aksaray repository, acikerisim.aksaray.edu.tr)",
+    "ref": "items/c3cdb869-fb7d-42aa-9d8d-a66c89396f2d",
+    "kind": "secondary, NOT READ",
+    "reason": "UNVERIFIED: repository returned 403; only the search snippet was seen (it says the terms predate IT but IT was the first to systematize them). Not verified."
+  },
+  {
+    "id": "T11-X15",
+    "work": "UNVERIFIED: Gontor article \"ʿAqidah al-Tauhid ʿInda Ibn Taimiyah\" (Tsaqafah)",
+    "ref": "ejournal.unida.gontor.ac.id/index.php/tsaqafah/article/view/116",
+    "kind": "secondary, NOT READ",
+    "reason": "UNVERIFIED: the proxy refused the connection; search snippet only."
+  },
+  {
+    "id": "T11-X16",
+    "work": "UNVERIFIED: Anjum, Ovamir 2012, Politics, Law and Community in Islamic Thought: The Taymiyyan Movement",
+    "ref": "citation in Cambridge reference list (search)",
+    "kind": "secondary, NOT READ",
+    "reason": "UNVERIFIED: citation only; no content read."
+  },
+  {
+    "id": "T11-X17",
+    "work": "NOT FOUND (negative result)",
+    "ref": "WebSearch",
+    "kind": "authors searched without a relevant hit",
+    "reason": "No assessments found in searches for: Sidney Griffith, Mark Swanson, Yahya Michot (on the Jawab; only a review of another book), Sherman Jackson, Bernard Weiss, Jonathan Brown, Khaled El-Rouayheb, Caterina Bori (open-access MSR 2009 article is about the editing of IT's works, not tawatur), Walid Saleh. Searches for IT and tawatur or the threefold tawhid gave nothing read in full."
+  },
+  {
+    "id": "T11-X18",
+    "work": "UNVERIFIED: Ibn Taymiyya and His Times (OUP 2010), PDF hosted on isco-iss.faperta.unpad.ac.id",
+    "ref": "search result URL",
+    "kind": "possible unauthorised copy",
+    "reason": "Not used: the host is a university faculty site and the copy's provenance is unclear. Chapter by David Thomas (2010) is cited in Wikipedia and remains UNVERIFIED."
+  }
+]

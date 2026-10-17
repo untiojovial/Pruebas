@@ -1,0 +1,422 @@
+[
+  {
+    "id": "T4-E01",
+    "work": "RaddCalaMantiqiyyin",
+    "theme": [
+      "E"
+    ],
+    "ar": "أما بعد فإني كنت دائما أعلم أن المنطق اليوناني لا يحتاج إليه الذكي ولا ينتفع به البليد ولكن كنت أحسب أن قضاياه صادقة لما رأيت من صدق كثير منها. ثم تبين لي فيما بعد خطأ طائفة من قضاياه وكتبت في ذلك شيئا",
+    "ref": {
+      "work": "al-Radd ala al-Mantiqiyyin (Radd Cala Mantiqiyyin)",
+      "volume": null,
+      "page": "front matter (before PageV01P003; no page number in text)",
+      "chapter": "Preface (muqaddima; front matter before PageV01P003)"
+    },
+    "vol_page": "front matter (before PageV01P003; no page number in text)",
+    "edition_note": "Shamela 0007626 via OpenITI (Ibn Taymiyya, al-Radd 'ala al-Mantiqiyyin; Dar al-Ma'rifa, Beirut per #META#; editor not given). Page = OpenITI PageV01P### marker (single volume). Not checked against a page image. CROSS-CHECK: the Shamela text used here ends mid-sentence (in the Ibn Arabi/isra section), so it is not complete. The OpenITI version JK000371 (versionUri 0728IbnTaymiyya.RaddCalaMantiqiyyin.JK000371-ara1, 545,242 TSV chars) ends with the closing formula and uses the same printed page markers; for the passages checked its page numbers agree, but its wording differs in spacing and some words, so the Arabic here follows the Shamela text. JK000371 does NOT contain the preface (T4-E01).",
+    "openiti_versionUri": "0728IbnTaymiyya.RaddCalaMantiqiyyin.Shamela0007626-ara1",
+    "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.RaddCalaMantiqiyyin/0728IbnTaymiyya.RaddCalaMantiqiyyin.Shamela0007626-ara1",
+    "offset_start": 1695,
+    "offset_end": 1900,
+    "ar_before": " بن الشيخ الإمام العلامة مفتي الفرق، شهاب الدين عبد الحليم بن الشيخ الإمام العلامة مفتي الفرق مجد الدين عبد السلام بن تيمية: الحمد لله رب العالمين وأشهد أن لا إله إلا الله وحده لا شريك له وأشهد أن محمدا عبده ورسوله صلى الله عليه وعلى آله وسلم تسليما.",
+    "ar_after": "ثم لما كنت بالإسكندرية اجتمع بي من رأيته يعظم المتفلسفة بالتهويل والتقليد فذكرت له بعض ما يستحقه من التجهيل والتضليل. واقتضى ذلك أني كتبت في قعدة بين الظهر من الكلام على المنطق ما علقته تلك الساعة. ثم تعقبته بعد ذلك في مجالس إلى أن تم. ولم يكن ذلك من",
+    "gloss_en": "MY OWN TRANSLATION (not from a published translation): Now then: I had always known that Greek logic is not needed by the intelligent and is of no benefit to the dull; but I used to suppose that its propositions were true, because I saw that many of them are true. Later it became clear to me that a number of its propositions are wrong, and I wrote something on that.",
+    "what_it_says": "Ibn Taymiyya's opening statement: he always held that Greek logic is useless to the clever and of no benefit to the dull, though at first he assumed its propositions were true; later he found some of them false and wrote against them.",
+    "why_relevant": "The exact sentence the brief asks for, with its continuation, which shows the claim was qualified by his own earlier acceptance.",
+    "stance": "own view",
+    "limits": "(a) The brief quoted 'المنطق لا يحتاج إليه الذكي' (this wording is not found in any corpus text); the text reads 'المنطق اليوناني' (Greek logic), and the Arabic here follows the text. (b) The preface opens with 'قال شيخنا' (our shaykh said): the text is his words as recorded by a disciple/transmitter, not a signed autograph. (c) Its front-matter position means no printed page number is given in the OpenITI text. (d) Corroborated by Majmu' al-Fatawa vol. 9 p. 81 with the variant 'لما رأينا' (see works.json). (e) 'Famous' judged from general knowledge of the Arabic literature, not checked against a source. (f) The preface is absent from the JK000371 OpenITI version; it is present in the Shamela text used here and in Majmu' al-Fatawa vol. 9 p. 81 (variant 'لما رأينا'). The Shamela text is the only Radd source with it in this slice.",
+    "significance": 5,
+    "famous": true,
+    "context_note": "Majmu' vol. 9 p. 81 (MajmucFatawa.Shamela0007289): same preface, variant 'لما رأينا'."
+  },
+  {
+    "id": "T4-E02",
+    "work": "RaddCalaMantiqiyyin",
+    "theme": [
+      "E"
+    ],
+    "ar": "وقد تفطن أبو عبدا لله الرازي بن الخطيب لما عليه أئمة الكلام وقرر في محصله وغيره أن التصورات لا تكون مكتسبة وهذا هو حقيقة قول القائلين أن الحد لا يفيد تصوير المحدود",
+    "ref": {
+      "work": "al-Radd ala al-Mantiqiyyin (Radd Cala Mantiqiyyin)",
+      "volume": 1,
+      "page": "vol. 1, p. 30",
+      "chapter": "خلط مقالات أهل المنطق بالعلوم النبوية وإفساد ذلك للعقول والأديان"
+    },
+    "vol_page": "vol. 1, p. 30",
+    "edition_note": "Shamela 0007626 via OpenITI (Ibn Taymiyya, al-Radd 'ala al-Mantiqiyyin; Dar al-Ma'rifa, Beirut per #META#; editor not given). Page = OpenITI PageV01P### marker (single volume). Not checked against a page image. CROSS-CHECK: the Shamela text used here ends mid-sentence (in the Ibn Arabi/isra section), so it is not complete. The OpenITI version JK000371 (versionUri 0728IbnTaymiyya.RaddCalaMantiqiyyin.JK000371-ara1, 545,242 TSV chars) ends with the closing formula and uses the same printed page markers; for the passages checked its page numbers agree, but its wording differs in spacing and some words, so the Arabic here follows the Shamela text. JK000371 does NOT contain the preface (T4-E01).",
+    "openiti_versionUri": "0728IbnTaymiyya.RaddCalaMantiqiyyin.Shamela0007626-ara1",
+    "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.RaddCalaMantiqiyyin/0728IbnTaymiyya.RaddCalaMantiqiyyin.Shamela0007626-ara1",
+    "offset_start": 38916,
+    "offset_end": 39083,
+    "ar_before": "عيان وبين غيره وهذا التمييز إنما يحصل بواسطة ذلك فالتمييز الذي في النفس يجب أن يكون مطابقا للتمييز في الخارج والتمييز الذي يحصل للمستمع هو بواسطة التمييز الذي في نفس المتكلم والله أعلم خلط مقالات أهل المنطق بالعلوم النبوية وإفساد ذلك للعقول والأديان:",
+    "ar_after": ". لكنه لم يهتد هو وأمثاله إلى ما سبق إليه أئمة الكلام في هذا المقام. وهذا مقام شريف ينبغي أن يعرف فانه بسبب إهماله دخل الفساد في العقول والأديان على كثير من الناس إذ خلطوا ما ذكره أهل المنطق في الحدود بالعلوم النبوية التي جاءت به الرسل التي عند المسل",
+    "gloss_en": "MY OWN TRANSLATION (not from a published translation): Abu Abdullah al-Razi ibn al-Khatib, who grasped what the leading theologians held, established in his Muhassal and elsewhere that conceptions are not acquired; and this is in fact the position of those who say that definition does not yield the conception of the defined thing. But he and those like him did not reach what the leading theologians had reached on this question.",
+    "what_it_says": "Ibn Taymiyya presents Fakhr al-Din al-Razi's conclusion that conceptions cannot be acquired as the real content of the claim that 'definition does not give the conception of the defined', and says Razi did not follow the theologians' route.",
+    "why_relevant": "Starts his critique of the claim that definitions yield the essence; shows which view of definitions he is criticising.",
+    "stance": "own view",
+    "limits": "(a) Part of the passage reports Razi's conclusion; the identification 'this is in fact the position of those who say...' is Ibn Taymiyya's own interpretation. (b) Razi's Muhassal is cited by title only; not checked. (c) The heading refers to the 'mixing' of logic with prophetic sciences, which is his thesis.",
+    "significance": 3,
+    "famous": false,
+    "context_note": "Preceded by a discussion of definition and naming."
+  },
+  {
+    "id": "T4-E03",
+    "work": "RaddCalaMantiqiyyin",
+    "theme": [
+      "E"
+    ],
+    "ar": "وإذا كان دلالة الاسم على مسماه مسبوقا بتصور مسماه وجب أن تكون دلالة الحد على المحدود مسبوقا بتصور المحدود وإذا كان كل من المحدود والمسمى متصورا بدون الاسم والحد وكان تصور المسمى والمحدود مشتركا في دلالة الحد والاسم على معناه امتنع أن تتصور المحدودات بمجرد الحدود كما يمتنع تصور المسميات بمجرد الأسماء وهذا هو المطلوب",
+    "ref": {
+      "work": "al-Radd ala al-Mantiqiyyin (Radd Cala Mantiqiyyin)",
+      "volume": 1,
+      "page": "vol. 1, p. 33",
+      "chapter": "الوجه الأول: الحد -سواء جعل مركبا أو مفردا- لا يفيد معرفة المحدود"
+    },
+    "vol_page": "vol. 1, p. 33",
+    "edition_note": "Shamela 0007626 via OpenITI (Ibn Taymiyya, al-Radd 'ala al-Mantiqiyyin; Dar al-Ma'rifa, Beirut per #META#; editor not given). Page = OpenITI PageV01P### marker (single volume). Not checked against a page image. CROSS-CHECK: the Shamela text used here ends mid-sentence (in the Ibn Arabi/isra section), so it is not complete. The OpenITI version JK000371 (versionUri 0728IbnTaymiyya.RaddCalaMantiqiyyin.JK000371-ara1, 545,242 TSV chars) ends with the closing formula and uses the same printed page markers; for the passages checked its page numbers agree, but its wording differs in spacing and some words, so the Arabic here follows the Shamela text. JK000371 does NOT contain the preface (T4-E01).",
+    "openiti_versionUri": "0728IbnTaymiyya.RaddCalaMantiqiyyin.Shamela0007626-ara1",
+    "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.RaddCalaMantiqiyyin/0728IbnTaymiyya.RaddCalaMantiqiyyin.Shamela0007626-ara1",
+    "offset_start": 43326,
+    "offset_end": 43652,
+    "ar_before": "لم يعرف أنه موضوع له ولا يعرف أنه موضوع له حتى يتصور اللفظ والمعنى فلو كان المقصود بالوضع استفادة معاني الألفاظ المفردة لزم الدور. وإذا لم يكن المقصود من الأسماء تصوير معانيها المفردة ودلالة الحد كدلالة الاسم لم يكن المقصود من الحد تصوير معناه المفرد",
+    "ar_after": ". ولهذا كان من المتفق عليه بين جميع أهل الأرض أن الكلام المفيد لا يكون إلا جملة تامة كاسمين أو فعل واسم. هذا مما اعترف به المنطقيون وقسموا الألفاظ إلى اسم وكلمة وحرف يسمى أداة وقالوا المراد ب الكلمة ما يريده النحاة بلفظ الفعل لكنهم مع هذا يناقضون ويج",
+    "gloss_en": "MY OWN TRANSLATION (not from a published translation): When the signification of a name for its named thing is preceded by the conception of that thing, the signification of a definition for the defined thing must be preceded by the conception of the defined thing. And since the defined thing and the named thing can each be conceived without the name and without the definition, and since the conception of the named and of the defined thing is shared in the way both name and definition signify their meaning, it is impossible for defined things to be conceived by definitions alone, just as it is impossible for named things to be conceived by names alone. This is what was to be shown.",
+    "what_it_says": "His first argument: a definition, whether composite or simple, cannot give knowledge of the thing defined, because a definition signifies only as a name does, and presupposes the conception it is meant to produce.",
+    "why_relevant": "The core argument for his rejection of definition as a source of knowledge (the hadd).",
+    "stance": "own view",
+    "limits": "(a) The argument is about conception (tasawwur), not about all definitions in every use. (b) The author's point rests on the analogy between name and definition, which the passage asserts rather than proves. (c) Chapter title is the author's own 'Wajh' (argument) heading.",
+    "significance": 4,
+    "famous": false,
+    "context_note": ""
+  },
+  {
+    "id": "T4-E04",
+    "work": "RaddCalaMantiqiyyin",
+    "theme": [
+      "E"
+    ],
+    "ar": "فإنه يمتنع أن يحصل بمجرد الحد تصور المحدود وما ذكروه من الفرق بين الصفات الذاتية المقومة الداخلة في الماهية والصفات الخارجة اللازمة أمر باطل لا حقيقة له وما أوجبوه من ذكر الصفتين في الحدود هو مما يحظره المتكلمون فيمتنعون منه في الحد والتحقيق أنه لا واجب ولا محظور كما قد بيناه في موضع آخر وكل ما يذكرونه من الحدود فانما يفيد التمييز وإذا كان لا يحصل بالحد إلا التمييز فالتمييز قد يحصل ب الفصل والخاصة",
+    "ref": {
+      "work": "al-Radd ala al-Mantiqiyyin (Radd Cala Mantiqiyyin)",
+      "volume": 1,
+      "page": "vol. 1, p. 21–22",
+      "chapter": "الرد على كلام الغزالي"
+    },
+    "vol_page": "vol. 1, p. 21–22",
+    "edition_note": "Shamela 0007626 via OpenITI (Ibn Taymiyya, al-Radd 'ala al-Mantiqiyyin; Dar al-Ma'rifa, Beirut per #META#; editor not given). Page = OpenITI PageV01P### marker (single volume). Not checked against a page image. CROSS-CHECK: the Shamela text used here ends mid-sentence (in the Ibn Arabi/isra section), so it is not complete. The OpenITI version JK000371 (versionUri 0728IbnTaymiyya.RaddCalaMantiqiyyin.JK000371-ara1, 545,242 TSV chars) ends with the closing formula and uses the same printed page markers; for the passages checked its page numbers agree, but its wording differs in spacing and some words, so the Arabic here follows the Shamela text. JK000371 does NOT contain the preface (T4-E01).",
+    "openiti_versionUri": "0728IbnTaymiyya.RaddCalaMantiqiyyin.Shamela0007626-ara1",
+    "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.RaddCalaMantiqiyyin/0728IbnTaymiyya.RaddCalaMantiqiyyin.Shamela0007626-ara1",
+    "offset_start": 28259,
+    "offset_end": 28685,
+    "ar_before": " الفلاسفة بالاطلاق لا حكم بأن ما ذكروه كما ذكروه فان ذلك مما يتوقف على ما يوجبه البرهان\". الرد على كلام الغزالي: قلت: ما ذكره من صعوبة الحد على الشروط التي ذكرها حق لو كان المقصود بالحد تصوير الحدود كما يدعونه وكان ذلك ممكنا لكن ما ذكروه في الحد باطل",
+    "ar_after": "فعلم أن طريقة المتكلمين أسد في تحصيل المقصود الصحيح بالحدود. وأما قوله: \"إن ذلك في غاية البعد عن التعريف لذات المحدود\" فيقال وكذلك سائر الحدود هي غير محصلة لتصوير ذات المحدود كما سنبينه إن شاء الله تعالى. وما ذكره من الوجوه حجة عليهم. فان ما ذكره من ",
+    "gloss_en": "MY OWN TRANSLATION (not from a published translation): For it is impossible for the conception of the defined thing to be obtained merely by the definition; and what they say about distinguishing the essential attributes that constitute the quiddity from the external necessary attributes is baseless. Everything they mention in definitions yields only distinction (tamyiz). And since definition yields only distinction, distinction can be obtained through the differentia and the proprium.",
+    "what_it_says": "Against al-Ghazali, he says that definitions do not give the conception of the thing; what they produce is only distinction, which can also be obtained through differentia and proprium (fasl and khassa).",
+    "why_relevant": "The clearest statement that he concedes a limited function (distinction) to definitions while denying they yield the essence.",
+    "stance": "own view",
+    "limits": "(a) Opens after 'قلت' (I say) in a reply to al-Ghazali's quoted text; the quoted al-Ghazali sentence is not in the excerpt (it appears a few lines earlier, in the same passage). (b) 'Quiddity' (mahiyya) and 'differentia' are rendered by standard terms. (c) The word 'ب الفصل' has a Shamela-style spacing; the sense is clear.",
+    "significance": 4,
+    "famous": false,
+    "context_note": "Reply in 'الرد على كلام الغزالي', the passage opens with 'لكن ما ذكروه في الحد باطل'."
+  },
+  {
+    "id": "T4-E06",
+    "work": "RaddCalaMantiqiyyin",
+    "theme": [
+      "E"
+    ],
+    "ar": "هم يدعون أن المفيد لليقين هو قياس الشمول فأما قياس التمثيل فيزعمون أنه لا يفيد اليقين ونحن نعلم أن من التمثيل ما يفيد اليقين ومنه ما لا يفيده ك الشمول فان الشيئين قد يكون تماثلهما معلوما وقد يكون مظنونا",
+    "ref": {
+      "work": "al-Radd ala al-Mantiqiyyin (Radd Cala Mantiqiyyin)",
+      "volume": 1,
+      "page": "vol. 1, p. 363",
+      "chapter": "الوجه السابع: الأدلة القاطعة على استواء قياسي الشمول والتمثيل"
+    },
+    "vol_page": "vol. 1, p. 363",
+    "edition_note": "Shamela 0007626 via OpenITI (Ibn Taymiyya, al-Radd 'ala al-Mantiqiyyin; Dar al-Ma'rifa, Beirut per #META#; editor not given). Page = OpenITI PageV01P### marker (single volume). Not checked against a page image. CROSS-CHECK: the Shamela text used here ends mid-sentence (in the Ibn Arabi/isra section), so it is not complete. The OpenITI version JK000371 (versionUri 0728IbnTaymiyya.RaddCalaMantiqiyyin.JK000371-ara1, 545,242 TSV chars) ends with the closing formula and uses the same printed page markers; for the passages checked its page numbers agree, but its wording differs in spacing and some words, so the Arabic here follows the Shamela text. JK000371 does NOT contain the preface (T4-E01).",
+    "openiti_versionUri": "0728IbnTaymiyya.RaddCalaMantiqiyyin.Shamela0007626-ara1",
+    "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.RaddCalaMantiqiyyin/0728IbnTaymiyya.RaddCalaMantiqiyyin.Shamela0007626-ara1",
+    "offset_start": 463797,
+    "offset_end": 464005,
+    "ar_before": "علم بلا قياس ولا دليل وليس لذلك حد في نفس القضايا بل ذلك بحسب أحوال بنى آدم لم يمكن أن يقال فيما علمه زيد بالقياس أنه لا يمكن غيره أن يعلمه بلا قياس بل هذا نفى كاذب. الوجه السابع: الأدلة القاطعة على استواء قياسي الشمول والتمثيل. الوجه السابع: أن يقال",
+    "ar_after": "كالعموم وإن جمع بينهما بالعلة فالعلة في معنى عموم الشمول. يوضح هذا أن يقال قياس الشمول يؤول في الحقيقة إلى قياس التمثيل كما أن الآخر في الحقيقة يؤول إلى الأول ولهذا تنازع الناس في مسمى القياس فقيل هو قياس التمثيل فقط وهو قول أكثر الأصوليين وقيل قياس ",
+    "gloss_en": "MY OWN TRANSLATION (not from a published translation): They claim that what yields certainty is the universal (shumuli) syllogism, and that analogical inference (tamthil) yields only opinion; but we know that some analogical inference yields certainty and some does not, for two things may have their likeness known, or it may only be supposed.",
+    "what_it_says": "Ibn Taymiyya argues that the logicians wrongly deny certainty to analogy: some analogy yields certainty, as the universal syllogism does, and its strength depends on whether the likeness is known or merely supposed.",
+    "why_relevant": "Central to the shumuli vs. tamthil comparison the brief asks for; it is his direct counter-claim, not a report.",
+    "stance": "own view",
+    "limits": "(a) The phrase 'ومنه ما لا يفيده ك الشمول' (inside the Arabic, before 'فان الشيئين') is unclear: 'ك' may be a Shamela artifact of 'كالشمول' or a scribal error. The gloss leaves that clause out of the translation; check the page image before quoting the Arabic in full. (b) The 'Wajh' heading is his own. (c) The argument, which continues after this passage, says that the universal syllogism reduces to analogy and vice versa.",
+    "significance": 4,
+    "famous": false,
+    "context_note": "Continues with the claim that 'every universal syllogism reduces to analogy and every analogy reduces to universal syllogism'."
+  },
+  {
+    "id": "T4-E07",
+    "work": "RaddCalaMantiqiyyin",
+    "theme": [
+      "E"
+    ],
+    "ar": "ومما يبين أن حصول العلوم اليقينية الكلية والجزئية لا يفتقر إلى برهانهم أن يقال إذا كان لا بد في برهانهم من قضية كلية فالعلم بتلك القضية الكلية لا بد له من سبب فان عرفوها ب اعتبار الغائب بالشاهد وان حكم الشيء حكم مثله كما إذا عرفنا أن هذا النار محرقة علمنا أن النار الغائبة محرقة لأنها مثلها وحكم الشيء حكم مثله فيقال. هذا استدلال ب قياس التمثيل وهم يزعمون أنه لا يفيد اليقين بل الظن فإذا كانوا علموا القضية الكلية بقياس التمثيل رجعوا في اليقين إلى ما يقولون أنه لا يفيد إلا الظن",
+    "ref": {
+      "work": "al-Radd ala al-Mantiqiyyin (Radd Cala Mantiqiyyin)",
+      "volume": 1,
+      "page": "vol. 1, p. 114",
+      "chapter": "القضايا الكلية تعلم بقياس التمثيل"
+    },
+    "vol_page": "vol. 1, p. 114",
+    "edition_note": "Shamela 0007626 via OpenITI (Ibn Taymiyya, al-Radd 'ala al-Mantiqiyyin; Dar al-Ma'rifa, Beirut per #META#; editor not given). Page = OpenITI PageV01P### marker (single volume). Not checked against a page image. CROSS-CHECK: the Shamela text used here ends mid-sentence (in the Ibn Arabi/isra section), so it is not complete. The OpenITI version JK000371 (versionUri 0728IbnTaymiyya.RaddCalaMantiqiyyin.JK000371-ara1, 545,242 TSV chars) ends with the closing formula and uses the same printed page markers; for the passages checked its page numbers agree, but its wording differs in spacing and some words, so the Arabic here follows the Shamela text. JK000371 does NOT contain the preface (T4-E01).",
+    "openiti_versionUri": "0728IbnTaymiyya.RaddCalaMantiqiyyin.Shamela0007626-ara1",
+    "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.RaddCalaMantiqiyyin/0728IbnTaymiyya.RaddCalaMantiqiyyin.Shamela0007626-ara1",
+    "offset_start": 143600,
+    "offset_end": 144092,
+    "ar_before": "ية والسمعية إلا من علم منهم علما من غير الطريق المنطقية فتكون علومه من تلك الجهة لا من جهتهم مع كثرة تعبهم في البرهان الذين يزعمون أنهم يزنون به العلوم ومن عرف منهم بشئ من العلوم لم يكن ذلك بواسطة ما حرروه في المنطق القضايا الكلية تعلم بقياس التمثيل:",
+    "ar_after": ". وإن قالوا بل عند الإحساس بالجزئيات يحصل في النفس علم الكلى من واهب العقل أو تستعد النفس عند الإحساس بالجزئيات لأن يفيض عليها الكلى من واهب العقل أو قالوا من العقل الفعال عندهم أو نحو ذلك قيل لهم. الكلام فيها به يعلم أن ذلك الحكم الكلى الذي في النفس",
+    "gloss_en": "MY OWN TRANSLATION (not from a published translation): Among the things that show that the attainment of certain universal and particular knowledge does not depend on their demonstration: if their demonstration requires a universal proposition, knowledge of that universal proposition must have a cause. If they know it by inferring from the seen to the unseen, the judgement of a thing is the judgement of its like (when we know this fire burns, we know the absent fire burns, since it is like it), they call this analogical inference (tamthil) and claim it yields only opinion. So if they know the universal proposition by analogy, they return to certainty what they say yields only opinion.",
+    "what_it_says": "A dilemma: if the logicians' universal premises are known through analogy, their own claim that analogy yields only opinion undermines the certainty of their demonstration; if they are known otherwise, the claim that all knowledge needs the syllogism is refuted.",
+    "why_relevant": "Shows his method against the logicians' claim (quoted from them): the argument turns on the status of analogy.",
+    "stance": "own view",
+    "limits": "(a) Dilemma, not an assertion of his own view on analogy in full; the logicians' view (analogy = opinion) is quoted within it. (b) The text has a grammatical slip 'هذا النار'; the gloss does not repeat it. (c) The phrase 'حكم الشيء حكم مثله' is cited as a principle.",
+    "significance": 4,
+    "famous": false,
+    "context_note": "Preceded by 'العلوم الحسية لا تكون إلا جزئية معينة' (sensory knowledge is only of particulars)."
+  },
+  {
+    "id": "T4-E08",
+    "work": "RaddCalaMantiqiyyin",
+    "theme": [
+      "E"
+    ],
+    "ar": "أنهم لما ظنوا أن طريقهم كلية محيطة بطرق العلم الحاصل لبني آدم مع أن الأمر ليس كذلك وقد علم الناس أما بالحس وأما بالعقل وأما بالأخبار الصادقة علوما كثيرة لا تعلم بطرقهم التي ذكروها",
+    "ref": {
+      "work": "al-Radd ala al-Mantiqiyyin (Radd Cala Mantiqiyyin)",
+      "volume": 1,
+      "page": "vol. 1, p. 472",
+      "chapter": "الوجه الرابع عشر: فساد جعلهم علوم الأنبياء تحصل بواسطة القياس المنطقي"
+    },
+    "vol_page": "vol. 1, p. 472",
+    "edition_note": "Shamela 0007626 via OpenITI (Ibn Taymiyya, al-Radd 'ala al-Mantiqiyyin; Dar al-Ma'rifa, Beirut per #META#; editor not given). Page = OpenITI PageV01P### marker (single volume). Not checked against a page image. CROSS-CHECK: the Shamela text used here ends mid-sentence (in the Ibn Arabi/isra section), so it is not complete. The OpenITI version JK000371 (versionUri 0728IbnTaymiyya.RaddCalaMantiqiyyin.JK000371-ara1, 545,242 TSV chars) ends with the closing formula and uses the same printed page markers; for the passages checked its page numbers agree, but its wording differs in spacing and some words, so the Arabic here follows the Shamela text. JK000371 does NOT contain the preface (T4-E01).",
+    "openiti_versionUri": "0728IbnTaymiyya.RaddCalaMantiqiyyin.Shamela0007626-ara1",
+    "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.RaddCalaMantiqiyyin/0728IbnTaymiyya.RaddCalaMantiqiyyin.Shamela0007626-ara1",
+    "offset_start": 616089,
+    "offset_end": 616272,
+    "ar_before": "لبرهان في أشياء معينة مع إمكان علم كثير من الناس لأمور أخر بغير تلك المواد المعينة التي عينوها وإذا قالوا نحن لا نعين المواد فقد بطل أحد أجزاء المنطق وهو المطلوب. الوجه الرابع عشر: فساد جعلهم علوم الأنبياء تحصل بواسطة القياس المنطقي الوجه الرابع عشر:",
+    "ar_after": "ومن ذلك ما علمته الأنبياء صلوات الله عليهم من المعلوم فأرادوا إجراء ذلك على قانونهم الفاسد فقالوا النبي له قوة أقوى من قوة غيره في العلم والعمل وربما سموها قوة قدسية وهو أن يكون بحيث ينال الحد الأوسط من غير تعليم معلم له فإذا تصور طرفي القضية أدراك ب",
+    "gloss_en": "MY OWN TRANSLATION (not from a published translation): Because they supposed that their method is a comprehensive universal covering all the ways in which knowledge is obtained by the children of Adam, though this is not so; people have known many things by the senses, by reason, and by true reports (al-akhbar al-sadiqa) which are not known by the methods they mention.",
+    "what_it_says": "Fourteenth refutation: the logicians wrongly claimed that all knowledge, including prophetic knowledge, comes through their syllogistic method; people know much through senses, reason and true reports that this method does not cover.",
+    "why_relevant": "Names the three sources (hiss, 'aql, akhbar sadiqa) and says they cover knowledge outside the logicians' method.",
+    "stance": "own view",
+    "limits": "(a) It is a refutation of the logicians' claim, stated just after this sentence, that prophetic knowledge is obtained by syllogism through a 'quwwa qudsiyya' (sacred faculty) that finds the middle term; the sentence quoted here is his opening summary of that refutation. (b) 'Fitra' is not named in this sentence; the three sources are named here.",
+    "significance": 3,
+    "famous": false,
+    "context_note": "Heading: 'الوجه الرابع عشر' (fourteenth argument)."
+  },
+  {
+    "id": "T4-E09",
+    "work": "RaddCalaMantiqiyyin",
+    "theme": [
+      "E"
+    ],
+    "ar": "ملخص أصول المنطق واصطلاحاته بنوا المنطق على الكلام في الحد ونوعه والقياس البرهاني ونوعه قالوا لأن العلم أما تصور وأما تصديق وكل منهما بديهي وأما نظري فإنه من المعلوم أنه ليس الجميع بديهيا ولا يجوز أن يكون الجميع نظريا لافتقار النظري إلى البديهي فيلزم الدور القبلي أو التسلسل في العلل التي هي هنا أسباب العلم وهي الأدلة وهما ممتنعان",
+    "ref": {
+      "work": "al-Radd ala al-Mantiqiyyin (Radd Cala Mantiqiyyin)",
+      "volume": 1,
+      "page": "vol. 1, p. 3",
+      "chapter": "فصل: ملخص أصول المنطق واصطلاحاته"
+    },
+    "vol_page": "vol. 1, p. 3",
+    "edition_note": "Shamela 0007626 via OpenITI (Ibn Taymiyya, al-Radd 'ala al-Mantiqiyyin; Dar al-Ma'rifa, Beirut per #META#; editor not given). Page = OpenITI PageV01P### marker (single volume). Not checked against a page image. CROSS-CHECK: the Shamela text used here ends mid-sentence (in the Ibn Arabi/isra section), so it is not complete. The OpenITI version JK000371 (versionUri 0728IbnTaymiyya.RaddCalaMantiqiyyin.JK000371-ara1, 545,242 TSV chars) ends with the closing formula and uses the same printed page markers; for the passages checked its page numbers agree, but its wording differs in spacing and some words, so the Arabic here follows the Shamela text. JK000371 does NOT contain the preface (T4-E01).",
+    "openiti_versionUri": "0728IbnTaymiyya.RaddCalaMantiqiyyin.Shamela0007626-ara1",
+    "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.RaddCalaMantiqiyyin/0728IbnTaymiyya.RaddCalaMantiqiyyin.Shamela0007626-ara1",
+    "offset_start": 2740,
+    "offset_end": 3087,
+    "ar_before": "الحدود التي يعرف التصورات بل ما ذكروه من صور القياس ومواده اليقينيات. فأراد بعض الناس أن يكتب ما علقته إذ ذاك من الكلام عليهم في المنطق فأذنت في ذلك لأنه يفتح باب معرفة الحق، وإن كان ما فتح من باب الرد عليهم يحتمل أضعاف ما علقته تلك الساعة فقلت: فصل:",
+    "ar_after": ". والنظري منهما لا بد له من طريق ينال به فالطريق الذي ينال به التصور هو الحد والطريق الذي ينال به التصديق هو القياس فالحد اسم جامع لكل ما يعرف التصور وهو القول الشارح فيدخل فيه الحقيقي والرسمي واللفظي أو هو الحقيقي خاصة فيقرن به الرسمي واللفظي ليس من",
+    "gloss_en": "MY OWN TRANSLATION (not from a published translation): Summary of the principles and technical terms of logic: they built logic on the discussion of definition and its kinds and of demonstrative syllogism and its kinds. They said: knowledge is either conception or assent, and each of these is either self-evident or theoretical. It is clear that not all knowledge is self-evident, and it cannot all be theoretical because the theoretical requires the self-evident; otherwise there would be a prior circularity or an infinite regress in the causes of knowledge, which here are proofs, and both are impossible.",
+    "what_it_says": "A summary of the logicians' division of knowledge into conception and assent, and into self-evident and theoretical; the author accepts the premise that not everything can be theoretical, and presents this as the logicians' own argument.",
+    "why_relevant": "Gives the logicians' classification the brief asks for (daruri vs. nazari) in his own summary.",
+    "stance": "reports opponent",
+    "limits": "(a) Stance: this passage is a summary of the logicians' principles ('قالوا'), not Ibn Taymiyya's own view; the later argument in the same section partly accepts the 'not all theoretical' point and then criticises the logicians. (b) The phrase 'وكل منهما بديهي وأما نظري' is elliptical in the text; the gloss supplies 'some ... some'. (c) 'الدور القبلي' (prior circularity) is the technical term used.",
+    "significance": 3,
+    "famous": false,
+    "context_note": "Opens the 'فصل' on logical principles; the critique follows."
+  },
+  {
+    "id": "T4-E10",
+    "work": "RaddCalaMantiqiyyin",
+    "theme": [
+      "E"
+    ],
+    "ar": "فالفرق بين البديهي والنظري إنما هو بالنسبة والإضافة فقد يبده هذا من العلم ويبتدىء في نفسه ما يكون بديهيا له وإن كان غيره لا يناله إلا بنظر قصير أو طويل",
+    "ref": {
+      "work": "al-Radd ala al-Mantiqiyyin (Radd Cala Mantiqiyyin)",
+      "volume": 1,
+      "page": "vol. 1, p. 87–88",
+      "chapter": "الفرق بين البديهي والنظري أمر نسبي محض"
+    },
+    "vol_page": "vol. 1, p. 87–88",
+    "edition_note": "Shamela 0007626 via OpenITI (Ibn Taymiyya, al-Radd 'ala al-Mantiqiyyin; Dar al-Ma'rifa, Beirut per #META#; editor not given). Page = OpenITI PageV01P### marker (single volume). Not checked against a page image. CROSS-CHECK: the Shamela text used here ends mid-sentence (in the Ibn Arabi/isra section), so it is not complete. The OpenITI version JK000371 (versionUri 0728IbnTaymiyya.RaddCalaMantiqiyyin.JK000371-ara1, 545,242 TSV chars) ends with the closing formula and uses the same printed page markers; for the passages checked its page numbers agree, but its wording differs in spacing and some words, so the Arabic here follows the Shamela text. JK000371 does NOT contain the preface (T4-E01).",
+    "openiti_versionUri": "0728IbnTaymiyya.RaddCalaMantiqiyyin.Shamela0007626-ara1",
+    "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.RaddCalaMantiqiyyin/0728IbnTaymiyya.RaddCalaMantiqiyyin.Shamela0007626-ara1",
+    "offset_start": 111418,
+    "offset_end": 111587,
+    "ar_before": "ا بواسطة القياس المنطقي الشمولي الذي وصفوا مادته وصورته؟. الفرق بين البديهي والنظري أمر نسبي محض: والثاني: أن يقال: هم معترفون بما لا بد منه من أن التصديقات منها بديهي ومنها نظري وأنه يمتنع أن تكون كلها نظرية لافتقار النظري إلى البديهي. وإذا كان كذلك",
+    "ar_after": "بل قد يكون غيره يتعسر عليه حصوله بالنظر وقد تقدم التنبيه على هذا في التصورات لكن نزيده هنا دليلا يختص هذا فنقول. البديهي من التصديقات هو ما يكفى تصور طرفيه موضوعه ومحموله في حصول تصديقه فلا يتوقف على وسط يكون بينهما وهو الدليل الذي هو الحد الأوسط سوا",
+    "gloss_en": "MY OWN TRANSLATION (not from a published translation): So the difference between the self-evident and the theoretical is a matter of relation and attribution: a person may begin from something that is self-evident to him, while another can reach it only through a short or a long inquiry.",
+    "what_it_says": "Ibn Taymiyya holds that the self-evident/theoretical distinction is relative to the person: what is self-evident for one may require inquiry for another.",
+    "why_relevant": "Directly answers the logicians' claim that knowledge must come by their syllogism; it bears on the 'daruri vs nazari' question.",
+    "stance": "own view",
+    "limits": "(a) The verb 'فقد يبده' is unclear in the text (possibly 'يبتدهه' misspelled); the gloss follows the sense. (b) The section heading is his own. (c) The passage is part of a longer argument, cut here at 'بنظر قصير أو طويل'.",
+    "significance": 3,
+    "famous": false,
+    "context_note": "Heading: 'حصر العلم على القياس قول بغير علم'."
+  },
+  {
+    "id": "T4-E12",
+    "work": "RaddCalaMantiqiyyin",
+    "theme": [
+      "E"
+    ],
+    "ar": "الفرق بين الآيات وبين القياس أن الآية هي العلامة وهي الدليل الذي يستلزم عين المدلول لا يكون مدلوله أمرا كليا مشتركا بين المطلوب وغيره بل نفس العلم به يوجب العلم بعين المدلول كما أن الشمس آية النهار قال تعالى: {وجعلنا الليل والنهار آيتين فمحونا آية الليل وجعلنا آية النهار مبصرة} فنفس العلم بطلوع الشمس يوجب العلم بوجود النهار. وكذلك آيات نبوة محمد صلى الله عليه وسلم نفس العلم بها يوجب العلم بنبوته بعينه لا يوجب أمرا كليا مشتركا بينه وبين غيره",
+    "ref": {
+      "work": "al-Radd ala al-Mantiqiyyin (Radd Cala Mantiqiyyin)",
+      "volume": 1,
+      "page": "vol. 1, p. 150",
+      "chapter": "الاستدلال بالآيات في القران"
+    },
+    "vol_page": "vol. 1, p. 150",
+    "edition_note": "Shamela 0007626 via OpenITI (Ibn Taymiyya, al-Radd 'ala al-Mantiqiyyin; Dar al-Ma'rifa, Beirut per #META#; editor not given). Page = OpenITI PageV01P### marker (single volume). Not checked against a page image. CROSS-CHECK: the Shamela text used here ends mid-sentence (in the Ibn Arabi/isra section), so it is not complete. The OpenITI version JK000371 (versionUri 0728IbnTaymiyya.RaddCalaMantiqiyyin.JK000371-ara1, 545,242 TSV chars) ends with the closing formula and uses the same printed page markers; for the passages checked its page numbers agree, but its wording differs in spacing and some words, so the Arabic here follows the Shamela text. JK000371 does NOT contain the preface (T4-E01).",
+    "openiti_versionUri": "0728IbnTaymiyya.RaddCalaMantiqiyyin.Shamela0007626-ara1",
+    "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.RaddCalaMantiqiyyin/0728IbnTaymiyya.RaddCalaMantiqiyyin.Shamela0007626-ara1",
+    "offset_start": 185663,
+    "offset_end": 186121,
+    "ar_before": "الإلهية التي هي اشرف العلوم وأعظم ما تكمل به النفوس من المعارف وان كان كما لها لا بد فيه من كمال علمها وقصدها جميعا فلا بد من عبادة الله وحده المتضمنة لمعرفته ومحبته والذل له. الاستدلال بالآيات في القران: وأما استدلاله تعالى بالآيات فكثير في القران و",
+    "ar_after": ". وكذلك آيات الرب تعالى نفس العلم بها يوجب العلم بنفسه المقدسة تعالى لا يوجب علما كليا مشتركا بينه وبين غيره. والعلم بكون هذا مستلزما لهذا هو جهة الدليل. فكل دليل في الوجود لا بد أن يكون مستلزما للمدلول والعلم باستلزام المعين للمعين المطلوب أقرب إلى ",
+    "gloss_en": "MY OWN TRANSLATION (not from a published translation): The difference between a sign (aya) and a syllogism: the sign is the indicator, the proof that entails the very thing signified; its signified is not a common universal shared between the sought thing and others. Rather, knowing it itself yields knowledge of the thing specifically, as the sun is the sign of daytime. Likewise the signs of Muhammad's prophethood: knowing them yields knowledge of his prophethood itself, not a universal shared between him and others.",
+    "what_it_says": "A sign (aya) that entails the specific thing is distinguished from a syllogism, which gives a universal; he applies this to the signs of Muhammad's prophethood.",
+    "why_relevant": "A clear statement about how he thinks prophethood is established: through specific signs, not through general syllogism.",
+    "stance": "own view",
+    "limits": "(a) The Qur'anic quotation (Q 17:12) is included in the Arabic; the gloss refers to it only in passing. (b) The argument is about the logic of knowing, not about the content of the Christian or Jewish claims. (c) Does not say explicitly which signs are meant.",
+    "significance": 4,
+    "famous": false,
+    "context_note": "Heading: 'الاستدلال بالآيات في القران' (inference by signs in the Qur'an)."
+  },
+  {
+    "id": "T4-E13",
+    "work": "RaddCalaMantiqiyyin",
+    "theme": [
+      "E"
+    ],
+    "ar": "وإثبات العلم بالصانع والنبوات ليس موقوفا على شيء من الأقيسة بل يعلم بالآيات الدالة على شيء معين لا شركة فيه ويحصل بالعلم الضروري الذي لا يفتقر إلى نظر وما يحصل منها بالقياس الشمولي فهو بمنزلة ما يحصل بقياس التمثيل فهو أمر كلى لا يحصل به العلم بما يختص به الرب وما يختص به الرسول إلا بانضمام علم آخر إليه",
+    "ref": {
+      "work": "al-Radd ala al-Mantiqiyyin (Radd Cala Mantiqiyyin)",
+      "volume": 1,
+      "page": "vol. 1, p. 355",
+      "chapter": "(section on signs and syllogism; nearest heading: \"وتحقيق الأمر أن النظر نوعان\")"
+    },
+    "vol_page": "vol. 1, p. 355",
+    "edition_note": "Shamela 0007626 via OpenITI (Ibn Taymiyya, al-Radd 'ala al-Mantiqiyyin; Dar al-Ma'rifa, Beirut per #META#; editor not given). Page = OpenITI PageV01P### marker (single volume). Not checked against a page image. CROSS-CHECK: the Shamela text used here ends mid-sentence (in the Ibn Arabi/isra section), so it is not complete. The OpenITI version JK000371 (versionUri 0728IbnTaymiyya.RaddCalaMantiqiyyin.JK000371-ara1, 545,242 TSV chars) ends with the closing formula and uses the same printed page markers; for the passages checked its page numbers agree, but its wording differs in spacing and some words, so the Arabic here follows the Shamela text. JK000371 does NOT contain the preface (T4-E01).",
+    "openiti_versionUri": "0728IbnTaymiyya.RaddCalaMantiqiyyin.Shamela0007626-ara1",
+    "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.RaddCalaMantiqiyyin/0728IbnTaymiyya.RaddCalaMantiqiyyin.Shamela0007626-ara1",
+    "offset_start": 451699,
+    "offset_end": 452010,
+    "ar_before": " كالحساب والهندسة فانه وإن كان ذلك يتناول ما وجد على ذلك المقدار فدخول المعين فيه لا يعلم بالقياس بل بالحس فلم يكن القياس محصلا للمقصود أو تكون مما لا اختصاص لهم بها بل يشترك فيها سائر الأمم بدون خطور منطقهم بالبال مع استواء قياس التمثيل وقياس الشمول",
+    "ar_after": ". والعلم بصدق المخبر المعين وإن لم يكن نبيا يعلم بأسباب متعددة غير القياس ويعلم أيضا بقياس التمثيل كما يعلم بقياس الشمول فكيف العلم بصدق النبي الصادق صلى الله عليه وسلم وقد ذكرنا طرقا من الطرق التي يعلم بها صدق الأنبياء في غير هذا الموضع. والناس يعلم",
+    "gloss_en": "MY OWN TRANSLATION (not from a published translation): The establishment of knowledge of the Creator and of prophethood does not depend on any syllogism; it is known through signs that point to a specific thing with no sharer, and it is attained through necessary knowledge that does not require reflection. What is attained through the universal (shumuli) syllogism is like what is attained through analogy: it is a universal that does not yield knowledge of what belongs specifically to the Lord or what belongs specifically to the Messenger, except when another piece of knowledge is added to it.",
+    "what_it_says": "Establishing God and prophethood does not depend on the logicians' syllogisms; it comes through signs and necessary knowledge, and the universal syllogism gives only universals unless a further specific knowledge is added.",
+    "why_relevant": "The most direct statement in this slice about how religious truth claims (prophethood) are to be established.",
+    "stance": "own view",
+    "limits": "(a) Preceded by a long argument about the status of syllogism in the sciences; the nearest heading is not a clean chapter title. (b) 'العلم الضروري' is rendered as 'necessary knowledge'. (c) The passage makes a claim that the logicians deny; the author is not reporting it.",
+    "significance": 4,
+    "famous": false,
+    "context_note": "Around page 355 (the discussion of the usefulness of logic: 'قلة منفعته أو عدمها')."
+  },
+  {
+    "id": "T4-E14",
+    "work": "RaddCalaMantiqiyyin",
+    "theme": [
+      "E"
+    ],
+    "ar": "وليس تعليم الأنبياء صلوات الله عليهم مقصورا على مجرد الخبر كما يظنه كثير من النظار بل هم بينوا من البراهين العقلية التي بها يعلم العلوم الإلهية ما لا يوجد عند هؤلاء البتة",
+    "ref": {
+      "work": "al-Radd ala al-Mantiqiyyin (Radd Cala Mantiqiyyin)",
+      "volume": 1,
+      "page": "vol. 1, p. 323",
+      "chapter": "كون تعليم الأنبياء جامعا للأدلة العقلية والسمعية جميعا"
+    },
+    "vol_page": "vol. 1, p. 323",
+    "edition_note": "Shamela 0007626 via OpenITI (Ibn Taymiyya, al-Radd 'ala al-Mantiqiyyin; Dar al-Ma'rifa, Beirut per #META#; editor not given). Page = OpenITI PageV01P### marker (single volume). Not checked against a page image. CROSS-CHECK: the Shamela text used here ends mid-sentence (in the Ibn Arabi/isra section), so it is not complete. The OpenITI version JK000371 (versionUri 0728IbnTaymiyya.RaddCalaMantiqiyyin.JK000371-ara1, 545,242 TSV chars) ends with the closing formula and uses the same printed page markers; for the passages checked its page numbers agree, but its wording differs in spacing and some words, so the Arabic here follows the Shamela text. JK000371 does NOT contain the preface (T4-E01).",
+    "openiti_versionUri": "0728IbnTaymiyya.RaddCalaMantiqiyyin.Shamela0007626-ara1",
+    "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.RaddCalaMantiqiyyin/0728IbnTaymiyya.RaddCalaMantiqiyyin.Shamela0007626-ara1",
+    "offset_start": 407841,
+    "offset_end": 408015,
+    "ar_before": "لأدلة العقلية والسمعية جميعا: ثم الأنبياء صلوات الله عليهم كملوا للناس الأمرين فدلوهم على الأدلة العقلية التي بها تعلم المطالب الإلهية التي يمكنهم علمهم بها بالنظر والاستدلال وأخبروهم مع ذلك من تفاصيل الغيب بما يعجزون عن معرفته بمجرد نظرهم واستدلالهم",
+    "ar_after": "فتعليمهم ص جامع للادلة العقلية والسمعية جميعا بخلاف الذين خالفوهم فان تعليمهم غير مفيد للادلة العقلية والسمعية مع ما في نفوسهم من الكبر الذي ما هم ببالغيه كما قال تعالى: {إن الذين يجادلون في آيات الله بغير سلطان أتاهم إن في صدورهم إلا كبر ما هم ببالغ",
+    "gloss_en": "MY OWN TRANSLATION (not from a published translation): The teaching of the prophets, peace be upon them, is not confined to mere report (khabar), as many theologians suppose; rather they explained the rational proofs by which the divine sciences are known, and these are not found at all among those [opponents of the prophets, in context the philosophers].",
+    "what_it_says": "Prophetic teaching combines rational proofs and revealed report; the philosophers have neither the full set of rational proofs nor the prophets' revealed knowledge.",
+    "why_relevant": "Responds to the claim that prophetic knowledge is only report, and says the prophets gave rational proofs too.",
+    "stance": "own view",
+    "limits": "(a) 'هؤلاء' (these) refers to the opponents in the context; the gloss identifies them as the philosophers, which is the reading the nearby text supports, not a quoted name. (b) The sentence 'كما يظنه كثير من النظار' (as many theologians suppose) is his description of the views of others. (c) The passage is the author's own argument.",
+    "significance": 3,
+    "famous": false,
+    "context_note": "Heading: 'كون تعليم الأنبياء جامعا للأدلة العقلية والسمعية جميعا'."
+  },
+  {
+    "id": "T4-E15",
+    "work": "RaddCalaMantiqiyyin",
+    "theme": [
+      "E"
+    ],
+    "ar": "وكذلك الأمور المعلومة ب التواتر والتجارب قد يشترك فيها عامة الناس كاشتراك الناس في العلم بوجود مكة ونحوها من البلاد المشهورة واشتراكهم في وجود البحر وأكثرهم ما رآه واشتراكهم في العلم بوجود موسى وعيسى ومحمد وادعائهم النبوة ونحو ذلك فان هؤلاء قد تواتر خبرهم إلى عامة بني آدم وإن قدر من لم يبلغه أخبارهم فهم في أطراف المعمورة لا في الوسط",
+    "ref": {
+      "work": "al-Radd ala al-Mantiqiyyin (Radd Cala Mantiqiyyin)",
+      "volume": 1,
+      "page": "vol. 1, p. 91",
+      "chapter": "بطلان منع المنطقيين الاحتجاج بالمتواترات والمجربات والحدسيات"
+    },
+    "vol_page": "vol. 1, p. 91",
+    "edition_note": "Shamela 0007626 via OpenITI (Ibn Taymiyya, al-Radd 'ala al-Mantiqiyyin; Dar al-Ma'rifa, Beirut per #META#; editor not given). Page = OpenITI PageV01P### marker (single volume). Not checked against a page image. CROSS-CHECK: the Shamela text used here ends mid-sentence (in the Ibn Arabi/isra section), so it is not complete. The OpenITI version JK000371 (versionUri 0728IbnTaymiyya.RaddCalaMantiqiyyin.JK000371-ara1, 545,242 TSV chars) ends with the closing formula and uses the same printed page markers; for the passages checked its page numbers agree, but its wording differs in spacing and some words, so the Arabic here follows the Shamela text. JK000371 does NOT contain the preface (T4-E01).",
+    "openiti_versionUri": "0728IbnTaymiyya.RaddCalaMantiqiyyin.Shamela0007626-ara1",
+    "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.RaddCalaMantiqiyyin/0728IbnTaymiyya.RaddCalaMantiqiyyin.Shamela0007626-ara1",
+    "offset_start": 115620,
+    "offset_end": 115968,
+    "ar_before": " الناس فيه وكذلك ما وجده في نفسه من جوعه وعطشه وألمه ولذته ولكن بعض الحسيات قد تكون مشتركة بين الناس كاشتراكهم في رؤية الشمس والقمر والكواكب وأخص من ذلك اشتراك أهل البلد الواحد في رؤية ما عندهم من جبل وجامع ونهر وغير ذلك من الأمور المخلوقة والمصنوعة.",
+    "ar_after": ". المجربات تحصل بالحس والعقل: وكذلك المجربات فعامة الناس قد جربوا أن شرب الماء يحصل معه الري وأن قطع العنق يحصل معه الموت وأن الضرب الشديد يوجب الألم. والعلم بهذه القضية الكلية تجربي فان الحس إنما يدرك ريا معينا وموت شخص معين وألم شخص معين أما كون كل",
+    "gloss_en": "MY OWN TRANSLATION (not from a published translation): Matters known through tawatur and through experiment are shared by common people, such as the knowledge that Mecca and similar well-known cities exist, and that the sea exists, and that most people have seen it; and their knowledge of the existence of Moses, Jesus and Muhammad and of their claim to prophethood. For the report of these men has spread (tawatara) to the mass of the children of Adam; and even if some have not heard of them, they are on the edges of the inhabited world, not in the middle.",
+    "what_it_says": "Against the logicians' limit of tawatur and experiential knowledge to the knower, he says knowledge of the prophets' existence and claims is tawatur-known to almost all humankind.",
+    "why_relevant": "Gives his own example of tawatur about Moses, Jesus and Muhammad; it is relevant to slide pack theme W, also tagged here as E.",
+    "stance": "own view",
+    "limits": "(a) Theme W (tawatur) overlaps; orchestrator should consider tagging it W. (b) The statement is about the existence and claimed prophethood of the three men, not their message; do not present it as a statement on the truth of their message. (c) 'Mass of humankind' is the author's generalisation.",
+    "significance": 3,
+    "famous": false,
+    "context_note": "The opposing view ('the logicians') is stated in the heading and in the passage just before."
+  },
+  {
+    "id": "T4-E16",
+    "work": "RaddCalaMantiqiyyin",
+    "theme": [
+      "E"
+    ],
+    "ar": "وأما الحد فالصواب أن المراد به التمييز بينه وبين المحدود لا تعريف الماهية وإذا كان مطلوبه هو التمييز فقد يكون المميز اخفى وقد يكون أجلى",
+    "ref": {
+      "work": "al-Radd ala al-Mantiqiyyin (Radd Cala Mantiqiyyin)",
+      "volume": 1,
+      "page": "vol. 1, p. 327",
+      "chapter": "(section on explaining the clear by the obscure; nearest heading not clean)"
+    },
+    "vol_page": "vol. 1, p. 327",
+    "edition_note": "Shamela 0007626 via OpenITI (Ibn Taymiyya, al-Radd 'ala al-Mantiqiyyin; Dar al-Ma'rifa, Beirut per #META#; editor not given). Page = OpenITI PageV01P### marker (single volume). Not checked against a page image. CROSS-CHECK: the Shamela text used here ends mid-sentence (in the Ibn Arabi/isra section), so it is not complete. The OpenITI version JK000371 (versionUri 0728IbnTaymiyya.RaddCalaMantiqiyyin.JK000371-ara1, 545,242 TSV chars) ends with the closing formula and uses the same printed page markers; for the passages checked its page numbers agree, but its wording differs in spacing and some words, so the Arabic here follows the Shamela text. JK000371 does NOT contain the preface (T4-E01).",
+    "openiti_versionUri": "0728IbnTaymiyya.RaddCalaMantiqiyyin.Shamela0007626-ara1",
+    "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.RaddCalaMantiqiyyin/0728IbnTaymiyya.RaddCalaMantiqiyyin.Shamela0007626-ara1",
+    "offset_start": 414352,
+    "offset_end": 414491,
+    "ar_before": "ولهذا لا نستدل على هذا بمجرد ما ذكروه من برهانهم. وهم يعيبون في صناعة الحد أن يعرف الجلى بالخفي وهذا في صناعة البرهان اشد عيبا فان البرهان لا يراد به إلا به إلا بيان المدلول عليه وتعريفه وكشفه وأيضاحه فإذا كان هو أوضح وأظهر كان هذا بيانا للجلى بالخفي",
+    "ar_after": ". المقدمات الخفية قد تنفع بعض الناس وفي المناظرة: ومع هذا فلما كان الجلاء والخفاء من الأمور النسبية فقد ينتفع بالدليل الخفي والحد الخفي بعض الناس وكثير من الناس إذا ذكر له الواضح لم يعبا به وقد لا يسلمه حتى يذكر له دليل مستلزم ثبوته فانه يسلمه وكذلك ",
+    "gloss_en": "MY OWN TRANSLATION (not from a published translation): As for definition (hadd), the correct view is that what is meant by it is distinguishing the thing from what is defined by it, not the description of its quiddity (ma'hiya). And since its aim is distinction, the distinguishing feature may be more hidden or more evident.",
+    "what_it_says": "He says the purpose of a hadd is to distinguish the defined thing from others, not to describe its essence; the distinguishing feature need not be clearer than the thing defined.",
+    "why_relevant": "A second, shorter statement of his position on definitions: a hadd is a distinguishing mark, not an essence.",
+    "stance": "own view",
+    "limits": "(a) The sentence sits in a discussion of whether a definition should explain the clear by the obscure (the text: 'بيانا للجلى بالخفي'), a point the logicians criticise; the author's own claim is the 'correct' sense of hadd. (b) 'Ma'hiya' (quiddity) rendered as 'quiddity'. (c) Pairs with T4-E04 and T4-E03 (same theme; take only one if space is short).",
+    "significance": 4,
+    "famous": false,
+    "context_note": "Discussion of explaining the clear by the obscure (the text says 'بيانا للجلى بالخفي'); the nearest heading is not a clean chapter title."
+  }
+]

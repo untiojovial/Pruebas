@@ -1,0 +1,72 @@
+[
+ {
+  "id": "wasitiyya",
+  "title_ar": "العقيدة الواسطية",
+  "title_es_or_en": "Al-Aqida al-Wasitiyya (creed of Wasit)",
+  "edition_note": "Maktabat al-Ma'arif, Riyadh (no edition date). Header: \"العقيدة الواسطية بتعليق ابن مانع\" (with commentary by Ibn Mani' in footnotes). 1 volume. Digitisation note: page numbering matches the printed edition.",
+  "openiti_versionUri": "0728IbnTaymiyya.CaqidaWasitiyya.Sham19Y0018098-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.CaqidaWasitiyya/0728IbnTaymiyya.CaqidaWasitiyya.Sham19Y0018098-ara1",
+  "genre": "creed (aqida)",
+  "notes": "Main text is Ibn Taymiyya; footnote markers (¬n) and commentator notes are Ibn Mani's."
+ },
+ {
+  "id": "tadmuriyya",
+  "title_ar": "التدمرية",
+  "title_es_or_en": "Al-Risala al-Tadmuriyya (Tadmuriyya)",
+  "edition_note": "Maktabat al-Ubaykan, Riyadh, 6th ed. 1421/2000; ed. Muhammad ibn Awda al-Sa'wi (per OpenITI header). Single volume; OpenITI marker \"PageV01\" = vol. 1.",
+  "openiti_versionUri": "0728IbnTaymiyya.RisalaTadmuriyya.Shamela0022666-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.RisalaTadmuriyya/0728IbnTaymiyya.RisalaTadmuriyya.Shamela0022666-ara1",
+  "genre": "epistle / creed",
+  "notes": "Preface and argument are his; used for T2-02 and T2-11."
+ },
+ {
+  "id": "hamawiyya",
+  "title_ar": "الفتوى الحموية الكبرى",
+  "title_es_or_en": "Al-Fatwa al-Hamawiyya al-Kubra",
+  "edition_note": "Dar al-Sumay'i, Riyadh, 2nd ed. 1425/2004 (per OpenITI header). OpenITI page markers (vol.1 pp. 299-306, 363-369, 467) were NOT compared to this printing; page numbers need checking against the page image.",
+  "openiti_versionUri": "0728IbnTaymiyya.HamawiyyaKubra.Shamela0018381-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.HamawiyyaKubra/0728IbnTaymiyya.HamawiyyaKubra.Shamela0018381-ara1",
+  "genre": "fatwa",
+  "notes": "Mostly his own voice; quotes Salaf narrations (Malik, Rabi'a, Walid ibn Muslim) and Ibn al-Majishun; square brackets are editorial restorations. Creed-like passage at vol.1 p.467 is a QUOTATION of another creed (unnamed in extract) and was excluded."
+ },
+ {
+  "id": "dartacarud",
+  "title_ar": "درء تعارض العقل والنقل",
+  "title_es_or_en": "Dar' ta'arud al-'aql wa-l-naql",
+  "edition_note": "Dar al-Kutub al-'Ilmiyya, Beirut, 1417/1997; ed. 'Abd al-Latif 'Abd al-Rahman (per OpenITI header). Page markers cited as (vol, page) from the OpenITI text.",
+  "openiti_versionUri": "0728IbnTaymiyya.DarTacarud.ShamAY0033865-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.DarTacarud/0728IbnTaymiyya.DarTacarud.ShamAY0033865-ara1",
+  "genre": "major treatise (refutation of philosophers/kalam)",
+  "notes": "Long refutation of the logicians/philosophers; T2-05 is his own formula, the surrounding text reports other views."
+ },
+ {
+  "id": "majmu",
+  "title_ar": "مجموع الفتاوى",
+  "title_es_or_en": "Majmu' al-Fatawa (vols. 5, 6, 12, 17 used)",
+  "edition_note": "Majmu' al-Fatawa, Majma' al-Malik Fahd, Medina, 1416/1995; ed. 'Abd al-Rahman ibn Muhammad ibn Qasim (per OpenITI header). Volume/page from OpenITI PageV markers (checked against header).",
+  "openiti_versionUri": "0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.MajmucFatawa/0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+  "genre": "fatwa collection",
+  "notes": "Fatwa collection: his own answers; some pages quote opponents (Karramiyya, Jahmiyya, Kullabiyya). Volumes used: 5, 6, 12, 17."
+ },
+ {
+  "id": "isfahaniyya",
+  "title_ar": "شرح العقيدة الأصبهانية",
+  "title_es_or_en": "Sharh al-Aqida al-Isfahaniyya",
+  "edition_note": "Dar al-Minhaj, Riyadh, 1st ed. 1430 AH; ed. Muhammad ibn Awda al-Sa'wi (per OpenITI header). Section headings in square brackets marked \"AUTO\" are editorial, not Ibn Taymiyya's.",
+  "openiti_versionUri": "0728IbnTaymiyya.SharhCaqidaIsfahaniyya.ShamAY0034392-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.SharhCaqidaIsfahaniyya/0728IbnTaymiyya.SharhCaqidaIsfahaniyya.ShamAY0034392-ara1",
+  "genre": "commentary on a creed",
+  "notes": "Commentary on the Isfahani creed; his refutation of the philosophers' composition argument. Editorial headings marked AUTO."
+ },
+ {
+  "id": "jawab",
+  "title_ar": "الجواب الصحيح لمن بدل دين المسيح",
+  "title_es_or_en": "Al-Jawab al-Sahih li-man baddala din al-Masih",
+  "edition_note": "Dar al-'Asima, Saudi Arabia, 2nd ed. 1419/1999; eds. 'Ali ibn Hasan, 'Abd al-'Aziz ibn Ibrahim, Hamdan ibn Muhammad (per OpenITI header). Page numbers come from the OpenITI text (Shamela-derived) and were not compared to this print.",
+  "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.JawabSahih/0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "genre": "polemic against Christians (and philosophers)",
+  "notes": "Polemic against Christian doctrine; vol.3 discusses the hypostases and also philosophers' metaphysics. T2-12 is about philosophers, not Christians."
+ }
+]

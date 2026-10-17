@@ -1,0 +1,74 @@
+[
+ {
+  "id": "T10-02",
+  "work": "JawabSahih",
+  "ar": "ثم وجدت منهم صنفا يعرفون باليعقوبية، يقولون: إن المسيح طبيعة واحدة من طبيعتين: إحداهما طبيعة الناسوت والأخرى طبيعة اللاهوت، وأن هاتين الطبيعتين تركبتا كما تركبت النفس مع البدن فصارتا إنسانا واحدا وجوهرا واحدا وشخصا واحدا، وأن هذه الطبيعة الواحدة والشخص الواحد هو المسيح، وهو إله كله وإنسان كله، وهو شخص واحد وطبيعة واحدة من طبيعتين",
+  "vol_page": "vol. 4, p. 90",
+  "offset_start": 1055837,
+  "offset_end": 1056176,
+  "reason": "Jacobite formula (\"إن المسيح طبيعة واحدة من طبيعتين\") from the same letter; duplicate context of T10-03; kept in reserve."
+ },
+ {
+  "id": "T10-07",
+  "work": "JawabSahih",
+  "ar": "فيقال لهم: كلام النصارى في هذا الباب مضطرب مختلف متناقض، وليس لهم في ذلك قول اتفقوا عليه، ولا قول معقول، ولا قول دل عليه كتاب، بل هم فيه فرق وطوائف كل فرقة تكفر الأخرى، كاليعقوبية والملكانية والنسطورية، ونقل الأقوال عنهم في ذلك مضطربة، كثيرة الاختلاف. ولهذا يقال: لو اجتمع عشرة نصارى لتفرقوا على أحد عشر قولا",
+  "vol_page": "vol. 4, p. 75",
+  "offset_start": 1043465,
+  "offset_end": 1043781,
+  "reason": "Rhetorical overstatement (\"if ten Christians gathered they would split into eleven views\"); partly redundant with T10-04/T10-05; not used."
+ },
+ {
+  "id": "T10-10",
+  "work": "JawabSahih",
+  "ar": "الأناجيل التي بأيدي أهل الكتاب فيها ذكر صلب المسيح وعندهم أنها مأخوذة عن الأربعة مرقس ولوقا ويوحنا ومتى ولم يكن في الأربعة من شهد صلب المسيح ولا من الحواريين",
+  "vol_page": "vol. 2, p. 301–302",
+  "offset_start": 483181,
+  "offset_end": 483356,
+  "reason": "Crucifixion witnesses (vol. 2 p. 301-302): valuable on the Gospels and the claim that no evangelist saw the crucifixion; excluded for the 15-passage cap; alternative to T10-11 if the orchestrator wants a second Gospel passage."
+ },
+ {
+  "id": "T10-18",
+  "work": "JawabSahih",
+  "ar": "وفي الإنجيل في غير موضع يقول المسيح: \" أبي وأبيكم \" كقوله إني أذهب إلى أبي وأبيكم وإلهي وإلهكم فيسميه أبا لهم كما يسميهم أبناء له",
+  "vol_page": "vol. 3, p. 193",
+  "offset_start": 728264,
+  "offset_end": 728397,
+  "reason": "Gospel verse John 20:17 as he quotes it (\"إني أذهب إلى أبي وأبيكم وإلهي وإلهكم\"); excluded for the 15-passage cap; the verse wording differs from the usual Arabic Bible (\"أصعد\" vs \"أذهب\", not verified in this session); available as an alternative."
+ },
+ {
+  "id": "T10-19",
+  "work": "JawabSahih",
+  "ar": "أم هو القائل لله: إنك أنت الإله الحق وحدك والذي أرسلت يسوع المسيح؟ وإذا كان الأول باطلا، والثاني هو الذي شهد به الإنجيل",
+  "vol_page": "vol. 3, p. 403",
+  "offset_start": 900083,
+  "offset_end": 900211,
+  "reason": "Gospel verse John 17:3 as he quotes it (\"إنك أنت الإله الحق وحدك والذي أرسلت يسوع المسيح\"); own argument against the Immanuel \"God with us\" reading; excluded for the 15-passage cap; available as an alternative for the Gospels item."
+ },
+ {
+  "id": "T10-21",
+  "work": "JawabSahih",
+  "ar": "وأما قولهم: فكان طيرا بإذن الله أي بإذن اللاهوت الذي هو كلمة الله المتحدة في الناسوت فهذا إذا قالوه على أنه مذهبهم من غير أن يقولوا أن محمدا أراده تكلمنا معهم في ذلك وبينا فساد ذلك عقلا ونقلا",
+  "vol_page": "vol. 2, p. 167",
+  "offset_start": 382333,
+  "offset_end": 382528,
+  "reason": "Christian reading of Qur'an 3:49 (\"فكان طيرا بإذن الله\" as \"بإذن اللاهوت الذي هو كلمة الله المتحدة في الناسوت\"); union (ittihad) theme; excluded for the cap; his reply is in T10-22 (also excluded)."
+ },
+ {
+  "id": "T10-22",
+  "work": "JawabSahih",
+  "ar": "وأما قولهم: أن محمدا - صلى الله عليه وسلم - كان يقول: أن المراد إذن اللاهوت الذي هو كلمة الله المتحدة في الناسوت فهذا من البهتان الظاهر على محمد",
+  "vol_page": "vol. 2, p. 167",
+  "offset_start": 382532,
+  "offset_end": 382687,
+  "reason": "His own rebuttal of the Qur'an 3:49 reading (\"فهذا من البهتان الظاهر على محمد\"); overlaps T10-21; excluded for the cap."
+ },
+ {
+  "id": "T10-23",
+  "work": "JawabSahih",
+  "ar": "ومنهم من كان يقول: ربنا هو المسيح، وهي مقالة \" بولس \" الرسول، ومقالة الثلاثمائة وثمانية عشر أسقفا",
+  "vol_page": "vol. 4, p. 221",
+  "offset_start": 1154220,
+  "offset_end": 1154319,
+  "reason": "Quoted historical report (\"ربنا هو المسيح، وهي مقالة بولس الرسول، ومقالة الثلاثمائة وثمانية عشر أسقفا\") from a Christian historian; the attribution to \"Paul the Apostle\" may be a confusion with Paul of Samosata; source chain unclear; not used."
+ }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "JawabSahih",
+    "title_ar": "الجواب الصحيح لمن بدل دين المسيح",
+    "title_es_or_en": "Al-Jawab al-Sahih li-man baddala din al-Masih (Ibn Taymiyya; 'The Correct Answer to Whoever Changed the Religion of the Messiah')",
+    "edition_note": "OpenITI/Shamela text 0000170 (versionUri 0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1). #META# header: 6 vols; printed edition 'الثانية، 1419هـ / 1999م', publisher دار العاصمة، السعودية; editors علي بن حسن - عبد العزيز بن إبراهيم - حمدان بن محمد. Page markers PageV01P097 etc. give (vol, page) of that printed edition as recorded by Shamela. Not checked against the print itself.",
+    "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.JawabSahih/0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "genre": "Theological refutation (polemic against Christian doctrine; quotes and answers a Christian letter attributed to Paul of Antioch, bishop of Sidon, in six sections)",
+    "notes": "Ibn Taymiyya's own text: introduction (vol 1 pp. 97-104: occasion, summary of the letter's six sections, his method), then answers. The Christian text is quoted WITHOUT quotation marks: marked by 'قال الكاتب على لسان الأسقف' (vol 1 p.119), 'ذكروه في كتابهم' (vol 3 p.261), 'هذه ألفاظهم بأعيانها في الفصل الأول' (vol 1 p.122), and ordinary 'قالوا'. Literal quotation is clearly marked only for section 1 in my search; sections 2-6 are answered by topic headings ([فصل: ...]). Other OpenITI version of the same book: JK000330 (not used). Edition typo noted: 'والعقلية،،' (vol 1 p.98)."
+  },
+  {
+    "id": "PaulKhoury1964",
+    "title_ar": "- (Arabic title not seen; Bogataj 2019 gives the transliterated title Risala ila Ahad al-Muslimin)",
+    "title_es_or_en": "Paul of Antioch, Letter to a Muslim Friend (Arabic text ed. and French tr. Paul Khoury, 1964) - SECONDARY ACCESS ONLY",
+    "edition_note": "Khoury, Paul (ed.), Paul d'Antioche, évêque melkite de Sidon (XIIe s.), Recherches de l'Institut de Lettres Orientales de Beyrouth XXIV, Beirut 1964/1965, 219 pp. (Arabic text 108 pp.). Record: https://www.researchgate.net/publication/273031520_Paul_d'Antioche_eveque_melkite_de_Sidon_xiie_s_Texte_etabli_traduit_et_introduit_par_Paul_Khoury_Recherches_de_l'Institut_de_Lettres_Orientales_de_Beyrouth_tome_XXIV_pp_219_108_Arabic_text_Beyrouth_Im . I did NOT access the Arabic text. Content checked only via Bogataj 2019 (English translation of Khoury's text).",
+    "openiti_versionUri": null,
+    "openiti_url": null,
+    "genre": "Christian primary source (Melkite Arabic letter, c. 1200), SECONDARY access only",
+    "notes": "Used only as christian_check. Bogataj (2019) states the letter has 64 short paragraphs and that Khoury's text is the critical edition (edited and translated into French, pp. 169-187 per Bogataj note 4). Bogataj's English quotations come from Dr Nafisa Abdelsadek's translation (ResearchGate 268216125), which I did not verify."
+  },
+  {
+    "id": "Bogataj2019",
+    "title_ar": "-",
+    "title_es_or_en": "Jan Dominik Bogataj, 'Byzantine Theology and Islam: Paul of Antioch's Irenic Approach', Edinost in dialog 74 (2019) 2: 195-210",
+    "edition_note": "DOI https://doi.org/10.34291/Edinost/74/02/Bogataj ; PDF fetched from https://www.teof.uni-lj.si/uploads/File/Edinost/74/02/Bogataj.pdf (saved in T7/dl/bogataj.pdf). Modern secondary article.",
+    "openiti_versionUri": null,
+    "openiti_url": "https://doi.org/10.34291/Edinost/74/02/Bogataj",
+    "genre": "Modern secondary scholarship (article)",
+    "notes": "Used for christian_check. Key points used: (a) Paul's letter is 'Risala ila Ahad al-Muslimin' (Letter to a Muslim Friend), 64 paragraphs, Khoury 1964 edition; (b) a Cypriot scholar revised the letter ('Letter from the People of Cyprus') and sent it to Damascus, reaching Ibn Taymiyya in 1316; (c) Paul uses 'name' (ism) rather than hypostasis (uqnum) for the Trinity; (d) paragraph quotations 7, 12, 25, 29, 33, 38, 60 (English). Paragraph numbers are Bogataj's citations of the Abdelsadek translation."
+  },
+  {
+    "id": "Villanova-Concept",
+    "title_ar": "-",
+    "title_es_or_en": "Concept journal article 'Nestorius and Cyril: 5th Century Christological Division' (search snippet only)",
+    "edition_note": "https://concept.journals.villanova.edu/index.php/concept/article/download/259/223/258 . Seen only as a web search snippet; NOT read in full.",
+    "openiti_versionUri": null,
+    "openiti_url": "https://concept.journals.villanova.edu/index.php/concept/article/download/259/223/258",
+    "genre": "Modern secondary scholarship (snippet)",
+    "notes": "Used only for a short summary point (Cyril's 'one nature' formula; Antiochene 'two natures'). Verify before citing."
+  },
+  {
+    "id": "Encyclopedia-Nestorianism",
+    "title_ar": "-",
+    "title_es_or_en": "encyclopedia.com, 'Nestorianism' (search snippet only)",
+    "edition_note": "https://www.encyclopedia.com/philosophy-and-religion/christianity/christianity-general/nestorianism . Seen only as search snippet; NOT read in full.",
+    "openiti_versionUri": null,
+    "openiti_url": "https://www.encyclopedia.com/philosophy-and-religion/christianity/christianity-general/nestorianism",
+    "genre": "Reference article (snippet)",
+    "notes": "Used only for the Church of the East 'two qnome in one parsopa' point, reported from a search snippet that also cites Babai the Great. Verify before citing."
+  }
+]

@@ -1,0 +1,86 @@
+[
+ {
+  "id": "T5-W-MF18-50a",
+  "work": "MajmucFatawa",
+  "vol_page": "vol. 18, p. 50",
+  "offset_start": 9333043,
+  "reason": "Duplicate of the numeric/relativity content in T5-W-MF18-49 and T5-W-MF18-50b; its key sentence (\"فقد غلط غلطا عظيما\") is cited in notes."
+ },
+ {
+  "id": "T5-W-MF5-273",
+  "work": "MajmucFatawa",
+  "vol_page": "vol. 5, p. 273",
+  "offset_start": 2221003,
+  "reason": "Good argument that a great group cannot agree on a lie (\"أهل التواتر لا يتصور منهم الكذب\"), but the same paragraph uses Christians, Rafidah and philosophers as examples of groups persisting in falsehood; needs a careful framing and the word budget was reached. Candidate if needed."
+ },
+ {
+  "id": "T5-W-MF11-339",
+  "work": "MajmucFatawa",
+  "vol_page": "vol. 11, pp. 339-340",
+  "offset_start": 5970811,
+  "reason": "Mutakallimun deny knowledge from mutawatir sunna. The key sentence \"وأنكر كثير منهم أن يحصل العلم بشيء منها وإنما يوجب العلم\" is syntactically unclear (possible slip for a different verb); needs manuscript or editorial check before use."
+ },
+ {
+  "id": "T5-W-Nub2-989",
+  "work": "Nubuwwat",
+  "vol_page": "vol. 2, p. 989",
+  "offset_start": 671171,
+  "reason": "Short; says necessary knowledge from tawatur of prophets' signs is \"بمنزلة المشاهدة\". Overlaps with T5-W-MF4-29; kept as alternate."
+ },
+ {
+  "id": "T5-W-DT1-194",
+  "work": "DarTacarud",
+  "vol_page": "vol. 1, p. 194",
+  "offset_start": 186462,
+  "reason": "Clear statement that tawatur yields certainty \"سواء كان التواتر لفظيا أو معنويا\" with examples (Khalid, Hassan, Abu Hurayra, Four Imams). Overlaps with T5-W-MF18-68; alternate for the lafzi/ma nawi point."
+ },
+ {
+  "id": "T5-W-DT7-314",
+  "work": "DarTacarud",
+  "vol_page": "vol. 7, p. 314",
+  "offset_start": 2362011,
+  "reason": "Quotation of al-Khattabi (Shi ar al-Din) on ma nawi tawatur of miracles, with Hatim al-Ta i as example; not Ibn Taymiyya's own voice. Use only if the orchestrator accepts a \"quotes another scholar\" stance."
+ },
+ {
+  "id": "T5-WC-JS2-21",
+  "work": "JawabSahih",
+  "vol_page": "vol. 2, pp. 21-22",
+  "offset_start": 267778,
+  "reason": "Reductio (\"if they say ... we say\"): if Moses and Jesus are accepted via tawatur, then Muhammad, whose miracles are more widely transmitted, must be accepted too. Strong hypothetical, but 424 chars and the word budget was reached; candidate for C-theme."
+ },
+ {
+  "id": "T5-WC-JS1-143",
+  "work": "JawabSahih",
+  "vol_page": "vol. 1, p. 143",
+  "offset_start": 56922,
+  "reason": "His claim that the Prophet's mission is known by tawatur \"to all communities\". A claim about Muhammad, not about Christians; kept as context only."
+ },
+ {
+  "id": "T5-W-MF18-15",
+  "work": "MajmucFatawa",
+  "vol_page": "vol. 18, p. 15",
+  "offset_start": 9302464,
+  "reason": "Hadith \"إنما الأعمال بالنيات\" argued as tawatur in meaning and as accepted by the Umma; overlaps with the W-MF18-39/40 passages."
+ },
+ {
+  "id": "T5-W-MS1-7",
+  "work": "MinhajSunna",
+  "vol_page": "vol. 1, p. 7",
+  "offset_start": 3654,
+  "reason": "Polemic against the Shia (\"يكذبون بالمعلوم من الاضطرار المتواتر\"); context too partisan for the slice, not built with itlib (offset from search)."
+ },
+ {
+  "id": "T5-W-Intisar-45",
+  "work": "Intisar",
+  "vol_page": "vol. 1, p. 45",
+  "offset_start": 39430,
+  "reason": "Duplicate of the sentence used in T5-W-MF4-29; other book not checked in full."
+ },
+ {
+  "id": "T5-W-Musawwada-233-236",
+  "work": "MusawwadaFiUsulFiqh",
+  "vol_page": "vol. 1, pp. 233-236",
+  "offset_start": 297838,
+  "reason": "Full tawatur section (\"العلم الحاصل بالتواتر ضروري\"; \"لا يعتبر في التواتر عدد محصور\"). Not used: family compilation (Majd al-Din, Abd al-Halim, Ahmad), marginal \"والد شيخنا\"/\"شيخنا\" attributions are not reliably Ibn Taymiyya alone; offsets from search, not built with itlib."
+ }
+]

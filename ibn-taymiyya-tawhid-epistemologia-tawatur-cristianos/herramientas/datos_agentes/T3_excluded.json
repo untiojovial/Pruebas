@@ -1,0 +1,86 @@
+[
+ {
+  "id": "T3-E01",
+  "work": "DarTacarud",
+  "location": "vol. 1 p. 86 (third reply, \"الوجه الثالث\")",
+  "text_ar_fragment": "إما أن يريد به أنه أصل في ثبوته في نفس الأمر أو أصل في علمنا بصحته",
+  "reason": "Good rebuttal of \"reason is the root of transmission\" (ambiguity between ontological and epistemic priority), but overlaps T3-03 and was not built to keep the list short. Candidate if the orchestrator wants the root argument."
+ },
+ {
+  "id": "T3-E02",
+  "work": "DarTacarud",
+  "location": "vol. 1 p. 86 (after \"| AUTO\", sentence starting \"فدعوى المدعي\")",
+  "text_ar_fragment": "بل هنا قسم ليس من هذه الأقسام كما ذكرناه بل هو الحق الذي لا ريب فيه",
+  "reason": "Sharp conclusion of the same reply (there is a further case beyond the four options). Not built because the span crosses a \"| AUTO\" marker; it is the best candidate if the orchestrator wants the conclusion that goes with T3-03."
+ },
+ {
+  "id": "T3-E03",
+  "work": "DarTacarud",
+  "location": "vol. 1 p. 99 (\"فإن قيل قول القائلين\")",
+  "text_ar_fragment": "فإن قيل قول القائلين إن الأنبياء لم يدعوا الناس إلى إثبات الصانع بهذه الطريقة",
+  "reason": "Objection and reply on the method of origination; needs context to read as an objection, not as his view. Not built."
+ },
+ {
+  "id": "T3-E04",
+  "work": "DarTacarud",
+  "location": "vol. 1 p. 146 (\"ما علم بصريح العقل لا يتصور أن يعارضه الشرع ألبتة ... قط قط\")",
+  "text_ar_fragment": "المنقول الصحيح لا يعارضه معقول صريح قط قط",
+  "reason": "Duplicates the thrust of T3-05 and T3-06. Built and verified but dropped for the 15-passage limit; the orchestrator may swap it in for T3-05."
+ },
+ {
+  "id": "T3-E05",
+  "work": "DarTacarud",
+  "location": "vol. 3 p. 71 (\"فالاقرار بالخالق ... كما أنه مركوز في الفطرة مستقر في القلوب\")",
+  "text_ar_fragment": "كما أنه مركوز في الفطرة مستقر في القلوب",
+  "reason": "Strong positive statement of innate knowledge; overlaps T3-08 and T3-11. Found in the text but not built for the limit. Candidate for question (3)."
+ },
+ {
+  "id": "T3-E06",
+  "work": "DarTacarud",
+  "location": "vol. 8 p. 347 (\"ويريدون أن يردوا بمثل هذا ما دل عليه الكتاب والسنة\")",
+  "text_ar_fragment": "بل ما علم بفطرة الله تعالى التي فطر الناس عليها ودلت عليه العقليات الصريحة",
+  "reason": "Same discussion as T3-07 (on those who say knowledge of God requires theory); overlapping. Candidate."
+ },
+ {
+  "id": "T3-E07",
+  "work": "MajmucFatawa",
+  "location": "vol. 16 p. 327 (\"وبين أن الإقرار والاعتراف بالخالق فطري ضروري\")",
+  "text_ar_fragment": "وبين أن الإقرار والاعتراف بالخالق فطري ضروري في نفوس الناس",
+  "reason": "Fitra statement with the qualification that some people have corrupted fitra and need reflection. Read in the before-context of T3-12; not built for the limit. Candidate for question (3)."
+ },
+ {
+  "id": "T3-E08",
+  "work": "MajmucFatawa",
+  "location": "vol. 16 p. 330 (list of positions on \"أول الواجبات\")",
+  "text_ar_fragment": "ومنهم من يقول: بل المعرفة الواجبة به وهو نزاع لفظي",
+  "reason": "A survey of positions, mostly reported, with his verdict that they are \"all erroneous\" in the following lines. Overlaps T3-07 (also calls the dispute verbal). Candidate if the orchestrator wants the full list."
+ },
+ {
+  "id": "T3-E09",
+  "work": "MajmucFatawa",
+  "location": "vol. 16 p. 329 (\"وقد اتفق سلف الأمة ... على خطأ هؤلاء\")",
+  "text_ar_fragment": "إذ قد علم بالاضطرار من دين الرسول صلى الله عليه وسلم أنه لم يوجب هذا على الأمة",
+  "reason": "Says that the Prophet never imposed the kalam reflection (nazar) as an obligation, and the salaf did not use it; strong and relevant, but overlaps T3-12 and T3-07. Not built. Candidate for question (3)."
+ },
+ {
+  "id": "T3-E10",
+  "work": "MinhajSunna",
+  "location": "vol. 1 p. 303 (\"وهي طريقة باطلة في الشرع والعقل\")",
+  "text_ar_fragment": "وهي طريقة باطلة في الشرع والعقل عند محققي الأئمة العالمين بحقائق المعقول والمسموع",
+  "reason": "Second half of the same judgement as T3-14 (calls the method void in law and reason). Sits after the \"(1/303)\" inline marker, so a single span would cross a page break. Candidate if the orchestrator wants the verdict on both sides."
+ },
+ {
+  "id": "T3-E11",
+  "work": "MasalatHuduthCalam",
+  "location": "vol. 1 p. 128 (\"فحجتهم على أهل الملل حجة جدلية لا علمية\")",
+  "text_ar_fragment": "وأن حجتهم على أهل الملل حجة جدلية لا علمية، فسلموا منهم مقدمة يوافقونهم عليها",
+  "reason": "Read, not built. Says the theologians' argument is dialectical rather than demonstrative because it accepts from the opponent a premise both sides grant. The identity of 'them' is not clear from the sentence alone; the surrounding text is a discussion of whether temporal events can subsist in God. Needs a careful read; candidate for question (4)."
+ },
+ {
+  "id": "T3-E12",
+  "work": "DarTacarud",
+  "location": "vol. 1 p. 3-6 (opening chapter, the \"qanun\" of Abu Hamid, Ibn al-'Arabi and Juwayni)",
+  "text_ar_fragment": "ووضع أبو بكر بن العربي هذا قانونا آخر مبنيا على طريقة أبي المعالي",
+  "reason": "Context for T3-02 (names the authors of the rules). Not built."
+ }
+]

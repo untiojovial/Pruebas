@@ -1,0 +1,122 @@
+[
+  {
+    "id": "C-creeds",
+    "title_ar": "",
+    "title_es_or_en": "Philip Schaff (ed.), Creeds of Christendom, vol. II (The History of Creeds): Nicaeno-Constantinopolitan Creed (381) and Athanasian Creed, Greek/Latin/English",
+    "edition_note": "CCEL plain-text cache of Schaff, Creeds of Christendom vol. II, 6th ed. (https://ccel.org/ccel/schaff/creeds2.html); English and Latin on facing lines, Greek in transliteration in this copy",
+    "openiti_versionUri": null,
+    "openiti_url": null,
+    "genre": "Christian creed (primary) with critical edition",
+    "notes": "Primary Christian text. Schaff's English for Athanasius is an 'Old Translation Revised'. Bracketed words [Filioque] are Schaff's critical brackets (Western addition), not part of the Eastern text."
+  },
+  {
+    "id": "C-basil-ep38",
+    "title_ar": "",
+    "title_es_or_en": "Basil of Caesarea, Letter 38 (to his brother Gregory) on ousia and hypostasis; and Letter/treatise passages on the Holy Spirit's peculiar hypostatic notes",
+    "edition_note": "Schaff & Wace (eds.), NPNF2 vol. 8, Basil: Letters and Select Works, tr. Blomfield Jackson (Edinburgh: T&T Clark, 1895). CCEL plain-text cache https://ccel.org/ccel/s/schaff/npnf208/cache/npnf208.txt",
+    "openiti_versionUri": null,
+    "openiti_url": null,
+    "genre": "Christian letter (primary)",
+    "notes": "Basil's Against Eunomius is cited only through an editorial paraphrase by Dorner in the NPNF volume; not used as a Basil quotation."
+  },
+  {
+    "id": "C-gregory-or31",
+    "title_ar": "",
+    "title_es_or_en": "Gregory of Nazianzus, Oration 31 (Fifth Theological Oration, On the Holy Spirit)",
+    "edition_note": "Schaff & Wace (eds.), NPNF2 vol. 7, Cyril of Jerusalem, Gregory Nazianzen (New York: Christian Literature Publishing Co., 1893), tr. Charles Gordon Browne & James Edward Swallow. CCEL plain-text cache https://ccel.org/ccel/s/schaff/npnf207/cache/npnf207.txt",
+    "openiti_versionUri": null,
+    "openiti_url": null,
+    "genre": "Christian oration (primary)",
+    "notes": "Section numerals (I-XIX) are those of the Oration; bracketed numbers [3700] etc. are NPNF page markers of the Benedictine (Migne) edition, not part of the text."
+  },
+  {
+    "id": "C-augustine-trin5",
+    "title_ar": "",
+    "title_es_or_en": "Augustine, De Trinitate, Book V (On the Holy Trinity), ch. 2-10",
+    "edition_note": "Schaff (ed.), NPNF1 vol. 3, On the Holy Trinity (New York: Christian Literature Publishing Co., 1890), tr. Arthur West Haddan (rev. W. G. T. Shedd). CCEL plain-text cache https://ccel.org/ccel/s/schaff/npnf103/cache/npnf103.txt",
+    "openiti_versionUri": null,
+    "openiti_url": null,
+    "genre": "Christian theological treatise (primary)",
+    "notes": "Paragraph numbers (5, 6, 8, 9...) are the standard De Trinitate paragraph numbers as printed in NPNF."
+  },
+  {
+    "id": "C-damascus-fo1-8",
+    "title_ar": "",
+    "title_es_or_en": "John of Damascus, An Exact Exposition of the Orthodox Faith (De fide orthodoxa), Book I, ch. 8 (Concerning the Holy Trinity)",
+    "edition_note": "Schaff & Wace (eds.), NPNF2 vol. 9, Hilary of Poitiers, John of Damascus (Edinburgh: T&T Clark, 1898), tr. S. D. F. Salmond. CCEL plain-text cache https://ccel.org/ccel/s/schaff/npnf209/cache/npnf209.txt",
+    "openiti_versionUri": null,
+    "openiti_url": null,
+    "genre": "Christian dogmatic handbook (primary)",
+    "notes": "Bracketed numbers [1487] etc. are Migne column markers."
+  },
+  {
+    "id": "C-aquinas-st",
+    "title_ar": "",
+    "title_es_or_en": "Thomas Aquinas, Summa Theologiae I, q.28 (divine relations), q.29 (divine persons), q.30 (plurality of persons), q.39 (persons in relation to the essence)",
+    "edition_note": "Fathers of the English Dominican Province (trans.), Summa Theologica (Second and Revised Edition, 1920; Benziger Bros.), as hosted at New Advent (https://www.newadvent.org/summa/1028.htm, 1029, 1030, 1039)",
+    "openiti_versionUri": null,
+    "openiti_url": null,
+    "genre": "Christian scholastic summa (primary)",
+    "notes": "Article numbers verified in the New Advent text. q.27 pages fetched but not yet used."
+  },
+  {
+    "id": "C-lateran4-firmiter",
+    "title_ar": "",
+    "title_es_or_en": "Fourth Lateran Council (1215), constitution 1 'Firmiter' (Profession of faith against Joachim of Fiore / on the Trinity)",
+    "edition_note": "Fordham University Medieval Sourcebook, 'Fourth Lateran Council, 1215' (https://sourcebooks.fordham.edu/basis/lateran4.asp)",
+    "openiti_versionUri": null,
+    "openiti_url": null,
+    "genre": "Church council decree (primary)",
+    "notes": "Translation not checked against Latin Denzinger text."
+  },
+  {
+    "id": "JawabSahih",
+    "title_ar": "الجواب الصحيح لمن بدل دين المسيح",
+    "title_es_or_en": "Ibn Taymiyya, al-Jawab al-sahih li-man baddala din al-Masih",
+    "edition_note": "OpenITI text of Ibn Taymiyya, al-Jawab al-sahih (Shamela 0000170); page numbers from OpenITI PageV markers of the printed edition named in the header (Ali b. Hasan et al. ed., 6 vols; check header)",
+    "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.JawabSahih/0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "genre": "Islamic refutation of Christianity (primary)",
+    "notes": "Quotes Christian texts (Paul of Antioch's letter; Christian formulas) inside Ibn Taymiyya's text; each passage marks which words are Christian, reported, or his own."
+  },
+  {
+    "id": "SEC-husseini2011",
+    "title_ar": "",
+    "title_es_or_en": "Sara Leila Husseini, 'Early Christian explanations of the Trinity in Arabic in the context of Muslim theology' (PhD, Birmingham, 2011); chapters on Abu Qurra, Abu Ra'ita, Ammar al-Basri",
+    "edition_note": "Open PDF https://etheses.bham.ac.uk/id/eprint/2799/1/Husseini_11_PhD.pdf ; printed page numbers from footer (PDF page minus 12 in the parts read)",
+    "openiti_versionUri": null,
+    "openiti_url": null,
+    "genre": "secondary scholarship (read in part via pdftotext)",
+    "notes": "Read: pp. 137-145 (Abu Qurra, Abu Ra'ita background), 213-217 and 263 (Ammar), 376, 382, 386, 397 (attributes vs hypostases). Quotations of Suermann inside it are not checked against Suermann."
+  },
+  {
+    "id": "SEC-abdullah2006",
+    "title_ar": "",
+    "title_es_or_en": "Ismail Abdullah, 'Tawhid and Trinity: A Study of Ibn Taymiyyah's al-Jawab al-Sahih', Intellectual Discourse 14(1), 2006, pp. 89-106",
+    "edition_note": "Open PDF https://journals.iium.edu.my/intdiscourse/index.php/id/article/download/89/86/150 (read in full text extraction)",
+    "openiti_versionUri": null,
+    "openiti_url": null,
+    "genre": "secondary scholarship (read)",
+    "notes": "English translation of Paul of Antioch's letter as quoted by Ibn Taymiyya, pp. 98-99; the translator's Arabic is not given."
+  },
+  {
+    "id": "SEC-ebeid2023",
+    "title_ar": "",
+    "title_es_or_en": "Bishara Ebeid, 'The Divine Substance as Aristotle's Substantia Prima: Yahya b. Adi and his Trinitarian Doctrine', Le Muséon 136 (2023), DOI 10.2143/MUS.136.3.3292533",
+    "edition_note": "Record and abstract read (WebFetch of https://iris.unive.it/handle/10278/5049800); full text not read",
+    "openiti_versionUri": null,
+    "openiti_url": null,
+    "genre": "secondary scholarship (abstract only)",
+    "notes": "Confirms the analogies of Zayd and of intellect in Yahya b. Adi. Does not give the physician/calculator/scribe example."
+  },
+  {
+    "id": "SEC-holmberg1986",
+    "title_ar": "",
+    "title_es_or_en": "Bo Holmberg, 'Notes on a treatise on the Unity and Trinity of God attributed to Yahya ibn Adi', Orientalia Christiana Analecta 226 (1986), pp. 235-245",
+    "edition_note": "Catalogue record only (Lund University); not read",
+    "openiti_versionUri": null,
+    "openiti_url": null,
+    "genre": "secondary scholarship (lead only)",
+    "notes": "Not read."
+  }
+]

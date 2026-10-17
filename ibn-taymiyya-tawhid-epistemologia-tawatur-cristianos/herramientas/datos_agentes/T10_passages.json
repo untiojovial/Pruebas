@@ -1,0 +1,567 @@
+[
+ {
+  "id": "T10-01",
+  "work": "JawabSahih",
+  "theme": [
+   "C"
+  ],
+  "ar": "والنصارى يقولون: إن المسيح الذي هو عندهم اللاهوت والناسوت جميعا إنما مكن الكفار من صلبه ليحتال بذلك على عقوبة إبليس قالوا: فأخفى نفسه عن إبليس لئلا يعلم ومكن أعداءه من أخذه وضربه والبصاق في وجهه ووضع الشوك على رأسه وصلبه وأظهر الجزع من الموت وصار يقول يا إلهي لم سلطت أعدائي علي ليختفي بذلك عن إبليس فلا يعرف إبليس أنه الله أو ابن الله",
+  "ref": "JawabSahih, vol. 2, p. 107; chapter [فصل: رد عقيدة النصارى في الصلب والفداء] (heading at p. 106)",
+  "vol_page": "vol. 2, p. 107",
+  "edition_note": "Dar al-Asima (Riyadh), 2nd ed. 1419/1999, eds. Ali ibn Hasan, Abd al-Aziz ibn Ibrahim, Hamdan ibn Muhammad; Shamela 170 via OpenITI. Vol/page from OpenITI PageV markers of this edition.",
+  "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.JawabSahih/0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "offset_start": 332332,
+  "offset_end": 332675,
+  "ar_before": "صفون الله بالعدل ويجعلون من عدله أنه لا يأمر الإنسان بتعلم ما يقدر على تعلمه وفيه صلاح معاشه ومعاده ويجعلون مثل هذا موجبا لتكذيب كتابه ورسله والإصرار على تبديل الكتاب الأول وتكذيب الكتاب الآخر وعلى أنه يتضمن مخالفة موسى وعيسى وسائر الأنبياء والرسل؟ .",
+  "ar_after": "ويريد إبليس أن يأخذ روحه إلى الجحيم كما أخذ أرواح نوح وإبراهيم وموسى وغيرهم من الأنبياء والمؤمنين فيحتج عليه الرب حينئذ ويقول بماذا استحللت يا إبليس أن تأخذ روحي؟ فيقول له إبليس: بخطيئتك فيقول: ناسوتي لا خطيئة له كنواسيت الأنبياء، فإنه كان لهم خطايا ",
+  "gloss_en": "And the Christians say: the Messiah, who in their view is divinity and humanity together, let the disbelievers have power over his crucifixion so that he could trick Iblis by it. He hid himself from Iblis so that Iblis would not know that he is God or the son of God; he let his enemies seize him, beat him, spit in his face, put thorns on his head and crucify him, and he showed fear of death and kept saying: \"My God, why have you let my enemies have power over me?\", so that Iblis would not recognise him as God.",
+  "what_it_says": "He reports the Christian account in which the crucifixion was a deception of Satan (ransom/trick theory): the Messiah let himself be killed so that Iblis would be defeated and the descendants of Adam freed.",
+  "why_relevant": "It is the clearest statement in this slice of an atonement theory he attributes to Christians, and the basis of his claim that Christian doctrine makes God unjust.",
+  "stance": "reports opponent",
+  "limits": "Presented as the Christian view (\"والنصارى يقولون\") without naming an author; the deception-of-Satan theory was held by some early writers, not by a council. The refutation that follows (numbered \"وجوه\") is his own. Vol/page from the Dar al-Asima edition markers.",
+  "significance": 4,
+  "famous": false,
+  "attributed_to_christians": "Christians (as he reports them) believe the Messiah, divinity and humanity together, allowed himself to be crucified in order to deceive Iblis and free Adam's descendants from hell.",
+  "christian_check": [
+   {
+    "source": "Thomas Aquinas, Summa Theologiae III q.48 a.4 (reply to obj. 3); Schaff-free public-domain translation (Fathers of the English Dominican Province)",
+    "quote": "the price had to be paid not to the devil, but to God.",
+    "url": "https://www.newadvent.org/summa/4048.htm"
+   },
+   {
+    "source": "Aquinas III q.48 a.4 obj. 2 (the objection that the devil \"by treachery deceived and subjugated to himself man\"); Aquinas answers the objection, he does not accept the deception claim as a right",
+    "quote": "the devil by treachery deceived and subjugated to himself man, who is God's creature",
+    "url": "https://www.newadvent.org/summa/4048.htm"
+   }
+  ],
+  "verdict_candidate": "correct against some Christians but not all",
+  "verdict_reason": "Deception or ransom-to-the-devil ideas had patristic defenders, so the view is not invented. But it was never a conciliar doctrine, and Aquinas rejects the claim that the price was owed to the devil. Presenting it as the doctrine of Christians in general, and then drawing the charge of injustice against God, is a straw man for the mainstream tradition. (The names of the patristic defenders are not verified in this session.)"
+ },
+ {
+  "id": "T10-03",
+  "work": "JawabSahih",
+  "theme": [
+   "C"
+  ],
+  "ar": "وقالوا: إن مريم ولدت الله، تعالى الله عما يقولون، وإن الله مات وتألم وصلب متجسدا، ودفن وقام من بين الأموات وصعد إلى السماء، فجاءوا من القول بما لو عرض على السماء لانفطرت، أو على الأرض لانشقت، أو على الجبال لانهدت",
+  "ref": "JawabSahih, vol. 4, p. 90-91; quotation of al-Hasan ibn Ayyub's letter on his conversion, within section [بيان اضطراب كلام النصارى وتفرقهم في باب طبيعة المسيح] (p. 75)",
+  "vol_page": "vol. 4, p. 90–91",
+  "edition_note": "Dar al-Asima (Riyadh), 2nd ed. 1419/1999, eds. Ali ibn Hasan, Abd al-Aziz ibn Ibrahim, Hamdan ibn Muhammad; Shamela 170 via OpenITI. Vol/page from OpenITI PageV markers of this edition.",
+  "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.JawabSahih/0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "offset_start": 1056180,
+  "offset_end": 1056412,
+  "ar_before": "اهما طبيعة الناسوت والأخرى طبيعة اللاهوت، وأن هاتين الطبيعتين تركبتا كما تركبت النفس مع البدن فصارتا إنسانا واحدا وجوهرا واحدا وشخصا واحدا، وأن هذه الطبيعة الواحدة والشخص الواحد هو المسيح، وهو إله كله وإنسان كله، وهو شخص واحد وطبيعة واحدة من طبيعتين.",
+  "ar_after": "، فلم يكن لمحاجة هؤلاء وجه، إذ كان كفرهم بما صرحوا به أوضح من أن يقع فيه الشك، وكان غيرهم من النصارى كالمالكانية والنسطورية يشهدون بذلك عليهم. قال: ثم نظرت في قول الملكانية وهم الروم وهم أكثر النصارى فوجدتهم قالوا: إن الابن الأزلي الذي هو الله الكلمة",
+  "gloss_en": "\"They also say: Mary bore God, exalted be God far above what they say, and that God died, suffered and was crucified in the flesh, was buried, rose from the dead and ascended to heaven.\" They came out with words that, if presented to the heavens, would split them, or to the earth, would rend it, or to the mountains, would crush them.",
+  "what_it_says": "Through the letter of al-Hasan ibn Ayyub, a former Christian, he reports the Jacobite (Miaphysite) view that Mary bore God and that God died and was crucified in the flesh, then buried and risen.",
+  "why_relevant": "This is the sharpest \"God died\" statement in this slice, so it tests whether he represents the Christian position accurately, and it shows the sources he uses to describe the sects.",
+  "stance": "quotes Christian text",
+  "limits": "Quoted letter of al-Hasan ibn Ayyub, a convert from Christianity, not a church confession; the phrase \"Mary bore God\" is the Theotokos title used in a crude form. The letter's own opening is in vol. 4 p. 86-90 and the quotation is introduced by \"قلت\" and an approving comment by Ibn Taymiyya. Check the letter's boundaries on the page image.",
+  "significance": 5,
+  "famous": false,
+  "attributed_to_christians": "Some Christians (the Jacobites, per al-Hasan ibn Ayyub) say Mary bore God and that God died, was crucified, buried and rose in the flesh.",
+  "christian_check": [
+   {
+    "source": "Cyril of Alexandria, Twelve Anathemas against Nestorius (Schaff, NPNF2 vol. 14, public domain)",
+    "quote": "Whosoever shall not recognize that the Word of God suffered in the flesh, that he was crucified in the flesh",
+    "url": "https://ccel.org/ccel/schaff/npnf214/npnf214.x.ix.xiv.html"
+   },
+   {
+    "source": "Definition of Chalcedon, Schaff/NPNF2 vol. 14 translation",
+    "quote": "unconfusedly, immutably, indivisibly, inseparably [united], and that without the distinction of natures being taken away by such union",
+    "url": "https://ccel.org/ccel/schaff/npnf214.xi.xiii.html"
+   },
+   {
+    "source": "Aquinas III q.46 a.12 ad 2",
+    "quote": "For God's Nature was not wounded, nor did It undergo any change by those sufferings.",
+    "url": "https://www.newadvent.org/summa/4046.htm"
+   }
+  ],
+  "verdict_candidate": "partly faithful",
+  "verdict_reason": "Cyril's twelfth anathema and the later Theopaschite language do say the Word suffered and was crucified \"in the flesh\", so a qualified \"God suffered\" is a real Christian idiom, and Mary as Mother of God is affirmed at Ephesus. But the bare claims \"Mary bore God\" and \"God died\" leave out the qualification that Chalcedon and Aquinas insist on (the divine nature was not wounded). The text reports this as the Jacobite view through a convert, so it is a partial rendering."
+ },
+ {
+  "id": "T10-04",
+  "work": "JawabSahih",
+  "theme": [
+   "C"
+  ],
+  "ar": "ثم نظرت في قول الملكانية وهم الروم وهم أكثر النصارى فوجدتهم قالوا: إن الابن الأزلي الذي هو الله الكلمة تجسد من مريم تجسدا كاملا كسائر أجساد الناس، وركب في ذلك الجسد نفسا كاملة بالعقل والمعرفة والعلم كسائر أنفس الناس، وأنه صار إنسانا بالنفس والجسد اللذين هما من جوهر الناس، وإلها بجوهر اللاهوت كمثل أبيه لم يزل، وهو إنسان بجوهر الناسوت مثل إبراهيم وداود، وهو شخص واحد لم يزد عدده وثبت له جوهر اللاهوت كما لم يزل يصح له جوهر الناسوت الذي لبسه من مريم، وهو شخص واحد لم يزد عدده وطبيعتان، ولكل واحدة من الطبيعتين مشيئة كاملة",
+  "ref": "JawabSahih, vol. 4, p. 91; quotation of al-Hasan ibn Ayyub's letter, within section [بيان اضطراب كلام النصارى وتفرقهم في باب طبيعة المسيح] (p. 75)",
+  "vol_page": "vol. 4, p. 91",
+  "edition_note": "Dar al-Asima (Riyadh), 2nd ed. 1419/1999, eds. Ali ibn Hasan, Abd al-Aziz ibn Ibrahim, Hamdan ibn Muhammad; Shamela 170 via OpenITI. Vol/page from OpenITI PageV markers of this edition.",
+  "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.JawabSahih/0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "offset_start": 1056573,
+  "offset_end": 1057107,
+  "ar_before": "عد إلى السماء، فجاءوا من القول بما لو عرض على السماء لانفطرت، أو على الأرض لانشقت، أو على الجبال لانهدت، فلم يكن لمحاجة هؤلاء وجه، إذ كان كفرهم بما صرحوا به أوضح من أن يقع فيه الشك، وكان غيرهم من النصارى كالمالكانية والنسطورية يشهدون بذلك عليهم. قال:",
+  "ar_after": "، فله بلاهوته مشيئة مثل الأب والروح، وله بناسوته مشيئة مثل مشيئة إبراهيم وداود. وقالوا: إن مريم ولدت إلها، وأن المسيح وهو اسم يجمع اللاهوت والناسوت، مات، وقالوا: إن الله لم يمت، والذي ولدت مريم قد مات بجوهر ناسوته (فهو إله تام بجوهر لاهوته، وإنسان تا",
+  "gloss_en": "\"Then I considered the view of the Melkites, who are the Romans and most of the Christians, and I found them saying: the eternal Son, who is God the Word, became incarnate from Mary with a complete incarnation like the bodies of men, and in that body a complete soul with reason, knowledge and understanding like human souls; he became man by the soul and body, which are of the substance of men, and God by the substance of divinity, as his Father, who is eternal; he is man by the substance of humanity like Abraham and David; he is one person, and divinity and humanity both belong to him, and he has two natures, and each nature has a complete will.\"",
+  "what_it_says": "Via the letter of al-Hasan ibn Ayyub, he reports the Melkite (Chalcedonian) formula: one person, two natures (divine and human), each with its complete will.",
+  "why_relevant": "It is the most accurate exposition of Chalcedonian Christology in this slice and a fair test of whether he represents Christians faithfully.",
+  "stance": "quotes Christian text",
+  "limits": "This is a convert's summary of Melkite teaching, quoted by Ibn Taymiyya; it is not a Melkite document. \"Each nature has a complete will\" reflects Byzantine Chalcedonianism (Constantinople III, 681), not the Definition of Chalcedon itself (from memory, not verified). Ibn Taymiyya's own objections follow on p. 91-92.",
+  "significance": 5,
+  "famous": false,
+  "attributed_to_christians": "The Melkites (Chalcedonians) say the eternal Son, God the Word, became incarnate from Mary, one person in two complete natures, divine and human, each with its own complete will.",
+  "christian_check": [
+   {
+    "source": "Definition of Chalcedon, Schaff/NPNF2 vol. 14 translation",
+    "quote": "This one and the same Jesus Christ, the only-begotten Son [of God] must be confessed to be in two natures, unconfusedly, immutably, indivisibly, inseparably [united]",
+    "url": "https://ccel.org/ccel/schaff/npnf214.xi.xiii.html"
+   },
+   {
+    "source": "Leo the Great, Tome (Letter 28 to Flavian), trans. Bright in Select Sermons of S. Leo, as on this CCEL page",
+    "quote": "For each \"form\" does the acts which belong to it, in communion with the other; the Word, that is, performing what belongs to the Word, and the flesh carrying out what belongs to the flesh",
+    "url": "https://ccel.org/ccel/schaff/npnf214.xi.vii.html"
+   }
+  ],
+  "verdict_candidate": "faithful",
+  "verdict_reason": "The account matches Chalcedon's formula in substance: one person, two natures, without confusion or division. The phrase \"each with its own will\" goes beyond Chalcedon but is accepted Byzantine Chalcedonian teaching, so this is not a straw man. The source is a convert's summary, so the precise wording is not Melkite self-description."
+ },
+ {
+  "id": "T10-05",
+  "work": "JawabSahih",
+  "theme": [
+   "C"
+  ],
+  "ar": "وقالوا: إن مريم ولدت إلها، وأن المسيح وهو اسم يجمع اللاهوت والناسوت، مات، وقالوا: إن الله لم يمت، والذي ولدت مريم قد مات بجوهر ناسوته (فهو إله تام بجوهر لاهوته، وإنسان تام بجوهر ناسوته، وله مشيئة اللاهوت ومشيئة الناسوت، وهو شخص واحد لا نقول شخصان لئلا يلزمنا القول بأربعة أقانيم. قال: فهؤلاء أتوا من ذلك بمثل ما أتت به اليعقوبية في ولادة مريم الله، تعالى الله عما يقول الظالمون، وقالوا: إن المسيح وهو اسم لا تشك جماعة النصارى",
+  "ref": "JawabSahih, vol. 4, p. 91-92; quotation of al-Hasan ibn Ayyub's letter, within section [بيان اضطراب كلام النصارى وتفرقهم في باب طبيعة المسيح] (p. 75)",
+  "vol_page": "vol. 4, p. 91–92",
+  "edition_note": "Dar al-Asima (Riyadh), 2nd ed. 1419/1999, eds. Ali ibn Hasan, Abd al-Aziz ibn Ibrahim, Hamdan ibn Muhammad; Shamela 170 via OpenITI. Vol/page from OpenITI PageV markers of this edition.",
+  "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.JawabSahih/0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "offset_start": 1057191,
+  "offset_end": 1057644,
+  "ar_before": "اود، وهو شخص واحد لم يزد عدده وثبت له جوهر اللاهوت كما لم يزل يصح له جوهر الناسوت الذي لبسه من مريم، وهو شخص واحد لم يزد عدده وطبيعتان، ولكل واحدة من الطبيعتين مشيئة كاملة، فله بلاهوته مشيئة مثل الأب والروح، وله بناسوته مشيئة مثل مشيئة إبراهيم وداود.",
+  "ar_after": "أنه واقع على اللاهوت والناسوت مات، وأن الله لم يمت، فكيف يكون ميتا لم يمت، وقائما قاعدا في حال واحدة؟ وهل بين المقالتين فرق إلا ما اختلفوا فيه من الطبائع؟ قال: ثم نظرت في قول النسطورية فوجدتهم قالوا: إن المسيح شخصان وطبيعتان لهما مشيئة واحدة، وأن طبي",
+  "gloss_en": "\"And they say that Mary bore God, and that the Messiah, a name that comprises divinity and humanity, died; and they say that God did not die, and that the one born of Mary died in his human nature (he is complete God in the substance of his divinity and complete man in the substance of his humanity, with the will of divinity and the will of humanity; one person, and we do not say two persons, lest we be bound to say four hypostases). He says: these came with the same thing the Jacobites did in saying Mary bore God... And they say that the Messiah, a name no company of Christians doubts applies to divinity and humanity, died, and that God did not die: how can what is dead be what did not die, standing and sitting at one time?\"",
+  "what_it_says": "The letter reports the Melkite distinction: God did not die; the one person born of Mary died in his humanity. Its quoted critic then objects that the same person cannot be dead and not dead.",
+  "why_relevant": "Shows that the \"God died\" charge is answered by Chalcedonians in a qualified way, which tests the fairness of T10-03.",
+  "stance": "quotes Christian text",
+  "limits": "Same convert's letter. The final objection (\"how can what is dead be what did not die\") is the letter's argument, not Melkite teaching. The parenthetical summary sits inside the quotation in the source. \"Mary bore God\" in Melkite speech is the Theotokos title.",
+  "significance": 5,
+  "famous": false,
+  "attributed_to_christians": "The Melkites say God did not die; the one person (God and man) born of Mary died in his humanity, and the divinity did not die.",
+  "christian_check": [
+   {
+    "source": "Leo the Great, Tome, Schaff/CCEL page (Bright translation)",
+    "quote": "the impassible God did not disdain to be passible Man and the immortal One to be subjected to the laws of death.",
+    "url": "https://ccel.org/ccel/schaff/npnf214.xi.vii.html"
+   },
+   {
+    "source": "Aquinas III q.16 a.6 ad 2 (Summa, Newadvent)",
+    "quote": "we understand no change on the part of God, but only on the part of the human nature.",
+    "url": "https://www.newadvent.org/summa/4016.htm"
+   }
+  ],
+  "verdict_candidate": "faithful",
+  "verdict_reason": "The Melkite position as described (God did not die; the one person died in his humanity) is the one Leo and Aquinas state. The objection that follows targets the wording \"God died\", which mainstream theology answers with the communication of properties, so it is his argument, not a misrepresentation of the position."
+ },
+ {
+  "id": "T10-06",
+  "work": "JawabSahih",
+  "theme": [
+   "C"
+  ],
+  "ar": "وأنتم تقولون: إن رب العالمين سكن في بطن مريم، ويقول أكثركم - كالملكية واليعقوبية -: إنه خرج من فرج مريم",
+  "ref": "JawabSahih, vol. 4, p. 322; within section [متابعة حكاية كلام ابن البطريق عن النصارى ومناقشته في ذلك] (heading at p. 318)",
+  "vol_page": "vol. 4, p. 322",
+  "edition_note": "Dar al-Asima (Riyadh), 2nd ed. 1419/1999, eds. Ali ibn Hasan, Abd al-Aziz ibn Ibrahim, Hamdan ibn Muhammad; Shamela 170 via OpenITI. Vol/page from OpenITI PageV markers of this edition.",
+  "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.JawabSahih/0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "offset_start": 1243412,
+  "offset_end": 1243517,
+  "ar_before": "له أجل وأكبر وأعظم من كل شيء، والشمس آية من آياته ومخلوق من مخلوقاته، ومع هذا فلو قال قائل: إن الشمس سكنت في جوف امرأة وخرجت من فرج تلك المرأة، لكان كل عاقل يعلم فساد قوله، وينسبه إلى الجهل العظيم أو الجنون، وسواء قال: إن الشمس نفسها نزلت أو لم تنزل.",
+  "ar_after": ". ولو قال قائل عما هو من أصغر مخلوقات الله، كوكب من الكواكب أو جبل من الجبال أو صخرة عظيمة: إن ذلك كان في بطن امرأة وخرج من فرجها - لضحك الناس من قوله، فكيف بمن يدعي مثل ذلك في رب العالمين؟ ! وإذا قالوا: إن الله نزل إلى السماء الدنيا، أو نزل إلى الطو",
+  "gloss_en": "\"And you say that the Lord of the worlds dwelt in the womb of Mary, and most of you, like the Melkites and Jacobites, say that he came out of Mary's genital opening (farj).\" Immediately before, he argues by analogy that if one said the sun itself dwelt in the womb of a woman and came out of her genital opening, every reasonable person would call that absurd.",
+  "what_it_says": "In his own voice, he sets the Christian claims that God dwelt in Mary's womb and came out of it against a reductio based on the sun, which he calls absurd.",
+  "why_relevant": "Shows the crude register of the polemic on the Nativity; the womb and birth claims are standard Christian language, but the sun analogy and \"genital opening\" wording are his.",
+  "stance": "own view",
+  "limits": "Polemical register; \"farj\" is used in a crude sense. The sun analogy is his argument. \"Most of you say\" is his generalisation, not a survey.",
+  "significance": 4,
+  "famous": false,
+  "attributed_to_christians": "Christians say the Lord of the worlds dwelt in Mary's womb, and (Melkites and Jacobites) that he came out of her at birth.",
+  "christian_check": [
+   {
+    "source": "Niceno-Constantinopolitan Creed (381), Arabic as quoted by Ibn Taymiyya at vol. 1 p. 341 (\"وتجسد من روح القدس ومن مريم العذراء\"); English version checked only for the Holy Spirit clause",
+    "quote": "(Arabic, as quoted by Ibn Taymiyya) وتجسد من روح القدس ومن مريم العذراء",
+    "url": "https://earlychurchtexts.com/public/nicene_creed.htm"
+   }
+  ],
+  "verdict_candidate": "partly faithful",
+  "verdict_reason": "The core claim, incarnation through Mary and birth from her, is standard Christian doctrine (the creed's \"incarnate ... of the Virgin Mary\"), so it is not a straw man. The \"genital opening\" wording and the sun analogy are his rhetoric, and the claim that God \"dwelt\" in Mary is a crude paraphrase of the Incarnation."
+ },
+ {
+  "id": "T10-08",
+  "work": "JawabSahih",
+  "theme": [
+   "C"
+  ],
+  "ar": "ويحكى عن بعض طائفة منهم كاليعقوبية أنه يقول بهذا الكفر، وإن كان كثير منهم كالملكية والنسطورية ينكره، فهو لازم لهم، وكذلك إذا شبهوه بالنفس والبدن، فإن النفس تتألم تألم البدن، وتستحيل صفاتها بكونها في البدن، وتكتسب عن البدن أخلاقا وصفات، فلو كان هذا تمثيلا مطابقا لزم تألم اللاهوت بآلام البدن، وأن يكون متألما بجوع البدن وعطشه وضربه وصلبه، وأن يكون مستحيلا لما اكتسبه من صفات الناسوت الذي هو عندهم بمنزلة البدن للنفس",
+  "ref": "JawabSahih, vol. 3, p. 492-493; chapter [فصل: رد زعمهم أنه لا يلزمهم عبادة ثلاثة آلهة وأنه لا لوم عليهم في التثليث...] (heading at p. 476)",
+  "vol_page": "vol. 3, p. 492–493",
+  "edition_note": "Dar al-Asima (Riyadh), 2nd ed. 1419/1999, eds. Ali ibn Hasan, Abd al-Aziz ibn Ibrahim, Hamdan ibn Muhammad; Shamela 170 via OpenITI. Vol/page from OpenITI PageV markers of this edition.",
+  "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.JawabSahih/0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "offset_start": 969183,
+  "offset_end": 969630,
+  "ar_before": " حادثة عن تلك النار ليست إياها، ثم تلك الحديدة إذا طرقت وقع التطريق على النار، وكذلك إذا ألقيت في الماء، فلو كان هذا تمثيلا مطابقا لكان الضرب والصلب والإهانة وقع على اللاهوت، وكان اللاهوت هو الذي يغتسل بالماء، وهو الذي يأكل ويشرب، وهذا من أعظم الكفر.",
+  "ar_after": "، وأما قولهم: إذ لم نهمل ما تسلمناه، ولم نرفض ما تقلدناه، فقولهم في ذلك بمنزلة قول اليهود للمسيح: إنا لا نهمل ما تسلمناه، ولا نرفض ما تقلدناه من موسى عليه السلام. وجواب الطائفتين من وجهين: أحدهما: أنكم بدلتم وحرفتم الكتاب الذي أنزل إليكم، والشرع الذي",
+  "gloss_en": "\"It is reported of some of them, such as the Jacobites, that they say this disbelief, though many of them, such as the Melkites and Nestorians, deny it; it nevertheless necessarily follows for them. Likewise, if they liken it to soul and body: the soul suffers the body's pains, and its attributes change by being in the body. So if this were an exact comparison, the divinity would suffer the pains of the body, would be hungry and thirsty, beaten and crucified, and would change through what it acquired from the attributes of the humanity, which for them is like the body to the soul.\"",
+  "what_it_says": "He argues that the soul/body analogy, which he attributes to Christians, would make the divinity suffer. He acknowledges that Melkites and Nestorians deny this, but calls it a necessary consequence (لازم).",
+  "why_relevant": "It is central to the straw-man question: it separates the Jacobite/Theopaschite claim from the Melkite and Nestorian denial, but still presses the analogy to divine suffering.",
+  "stance": "own view",
+  "limits": "He concedes the denial by Melkites and Nestorians; the reductio is aimed at the analogy, not at a named author. Attribution of the soul/body analogy to Christians is his. The Jacobite attribution is his.",
+  "significance": 4,
+  "famous": false,
+  "attributed_to_christians": "Some Christians (Jacobites) say God suffered; Melkites and Nestorians deny this, but he holds that the soul/body analogy Christians use entails divine suffering.",
+  "christian_check": [
+   {
+    "source": "Aquinas III q.46 a.12 ad 2",
+    "quote": "For God's Nature was not wounded, nor did It undergo any change by those sufferings.",
+    "url": "https://www.newadvent.org/summa/4046.htm"
+   },
+   {
+    "source": "Aquinas III q.16 a.6 ad 1",
+    "quote": "the human nature began to be in an eternally pre-existing suppositum of the Divine Nature.",
+    "url": "https://www.newadvent.org/summa/4016.htm"
+   }
+  ],
+  "verdict_candidate": "correct against some Christians but not all",
+  "verdict_reason": "The reductio (divine suffering follows from the body analogy) hits Theopaschite and Jacobite-style formulations and some analogies. The Chalcedonian and Thomist tradition rejects it (the divine nature was not wounded), and Ibn Taymiyya himself grants that Melkites and Nestorians deny divine suffering. So the argument is right against some Christians and not against the mainstream."
+ },
+ {
+  "id": "T10-09",
+  "work": "JawabSahih",
+  "theme": [
+   "C"
+  ],
+  "ar": "وعلى هذا القياس نقول: إن المسيح صلب وتألم بناسوته، ولم يصلب ولا تألم بلاهوته. والجواب من وجوه",
+  "ref": "JawabSahih, vol. 4, p. 27; within chapter [نقض دعواهم أن القرآن أثبت في المسيح اللاهوت والناسوت] (heading at p. 26)",
+  "vol_page": "vol. 4, p. 27",
+  "edition_note": "Dar al-Asima (Riyadh), 2nd ed. 1419/1999, eds. Ali ibn Hasan, Abd al-Aziz ibn Ibrahim, Hamdan ibn Muhammad; Shamela 170 via OpenITI. Vol/page from OpenITI PageV markers of this edition.",
+  "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.JawabSahih/0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "offset_start": 1001152,
+  "offset_end": 1001256,
+  "ar_before": "ا توفيتني كنت أنت الرقيب عليهم وأنت على كل شيء شهيد} [المائدة: 117] . فأعنى بموته عن موت الناسوت الذي أخذ من مريم العذراء. وقال أيضا في سورة النساء: {وما قتلوه يقينا بل رفعه الله إليه} [النساء: 157] . فأشار بهذا إلى اللاهوت الذي هو كلمة الله الخالقة،",
+  "ar_after": ": أحدها: أن يقال: دعواهم على محمد صلى الله عليه وسلم أنه أثبت في المسيح اللاهوت والناسوت، كما يزعمه هؤلاء النصارى فيه، هو من الكذب الواضح المعلوم على محمد صلى الله عليه وسلم الذي يعلم من دينه بالاضطرار، كما يعلم من دينه تصديق المسيح عليه السلام وإثبا",
+  "gloss_en": "\"And upon this analogy we say: the Messiah was crucified and suffered in his humanity, and was not crucified nor suffered in his divinity. The answer comes in several aspects.\"",
+  "what_it_says": "The Christian interlocutor (introduced by \"قالوا\") states that the Messiah was crucified and suffered in his humanity and not in his divinity. Ibn Taymiyya then answers that the Qur'an does not say this.",
+  "why_relevant": "An example where he states the mainstream Christian formula accurately, before answering it.",
+  "stance": "quotes Christian text",
+  "limits": "This is the interlocutor's argument, which he quotes; his rebuttal starts after it. The passage is short; the preceding sentence in the book (\"فأشار بهذا إلى اللاهوت الذي هو كلمة الله...\") is the Christian reading of Q 4:157 and is part of the same speech.",
+  "significance": 4,
+  "famous": false,
+  "attributed_to_christians": "Christians hold that the Messiah suffered and was crucified in his human nature, not his divinity.",
+  "christian_check": [
+   {
+    "source": "Aquinas III q.46 a.12 ad 1",
+    "quote": "The Lord of glory is said to be crucified, not as the Lord of glory, but as a man capable of suffering.",
+    "url": "https://www.newadvent.org/summa/4046.htm"
+   }
+  ],
+  "verdict_candidate": "faithful",
+  "verdict_reason": "The Christian formula is stated accurately and matches Aquinas (III q.46 a.12) and the Chalcedonian distinction of natures. His answer (that the Qur'an does not teach it) is his argument, not a misrepresentation."
+ },
+ {
+  "id": "T10-11",
+  "work": "JawabSahih",
+  "theme": [
+   "C"
+  ],
+  "ar": "وأما الإنجيل الذي بأيديهم فهم معترفون بأنه لم يكتبه المسيح - عليه السلام - ولا أملاه على من كتبه وإنما أملوه بعد رفع المسيح متى ويوحنا وكانا قد صحبا المسيح ولم يحفظه خلق كثير يبلغون عدد التواتر، ومرقس ولوقا وهما لم يريا المسيح - عليه السلام - وقد ذكر هؤلاء أنهم ذكروا بعض ما قاله المسيح وبعض أخباره وأنهم لم يستوعبوا ذكر أقواله وأفعاله. ونقل اثنين وثلاثة وأربعة يجوز عليه الغلط لا سيما وقد غلطوا في المسيح نفسه حتى اشتبه عليهم بالمصلوب",
+  "ref": "JawabSahih, vol. 2, p. 396; chapter [وقوع التبديل في ألفاظ التوراة والإنجيل وانقطاع سندهما] (heading at p. 394)",
+  "vol_page": "vol. 2, p. 396",
+  "edition_note": "Dar al-Asima (Riyadh), 2nd ed. 1419/1999, eds. Ali ibn Hasan, Abd al-Aziz ibn Ibrahim, Hamdan ibn Muhammad; Shamela 170 via OpenITI. Vol/page from OpenITI PageV markers of this edition.",
+  "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.JawabSahih/0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "offset_start": 548055,
+  "offset_end": 548502,
+  "ar_before": " ومن الناس من يقول أنه لم يكن نبيا وأنها قوبلت بنسخة وجدت عتيقة. وقد قيل أنه أحضرت نسخة كانت بالمغرب وهذا كله لا يوجب تواتر جميع ألفاظها ولا يمنع وقوع الغلط في بعضها ; كما يجري مثل ذلك في الكتب التي يلي نسخها ومقابلتها وحفظها القليل الاثنان والثلاثة.",
+  "ar_after": "، ولكن النصارى يزعمون أن الحواريين رسل الله مثل عيسى ابن مريم وموسى - عليهما السلام - وأنهم معصومون وأنهم سلموا إليهم التوراة والإنجيل وأن لهم معجزات وقالوا لهم هذه التوراة وهذا الإنجيل ويقرون مع هذا بأنهم ليسوا بأنبياء فإذا لم يكونوا أنبياء فمن ليس ",
+  "gloss_en": "\"As for the Gospel that is in their hands: they confess that the Messiah did not write it and did not dictate it to those who wrote it; they say it was dictated after the Messiah was raised, by Matthew and John, who had accompanied the Messiah, and that a large number of people who would reach the threshold of tawatur did not memorise it; and Mark and Luke, who did not see the Messiah, [wrote]; they say these reported some of what the Messiah said and some of his news, and did not record all his sayings and deeds. Transmission by two, three or four can be subject to error, especially since they erred about the Messiah himself, so that he was confused with the crucified one.\"",
+  "what_it_says": "He says Christians admit Jesus wrote no Gospel; Matthew and John, his companions, dictated them after the ascension; Mark and Luke did not see him; transmission is not mutawatir; and the writers erred about who was crucified.",
+  "why_relevant": "Answers the brief's questions on the Gospels (authors, number, transmission) and attributes concrete admissions to Christians that can be checked.",
+  "stance": "own view",
+  "limits": "The \"they admit\" is his reading. The authorship claims are traditional and disputed (Matthew and John as eyewitnesses; Mark and Luke as second-hand). The \"confused with the crucified\" claim is his reconstruction, and John 19:35 (Christian claim to eyewitness) contradicts it.",
+  "significance": 4,
+  "famous": false,
+  "attributed_to_christians": "Christians say the Gospels were not written by Jesus but were dictated after his ascension by Matthew and John, his companions; Mark and Luke did not see him.",
+  "christian_check": [
+   {
+    "source": "Gospel of Luke 1:2 (eyewitnesses as sources), and John 19:35 (eyewitness testimony claimed by the Johannine author); traditional authorship via Papias (Eusebius HE 3.39)",
+    "quote": "(not fetched in this session; the verse texts are from the Greek and KJV, unverified here)",
+    "url": null
+   }
+  ],
+  "verdict_candidate": "partly faithful",
+  "verdict_reason": "Accurate that the Gospels are anonymous in their texts and that Jesus wrote none; the traditional attributions (Matthew, John; Mark via Peter; Luke as companion of Paul) match his summary, and Luke states he relied on eyewitnesses, so \"Mark and Luke did not see him\" is a fair reading. The \"confused with the crucified\" reconstruction is his argument and is disputed by the John 19:35 claim."
+ },
+ {
+  "id": "T10-12",
+  "work": "JawabSahih",
+  "theme": [
+   "C"
+  ],
+  "ar": "فالنصارى تضع لهم عقائدهم وشرائعهم أكابرهم بعد المسيح، كما وضع لهم الثلاثمائة وثمانية عشر الذين كانوا في زمن قسطنطين الملك الأمانة التي اتفقوا عليها، ولعنوا من خالفها من الأريوسية وغيرهم، وفيها أمور لم ينزل الله بها كتابا، بل تخالف ما أنزله الله من الكتب مع مخالفتها للعقل الصريح فقالوا فيها",
+  "ref": "JawabSahih, vol. 1, p. 340; chapter [فصل: ابتداع اليهود والنصارى في دينهم] (heading at p. 339)",
+  "vol_page": "vol. 1, p. 340",
+  "edition_note": "Dar al-Asima (Riyadh), 2nd ed. 1419/1999, eds. Ali ibn Hasan, Abd al-Aziz ibn Ibrahim, Hamdan ibn Muhammad; Shamela 170 via OpenITI. Vol/page from OpenITI PageV markers of this edition.",
+  "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.JawabSahih/0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "offset_start": 174847,
+  "offset_end": 175145,
+  "ar_before": "د: لا يجوزون لله سبحانه وتعالى أن ينسخ شيئا شرعه. والنصارى: يجوزون لأكابرهم أن ينسخوا شرع الله بآرائهم. وأما المسلمون: فعندهم أن الله له الخلق والأمر، لا شرع إلا ما شرع الله على ألسنة رسله، وله أن ينسخ ما شاء كما نسخ المسيح ما كان شرعه للأنبياء قبله.",
+  "ar_after": ": نؤمن بإله واحد، أب ضابط الكل، خالق السماوات والأرض، كل ما يرى وما لا يرى، وبرب واحد يسوع المسيح ابن الله الوحيد المولود من الأب قبل كل الدهور، نور من نور إله حق من إله حق مولود غير مخلوق مساوي الأب في الجوهر الذي به كان كل شيء، الذي من أجلنا نحن ال",
+  "gloss_en": "\"Christians, after the Messiah, had their leaders establish their beliefs and laws, as the three hundred and eighteen who were in the time of Constantine the King established the Amana (creed) on which they agreed, and cursed whoever opposed it among the Arians and others. It contains matters God did not send down in any book, and it contradicts what God sent down in the books and clear reason. They said in it: [the creed follows].\"",
+  "what_it_says": "In his own voice: Christian creed (Amana) was established by the 318 bishops under Constantine, and it contains matters God did not reveal in any book.",
+  "why_relevant": "Direct answer to the brief's Constantine, 318, and creed questions, in his own words.",
+  "stance": "own view",
+  "limits": "The 318 figure and Constantine are his reading of the council tradition; the claim that the creed contains things not revealed is his judgement. The figure 318 matches Athanasius, but the creed he quotes next is the Constantinopolitan (381) text.",
+  "significance": 5,
+  "famous": false,
+  "attributed_to_christians": "Christians hold that their creed was set down by the 318 bishops under Constantine and is their faith; he says it includes matters God did not reveal.",
+  "christian_check": [
+   {
+    "source": "Athanasius, Letter to the African Bishops (Ad Afros) para. 2, NPNF translation (as rendered by the fetch tool)",
+    "quote": "an ecumenical synod has been held at Nicaea, 318 bishops assembling to discuss the faith",
+    "url": "https://www.newadvent.org/fathers/2819.htm"
+   },
+   {
+    "source": "Nicene-Constantinopolitan Creed (381), English, earlychurchtexts",
+    "quote": "We believe in one God, the Father almighty, maker of heaven and earth, of all things visible and invisible;",
+    "url": "https://earlychurchtexts.com/public/nicene_creed.htm"
+   }
+  ],
+  "verdict_candidate": "partly faithful",
+  "verdict_reason": "The 318 figure and Constantine's role match the traditional account (Athanasius), and the creed's technical wording (of one substance) is not a scriptural phrase. But the churches present the creed as summarising the apostolic faith, not as adding doctrine contrary to Scripture (Athanasius: \"the sound Faith which Christ gave us, the Apostles preached\"). So presenting it as contrary to the books is partly a straw man."
+ },
+ {
+  "id": "T10-13",
+  "work": "JawabSahih",
+  "theme": [
+   "C"
+  ],
+  "ar": "نؤمن بإله واحد، أب ضابط الكل، خالق السماوات والأرض، كل ما يرى وما لا يرى، وبرب واحد يسوع المسيح ابن الله الوحيد المولود من الأب قبل كل الدهور، نور من نور إله حق من إله حق مولود غير مخلوق مساوي الأب في الجوهر الذي به كان كل شيء، الذي من أجلنا نحن البشر ومن أجل خلاصنا نزل من السماء، وتجسد من روح القدس ومن مريم العذراء، وتأنس وصلب على عهد بيلاطس البنطي وتألم وقبر، وقام في اليوم الثالث كما في الكتب، وصعد إلى السماء، وجلس عن يمين الأب",
+  "ref": "JawabSahih, vol. 1, p. 340-341; chapter [فصل: ابتداع اليهود والنصارى في دينهم] (heading at p. 339)",
+  "vol_page": "vol. 1, p. 340–341",
+  "edition_note": "Dar al-Asima (Riyadh), 2nd ed. 1419/1999, eds. Ali ibn Hasan, Abd al-Aziz ibn Ibrahim, Hamdan ibn Muhammad; Shamela 170 via OpenITI. Vol/page from OpenITI PageV markers of this edition.",
+  "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.JawabSahih/0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "offset_start": 175147,
+  "offset_end": 175606,
+  "ar_before": " بعد المسيح، كما وضع لهم الثلاثمائة وثمانية عشر الذين كانوا في زمن قسطنطين الملك الأمانة التي اتفقوا عليها، ولعنوا من خالفها من الأريوسية وغيرهم، وفيها أمور لم ينزل الله بها كتابا، بل تخالف ما أنزله الله من الكتب مع مخالفتها للعقل الصريح فقالوا فيها:",
+  "ar_after": "، وأيضا فسيأتي بمجده ليدين الأحياء والأموات الذي لا فناء لملكه، وبروح القدس الرب المحيي المنبثق من الأب مع الأب والابن مسجود له وبمجد الناطق في الأنبياء، وبكنيسة واحدة جامعة مقدسة رسولية، واعترف بمعمودية واحدة لمغفرة الخطايا، ونترجى قيامة الموتى، وحي",
+  "gloss_en": "\"We believe in one God, the Father almighty, maker of heaven and earth, of all things visible and invisible; and in one Lord Jesus Christ, the only-begotten Son of God, begotten of the Father before all ages, light of light, true God of true God, begotten not made, consubstantial with the Father, through whom all things were made; who for us men and for our salvation came down from heaven, and was incarnate of the Holy Spirit and the Virgin Mary, and was made man, and was crucified under Pontius Pilate, and suffered and was buried, and rose on the third day, and ascended into heaven, and sitteth on the right hand of the Father.\" (Gloss is mine; the Arabic is the text quoted by Ibn Taymiyya.)",
+  "what_it_says": "The Arabic text of the Christian creed, as quoted by Ibn Taymiyya up to the Ascension; the Holy Spirit clause follows on p. 342.",
+  "why_relevant": "The Christian text itself, quoted in full: the reader can check it against the creed and against his characterisation.",
+  "stance": "quotes Christian text",
+  "limits": "Quoted Arabic creed; the English gloss is mine. The \"Nicene\" label is traditional; the wording matches the 381 creed in substance. The Holy Spirit clause (\"worshipped and glorified\") is on vol. 1 p. 342.",
+  "significance": 5,
+  "famous": false,
+  "attributed_to_christians": "The Christian creed confesses one God the Father; one Lord Jesus Christ the Son, consubstantial with the Father; incarnate of the Holy Spirit and the Virgin Mary; crucified under Pontius Pilate; risen and ascended.",
+  "christian_check": [
+   {
+    "source": "Nicene-Constantinopolitan Creed (381), English, earlychurchtexts",
+    "quote": "We believe in one God, the Father almighty, maker of heaven and earth, of all things visible and invisible;",
+    "url": "https://earlychurchtexts.com/public/nicene_creed.htm"
+   }
+  ],
+  "verdict_candidate": "faithful",
+  "verdict_reason": "The quoted text is the Christian creed, and its substance matches the 381 creed as checked in the English translation. Ibn Taymiyya quotes it accurately; his objection is that its wording goes beyond Scripture, which is argument, not misquotation."
+ },
+ {
+  "id": "T10-14",
+  "work": "JawabSahih",
+  "theme": [
+   "C"
+  ],
+  "ar": "وهذا مثل الأمانة التي هي أصل دينهم وصلاتهم إلى المشرق وإحلال الخنزير وترك الختان وتعظيم الصليب واتخاد الصور في الكنائس وغير ذلك من شرائعهم ليست منقولة عن المسيح ولا لها ذكر في الأناجيل التي ينقلونها عنه وهم متفقون على أن الأمانة التي جعلوها أصل دينهم وأساس اعتقادهم ليست ألفاظها موجودة في الأناجيل ولا هي مأثورة عن الحواريين وهم متفقون على أن الذين وضعوها أهل المجمع الأول الذين كانوا عند قسطنطين الذي حضره ثلاثمائة وثمانية عشر وخالفوا عبد الله بن أريوس الذي جعل المسيح عبدا لله كما يقول المسلمون ووضعوا هذه الأمانة. وهذا المجمع كان بعد المسيح بمدة طويلة",
+  "ref": "JawabSahih, vol. 2, p. 405; chapter [وقوع التبديل في ألفاظ التوراة والإنجيل وانقطاع سندهما] (heading at p. 394)",
+  "vol_page": "vol. 2, p. 405",
+  "edition_note": "Dar al-Asima (Riyadh), 2nd ed. 1419/1999, eds. Ali ibn Hasan, Abd al-Aziz ibn Ibrahim, Hamdan ibn Muhammad; Shamela 170 via OpenITI. Vol/page from OpenITI PageV markers of this edition.",
+  "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.JawabSahih/0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "offset_start": 553631,
+  "offset_end": 554201,
+  "ar_before": "ع النصارى نقل متواتر عن المسيح بألفاظ هذه الأناجيل ولا نقل لا متواتر ولا آحاد بأكثر ما هم عليه من الشرائع ولا عندهم ولا عند اليهود نقل متواتر بألفاظ التوراة ونبوات الأنبياء كما عند المسلمين نقل متواتر بالقرآن وبالشرائع الظاهرة المعروفة للعامة والخاصة",
+  "ar_after": "تزيد على ثلاثمائة سنة وبسط هذا له موضع آخر وإنما المقصود هنا الجواب عن قولهم: إن محمدا - صلى الله عليه وسلم - ثبت ما معهم وأنه نفى عن إنجيلهم وكتبهم التي بأيديهم التهم والتبديل لها والتغيير لما فيها بتصديقه إياها. وقد تبين أن محمدا - صلى الله عليه وس",
+  "gloss_en": "\"This is like the Amana, which is the basis of their religion, and their prayer toward the east, the permitting of pork, the abandonment of circumcision, the veneration of the cross and the use of images in churches, and other of their laws. These are not transmitted from the Messiah and are not mentioned in the Gospels they transmit from him. And they agree that the Amana, which they made the basis of their religion and foundation of their belief, has words not found in the Gospels, nor transmitted from the apostles. And they agree that those who composed it were the people of the first council, who were with Constantine, the one attended by the three hundred and eighteen, who opposed Arius (who made the Messiah a servant of God, as Muslims say) and composed this creed. That council was long after the Messiah.\"",
+  "what_it_says": "In his own voice: the creed, pork, the cross veneration and images are not in the Gospels; the creed's words are not in the Gospels; the council was long after Christ.",
+  "why_relevant": "Gives his claim about cross veneration and images (brief item 2) and about the creed (item 3).",
+  "stance": "own view",
+  "limits": "The list of practices and the claim that they are \"not from the Messiah\" are his judgement. Christians dispute the force of the Gospel-silence argument for later practices. The Arius description is his.",
+  "significance": 4,
+  "famous": false,
+  "attributed_to_christians": "Christians practise cross veneration, images in churches and the creed as their basis; he says none of these are in the Gospels.",
+  "christian_check": [
+   {
+    "source": "Athanasius, Ad Afros para. 1 (NPNF translation, as rendered by the fetch tool)",
+    "quote": "the sound Faith which Christ gave us, the Apostles preached, and the Fathers, who met at Nicaea",
+    "url": "https://www.newadvent.org/fathers/2819.htm"
+   },
+   {
+    "source": "Socrates Scholasticus HE I.17 (Helena's journey to Jerusalem, opening only checked; the cross-discovery text was not read)",
+    "quote": "(not verified verbatim in this session)",
+    "url": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_II/Socrates/Book_I/Chapter_17"
+   }
+  ],
+  "verdict_candidate": "partly faithful",
+  "verdict_reason": "Accurate that the creed's technical wording (homoousios, \"of one substance\") is not in the Gospels and that Nicaea (325) came centuries after Christ. But churches claim the creed summarises Scripture and apostolic teaching, and they dispute that cross veneration and images are later innovations (early evidence for the sign of the cross exists from memory, not verified here). So the claim is partly faithful."
+ },
+ {
+  "id": "T10-15",
+  "work": "JawabSahih",
+  "theme": [
+   "C"
+  ],
+  "ar": "والذين لا يقولون بهذا - كثير منهم يطلب منها كل ما يطلب من الله حتى يقول لها: اغفري لي وارحميني، وغير ذلك، بناء على أنها تشفع في ذلك إلى ابنها. فتارة يقولون: يا والدة الإله، اشفعي لنا إلى الإله، وتارة يسألونها الحوائج التي تطلب من الله ولا يذكرون شفاعة، وآخرون يعبدونها كما يعبدون المسيح",
+  "ref": "JawabSahih, vol. 4, p. 254-255; within section [متابعة حكاية كلام ابن البطريق عن النصارى ومناقشته في ذلك] (heading at p. 229)",
+  "vol_page": "vol. 4, p. 254–255",
+  "edition_note": "Dar al-Asima (Riyadh), 2nd ed. 1419/1999, eds. Ali ibn Hasan, Abd al-Aziz ibn Ibrahim, Hamdan ibn Muhammad; Shamela 170 via OpenITI. Vol/page from OpenITI PageV markers of this edition.",
+  "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.JawabSahih/0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "offset_start": 1181304,
+  "offset_end": 1181621,
+  "ar_before": " انظر أنى يؤفكون} [المائدة: 72 - 75] . فذكر سبحانه وتعالى: أنهما كانا يأكلان الطعام ; لأن ذلك من أظهر الأدلة على أنهما مخلوقان مربوبان، إذ الخالق أحد صمد لا يأكل ولا يشرب. وذكر مريم مع المسيح ; لأن من النصارى من اتخذها إلها آخر فعبدها كما عبد المسيح.",
+  "ar_after": ". وقد ذكر سعيد بن البطريق هذا عنهم، لما ذكر اجتماعهم عند \" قسطنطين \" ب \" نيقية \". قال: وكانوا مختلفي الآراء مختلفي الأديان. فمنهم من يقول: المسيح وأمه إلهان من دون الله، وهم المريمانيون ويسمون المريمانية، كذلك قال ابن حزم، وقد قال تعالى: {وإذ قال الل",
+  "gloss_en": "\"Those who do not say this: many of them ask her for everything they ask of God, saying to her: forgive me and have mercy on me, and so on, on the basis that she intercedes with her son. Sometimes they say: O Mother of God, intercede for us with God; sometimes they ask her for needs they ask of God without mentioning intercession; and others worship her as they worship the Messiah.\"",
+  "what_it_says": "Describes three levels of Marian devotion among Christians: asking her for what is asked of God, praying \"O Mother of God, intercede for us\", and worshipping her as the Messiah is worshipped (by some).",
+  "why_relevant": "Brief item 2 (Mary). It shows that he distinguishes levels, which is fair, and it contrasts with the more absolute statement at T10-16.",
+  "stance": "own view",
+  "limits": "\"Others worship her as they worship the Messiah\" is followed by an attribution to Sa'id ibn al-Batriq and Ibn Hazm (the Collyridian claim), so it is a report. \"Many ask her\" is his observation with no survey. Context: the Qur'an 5:116 argument.",
+  "significance": 4,
+  "famous": false,
+  "attributed_to_christians": "Some Christians worship Mary as they worship Christ; many ask her, saying \"O Mother of God, intercede for us\", or for forgiveness, as they would ask God.",
+  "christian_check": [
+   {
+    "source": "Hail Mary (Catholic prayer; the phrase is quoted by EWTN, CCC 2677 not verified directly)",
+    "quote": "Holy Mary, Mother of God, pray for us sinners",
+    "url": "https://www.ewtn.com/catholicism/answers/devotions-14223"
+   },
+   {
+    "source": "Epiphanius, Panarion 79 (Against the Collyridians), condemns worship of Mary (cited via secondary sources; text not fetched)",
+    "quote": "(not verified verbatim)",
+    "url": null
+   }
+  ],
+  "verdict_candidate": "correct against some Christians but not all",
+  "verdict_reason": "Asking Mary to pray for us is standard Catholic and Orthodox practice (Hail Mary), and \"some worship her\" fits the small Collyridian group condemned by Epiphanius. But mainstream doctrine separates veneration and intercession from the worship owed to God, so \"they worship Mary\" is not the mainstream position."
+ },
+ {
+  "id": "T10-16",
+  "work": "JawabSahih",
+  "theme": [
+   "C"
+  ],
+  "ar": "فإنهم يعبدون مريم ويدعونها بما يدعون به الله - سبحانه - والمسيح، ويجعلونها إلها كما يجعلون المسيح إلها، فيقولون: يا والدة الإله، اغفري لنا وارحمينا، ونحو ذلك، فيطلبون منها ما يطلبونه من الله",
+  "ref": "JawabSahih, vol. 4, p. 486; chapter [الجواب عن شبهة النصارى في إقرار المسلمين في الصفات وأنه لا يقتضي التشبيه والتجسيم] (heading at p. 402)",
+  "vol_page": "vol. 4, p. 486",
+  "edition_note": "Dar al-Asima (Riyadh), 2nd ed. 1419/1999, eds. Ali ibn Hasan, Abd al-Aziz ibn Ibrahim, Hamdan ibn Muhammad; Shamela 170 via OpenITI. Vol/page from OpenITI PageV markers of this edition.",
+  "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.JawabSahih/0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "offset_start": 1390098,
+  "offset_end": 1390292,
+  "ar_before": " المسيح ابن الله - يلزمهم أن تكون مريم صاحبة الله وامرأته، كما قال ذلك من يغلو منهم، ومنهم من يجعل مريم إلها مع الله، كما جعل المسيح إلها. فإن قالوا بذلك، جعلوا لله صاحبة وولدا، وجعلوا المسيح ابن مريم وأمه إلهين من دون الله، كما فعل ذلك من فعله منهم.",
+  "ar_after": "- عز وجل -. ومنهم من يقول عن مريم: إنها صاحبة الله - سبحانه وتعالى -. وبيان لزوم ذلك أن المسيح - عندهم - إنسان تام وإله تام، ناسوت ولاهوت، فناسوته من مريم، ولاهوته الكلمة القديمة الأزلية، وهي الخالق عندهم. فالمسيح بين أصلين، ناسوت ولاهوت، فإذا كان ال",
+  "gloss_en": "\"For they worship Mary and call on her with what they call on God, may he be exalted, and the Messiah, and they make her God as they make the Messiah God, saying: O Mother of God, forgive us and have mercy on us, and similar, and they ask of her what they ask of God, the Mighty and Majestic.\"",
+  "what_it_says": "In his own voice: Christians worship Mary, call on her with what they call on God, and say to her \"O Mother of God, forgive us and have mercy on us\".",
+  "why_relevant": "The most sweeping claim about Mary in this slice; a direct test case for the straw-man question.",
+  "stance": "own view",
+  "limits": "Unsourced generalisation. \"Forgive us\" is not the wording of the Hail Mary, and the claim that they call on Mary \"with what they call on God\" overlaps with the latria/dulia distinction. No place or date is given.",
+  "significance": 4,
+  "famous": false,
+  "attributed_to_christians": "Christians worship Mary and ask her to forgive and have mercy on them, as they do God.",
+  "christian_check": [
+   {
+    "source": "Hail Mary (EWTN summary); the wording asks Mary to pray for us (\"pray for us sinners\"), not to forgive",
+    "quote": "Holy Mary, Mother of God, pray for us sinners",
+    "url": "https://www.ewtn.com/catholicism/answers/devotions-14223"
+   },
+   {
+    "source": "Epiphanius, Panarion 79 (Collyridians), secondary sources only",
+    "quote": "(not verified verbatim)",
+    "url": null
+   }
+  ],
+  "verdict_candidate": "straw man",
+  "verdict_reason": "As a claim about Christians in general, the statement is a straw man: mainstream prayers ask Mary for intercession, not forgiveness, and the church distinguishes worship (latria) owed to God from veneration of Mary. It describes a fringe practice (the Collyridians, condemned by Epiphanius), not the mainstream."
+ },
+ {
+  "id": "T10-17",
+  "work": "JawabSahih",
+  "theme": [
+   "C"
+  ],
+  "ar": "وقال السيد المسيح في الإنجيل المقدس للتلاميذ الأطهار: (اذهبوا إلى جميع العالم وعمدوهم باسم الأب والابن وروح القدس إله واحد، وعلموهم أن يحفظوا جميع ما أوصيتكم به",
+  "ref": "JawabSahih, vol. 3, p. 236; chapter [فصل: رد دعواهم أن الله قد سمى نفسه أبا وابنا وروح قدس] (heading at p. 235)",
+  "vol_page": "vol. 3, p. 236",
+  "edition_note": "Dar al-Asima (Riyadh), 2nd ed. 1419/1999, eds. Ali ibn Hasan, Abd al-Aziz ibn Ibrahim, Hamdan ibn Muhammad; Shamela 170 via OpenITI. Vol/page from OpenITI PageV markers of this edition.",
+  "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.JawabSahih/0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "offset_start": 765183,
+  "offset_end": 765347,
+  "ar_before": "وقوله على لسان داود النبي: روحك القدس لا تنزع مني، وأيضا على لسانه بكلمة الله تشددت السماوات والأرض وبروح فاه جميع قواتهن. وقوله: على لسان أشعيا: (ييبس القتاد ويجف العشب، وكلمة الله باقية إلى الأبد، وعلى لسان أيوب الصديق، روح الله خلقني وهو يعلمني) .",
+  "ar_after": ") ، وقد قال في هذا الكتاب: {ولقد سبقت كلمتنا لعبادنا المرسلين} [الصافات: 171] . وقال أيضا: {ياعيسى ابن مريم اذكر نعمتي عليك وعلى والدتك إذ أيدتك بروح القدس} [المائدة: 110] . وقال أيضا: {وكلم الله موسى تكليما} [النساء: 164] وقال في سورة التحريم: {ومري",
+  "gloss_en": "The Christians said: \"We did not name him with these names ourselves; God named his divinity with them.\" Then Moses in the Torah (\"Is not this the Father who made you...?\"), David (\"take not thy holy spirit from me\") and others are cited, and then: \"And the Messiah said in the holy Gospel to the pure disciples: (Go to all the world and baptise them in the name of the Father and the Son and the Holy Spirit, one God, and teach them to observe all that I commanded you).\" (The verse as he quotes it includes \"one God\", see limits.)",
+  "what_it_says": "A Christian argument: God named his divinity Father, Son and Holy Spirit in the Torah and Psalms, and the Messiah ordered baptism in the name of the three. Ibn Taymiyya replies in the following paragraphs.",
+  "why_relevant": "Brief item 4 (use of Gospel verses): the verse is copied as he quotes it, and his quotation contains a phrase absent from the Greek.",
+  "stance": "quotes Christian text",
+  "limits": "The verse as quoted includes \"إله واحد\" (\"one God\"), which is not in the Greek of Matthew 28:19 (checked on biblehub: \"εἰς τὸ ὄνομα τοῦ Πατρὸς καὶ τοῦ Υἱοῦ καὶ τοῦ Ἁγίου Πνεύματος\", with no word for \"one\" or \"God\"). This may be a gloss in the Arabic text he used or a copyist insertion. The argument is the Christians'; his reply follows.",
+  "significance": 4,
+  "famous": false,
+  "attributed_to_christians": "Christians say God named himself Father, Son and Holy Spirit in scripture, and the Messiah commanded baptism in the name of the three.",
+  "christian_check": [
+   {
+    "source": "Matthew 28:19 (KJV; Greek checked on biblehub)",
+    "quote": "baptizing them in the name of the Father, and of the Son, and of the Holy Ghost",
+    "url": "https://biblehub.com/matthew/28-19.htm"
+   },
+   {
+    "source": "Niceno-Constantinopolitan Creed (381), English, earlychurchtexts (Holy Spirit clause: \"who with the Father and the Son is together worshipped and together glorified\")",
+    "quote": "Who with the Father and the Son is together worshipped and together glorified",
+    "url": "https://earlychurchtexts.com/public/nicene_creed.htm"
+   }
+  ],
+  "verdict_candidate": "partly faithful",
+  "verdict_reason": "The Christian argument is reported accurately: the baptismal formula names the three, which is the basis of the Trinitarian reading of Matthew 28:19. But the verse as quoted adds \"one God\" that is not in the Greek, so the quotation is not exact, though the argument is not a straw man."
+ },
+ {
+  "id": "T10-20",
+  "work": "JawabSahih",
+  "theme": [
+   "C"
+  ],
+  "ar": "فأما تحريف معاني الكتب بالتفسير والتأويل وتبديل أحكامها فجميع المسلمين واليهود والنصارى يشهدون عليهم بتحريفها وتبديلها ; كما يشهدون هم والمسلمون على اليهود بتحريف كثير من معاني التوراة وتبديل أحكامها وإن كانوا هم واليهود يقولون إن التوراة لم تحرف ألفاظها",
+  "ref": "JawabSahih, vol. 2, p. 379-380; within chapter [رفض دعواهم أن القرآن صدق كتبهم التي بين أيديهم] (heading at p. 367)",
+  "vol_page": "vol. 2, p. 379–380",
+  "edition_note": "Dar al-Asima (Riyadh), 2nd ed. 1419/1999, eds. Ali ibn Hasan, Abd al-Aziz ibn Ibrahim, Hamdan ibn Muhammad; Shamela 170 via OpenITI. Vol/page from OpenITI PageV markers of this edition.",
+  "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.JawabSahih/0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "offset_start": 534808,
+  "offset_end": 535082,
+  "ar_before": " خالف شرعه أو ما ابتدعوه مما لم يأت به الأنبياء - عليهم السلام - قبله فهذا باطل. وإن أرادوا بذلك أنه صدق ألفاظ الكتب التي بأيدينا أي التوراة والإنجيل فهذا مما يسلمه لهم بعض المسلمين وينازعهم فيه أكثر المسلمين وإن كان أكثر ذلك مما يسلمه أكثر المسلمين.",
+  "ar_after": ". وحينئذ فلا ينفعهم بقاء حروف الكتب عندهم مع تحريف معانيها إلا ; كما ينفع اليهود بقاء حروف التوراة والنبوات عندهم مع تحريف معانيها بل جميع النبوات التي يقرون بها هي عند اليهود، وهم مع اليهود ينفون عنها التهم والتبديل لألفاظها مع أن اليهود عندهم من أع",
+  "gloss_en": "\"As for the distortion of the meanings of the books through interpretation and exegesis, and the change of their rulings: all Muslims, Jews and Christians testify against them of distorting and changing them, just as they and the Muslims testify against the Jews for distorting much of the meaning of the Torah and changing its rulings; even though they and the Jews say the Torah's words were not distorted.\"",
+  "what_it_says": "In his own voice: all parties agree that the meanings and rulings of the books have been distorted (tahrif al-ma'na and tabdil al-ahkam). The wording claim is disputed, and his remark on it is ambiguous.",
+  "why_relevant": "Answers the brief's question on tahrif (meaning versus wording): he holds the meaning-distortion firmly, and the wording claim is not settled here.",
+  "stance": "own view",
+  "limits": "The sentence after the quotation (\"وإن أرادوا بذلك أنه صدق ألفاظ الكتب ... يسلمه لهم بعض المسلمين وينازعهم فيه أكثر المسلمين وإن كان أكثر ذلك مما يسلمه أكثر المسلمين\") is ambiguous. Elsewhere he holds that some copies' wording changed (vol. 2 p. 409 and vol. 3 p. 48, not extracted here).",
+  "significance": 5,
+  "famous": false,
+  "attributed_to_christians": "Christians (like Jews) claim their books' wording was not corrupted; he says all sides agree the meaning has been distorted.",
+  "christian_check": [
+   {
+    "source": "Mainstream Christian textual scholarship (general knowledge; not fetched in this session)",
+    "quote": "(not verified verbatim) Variant readings such as Mark 16:9-20 and John 7:53-8:11 are absent from the earliest manuscripts.",
+    "url": null
+   }
+  ],
+  "verdict_candidate": "partly faithful",
+  "verdict_reason": "He is accurate that Christians generally affirm the textual reliability of their Scriptures while disputing the interpretations he attributes to them. Mainstream textual scholarship acknowledges variants, which supports part of his concern, but his claim that all sides agree on meaning-distortion is his own summary."
+ }
+]

@@ -1,0 +1,62 @@
+[
+ {
+  "id": "MajmucFatawa",
+  "title_ar": "مجموع الفتاوى",
+  "title_es_or_en": "Majmu al-Fatawa (Collected Fatwas)",
+  "edition_note": "Shamela 0007289 text (OpenITI). Printed edition: Majmac al-Malik Fahd, ed. Abd al-Rahman ibn Muhammad ibn Qasim, 1416/1995 (per #META# header). Page markers PageV{vol}P{page} give vol. and page of that edition.",
+  "openiti_versionUri": "0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.MajmucFatawa/0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+  "genre": "fatwa collection (multi-topic, 37 vols)",
+  "notes": "Mostly Ibn Taymiyya's own fatwas (answers introduced by \"وسئل ... فأجاب\"); some answers are questions by others, and some pages contain quotations of other scholars (e.g. Khattabi, al-Shafii). Checked vols 4, 11, 13, 17, 18 for tawatur."
+ },
+ {
+  "id": "JawabSahih",
+  "title_ar": "الجواب الصحيح لمن بدل دين المسيح",
+  "title_es_or_en": "Al-Jawab al-Sahih li-man baddala din al-Masih (The Correct Answer to Those Who Changed the Religion of the Messiah)",
+  "edition_note": "Shamela 0000170 text. Printed edition: 2nd ed., Dar al-Asima (Saudi Arabia), 1419/1999, eds. Ali ibn Hasan, Abd al-Aziz ibn Ibrahim, Hamdan ibn Muhammad (per #META# header). Page markers give vol./page of that edition.",
+  "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.JawabSahih/0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "genre": "polemical refutation of Christians (and Jews) - Trinity, scripture, law",
+  "notes": "Long refutation. Quotes Christian and Jewish texts and positions at length (the Christian quotations were not checked in this slice). Passages marked \"if they say ... we say\" are hypothetical objections, not his assertions about Christian belief. Dating claims inside (e.g. Helena discovering the cross \"after two hundred years\") are his and approximate."
+ },
+ {
+  "id": "MinhajSunna",
+  "title_ar": "منهاج السنة النبوية",
+  "title_es_or_en": "Minhaj al-Sunna al-Nabawiyya (The Path of the Prophetic Sunna)",
+  "edition_note": "Shamela Zaydiyya text (OpenITI 0728IbnTaymiyya.MinhajSunna.Zaydiyya0000108-ara1, longest version). Print edition NOT named in header; page markers PageV follow Shamela pagination; the text itself also shows printed-page markers like \"(1/56)\".",
+  "openiti_versionUri": "0728IbnTaymiyya.MinhajSunna.Zaydiyya0000108-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.MinhajSunna/0728IbnTaymiyya.MinhajSunna.Zaydiyya0000108-ara1",
+  "genre": "polemical treatise against Shia (Imami) and Qadariyya",
+  "notes": "Polemic against the Shia; some passages address narrators in Shia traditions. Page numbering uncertain (edition not named)."
+ },
+ {
+  "id": "Nubuwwat",
+  "title_ar": "النبوات",
+  "title_es_or_en": "Al-Nubuwwat (Prophecy)",
+  "edition_note": "Shamela 0011817 text. Printed edition: ed. Abd al-Aziz ibn Salih al-Tuwayyan, Adwa al-Salaf, Riyadh, 1420/2000 (per #META# header). Vol. 2 marked \"المجلد الثاني\" in text; PageV markers give vol./page.",
+  "openiti_versionUri": "0728IbnTaymiyya.Nubuwwat.Shamela0011817-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.Nubuwwat/0728IbnTaymiyya.Nubuwwat.Shamela0011817-ara1",
+  "genre": "theological treatise on prophecy",
+  "notes": "Own voice throughout. Uses tawatur as one ground of knowledge of prophetic signs."
+ },
+ {
+  "id": "DarTacarud",
+  "title_ar": "درء تعارض العقل والنقل",
+  "title_es_or_en": "Dar Tacarud al-Aql wa-l-Naql (Refutation of the Contradiction between Reason and Transmission)",
+  "edition_note": "Shamela 0021506 / ShamAY0033865 text (OpenITI). Printed edition: Dar al-Kutub al-Ilmiyya, Beirut, 1417/1997, ed. Abd al-Latif Abd al-Rahman (per #META# header, 10 vols). Page markers give vol./page.",
+  "openiti_versionUri": "0728IbnTaymiyya.DarTacarud.ShamAY0033865-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.DarTacarud/0728IbnTaymiyya.DarTacarud.ShamAY0033865-ara1",
+  "genre": "theological-epistemological treatise",
+  "notes": "Own voice in general; contains extended quotations of other scholars (e.g. Khattabi, Shi ar al-Din quoted at vol. 7 p. 314) which are not his own claims."
+ },
+ {
+  "id": "MusawwadaFiUsulFiqh",
+  "title_ar": "المسودة في أصول الفقه",
+  "title_es_or_en": "Al-Musawwada fi Usul al-Fiqh (family compilation)",
+  "edition_note": "Shamela 0011814 text. Printed edition: ed. Muhammad Muhyi al-Din Abd al-Hamid, Dar al-Kitab al-Arabi (per #META# header). Not used for passages.",
+  "openiti_versionUri": "0728IbnTaymiyya.MusawwadaFiUsulFiqh.Shamela0011814-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.MusawwadaFiUsulFiqh/0728IbnTaymiyya.MusawwadaFiUsulFiqh.Shamela0011814-ara1",
+  "genre": "usul al-fiqh compilation",
+  "notes": "Authorship layered: begun by Majd al-Din ibn Taymiyya (d. 652), additions by Abd al-Halim (d. 682) and Ahmad ibn Taymiyya (d. 728). Marginal attributions \"والد شيخنا\" and \"شيخنا\" are NOT reliably Ibn Taymiyya alone. Its tawatur section (vol. 1 pp. 233-236) states \"العلم الحاصل بالتواتر ضروري\" and \"لا يعتبر في التواتر عدد محصور\" but should be attributed with caution (family/ compilers). Not used for a passage."
+ }
+]

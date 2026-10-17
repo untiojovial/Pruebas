@@ -1,0 +1,557 @@
+[
+  {
+    "id": "T8-C01",
+    "work": "JawabSahih",
+    "theme": [
+      "C"
+    ],
+    "ar": "فالذات عندنا الأب الذي هو ابتداء الاثنين، والنطق الابن الذي هو مولود منه لولادة النطق من العقل، والحياة روح القدس، وهذه أسماء لم نسمه نحن بها",
+    "ref": {
+      "work": "Al-Jawab al-Sahih (Shamela 170)",
+      "volume": 3,
+      "page": 182,
+      "chapter": "[فصل: بيان أن تفسيرهم للتثليث تفسير باطل] (heading just before; the quoted letter starts at the 'قال الحاكي عنهم' sentence)"
+    },
+    "vol_page": "vol. 3, p. 182",
+    "page_end": [
+      3,
+      182
+    ],
+    "edition_note": "Shamela 0000170 (OpenITI version of the Shamela edition). Printed edition per #META#: al-Jawab al-Sahih li-man baddala din al-Masih, 6 vols, ed. Ali ibn Hasan, Abd al-Aziz ibn Ibrahim, Hamdan ibn Muhammad, 2nd ed. 1419/1999, Dar al-Asima (Saudi Arabia). Page numbers = OpenITI PageVvvPppp markers, taken as volume/page of that printed edition; NOT checked against a scanned page image.",
+    "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.JawabSahih/0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "offset_start": 718199,
+    "offset_end": 718344,
+    "ar_before": "اه بأجملهما، فقلنا: هو شيء حي، لننفي الموت عنه، ورأينا الحي ينقسم قسمين: حي ناطق، وحي غير ناطق، فوصفناه بأفضلهما، فقلنا: هو شيء حي ناطق لننفي الجهل عنه. والثلاثة أسماء وهي إله واحد، مسمى واحد، ورب واحد، خالق واحد شيء حي ناطق، أي الذات والنطق والحياة،",
+    "ar_after": ". والجواب من وجوه: أحدها: قولهم: أما قولنا أب، وابن، وروح قدس، فلو علموا قولنا هذا إنما نريد به تصحيح القول بأن الله حي ناطق لما أنكروا ذلك علينا، فيقال: ليس الأمر كما ادعوه فإن النصارى يقولون: إن هذا القول تلقوه عن الإنجيل، وإن في الإنجيل عن المسيح ",
+    "gloss_en": "So for us the essence (dhat) is the Father, who is the beginning of the two; the speech (nutq) is the Son, who is begotten from it as speech is born from reason; and life is the Holy Spirit. These are names we did not give ourselves. [gloss: mine, not checked against a published translation]",
+    "what_it_says": "Within the passage Ibn Taymiyya quotes (as the 'reporter's' words), the three names are glossed as essence = Father, speech = Son, life = Holy Spirit; the quoted author says these names are not theirs but received from scripture.",
+    "why_relevant": "The clearest single formulation of the 'attributes' reading, in the words of the Christian author whose letter IT quotes at length.",
+    "stance": "quotes Christian text",
+    "limits": "Stance: a quotation. The passage opens with the quoted interlocutor's own sentence ('qala al-hakī 'anhum'; 'the reporter said of them'); IT attributes the letter in general to Paul of Antioch (vol. 1, p. 99). Confirm the exact extent of the quoted letter (where it begins and ends) before quoting it as Paul's words. This is one author's gloss, not the 'Christians' generally (see C02). Only 'the names' are quoted here; the 'attributes' label itself is not in this sentence.",
+    "significance": 3,
+    "famous": false,
+    "attributed_to_christians": "A Christian author quoted by IT (identified by IT as Paul of Antioch's letter) explains the Father/Son/Holy Spirit as essence, speech and life, and says these names come from scripture.",
+    "christian_check": null,
+    "verdict_candidate": "partly faithful",
+    "verdict_reason": "Accurate as the words of one quoted author, as IT presents them, but it presents one author's gloss as the Christian view; IT's own list of variant readings (C02) shows the terms were glossed differently."
+  },
+  {
+    "id": "T8-C02",
+    "work": "JawabSahih",
+    "theme": [
+      "C"
+    ],
+    "ar": "فكثير منهم يقول الأب هو الوجود، والابن هو الكلمة، وروح القدس هو الحياة. ومنهم من يقول: بل الأب هو الوجود، والابن هو الكلمة، وروح القدس هو القدرة",
+    "ref": {
+      "work": "Al-Jawab al-Sahih (Shamela 170)",
+      "volume": 3,
+      "page": 189,
+      "chapter": "[within the 2nd objection, 'الوجه الثاني'; heading not checked; the 'وجه' paragraph starts at vol. 3 p. 188]"
+    },
+    "vol_page": "vol. 3, p. 189",
+    "page_end": [
+      3,
+      189
+    ],
+    "edition_note": "Shamela 0000170 (OpenITI version of the Shamela edition). Printed edition per #META#: al-Jawab al-Sahih li-man baddala din al-Masih, 6 vols, ed. Ali ibn Hasan, Abd al-Aziz ibn Ibrahim, Hamdan ibn Muhammad, 2nd ed. 1419/1999, Dar al-Asima (Saudi Arabia). Page numbers = OpenITI PageVvvPppp markers, taken as volume/page of that printed edition; NOT checked against a scanned page image.",
+    "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.JawabSahih/0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "offset_start": 723898,
+    "offset_end": 724048,
+    "ar_before": "ك بالأدلة الشرعية والسمعية والعقلية، والتعبير عنه بالعبارات البينة كما يقوله المسلمون وغيرهم بدون قولنا أب وابن وروح قدس. ومما يبين ذلك الوجه الثاني: وهو أن النصارى - المقرون بأن هذه العبارة في الإنجيل المأخوذ عن المسيح - مختلفون في تفسير هذا الكلام،",
+    "ar_after": ". وبعضهم يقول: إن الأقانيم الثلاثة: جواد حكيم قادر، فيجعل الأب هو الجواد، والابن هو الحكيم، وروح القدس هو القادر، ويزعمون أن جميع الصفات تدخل تحت هذه الثلاثة، ويقولون: إنا استدللنا على وجوده بإخراجه الأشياء من العدم إلى الوجود، وذلك من جوده. وقد رأيت",
+    "gloss_en": "For many of them say: the Father is existence (al-wujud), the Son is the Word (al-kalima), and the Holy Spirit is life (al-hayat). Others say: rather, the Father is existence, the Son is the Word, and the Holy Spirit is power (al-qudra). [gloss: mine, not checked against a published translation]",
+    "what_it_says": "IT's own account: the Christians do not agree on the glosses of the three names; the most common are existence, Word and life, with variants (power; 'generous, wise, powerful'; 'living, knowing'); he says he has seen these in Christian books.",
+    "why_relevant": "The core of the question: which attributes Christians map onto Father, Son and Spirit, and that IT himself treats this as a dispute among Christians.",
+    "stance": "own view",
+    "limits": "IT says 'many of them' and 'others' but names no author or book; his claim 'I saw this in Christian books' is not sourced here. Passage is his own summary, so it is attribution by IT, not a quotation. The distinction between 'many' and 'all' matters. The 'existence/Word/life' triple is what Paul's letter (C01) also uses.",
+    "significance": 4,
+    "famous": false,
+    "attributed_to_christians": "Many Christians gloss Father = existence (wujud), Son = Word (kalima), Holy Spirit = life (hayat); others gloss the Spirit as power, or use good/wise/powerful; no sources are named.",
+    "christian_check": null,
+    "verdict_candidate": "partly faithful",
+    "verdict_reason": "The variant glosses match a known Christian explanatory pattern (and Paul's letter), but IT names no author or source, so breadth ('many') cannot be confirmed from this passage alone; T9/T10 must find the Christian Arabic sources."
+  },
+  {
+    "id": "T8-C04",
+    "work": "JawabSahih",
+    "theme": [
+      "C"
+    ],
+    "ar": "ومن أنكر الحلول والاتحاد منهم كالأريوسية يقول: إن المسيح - عليه السلام - عبد مرسل، كسائر الرسل - صلوات الله عليهم وسلامه -، فوافقهم على لفظ: الأب، والابن، وروح القدس، ولا يفسر ذلك بما يقوله منازعوه من الحلول والاتحاد. كما أن النسطورية يوافقونهم أيضا على هذا اللفظ، وينازعونهم في الاتحاد الذي يقوله اليعقوبية والملكية",
+    "ref": {
+      "work": "Al-Jawab al-Sahih (Shamela 170)",
+      "volume": 3,
+      "page": 189,
+      "chapter": "[within the 2nd objection, 'الوجه الثاني'; heading not checked]"
+    },
+    "vol_page": "vol. 3, p. 189–190",
+    "page_end": [
+      3,
+      190
+    ],
+    "edition_note": "Shamela 0000170 (OpenITI version of the Shamela edition). Printed edition per #META#: al-Jawab al-Sahih li-man baddala din al-Masih, 6 vols, ed. Ali ibn Hasan, Abd al-Aziz ibn Ibrahim, Hamdan ibn Muhammad, 2nd ed. 1419/1999, Dar al-Asima (Saudi Arabia). Page numbers = OpenITI PageVvvPppp markers, taken as volume/page of that printed edition; NOT checked against a scanned page image.",
+    "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.JawabSahih/0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "offset_start": 724608,
+    "offset_end": 724948,
+    "ar_before": "هم من يعبر عن الكلمة بالعلم، فيقولون: موجود حي عالم، أو موجود عالم قادر، كما يقول بعضهم: ناطق، ومنهم من يقول موجود حي حكيم، ومنهم من يقول قائم بنفسه حي حكيم، وهم متفقون على أن المتحد بالمسيح والحال فيه هو أقنوم الكلمة، وهو الذي يسمونه الابن دون الأب،",
+    "ar_after": ": فإذا كانوا متفقين على اللفظ متنازعين في معناه، علم أنهم صدقوا أولا باللفظ لأجل اعتقادهم مجيء الشرع به، ثم تنازعوا بعد ذلك في تفسير الكتاب، كما يختلفون هم وسائر أهل الملل في تفسير بعض الكلام الذي يعتقدون أنه منقول عن الأنبياء - عليهم السلام -، وعلم ",
+    "gloss_en": "And whoever among them denies incarnation and union, like the Arians, says that the Messiah, peace be upon him, is a sent servant like the other messengers. He agrees with them on the wording Father, Son and Holy Spirit, but does not interpret it by the incarnation and union that his opponents assert. Likewise the Nestorians agree with them on this wording and dispute the union that the Jacobites and the Melkites say. [gloss: mine, not checked against a published translation]",
+    "what_it_says": "IT distinguishes sects by how each reads the same three-name formula: Arians (Christ is a servant-messenger, no union), Nestorians (accept the wording, dispute the 'union' of the Jacobites and Melkites).",
+    "why_relevant": "A sect-by-sect map that shows IT distinguishing Christian groups, which bears directly on whether he builds straw men.",
+    "stance": "own view",
+    "limits": "IT's labels are his own summary. The Arian and Nestorian positions are historical positions, but the compressed sentence about Nestorian 'union' may not match Nestorian Christology as they stated it. Check against a historical source (T9/T10). 'Melkites' and 'Jacobites' are IT's terms.",
+    "significance": 3,
+    "famous": false,
+    "attributed_to_christians": "Sect-by-sect: Arians deny incarnation; Nestorians accept the formula but dispute the union held by Jacobites and Melkites.",
+    "christian_check": null,
+    "verdict_candidate": "partly faithful",
+    "verdict_reason": "The basic contrast (Arius: Christ a created servant; Nestorians vs. Miaphysites/Chalcedonians on union) is historically real, but IT compresses it into one sentence; the exact content of the 'union' dispute needs checking."
+  },
+  {
+    "id": "T8-C05",
+    "work": "JawabSahih",
+    "theme": [
+      "C"
+    ],
+    "ar": "ولهذا يضطربون في تفسير الأقانيم تارة يقولون: أشخاص، وتارة خواص وتارة صفات وتارة جواهر وتارة يجعلون الأقنوم اسما للذات والصفة معا، وهذا تفسير حذاقهم",
+    "ref": {
+      "work": "Al-Jawab al-Sahih (Shamela 170)",
+      "volume": 3,
+      "page": 199,
+      "chapter": "[within the 8th objection, 'الوجه الثامن'; heading not checked]"
+    },
+    "vol_page": "vol. 3, p. 199",
+    "page_end": [
+      3,
+      199
+    ],
+    "edition_note": "Shamela 0000170 (OpenITI version of the Shamela edition). Printed edition per #META#: al-Jawab al-Sahih li-man baddala din al-Masih, 6 vols, ed. Ali ibn Hasan, Abd al-Aziz ibn Ibrahim, Hamdan ibn Muhammad, 2nd ed. 1419/1999, Dar al-Asima (Saudi Arabia). Page numbers = OpenITI PageVvvPppp markers, taken as volume/page of that printed edition; NOT checked against a scanned page image.",
+    "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.JawabSahih/0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "offset_start": 733867,
+    "offset_end": 734018,
+    "ar_before": "ي موضع آخر. الوجه الثامن: أن قولهم بالأقانيم مع بطلانه في العقل والشرع لم ينطق به عندهم كتاب، ولم يوجد هذا اللفظ في شيء من كتب الأنبياء التي بأيديهم ولا في كلام الحواريين، بل هي لفظة ابتدعوها، ويقال: إنها رومية، وقد قيل: الأقنوم في لغتهم معناه الأصل،",
+    "ar_after": ". الوجه التاسع: قولهم في المسيح - عليه السلام - إنه خالق، قول مع بطلانه في الشرع والعقل، قول لم ينطق به شيء من النبوات التي عندهم، ولكن يستدلون على ذلك بما لا يدل عليه كما سنبينه إن شاء الله - تعالى -. الوجه العاشر: قولهم في تجسد اللاهوت - أيضا - هو ",
+    "gloss_en": "And for this they vary in explaining the aqanim: sometimes they say 'persons' (ashkhas), sometimes 'properties' (khawass), sometimes 'attributes' (sifat), sometimes 'substances' (jawahir), and sometimes they make aqnum the name of the essence and the attribute together. This is the explanation of their experts (hudhdhaquhum). [gloss: mine, not checked against a published translation]",
+    "what_it_says": "IT says the Christian term 'aqnum' (hypostasis) is not in their scriptures, and that its glosses vary: persons, properties, attributes, substances, or essence-plus-attribute. He calls the last 'the explanation of their experts'.",
+    "why_relevant": "Shows IT's own statement that 'aqnum' is contested, and that 'attributes' is one gloss among several; this is the key text for 'do they mean attributes?'.",
+    "stance": "own view",
+    "limits": "IT asserts the term is absent from scripture and says it means 'origin' in Greek/Rumi (in his own etymology). The list of glosses is IT's summary, unsourced. Read with C23 and C09 (attribute readings).",
+    "significance": 4,
+    "famous": false,
+    "attributed_to_christians": "Christians gloss aqnum (hypostasis) variously as persons, properties, attributes, substances, or essence plus attribute; the last is 'the experts' gloss'.",
+    "christian_check": null,
+    "verdict_candidate": "partly faithful",
+    "verdict_reason": "'Person' (ashkhas) is the standard gloss and appears in his list, so the variation is real; the attribution of 'substances' and 'attributes' to Christians is unsourced here."
+  },
+  {
+    "id": "T8-C23",
+    "work": "JawabSahih",
+    "theme": [
+      "C"
+    ],
+    "ar": "وأما قولهم: هذه صفات جوهرية تجري مجرى أسماء. فإن أرادوا بقولهم: جوهرية أن كل صفة جوهر، فهذا كلام ظاهر الفساد فإن الصفة القائمة بغيرها لا تكون جوهرا قائما بنفسه، ومن ظن أن حرارة النار القائمة بها جوهر قائم بنفسه كالنار، فهو إما مصاب في عقله وإما مسفسط معاند. والأول: يستحق علاج المجانين. والثاني: يستحق العقوبة التي تردعه عن العناد. ثم إن جاز أن تكون الصفة جوهرا كانت القدرة أيضا جوهرا. وإن أرادوا بقولهم: جوهرية أنها صفات ذاتية، وغيرها صفات فعلية كالخالق والرازق، فمعلوم أن صفاته الذاتية منها القدرة وغيرها فلم تنحصر في هذه",
+    "ref": {
+      "work": "Al-Jawab al-Sahih (Shamela 170)",
+      "volume": 3,
+      "page": 279,
+      "chapter": "[فصل: مناقشتهم في دعواهم أن الأقانيم صفات جوهرية تجري مجرى الأسماء]"
+    },
+    "vol_page": "vol. 3, p. 279",
+    "page_end": [
+      3,
+      279
+    ],
+    "edition_note": "Shamela 0000170 (OpenITI version of the Shamela edition). Printed edition per #META#: al-Jawab al-Sahih li-man baddala din al-Masih, 6 vols, ed. Ali ibn Hasan, Abd al-Aziz ibn Ibrahim, Hamdan ibn Muhammad, 2nd ed. 1419/1999, Dar al-Asima (Saudi Arabia). Page numbers = OpenITI PageVvvPppp markers, taken as volume/page of that printed edition; NOT checked against a scanned page image.",
+    "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.JawabSahih/0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "offset_start": 796640,
+    "offset_end": 797181,
+    "ar_before": "دئ من شيء من المخلوقات، ومع هذا فلم يقل أحد من المسلمين: إن كلام الله يكون إلها ولا ربا. وكذلك حياته لم يقل أحد منهم: إن حياته تكون إلها ولا ربا، ولا أنه مساو للرب تعالى في الجوهر. | [فصل: مناقشتهم في دعواهم أن الأقانيم صفات جوهرية تجري مجرى الأسماء]",
+    "ar_after": ". وأيضا فالكلام، وإن كان قائما بذاته، فقيل: هو متعلق بمشيئته وقدرته، وهو قول السلف والأكثرين، وقيل: ليس كذلك. والمتكلم قيل: هو من فعل الكلام ولو كان منفصلا عنه، وقيل: هو من قام به الكلام، وإن لم يكن بمشيئته وقدرته، وقيل: المتكلم من قام به الكلام بمشي",
+    "gloss_en": "As for their saying 'these are essential attributes that function like names': if by 'essential' they mean that every attribute is a substance, this is plainly false. Whoever thinks that the heat of fire, which subsists in the fire, is a self-subsisting substance like the fire is either deranged or an obstinate sophist (the first needs the treatment of the insane, the second deserves punishment to stop his obstinacy). If an attribute could be a substance, power would be one too. If they mean 'essential' in the sense of God's essential attributes, as opposed to functional ones such as Creator and Provider, then God's essential attributes include power and others and are not limited to the three named. [gloss: mine, not checked against a published translation]",
+    "what_it_says": "IT quotes the Christian claim that the three are 'essential attributes' (sifat jawhariyya) functioning like names, and answers in two steps: an attribute cannot be a substance (otherwise power would be one too), and God's essential attributes are not limited to the three named (power is among them).",
+    "why_relevant": "The exact phrase 'essential attributes' in the Christian claim, followed by IT's objection that the three-attribute list is arbitrary (question 2: 'if the attributes are the persons there would be more').",
+    "stance": "own view",
+    "limits": "The claim 'they say the aqanim are essential attributes' is introduced as 'their claim' (da'wahum) but without naming the authors. The section is in a long digression on Greek/Avicennan 'essential vs. accidental' distinctions (vol. 3 p. 279-291), so the passage must be read with the heading. The passage is one contiguous extract (523 chars). It contains insulting language about those who hold the view ('deranged', 'obstinate sophist'); do not quote that part without context.",
+    "significance": 3,
+    "famous": false,
+    "attributed_to_christians": "The Christians claim the three aqanim are 'essential attributes' that function as names.",
+    "christian_check": null,
+    "verdict_candidate": "partly faithful",
+    "verdict_reason": "Presents the claim as theirs and rebuts a reading that may not be the one most Christians hold; the rebuttal (attributes are not substances) is valid against that reading only. Needs the Christian source for the phrase 'essential attributes'."
+  },
+  {
+    "id": "T8-C08",
+    "work": "JawabSahih",
+    "theme": [
+      "C"
+    ],
+    "ar": "أن العلم أيضا صفة، والصفة لا تخلق ولا ترزق، والمسيح نفسه ليس هو صفة قائمة بغيرها باتفاق العقلاء، وأيضا فهو عندهم خالق السماوات والأرض، فامتنع أن يكون المتحد به صفة، فإن الإله المعبود هو الإله الحي العالم القادر، وليس هو نفس الحياة، ولا نفس العلم والكلام",
+    "ref": {
+      "work": "Al-Jawab al-Sahih (Shamela 170)",
+      "volume": 3,
+      "page": 225,
+      "chapter": "[within the 5th-6th objections on the Word and knowledge, 'الوجه السادس'; heading not checked]"
+    },
+    "vol_page": "vol. 3, p. 225",
+    "page_end": [
+      3,
+      225
+    ],
+    "edition_note": "Shamela 0000170 (OpenITI version of the Shamela edition). Printed edition per #META#: al-Jawab al-Sahih li-man baddala din al-Masih, 6 vols, ed. Ali ibn Hasan, Abd al-Aziz ibn Ibrahim, Hamdan ibn Muhammad, 2nd ed. 1419/1999, Dar al-Asima (Saudi Arabia). Page numbers = OpenITI PageVvvPppp markers, taken as volume/page of that printed edition; NOT checked against a scanned page image.",
+    "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.JawabSahih/0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "offset_start": 755747,
+    "offset_end": 756013,
+    "ar_before": "أب، وكان المسيح نفسه هو الأب، وهو الابن، وهو روح القدس، وهذا عندهم وعند جميع الناس باطل وكفر. وإن قالوا المتحد به هو العلم، فالعلم صفة لا تفارق العالم، ولا تفارق الصفة الأخرى التي هي حياة، فيمتنع أن يتحد به العلم دون الذات، ودون الحياة. الوجه السادس:",
+    "ar_after": ". فلو قال قائل: يا حياة الله، أو يا علم الله، أو يا كلام الله، اغفر لي، وارحمني واهدني، كان هذا باطلا في صريح العقل، ولهذا لم يجوز أحد من أهل الملل أن يقال للتوراة أو الإنجيل وغير ذلك من كلام الله اغفر لي وارحمني، وإنما يقال للإله المتكلم بهذا الكلام",
+    "gloss_en": "Also knowledge is an attribute, and an attribute does not create or provide; and Christ himself is not, by the agreement of rational people, an attribute subsisting in something else. They also say he is the creator of the heavens and the earth. So the one united with him cannot be an attribute. The worshipped god is the living, knowing, powerful one; he is not life itself, nor knowledge and speech themselves. [gloss: mine, not checked against a published translation]",
+    "what_it_says": "IT argues that if the united Word is 'knowledge' (an attribute), it cannot be creator or the object of worship; the worshipped God is the living, knowing and powerful being, not an attribute.",
+    "why_relevant": "A direct argument against the reading 'Word = knowledge' that is also among the glosses in C02.",
+    "stance": "own view",
+    "limits": "IT's argument is against the reading that equates the Word with knowledge. Many Christian theologians do not hold the Word to be an accident or attribute (they say hypostasis), so the argument is accurate only against those who use 'knowledge' or 'attribute' language. The vocative examples ('O life of God, forgive me') are IT's reductio.",
+    "significance": 4,
+    "famous": false,
+    "attributed_to_christians": "Those who equate the Word with knowledge make an attribute into the creator and object of worship, which is absurd.",
+    "christian_check": null,
+    "verdict_candidate": "correct against some Christians but not all",
+    "verdict_reason": "It hits the 'Word = knowledge' gloss (C02, Paul's letter) squarely; classical Trinitarian theology denies that the Son is an attribute, so the argument does not touch the orthodox view as usually stated."
+  },
+  {
+    "id": "T8-C09",
+    "work": "JawabSahih",
+    "theme": [
+      "C"
+    ],
+    "ar": "ولا ينجيكم من هذا اعتذار من اعتذر منكم كيحيى بن عدي ونحوه حيث قالوا: هذا بمنزلة قولك: زيد الطبيب الحاسب الكاتب، ثم تقول: زيد الطبيب وزيد الحاسب وزيد الكاتب. فهو مع كل صفة له حكم خلاف حكمه مع الصفة الأخرى، وقد يفسرون الأقنوم بهذا، فيقولون: الأقنوم هو الذات مع الصفة، فالذات مع كل صفة أقنوم، فصارت الأقانيم ثلاثة، لأن هذا المثال لا يطابق قولكم، فإن زيدا هنا هو جوهر واحد له ثلاث صفات: الطب والحساب والكتابة، وليس هنا ثلاثة جواهر، ولكن لكل صفة حكم ليس للأخرى",
+    "ref": {
+      "work": "Al-Jawab al-Sahih (Shamela 170)",
+      "volume": 3,
+      "page": 230,
+      "chapter": "[within the reply to the Creed/aqanim section, 'الوجه السابع' area; heading not checked]"
+    },
+    "vol_page": "vol. 3, p. 230–231",
+    "page_end": [
+      3,
+      231
+    ],
+    "edition_note": "Shamela 0000170 (OpenITI version of the Shamela edition). Printed edition per #META#: al-Jawab al-Sahih li-man baddala din al-Masih, 6 vols, ed. Ali ibn Hasan, Abd al-Aziz ibn Ibrahim, Hamdan ibn Muhammad, 2nd ed. 1419/1999, Dar al-Asima (Saudi Arabia). Page numbers = OpenITI PageVvvPppp markers, taken as volume/page of that printed edition; NOT checked against a scanned page image.",
+    "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.JawabSahih/0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "offset_start": 760343,
+    "offset_end": 760826,
+    "ar_before": "لون: إن له من يساويه في الجوهر. وإذا قلتم نحن نقول أحدي الذات ثلاثي الصفات، قيل لكم: قد صرحتم بإثبات إله حق من إله حق وبأنه مساو للأب في الجوهر، وهذا تصريح بإثبات جوهر ثاني لا بصفة، فجمعتم بين القولين بين إثبات ثلاثة جواهر، وبين دعوى إثبات جوهر واحد،",
+    "ar_after": ". ولا يقول عاقل: إن الصفة مساوية للموصوف في الجوهر، ولا أن الذات مع هذه الصفة تساوي الذات مع الصفة الأخرى في الجوهر، لأن الذات واحدة والمساوي ليس هو المساوى، ولأن الذات مع الصفة هي الأب فإن كان هذا هو الذي اتحد بالمسيح فالمتحد به هو الأب، ولأنكم قلتم",
+    "gloss_en": "Your apologist (one of you who apologized, such as Yahya ibn Adi and others) said: 'This is like your saying Zayd the physician, the calculator, the writer; then you say Zayd the physician, Zayd the calculator, Zayd the writer. He has a different ruling with each attribute.' Some of them explain the aqnum this way: the aqnum is the essence together with an attribute, so the essence with each attribute is an aqnum, and the aqanim become three. IT's reply: this example does not fit your view, because Zayd is one substance with three attributes (medicine, calculation, writing), and there are not three substances; each attribute has its own ruling, but that does not make three substances. [gloss: mine, not checked against a published translation]",
+    "what_it_says": "IT reports an apologetic analogy (Zayd with three skills) by which an aqnum is 'the essence with an attribute', so the three aqanim are three essence-plus-attribute combinations; he replies that the analogy yields one substance with three attributes, not three substances.",
+    "why_relevant": "Shows the 'essence plus attribute' gloss, which is question 1's 'attributes' reading, together with IT's critique (question 2).",
+    "stance": "reports opponent",
+    "limits": "IT names Yahya ibn Adi only as an example ('like Yahya ibn Adi and the like'), so the attribution of this exact analogy to Ibn Adi is not established by this passage. The passage contains IT's reply in the same extract. Need the Christian source (T9/T10) to confirm the analogy and its authorship.",
+    "significance": 4,
+    "famous": false,
+    "attributed_to_christians": "Some Christian apologists (IT names Yahya ibn Adi 'and the like') explain each aqnum as the essence together with one attribute, so the three aqanim are three such combinations (Zayd analogy).",
+    "christian_check": null,
+    "verdict_candidate": "unverifiable",
+    "verdict_reason": "The analogy is quoted by IT as an apologists' argument, but the source is not named precisely; IT's reply (one substance with three attributes) is a fair point against the analogy as he states it. T9 must find Ibn Adi's text to check."
+  },
+  {
+    "id": "T8-C10",
+    "work": "JawabSahih",
+    "theme": [
+      "C"
+    ],
+    "ar": "ولا يساوي الأب في الجوهر إلا جوهر، فوجب أن يكون الابن جوهرا ثانيا، وروح القدس جوهرا ثالثا كما سيأتي. وهذا تصريح بإثبات ثلاثة جواهر، وثلاثة آلهة، ويقولون مع ذلك: إنما نثبت جوهرا واحدا وإلها واحدا، وهذا جمع بين النقيضين",
+    "ref": {
+      "work": "Al-Jawab al-Sahih (Shamela 170)",
+      "volume": 3,
+      "page": 229,
+      "chapter": "[within the reply to the Creed, 'الوجه السابع'; heading not checked]"
+    },
+    "vol_page": "vol. 3, p. 229",
+    "page_end": [
+      3,
+      229
+    ],
+    "edition_note": "Shamela 0000170 (OpenITI version of the Shamela edition). Printed edition per #META#: al-Jawab al-Sahih li-man baddala din al-Masih, 6 vols, ed. Ali ibn Hasan, Abd al-Aziz ibn Ibrahim, Hamdan ibn Muhammad, 2nd ed. 1419/1999, Dar al-Asima (Saudi Arabia). Page numbers = OpenITI PageVvvPppp markers, taken as volume/page of that printed edition; NOT checked against a scanned page image.",
+    "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.JawabSahih/0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "offset_start": 759454,
+    "offset_end": 759677,
+    "ar_before": "را قائما بنفسه. وهم في هذه الأمانة قد جعلوا الله والدا وهو الأب، ومولودا وهو الابن، وجعلوه مساويا له في الجوهر، وقد نزه الله نفسه عن الأنواع الثلاثة، فقالوا: مولود غير مخلوق مساو الأب في الجوهر، فصرحوا بأنه مساو له في الجوهر، والمساوي ليس هو المساوى.",
+    "ar_after": "، فهو حقيقة قولهم يجمعون بين جعل الآلهة واحدا، وإثبات ثلاثة آلهة، وبين إثبات جوهر واحد، وبين إثباته ثلاثة جواهر، وقد نزه الله نفسه عن ذلك بقوله: {قل هو الله أحد} [الإخلاص: 1] (1) {الله الصمد} [الإخلاص: 2] (2) {لم يلد ولم يولد} [الإخلاص: 3] (3) {ولم ي",
+    "gloss_en": "Only a substance can be equal in substance to the Father, so the Son must be a second substance and the Holy Spirit a third, as will come. This is a plain affirmation of three substances and three gods, yet they say: 'We affirm only one substance and one god.' This is a combination of contradictories. [gloss: mine, not checked against a published translation]",
+    "what_it_says": "IT argues that the creed's phrase 'equal to the Father in substance' implies a second and a third substance and so three gods; he calls their 'one substance, one god' claim a contradiction.",
+    "why_relevant": "The sharpest form of the 'three are one is a contradiction' argument (question 3), in IT's own words, with the Creed as the target.",
+    "stance": "own view",
+    "limits": "IT's claim that 'homoousios' (equal in substance) implies a second substance is his inference; Christian doctrine holds one substance (ousia) and three persons/hypostases. The argument is therefore against a specific reading of the creed's wording, though the reply anticipates the 'one substance' answer. The Creed text itself (vol. 3 p. 227) is in excluded.json as T8-X01.",
+    "significance": 5,
+    "famous": false,
+    "attributed_to_christians": "The Creed's 'equal to the Father in substance' makes three substances and three gods, which contradicts 'one substance, one god'.",
+    "christian_check": null,
+    "verdict_candidate": "partly faithful",
+    "verdict_reason": "The Creed's words are quoted accurately (C11), and the 'contradiction' charge is an argument IT makes openly, but the 'three gods' label is his inference, which Trinitarian doctrine explicitly rejects; the reply he anticipates ('one ousia, three hypostases') is not discussed."
+  },
+  {
+    "id": "T8-C13",
+    "work": "JawabSahih",
+    "theme": [
+      "C"
+    ],
+    "ar": "وهم أيضا لا يقولون بثلاثة أرباب وثلاثة آلهة فلو كان هذا يدل على ثلاثة أرباب وثلاثة آلهة، لدل على نقيض قولهم، بل هم يزعمون أنهم إنما يثبتون إلها واحدا، ولكنهم يناقضون فيصرحون بثلاثة آلهة، ويقولون هم إله واحد",
+    "ref": {
+      "work": "Al-Jawab al-Sahih (Shamela 170)",
+      "volume": 3,
+      "page": 462,
+      "chapter": "[within the section answering the Christian argument from the Torah's triple repetition of 'God' (Exodus 3); heading partly visible: 'توراة من كلام الله لموسى وما يفيده ذلك من تعدد ألوهيته']"
+    },
+    "vol_page": "vol. 3, p. 462",
+    "page_end": [
+      3,
+      462
+    ],
+    "edition_note": "Shamela 0000170 (OpenITI version of the Shamela edition). Printed edition per #META#: al-Jawab al-Sahih li-man baddala din al-Masih, 6 vols, ed. Ali ibn Hasan, Abd al-Aziz ibn Ibrahim, Hamdan ibn Muhammad, 2nd ed. 1419/1999, Dar al-Asima (Saudi Arabia). Page numbers = OpenITI PageVvvPppp markers, taken as volume/page of that printed edition; NOT checked against a scanned page image.",
+    "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.JawabSahih/0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "offset_start": 944148,
+    "offset_end": 944360,
+    "ar_before": "ا في كتب الأنبياء عليهم السلام من تثنية اسم الرب عند إضافته إلى مخلوق آخر فهو من نمط تثنية اسم الإله، وهذا لا يقتضي تعدد الأرباب والآلهة، ولهذا لا يقتضي جعلهم اثنين وأربعة إذا ذكر اللفظ مرتين وأربعة. فكذلك إذا ذكر ثلاث مرات لا يقتضي أن الأرباب ثلاثة،",
+    "ar_after": ". والكتب لا تدل على قولهم المتناقض بوجه من الوجوه، وأما ما ذكروه من اعتراف اليهود بألفاظ هذه النبوات، ودعواه أنهم لا يعرفون لها تأويلا، فإن أرادوا بالتأويل تفسيرها وما يدل عليه لفظها، فهذا ظاهر لا يخفى على الصبيان من اليهود وغيرهم. ولكن النصارى ادعوا",
+    "gloss_en": "They themselves do not say 'three lords' or 'three gods'. If this proved three lords and three gods, it would prove the opposite of their view. Rather, they claim to affirm one god, but they contradict themselves, openly declaring three gods while saying they are one god. [gloss: mine, not checked against a published translation]",
+    "what_it_says": "IT concedes that Christians explicitly deny tritheism, and charges that the Trinitarian formula implies three gods while they say 'one god'.",
+    "why_relevant": "The closest IT comes to the 'three gods / mushrik' charge in the Trinity section, expressed as a charge of self-contradiction rather than a direct label.",
+    "stance": "own view",
+    "limits": "IT states that they 'do not say' three gods, which is a concession; the charge rests on his reading of their formulas. Use with C10. The phrase 'they contradict themselves' is IT's.",
+    "significance": 4,
+    "famous": false,
+    "attributed_to_christians": "Christians say one god but, by their formulas, are openly declaring three gods (IT's charge, not their own words).",
+    "christian_check": null,
+    "verdict_candidate": "partly faithful",
+    "verdict_reason": "IT fairly records that Christians deny three gods; the 'three gods' label is an inference from their formulas, which Trinitarian theology denies. The charge is an argument, not a misreport of their confession."
+  },
+  {
+    "id": "T8-C18",
+    "work": "JawabSahih",
+    "theme": [
+      "C"
+    ],
+    "ar": "أما الأول فمتوجه، فإن النصارى المتفقين على الأمانة كلهم يقولون إن الله ثالث ثلاثة والله تعالى قد نهاهم عن أن يقولوا ذلك",
+    "ref": {
+      "work": "Al-Jawab al-Sahih (Shamela 170)",
+      "volume": 2,
+      "page": 14,
+      "chapter": "[Quran commentary on 5:73 (Quran 5:73 'thalith thalatha'), vol. 2 p. 13-14]"
+    },
+    "vol_page": "vol. 2, p. 14",
+    "page_end": [
+      2,
+      14
+    ],
+    "edition_note": "Shamela 0000170 (OpenITI version of the Shamela edition). Printed edition per #META#: al-Jawab al-Sahih li-man baddala din al-Masih, 6 vols, ed. Ali ibn Hasan, Abd al-Aziz ibn Ibrahim, Hamdan ibn Muhammad, 2nd ed. 1419/1999, Dar al-Asima (Saudi Arabia). Page numbers = OpenITI PageVvvPppp markers, taken as volume/page of that printed edition; NOT checked against a scanned page image.",
+    "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.JawabSahih/0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "offset_start": 262957,
+    "offset_end": 263078,
+    "ar_before": " الذين قالوا إن الله ثالث ثلاثة} [المائدة: 73] قال: هو قول اليهود عزير ابن الله وقول النصارى المسيح ابن الله فجعلوا الله ثالث ثلاثة وهذا ضعيف وقد ذكر سعيد بن البطريق في أخبار النصارى أن منهم طائفة يقال لهم المريميون يقولون إن مريم إله وإن عيسى إله. و",
+    "ar_after": "فقال - تعالى -: {ياأهل الكتاب لا تغلوا في دينكم ولا تقولوا على الله إلا الحق إنما المسيح عيسى ابن مريم رسول الله وكلمته ألقاها إلى مريم وروح منه فآمنوا بالله ورسله ولا تقولوا ثلاثة انتهوا خيرا لكم} [النساء: 171] فذكر سبحانه في هذه الآية التثليث والات",
+    "gloss_en": "As for the first (the claim about the 'third of three'), it is well-founded, for all the Christians who agree on the creed say that God is the third of three; and God forbade them to say that. [gloss: mine, not checked against a published translation]",
+    "what_it_says": "IT says that the Christians who agree on the creed say God is the third of three (Quran 5:73), and that God forbade this.",
+    "why_relevant": "The clearest generic statement of 'what Christians say' about the Trinity in this text, with the Quran's own label.",
+    "stance": "own view",
+    "limits": "'Al-awwal' (the first) is ambiguous in context: it may refer to the first of the explanations just given (the Sudi-type 'God, Christ, and his mother' reading), not to 'third of three' itself. The sentence also stands within a discussion of Mariamite and other sects. Check the page image before using. 'Third of three' is the Quran's phrase; Trinitarian creeds say 'one God in three persons'.",
+    "significance": 4,
+    "famous": false,
+    "attributed_to_christians": "All Christians who hold the creed say God is 'the third of three' (the Qur'an's wording, which IT takes as a fair description).",
+    "christian_check": null,
+    "verdict_candidate": "partly faithful",
+    "verdict_reason": "The Qur'anic phrase is an accusation Christians reject; IT takes it as their own description, which mis-states the doctrine's wording even if the three-person claim is right. The ambiguity of 'al-awwal' must be settled before quoting."
+  },
+  {
+    "id": "T8-C06",
+    "work": "JawabSahih",
+    "theme": [
+      "C"
+    ],
+    "ar": "فإن كان هذا صحيحا، فالمراد بذلك أنه الرب المربي الرحيم، فإن الله أرحم بعباده من الوالدة بولدها، والابن هو المربى المرحوم، فإن تربية الله لعبده أكمل من تربية الوالدة لولدها فيكون المراد بالأب الرب، والمراد بالابن عنده المسيح الذي رباه",
+    "ref": {
+      "work": "Al-Jawab al-Sahih (Shamela 170)",
+      "volume": 3,
+      "page": 193,
+      "chapter": "[within the 5th objection, 'الوجه الخامس'; heading not checked]"
+    },
+    "vol_page": "vol. 3, p. 193",
+    "page_end": [
+      3,
+      193
+    ],
+    "edition_note": "Shamela 0000170 (OpenITI version of the Shamela edition). Printed edition per #META#: al-Jawab al-Sahih li-man baddala din al-Masih, 6 vols, ed. Ali ibn Hasan, Abd al-Aziz ibn Ibrahim, Hamdan ibn Muhammad, 2nd ed. 1419/1999, Dar al-Asima (Saudi Arabia). Page numbers = OpenITI PageVvvPppp markers, taken as volume/page of that printed edition; NOT checked against a scanned page image.",
+    "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.JawabSahih/0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "offset_start": 728399,
+    "offset_end": 728638,
+    "ar_before": " أبناء، كما يذكرون أنه قال في التوراة ليعقوب: \" إسرائيل \" \" أنت ابني بكري \"، وقال لداود في الزبور: \" أنت ابني وحبيبي \"، وفي الإنجيل في غير موضع يقول المسيح: \" أبي وأبيكم \" كقوله إني أذهب إلى أبي وأبيكم وإلهي وإلهكم فيسميه أبا لهم كما يسميهم أبناء له،",
+    "ar_after": ". وأما روح القدس: فهي لفظة موجودة في غير موضع من الكتب التي عندهم، وليس المراد بها حياة الله باتفاقهم، بل روح القدس عندهم تحل في إبراهيم وموسى وداود وغيرهم من الأنبياء الصالحين. والقرآن قد شهد أن الله أيد المسيح بروح القدس، كما قال - تعالى -: {وآتينا",
+    "gloss_en": "If this is correct (IT means: if Jesus called God 'Father' and called the disciples 'sons' in this sense), then the meaning is that God is the Lord who nurtures, the merciful; and 'son' means the one who is nurtured and loved. God's nurturing of his servant is more perfect than a mother's nursing of her child, so 'Father' means 'Lord' and 'Son' means for him Christ, whom he nurtured. [gloss: mine, not checked against a published translation]",
+    "what_it_says": "IT proposes that 'Father' and 'Son' in the Gospels mean 'Lord who nurtures' and 'the one nurtured', so that the Son is Christ as nurtured by God, and the Holy Spirit is the revealed help or angel (see the next objection).",
+    "why_relevant": "The core of IT's alternative reading of Father/Son, which the orchestrator needs for question 5 (metaphor).",
+    "stance": "own view",
+    "limits": "The passage is conditional ('if this is correct'); IT presents the Father/Son reading as a possible meaning, and his main objection is that the Christians' reading is literal. Note that the Gospel text he refers to ('my Father and your Father') is not quoted here. The reading of 'son' as 'nurtured' is IT's, not a Christian source.",
+    "significance": 3,
+    "famous": false,
+    "attributed_to_christians": "(IT's reading, not a Christian statement) Father and Son in scripture mean Lord who nurtures and the one nurtured.",
+    "christian_check": null,
+    "verdict_candidate": "partly faithful",
+    "verdict_reason": "Christians do mean sonship in a literal sense (begotten, not made, in the Creed), so IT's reading is his alternative, not their view; the attribution to Christians is only that they read the terms literally, which is fair for the Creed but not for every Christian."
+  },
+  {
+    "id": "T8-C17",
+    "work": "JawabSahih",
+    "theme": [
+      "C"
+    ],
+    "ar": "قولهم في تجسد اللاهوت - أيضا - هو قول مع بطلانه في العقل والشرع قول لا يدل عليه شيء من كلام المعصوم من النبيين والمرسلين",
+    "ref": {
+      "work": "Al-Jawab al-Sahih (Shamela 170)",
+      "volume": 3,
+      "page": 199,
+      "chapter": "[within the 10th objection, 'الوجه العاشر']"
+    },
+    "vol_page": "vol. 3, p. 199",
+    "page_end": [
+      3,
+      199
+    ],
+    "edition_note": "Shamela 0000170 (OpenITI version of the Shamela edition). Printed edition per #META#: al-Jawab al-Sahih li-man baddala din al-Masih, 6 vols, ed. Ali ibn Hasan, Abd al-Aziz ibn Ibrahim, Hamdan ibn Muhammad, 2nd ed. 1419/1999, Dar al-Asima (Saudi Arabia). Page numbers = OpenITI PageVvvPppp markers, taken as volume/page of that printed edition; NOT checked against a scanned page image.",
+    "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.JawabSahih/0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "offset_start": 734242,
+    "offset_end": 734364,
+    "ar_before": "للذات والصفة معا، وهذا تفسير حذاقهم. الوجه التاسع: قولهم في المسيح - عليه السلام - إنه خالق، قول مع بطلانه في الشرع والعقل، قول لم ينطق به شيء من النبوات التي عندهم، ولكن يستدلون على ذلك بما لا يدل عليه كما سنبينه إن شاء الله - تعالى -. الوجه العاشر:",
+    "ar_after": "الوجه الحادي عشر: إنا نقول: لا ريب أن الله حي عالم قادر متكلم، وللمسلمين على ذلك من الدلائل العقلية التي دل الرسول عليها وأرشد إليها فصارت معروفة بالعقل مدلولا عليها بالشرع ما هو مبسوط في موضعه، وأنتم مع دعواكم أنكم تثبتون ذلك بالعقل، لم تذكروا على ذ",
+    "gloss_en": "Their saying about the incarnation of divinity (tajassud al-lahut) is, besides being false by reason and law, a saying that nothing in the words of the infallible prophets indicates. [gloss: mine, not checked against a published translation]",
+    "what_it_says": "IT rejects the incarnation of the divine (tajassud al-lahut) as false by reason and by scripture; no prophet's words support it.",
+    "why_relevant": "The short, clear statement of IT's position on incarnation (question 4) in his own words.",
+    "stance": "own view",
+    "limits": "The passage states IT's view without arguments here; his detailed arguments are in the surrounding objections. 'Incarnation' is his term 'tajassud'; Christians use 'Incarnation', so the word choice is fair.",
+    "significance": 2,
+    "famous": false,
+    "attributed_to_christians": "Christians believe the divinity became incarnate (tajassud).",
+    "christian_check": null,
+    "verdict_candidate": "faithful",
+    "verdict_reason": "The doctrine is correctly named as incarnation of the divine in a human; the passage asserts only that scripture does not teach it, which is IT's claim and can be checked against the Gospels in T9."
+  },
+  {
+    "id": "T8-C19",
+    "work": "JawabSahih",
+    "theme": [
+      "C"
+    ],
+    "ar": "فذكر سبحانه في هذه الآية التثليث والاتحاد ونهاهم عنهما وبين أن المسيح إنما هو رسول الله وكلمته ألقاها إلى مريم وروح منه",
+    "ref": {
+      "work": "Al-Jawab al-Sahih (Shamela 170)",
+      "volume": 2,
+      "page": 14,
+      "chapter": "[Quran commentary on 4:171, vol. 2 p. 14]"
+    },
+    "vol_page": "vol. 2, p. 14",
+    "page_end": [
+      2,
+      14
+    ],
+    "edition_note": "Shamela 0000170 (OpenITI version of the Shamela edition). Printed edition per #META#: al-Jawab al-Sahih li-man baddala din al-Masih, 6 vols, ed. Ali ibn Hasan, Abd al-Aziz ibn Ibrahim, Hamdan ibn Muhammad, 2nd ed. 1419/1999, Dar al-Asima (Saudi Arabia). Page numbers = OpenITI PageVvvPppp markers, taken as volume/page of that printed edition; NOT checked against a scanned page image.",
+    "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.JawabSahih/0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "offset_start": 263297,
+    "offset_end": 263420,
+    "ar_before": " والله تعالى قد نهاهم عن أن يقولوا ذلك فقال - تعالى -: {ياأهل الكتاب لا تغلوا في دينكم ولا تقولوا على الله إلا الحق إنما المسيح عيسى ابن مريم رسول الله وكلمته ألقاها إلى مريم وروح منه فآمنوا بالله ورسله ولا تقولوا ثلاثة انتهوا خيرا لكم} [النساء: 171]",
+    "ar_after": ". وقال: {فآمنوا بالله ورسله} [النساء: 171] ثم قال {ولا تقولوا ثلاثة انتهوا خيرا لكم} [النساء: 171] لم يذكر هنا أمه. وقوله - تعالى -: {وكلمته ألقاها إلى مريم وروح منه} [النساء: 171] قال: معمر عن قتادة وكلمته ألقاها إلى مريم هو قوله: كن فكان. وكذلك قال",
+    "gloss_en": "He (God) mentioned in this verse the trinity (tathlith) and the union (ittihad), forbade them, and showed that the Messiah is only a messenger of God, and His word which He cast to Mary, and a spirit from Him. [gloss: mine, not checked against a published translation]",
+    "what_it_says": "IT reads Quran 4:171 as naming and forbidding the Trinity and the 'union', and as calling Christ a messenger, God's word cast to Mary, and a spirit from Him.",
+    "why_relevant": "His reading of 4:171 (question 6); shows that he treats 'union' (ittihad) as a Christian doctrine the Qur'an rejects.",
+    "stance": "own view",
+    "limits": "IT's reading of 'kalimatuhu' and 'ruhun minhu' is interpretive. The sentence attributes 'trinity' and 'union' to Christians generally; the verse itself does not name sects. Read next to the Imam Ahmad passage on 'word of God' (vol. 2 p. 15, not selected).",
+    "significance": 3,
+    "famous": false,
+    "attributed_to_christians": "Christians hold the Trinity and the 'union' (ittihad) of God with Christ; the Qur'an rejects both.",
+    "christian_check": null,
+    "verdict_candidate": "partly faithful",
+    "verdict_reason": "The Trinity charge fits the Christian doctrine; 'union' is a Christological term that Christian groups use differently (see C04), so this is fair only in general terms."
+  },
+  {
+    "id": "T8-C14",
+    "work": "JawabSahih",
+    "theme": [
+      "C"
+    ],
+    "ar": "فيقال لهم: هذا عمدتكم على ما تدعونه من الأقانيم الثلاثة وليس فيه شيء يدل على ذلك لا نصا ولا ظاهرا، فإن لفظ الابن لم يستعمل قط في الكتب الإلهية في معنى صفة من صفات الله",
+    "ref": {
+      "work": "Al-Jawab al-Sahih (Shamela 170)",
+      "volume": 3,
+      "page": 256,
+      "chapter": "[heading ends '...دلالهم بالتعميد على الأقانيم']"
+    },
+    "vol_page": "vol. 3, p. 256",
+    "page_end": [
+      3,
+      256
+    ],
+    "edition_note": "Shamela 0000170 (OpenITI version of the Shamela edition). Printed edition per #META#: al-Jawab al-Sahih li-man baddala din al-Masih, 6 vols, ed. Ali ibn Hasan, Abd al-Aziz ibn Ibrahim, Hamdan ibn Muhammad, 2nd ed. 1419/1999, Dar al-Asima (Saudi Arabia). Page numbers = OpenITI PageVvvPppp markers, taken as volume/page of that printed edition; NOT checked against a scanned page image.",
+    "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.JawabSahih/0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "offset_start": 779824,
+    "offset_end": 780002,
+    "ar_before": "نه صالح، وإنه إلى الأبد رحمته. | [فصل: إبطال استدلالهم بالتعميد على الأقانيم] قالوا: وقال السيد المسيح في الإنجيل المقدس لتلاميذه الأطهار: (اذهبوا إلى جميع الأمم وعمدوهم باسم الأب والابن وروح القدس الإله الواحد، وعلموهم أن يحفظوا جميع ما أوصيكم به) .",
+    "ar_after": "، ولم يسم أحد من الأنبياء علم الله ابنه ولا سموا كلامه ابنه، ولكن عندكم أنهم سموا عبده أو عباده ابنه أو بنيه وإذا كان كذلك فدعواكم أن المسيح أراد بالعلم ابن الله وكلامه - دعوى في غاية الكذب على المسيح، وهو حمل للفظه على ما لم يستعمله هو ولا غيره فيه ",
+    "gloss_en": "Then it is said to them: this is your foundation for the three aqanim you claim, and there is nothing in it indicating that, neither explicitly nor implicitly; for the word 'son' is never used in the divine books to mean an attribute of God. [gloss: mine, not checked against a published translation]",
+    "what_it_says": "IT says the baptismal formula (Matthew 28:19 as quoted in C15) does not support the three aqanim; 'son' is never used of an attribute of God in scripture.",
+    "why_relevant": "IT's direct reading of the Matthew 28:19 argument (question 5).",
+    "stance": "own view",
+    "limits": "IT's claim 'never used in the divine books' is his statement about the Bible and Qur'an; a Christian reply would cite the Gospel usage and the Arabic/Greek. Needs T9 check against Matthew 28:19 and Christian exegesis.",
+    "significance": 3,
+    "famous": false,
+    "attributed_to_christians": "Christians cite Matthew 28:19's baptismal formula as the basis for the three aqanim.",
+    "christian_check": null,
+    "verdict_candidate": "partly faithful",
+    "verdict_reason": "IT fairly states the Christian argument (from the baptismal formula) and gives his reading; the claim that scripture never uses 'son' for an attribute is his, and the exegesis needs to be checked."
+  },
+  {
+    "id": "T8-C15",
+    "work": "JawabSahih",
+    "theme": [
+      "C"
+    ],
+    "ar": "اذهبوا إلى جميع الأمم وعمدوهم باسم الأب والابن وروح القدس الإله الواحد، وعلموهم أن يحفظوا جميع ما أوصيكم به",
+    "ref": {
+      "work": "Al-Jawab al-Sahih (Shamela 170)",
+      "volume": 3,
+      "page": 256,
+      "chapter": "[heading ends '...دلالهم بالتعميد على الأقانيم']"
+    },
+    "vol_page": "vol. 3, p. 256",
+    "page_end": [
+      3,
+      256
+    ],
+    "edition_note": "Shamela 0000170 (OpenITI version of the Shamela edition). Printed edition per #META#: al-Jawab al-Sahih li-man baddala din al-Masih, 6 vols, ed. Ali ibn Hasan, Abd al-Aziz ibn Ibrahim, Hamdan ibn Muhammad, 2nd ed. 1419/1999, Dar al-Asima (Saudi Arabia). Page numbers = OpenITI PageVvvPppp markers, taken as volume/page of that printed edition; NOT checked against a scanned page image.",
+    "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.JawabSahih/0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "offset_start": 779707,
+    "offset_end": 779818,
+    "ar_before": "ي القرآن: {أكلها دائم} [الرعد: 35] وقوله: {إن هذا لرزقنا ما له من نفاد} [ص: 54] . وفي الزبور: اعترفوا للرب، فإنه صالح، وإنه إلى الأبد رحمته. | [فصل: إبطال استدلالهم بالتعميد على الأقانيم] قالوا: وقال السيد المسيح في الإنجيل المقدس لتلاميذه الأطهار: (",
+    "ar_after": ") . فيقال لهم: هذا عمدتكم على ما تدعونه من الأقانيم الثلاثة وليس فيه شيء يدل على ذلك لا نصا ولا ظاهرا، فإن لفظ الابن لم يستعمل قط في الكتب الإلهية في معنى صفة من صفات الله، ولم يسم أحد من الأنبياء علم الله ابنه ولا سموا كلامه ابنه، ولكن عندكم أنهم سم",
+    "gloss_en": "'Go to all nations and baptize them in the name of the Father and the Son and the Holy Spirit, the one God, and teach them to keep all that I commanded you.' (The Arabic is IT's quotation; the translation here is mine.) [gloss: mine, not checked against a published translation]",
+    "what_it_says": "The Christian text, as IT quotes it: Matthew 28:19-20 with the words 'the one God' (al-ilah al-wahid) added after 'Holy Spirit'.",
+    "why_relevant": "The scripture text the Christians cite, as quoted by IT; the orchestrator must check the exact Arabic wording.",
+    "stance": "quotes Christian text",
+    "limits": "IT's quotation is in parentheses and includes 'al-ilah al-wahid' ('the one God'), which I could not confirm against a standard Arabic Bible from memory; check the wording and version before using. Matthew 28:19 is quoted in IT's own Arabic, not from a Bible edition.",
+    "significance": 3,
+    "famous": false,
+    "attributed_to_christians": "Christians cite Matthew 28:19 (baptism in the name of Father, Son and Holy Spirit).",
+    "christian_check": null,
+    "verdict_candidate": "unverifiable",
+    "verdict_reason": "The quoted wording may differ from the standard Arabic Bible; the words 'the one God' in particular need checking. T9 should compare with a standard Arabic Bible and the Greek text."
+  }
+]

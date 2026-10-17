@@ -1,0 +1,12 @@
+[
+ {
+  "id": "JawabSahih",
+  "title_ar": "الجواب الصحيح لمن بدل دين المسيح",
+  "title_es_or_en": "Al-Jawab al-sahih li-man baddala din al-Masih (The Correct Answer to Those Who Changed the Religion of the Messiah)",
+  "edition_note": "Shamela 170 / OpenITI 0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1. Printed ed.: Dar al-Asima (Riyadh), 2nd ed. 1419/1999, eds. Ali ibn Hasan, Abd al-Aziz ibn Ibrahim, Hamdan ibn Muhammad. Header BookVOLS=6. Page numbers (vol, page) from OpenITI PageV markers (volume markers of this edition). Also in the TSV: JK000330 version (1,398,883 chars) — not used.",
+  "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.JawabSahih/0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "genre": "polemical treatise (radd) against Christian doctrine (Trinity, incarnation, crucifixion, scripture)",
+  "notes": "Main source. Ibn Taymiyya speaks in his own voice in most chapters, but quotes at length Christian authors: Ibn al-Batriq (Eutychius) and al-Hasan ibn Ayyub (vol. 4, approx. pp. 157-400), and Paul-of-Antioch-type creed material and gospel-based arguments. Chapter headings are in brackets [فصل: ...]. Shamela/OpenITI text is a digital transcription; no independent check of page images done by this researcher."
+ }
+]

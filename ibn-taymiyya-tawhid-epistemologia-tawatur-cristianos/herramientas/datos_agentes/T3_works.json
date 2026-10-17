@@ -1,0 +1,42 @@
+[
+ {
+  "id": "DarTacarud",
+  "title_ar": "درء تعارض العقل والنقل أو موافقة صحيح المنقول لصريح المعقول",
+  "title_es_or_en": "Dar' ta'arud al-'aql wa-l-naql (Averting the conflict between reason and transmission)",
+  "genre": "kalam / epistemology treatise (refutation of kalam and philosophy)",
+  "edition_note": "Edition named in OpenITI header: ed. 'Abd al-Latif 'Abd al-Rahman, Dar al-Kutub al-'Ilmiyya, Beirut 1417/1997, 10 vols. Header says Shamela pagination matches the print ('ترقيم الشاملة موافق للمطبوع'). Page numbers are from OpenITI PageV markers; I did not check page images.",
+  "notes": "Whole work is by Ibn Taymiyya, but it quotes and summarises Razi, Ghazali, Juwayni, Ibn al-'Arabi, Ibn Sina and others at length. Vol. 1 pp. 3-6 is the opening where he describes and criticises the 'rule' of the theologians. Passages quoted here are marked by stance; quotations of Razi are summaries, not verbatim quotations.",
+  "openiti_versionUri": "0728IbnTaymiyya.DarTacarud.ShamAY0033865-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.DarTacarud/0728IbnTaymiyya.DarTacarud.ShamAY0033865-ara1"
+ },
+ {
+  "id": "MajmucFatawa",
+  "title_ar": "مجموع الفتاوى",
+  "title_es_or_en": "Majmu al-Fatawa (Collection of Fatwas)",
+  "genre": "fatwas, treatises and commentaries (compiled)",
+  "edition_note": "Majma' al-Malik Fahd edition, ed. 'Abd al-Rahman b. Muhammad b. Qasim (per OpenITI header; header says pagination matches the print). Page numbers from OpenITI PageV markers.",
+  "notes": "Compilation, not a single work; the vol. 16 passage (T3-12, T3-13) is inside a commentary on Surah al-'Alaq (96), inferred from the text, section heading not checked. Vol. 16 also contains related remarks on the first obligation.",
+  "openiti_versionUri": "0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.MajmucFatawa/0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1"
+ },
+ {
+  "id": "MinhajSunna",
+  "title_ar": "منهاج السنة النبوية",
+  "title_es_or_en": "Minhaj al-Sunna al-Nabawiyya (Minhaj al-Sunna)",
+  "genre": "polemical refutation of Shi'i (Rafidi) and Qadari-Mu'tazili positions",
+  "edition_note": "OpenITI text from Shamela al-Zaydiyya (header: bkid 108, 'al-Maktaba al-Shamela al-Zaydiyya'). Printed edition not named in header. Inline page markers such as '(1/302)' and '(1/303)' appear in the text and agree with the OpenITI PageV markers used here. Page to be checked against a print edition before citing.",
+  "notes": "The passage (T3-14) is part of the discussion of the Jahmi/Mu'tazili proof of createdness via accidents; Ibn Taymiyya mentions the Ash'ari dispute on the same method.",
+  "openiti_versionUri": "0728IbnTaymiyya.MinhajSunna.Zaydiyya0000108-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.MinhajSunna/0728IbnTaymiyya.MinhajSunna.Zaydiyya0000108-ara1"
+ },
+ {
+  "id": "QacidaJamicaFiTawhid",
+  "title_ar": "قاعدة جامعة في توحيد الله وإخلاص الوجه والعمل له عبادة واستعانة",
+  "title_es_or_en": "Qa'ida jami'a fi tawhid Allah (comprehensive principle on the oneness of God)",
+  "genre": "short treatise on tawhid (prose)",
+  "edition_note": "OpenITI text from Shamela (header: publisher Dar al-'Asima, Riyadh; editor not recorded in the header). Page numbers are OpenITI PageV markers (single volume).",
+  "notes": "WARNING: the Shamela text contains an unrelated insertion right after T3-15 (a passage titled on 'ilat al-shar'i' / usul al-fiqh). Check the page image before quoting T3-15.",
+  "openiti_versionUri": "0728IbnTaymiyya.QacidaJamicaFiTawhid.Shamela0011285-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.QacidaJamicaFiTawhid/0728IbnTaymiyya.QacidaJamicaFiTawhid.Shamela0011285-ara1"
+ }
+]

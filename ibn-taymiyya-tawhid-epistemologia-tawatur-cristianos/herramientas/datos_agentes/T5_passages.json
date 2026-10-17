@@ -1,0 +1,434 @@
+[
+ {
+  "id": "T5-W-MF18-39a",
+  "work": "MajmucFatawa",
+  "theme": [
+   "W"
+  ],
+  "ar": "وأما المتواتر فالصواب الذي عليه الجمهور: أن المتواتر ليس له عدد محصور بل إذا حصل العلم عن إخبار المخبرين كان الخبر متواترا وكذلك الذي عليه الجمهور أن العلم يختلف باختلاف حال المخبرين به. فرب عدد قليل أفاد خبرهم العلم بما يوجب صدقهم وأضعافهم لا يفيد خبرهم العلم؛ ولهذا كان الصحيح أن خبر الواحد قد يفيد العلم إذا احتفت به قرائن تفيد العلم",
+  "ref": {
+   "work": "مجموع الفتاوى",
+   "volume": "18",
+   "page": "vol. 18, p. 39",
+   "chapter": "Answer on hadith classes and certainty (vol. 18, pp. 38-40); no heading visible in cleaned text"
+  },
+  "vol_page": "vol. 18, p. 39",
+  "edition_note": "Majmu al-Fatawa, Majma al-Malik Fahd ed. (1416/1995), vol./page from PageV markers in OpenITI/Shamela text.",
+  "openiti_versionUri": "0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.MajmucFatawa/0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+  "offset_start": 9324704,
+  "offset_end": 9325055,
+  "ar_before": "ن غريبا من ذلك الوجه لا يعرف بذلك الإسناد إلا من ذلك الوجه. وإن كان هو صحيحا من ذلك الوجه فقد يكون صحيحا غريبا وهذا لا شبهة فيه وإنما الشبهة في اجتماع الحسن والغريب. وقد تقدم أنه قد يكون غريبا حسنا ثم صار حسنا وقد يكون حسنا غريبا كما ذكر من المعنيين.",
+  "ar_after": ". وعلى هذا فكثير من متون الصحيحين متواتر اللفظ عند أهل العلم بالحديث وإن لم يعرف غيرهم أنه متواتر؛ ولهذا كان أكثر متون الصحيحين مما يعلم علماء الحديث علما قطعيا أن النبي صلى الله عليه وسلم قاله تارة لتواتره عندهم وتارة لتلقي الأمة له بالقبول. وخبر ال",
+  "gloss_en": "[T5 translation, English] As for tawatur: the view of the majority is that it has no fixed number. When knowledge arises from the report of informants, the report is tawatur, and the knowledge differs with the condition of the informants: a few informants may produce knowledge of their truthfulness, while many may not. So the sound view is that a single report can yield knowledge when accompanied by indicators (qara'in) that yield knowledge.",
+  "what_it_says": "Tawatur is defined by the knowledge produced, not by a counted number; a single report (khabar wahid) can yield certainty when accompanied by qara'in.",
+  "why_relevant": "Core statement of the knowledge-based definition of tawatur and of the possibility that one report yields certainty.",
+  "stance": "own view",
+  "limits": "He presents this as the sound view of the majority (\"الصحيح\"). The qara'in are not specified here. The passage belongs to an answer on hadith classification (sahih, hasan, gharib) and on whether sahih hadiths give certainty; it is his answer to a question, not a quotation.",
+  "significance": 5,
+  "famous": false
+ },
+ {
+  "id": "T5-W-MF18-39b",
+  "work": "MajmucFatawa",
+  "theme": [
+   "W"
+  ],
+  "ar": "وعلى هذا فكثير من متون الصحيحين متواتر اللفظ عند أهل العلم بالحديث وإن لم يعرف غيرهم أنه متواتر؛ ولهذا كان أكثر متون الصحيحين مما يعلم علماء الحديث علما قطعيا أن النبي صلى الله عليه وسلم قاله تارة لتواتره عندهم وتارة لتلقي الأمة له بالقبول",
+  "ref": {
+   "work": "مجموع الفتاوى",
+   "volume": "18",
+   "page": "vol. 18, p. 40",
+   "chapter": "Same answer (vol. 18, pp. 38-40)"
+  },
+  "vol_page": "vol. 18, p. 40",
+  "edition_note": "Majmu al-Fatawa, Majma al-Malik Fahd ed. (1416/1995), vol./page from PageV markers in OpenITI/Shamela text.",
+  "openiti_versionUri": "0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.MajmucFatawa/0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+  "offset_start": 9325073,
+  "offset_end": 9325318,
+  "ar_before": "عن إخبار المخبرين كان الخبر متواترا وكذلك الذي عليه الجمهور أن العلم يختلف باختلاف حال المخبرين به. فرب عدد قليل أفاد خبرهم العلم بما يوجب صدقهم وأضعافهم لا يفيد خبرهم العلم؛ ولهذا كان الصحيح أن خبر الواحد قد يفيد العلم إذا احتفت به قرائن تفيد العلم.",
+  "ar_after": ". وخبر الواحد المتلقى بالقبول يوجب العلم عند جمهور العلماء من أصحاب أبي حنيفة ومالك والشافعي وأحمد وهو قول أكثر أصحاب الأشعري كالإسفراييني وابن فورك؛ فإنه وإن كان في نفسه لا يفيد إلا الظن؛ لكن لما اقترن به إجماع أهل العلم بالحديث على تلقيه بالتصديق ك",
+  "gloss_en": "[T5 translation, English] So many texts of the two Sahihs are tawatur in wording (mutawatir al-lafz) for the people of hadith, even if others do not know it as tawatur. For this reason most texts of the two Sahihs are ones the hadith scholars know with certainty that the Prophet said them: sometimes because of tawatur among them, sometimes because the Umma received them with acceptance.",
+  "what_it_says": "Hadith scholars know most Sahih texts with certainty, either by tawatur or by the Umma's acceptance (talaqqi bi-l-qabul).",
+  "why_relevant": "Shows his two routes to certainty for hadith in the Sahihayn: tawatur and acceptance by the Umma.",
+  "stance": "own view",
+  "limits": "The claim that most Sahihayn texts are tawatur in wording is his assessment of the hadith scholars; the text does not list the tawatur chains. Not uncontested in later Islamic scholarship (see the contrast with some mutakallimun in T5-W-MF13-349).",
+  "significance": 5,
+  "famous": false
+ },
+ {
+  "id": "T5-W-MF18-40a",
+  "work": "MajmucFatawa",
+  "theme": [
+   "W"
+  ],
+  "ar": "وخبر الواحد المتلقى بالقبول يوجب العلم عند جمهور العلماء من أصحاب أبي حنيفة ومالك والشافعي وأحمد وهو قول أكثر أصحاب الأشعري كالإسفراييني وابن فورك؛ فإنه وإن كان في نفسه لا يفيد إلا الظن؛ لكن لما اقترن به إجماع أهل العلم بالحديث على تلقيه بالتصديق كان بمنزلة إجماع أهل العلم بالفقه على حكم مستندين في ذلك إلى ظاهر أو قياس أو خبر واحد فإن ذلك الحكم يصير قطعيا عند الجمهور وإن كان بدون الإجماع ليس بقطعي",
+  "ref": {
+   "work": "مجموع الفتاوى",
+   "volume": "18",
+   "page": "vol. 18, p. 40",
+   "chapter": "Same answer (vol. 18, p. 40)"
+  },
+  "vol_page": "vol. 18, p. 40",
+  "edition_note": "Majmu al-Fatawa, Majma al-Malik Fahd ed. (1416/1995), vol./page from PageV markers in OpenITI/Shamela text.",
+  "openiti_versionUri": "0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.MajmucFatawa/0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+  "offset_start": 9325320,
+  "offset_end": 9325732,
+  "ar_before": "يد العلم. وعلى هذا فكثير من متون الصحيحين متواتر اللفظ عند أهل العلم بالحديث وإن لم يعرف غيرهم أنه متواتر؛ ولهذا كان أكثر متون الصحيحين مما يعلم علماء الحديث علما قطعيا أن النبي صلى الله عليه وسلم قاله تارة لتواتره عندهم وتارة لتلقي الأمة له بالقبول.",
+  "ar_after": "؛ لأن الإجماع معصوم فأهل العلم بالأحكام الشرعية لا يجمعون على تحليل حرام ولا تحريم حلال كذلك أهل العلم بالحديث لا يجمعون على التصديق بكذب ولا التكذيب بصدق. وتارة يكون علم أحدهم لقرائن تحتف بالأخبار توجب لهم العلم ومن علم ما علموه حصل له من العلم ما ح",
+  "gloss_en": "[T5 translation, English] A single report accepted by the Umma yields knowledge according to the majority of scholars of the schools of Abu Hanifa, Malik, al-Shafii and Ahmad, and according to most Ash'aris such as al-Isfara'ini and Ibn Furak. In itself it yields only probability, but when the consensus of the hadith scholars in accepting it joins it, it becomes like the consensus of jurists on a ruling based on one report, which becomes certain for the majority even though without the consensus it is not certain.",
+  "what_it_says": "A khabar wahid accepted by the Umma (or by the hadith scholars) yields certainty, by analogy with ijma' on a ruling.",
+  "why_relevant": "Gives the argument for why the Sahih hadiths accepted by the Umma yield knowledge: the acceptance is treated like an infallible consensus.",
+  "stance": "own view",
+  "limits": "The argument depends on his premise that the consensus of the hadith scholars is infallible (\"معصوم\"). He attributes the majority view to schools and Ash'ari figures; these attributions are his and should be checked against the cited works.",
+  "significance": 5,
+  "famous": false
+ },
+ {
+  "id": "T5-W-MF18-47",
+  "work": "MajmucFatawa",
+  "theme": [
+   "W"
+  ],
+  "ar": "فلفظ المتواتر: يراد به معان؛ إذ المقصود من المتواتر ما يفيد العلم لكن من الناس من لا يسمي متواترا إلا ما رواه عدد كثير يكون العلم حاصلا بكثرة عددهم فقط ويقولون: إن كل عدد أفاد العلم في قضية أفاد مثل ذلك العدد العلم في كل قضية وهذا قول ضعيف. والصحيح ما عليه الأكثرون: أن العلم يحصل بكثرة المخبرين تارة وقد يحصل بصفاتهم لدينهم وضبطهم وقد يحصل بقرائن تحتف بالخبر يحصل العلم بمجموع ذلك وقد يحصل العلم بطائفة دون طائفة",
+  "ref": {
+   "work": "مجموع الفتاوى",
+   "volume": "18",
+   "page": "vol. 18, p. 47",
+   "chapter": "Same answer (vol. 18, p. 47), section beginning \"فصل: وأما عدة الأحاديث المتواترة التي في الصحيحين\""
+  },
+  "vol_page": "vol. 18, p. 47",
+  "edition_note": "Majmu al-Fatawa, Majma al-Malik Fahd ed. (1416/1995), vol./page from PageV markers in OpenITI/Shamela text.",
+  "openiti_versionUri": "0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.MajmucFatawa/0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+  "offset_start": 9329968,
+  "offset_end": 9330400,
+  "ar_before": "ي أثنائه الزيادة والنقصان فرب زيادة لفظة تحيل المعنى ونقص أخرى كذلك ومن مارس هذا الفن لم يكد يخفى عليه مواقع ذلك ولتصحيح الحديث وتضعيفه أبواب تدخل وطرق تسلك ومسالك تطرق. قال شيخ الإسلام - رحمه الله -: فصل: وأما عدة الأحاديث المتواترة التي في الصحيحين",
+  "ar_after": ". وأيضا فالخبر الذي تلقاه الأئمة بالقبول تصديقا له أو عملا بموجبه يفيد العلم عند جماهير الخلف والسلف وهذا في معنى المتواتر؛ لكن من الناس من يسميه المشهور والمستفيض ويقسمون الخبر إلى متواتر ومشهور وخبر واحد وإذا كان كذلك فأكثر متون الصحيحين معلومة متق",
+  "gloss_en": "[T5 translation, English] The word \"mutawatir\" is used in several senses, since the aim is what yields knowledge. Some people call a report mutawatir only if a large number transmitted it so that the knowledge comes from their number alone, and they say that any number that produced knowledge in one case produces it in every case; this is a weak view. The sound view, that of most scholars, is that knowledge comes from the multitude of informants at times, from their qualities of religion and precision at other times, and from qara'in that accompany the report at other times; and knowledge may arise for some groups and not for others.",
+  "what_it_says": "Tawatur has several sources of knowledge (number, informant quality, qara'in), and the same report may be certain for some groups and not for others.",
+  "why_relevant": "Lists the sources of tawatur-knowledge and rejects a purely numerical definition.",
+  "stance": "own view",
+  "limits": "The numerical view he rejects is attributed to unnamed people (\"من الناس\"). The \"most scholars\" claim is his characterization.",
+  "significance": 4,
+  "famous": false
+ },
+ {
+  "id": "T5-W-MF18-49",
+  "work": "MajmucFatawa",
+  "theme": [
+   "W"
+  ],
+  "ar": "وأما عدد ما يحصل به التواتر فمن الناس من جعل له عددا محصورا ثم يفرق هؤلاء فقيل: أكثر من أربعة وقيل: اثنا عشر وقيل: أربعون وقيل: سبعون وقيل: ثلاثمائة وثلاثة عشر وقيل: غير ذلك. وكل هذه الأقوال باطلة لتكافئها في الدعوى. والصحيح الذي عليه الجمهور: أن التواتر ليس له عدد محصور والعلم الحاصل بخبر من الأخبار يحصل في القلب ضرورة كما يحصل الشبع عقيب الأكل والري عند الشرب وليس لما يشبع كل واحد ويرويه قدر معين",
+  "ref": {
+   "work": "مجموع الفتاوى",
+   "volume": "18",
+   "page": "vol. 18, p. 49",
+   "chapter": "Same answer (vol. 18, p. 49)"
+  },
+  "vol_page": "vol. 18, p. 49",
+  "edition_note": "Majmu al-Fatawa, Majma al-Malik Fahd ed. (1416/1995), vol./page from PageV markers in OpenITI/Shamela text.",
+  "openiti_versionUri": "0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.MajmucFatawa/0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+  "offset_start": 9331685,
+  "offset_end": 9332103,
+  "ar_before": "ليس هو في أصله متواترا؛ بل هو من غرائب الصحيح لكن لما تلقوه بالقبول والتصديق صار مقطوعا بصحته. وفي السنن أحاديث تلقوها بالقبول والتصديق كقوله صلى الله عليه وسلم {لا وصية لوارث} فإن هذا مما تلقته الأمة بالقبول والعمل بموجبه وهو في السنن ليس في الصحيح.",
+  "ar_after": "؛ بل قد يكون الشبع لكثرة الطعام وقد يكون لجودته كاللحم وقد يكون لاستغناء الآكل بقليله؛ وقد يكون لاشتغال نفسه بفرح أو غضب؛ أو حزن ونحو ذلك. كذلك العلم الحاصل عقيب الخبر تارة يكون لكثرة المخبرين وإذا كثروا فقد يفيد خبرهم العلم وإن كانوا كفارا. وتارة يك",
+  "gloss_en": "[T5 translation, English] As for the number by which tawatur occurs: some people fixed a definite number and then differed: more than four; twelve; forty; seventy; three hundred and thirteen; or other numbers. All these views are void, because they are equally mere assertions. The sound view, held by the majority, is that tawatur has no fixed number; knowledge from a report arises in the heart by necessity, as satiety follows eating and quenching follows drinking, and there is no fixed quantity that satisfies each person or what each narrates.",
+  "what_it_says": "Numerical definitions of tawatur (4, 12, 40, 70, 313 and others) are rejected as mere assertions; knowledge arises \"by necessity\" in the hearer.",
+  "why_relevant": "The sharpest passage for contrasting his view with the numerical requirements he attributes to jurists and theologians.",
+  "stance": "own view",
+  "limits": "The numbers are given anonymously (\"قيل\"); the passage does not name the scholars who held them, so attributions must be checked in the usul works. The \"necessity\" (darura) analogy is his.",
+  "significance": 5,
+  "famous": true
+ },
+ {
+  "id": "T5-W-MF18-50b",
+  "work": "MajmucFatawa",
+  "theme": [
+   "W"
+  ],
+  "ar": "وإذا كان الخبر قد تواتر عند قوم دون قوم وقد يحصل العلم بصدقه لقوم دون قوم فمن حصل له العلم به وجب عليه التصديق به والعمل بمقتضاه كما يجب ذلك في نظائره",
+  "ref": {
+   "work": "مجموع الفتاوى",
+   "volume": "18",
+   "page": "vol. 18, p. 50",
+   "chapter": "Same answer (vol. 18, p. 50)"
+  },
+  "vol_page": "vol. 18, p. 50",
+  "edition_note": "Majmu al-Fatawa, Majma al-Malik Fahd ed. (1416/1995), vol./page from PageV markers in OpenITI/Shamela text.",
+  "openiti_versionUri": "0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.MajmucFatawa/0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+  "offset_start": 9333346,
+  "offset_end": 9333500,
+  "ar_before": " غلط غلطا عظيما؛ ولهذا كان التواتر ينقسم إلى: عام؛ وخاص فأهل العلم بالحديث والفقه قد تواتر عندهم من السنة ما لم يتواتر عند العامة كسجود السهو ووجوب الشفعة وحمل العاقلة العقل ورجم الزاني المحصن؛ وأحاديث الرؤية وعذاب القبر؛ والحوض والشفاعة؛ وأمثال ذلك.",
+  "ar_after": "ومن لم يحصل له العلم بذلك فعليه أن يسلم ذلك لأهل الإجماع الذين أجمعوا على صحته كما على الناس أن يسلموا الأحكام المجمع عليها إلى من أجمع عليها من أهل العلم؛ فإن الله عصم هذه الأمة أن تجتمع على ضلالة وإنما يكون إجماعها بأن يسلم غير العالم للعالم؛ إذ غي",
+  "gloss_en": "[T5 translation, English] When a report is tawatur among one group but not among another, and when knowledge of its truth arises for some people and not for others: whoever attains that knowledge must affirm the report and act on it, as in similar cases. Whoever does not attain that knowledge must leave it to the scholars who agreed on its authenticity, as people must accept agreed rulings from those scholars.",
+  "what_it_says": "Tawatur is relative to the hearer: a report can be tawatur for some and not for others, and those without the knowledge should defer to scholars.",
+  "why_relevant": "Makes explicit that tawatur is relative to the hearer's knowledge, and gives his reason for deference.",
+  "stance": "own view",
+  "limits": "The deference step (non-scholars should follow the Umma's scholars) is part of his argument and is a separate claim from relativity; the passage does not say which reports he has in mind here (the preceding text lists e.g. sajdat al-sahw and shuf'a).",
+  "significance": 4,
+  "famous": true
+ },
+ {
+  "id": "T5-W-MF18-68",
+  "work": "MajmucFatawa",
+  "theme": [
+   "W"
+  ],
+  "ar": "أما من أنكر تواتر حديث واحد فيقال له: التواتر نوعان: تواتر عن العامة؛ وتواتر عن الخاصة وهم أهل علم الحديث. وهو أيضا قسمان: ما تواتر لفظه؛ وما تواتر معناه. فأحاديث الشفاعة والصراط والميزان والرؤية وفضائل الصحابة ونحو ذلك متواتر عند أهل العلم وهي متواترة المعنى وإن لم يتواتر لفظ بعينه",
+  "ref": {
+   "work": "مجموع الفتاوى",
+   "volume": "18",
+   "page": "vol. 18, p. 68",
+   "chapter": "Answer to a question on people who deny that any single hadith is tawatur (vol. 18, p. 68)"
+  },
+  "vol_page": "vol. 18, p. 68",
+  "edition_note": "Majmu al-Fatawa, Majma al-Malik Fahd ed. (1416/1995), vol./page from PageV markers in OpenITI/Shamela text.",
+  "openiti_versionUri": "0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.MajmucFatawa/0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+  "offset_start": 9349197,
+  "offset_end": 9349486,
+  "ar_before": "ا في الاستحباب ثم اعتقاد موجبه وهو مقادير الثواب والعقاب يتوقف على الدليل الشرعي. وسئل: عن قوم اجتمعوا على أمور متنوعة في الفساد؛ ومنهم من يقول: لم يثبت عن النبي صلى الله عليه وسلم حديث واحد بالتواتر؛ إذ التواتر نقل الجم الغفير عن الجم الغفير؟ فأجاب:",
+  "ar_after": "وكذلك معجزات النبي صلى الله عليه وسلم الخارجة عن القرآن متواترة أيضا وكذلك سجود السهو متواتر أيضا عند العلماء وكذلك القضاء بالشفعة ونحو ذلك. وعلماء الحديث يتواتر عندهم ما لا يتواتر عند غيرهم؛ لكونهم سمعوا ما لم يسمع غيرهم وعلموا من أحوال النبي صلى ال",
+  "gloss_en": "[T5 translation, English] As for one who denies the tawatur of a single hadith: it is said to him that tawatur is of two kinds, tawatur among the common people and tawatur among the elite, the people of hadith science. It is also of two kinds: that whose wording is tawatur and that whose meaning is tawatur. The hadiths of intercession, the Sirat, the Balance, the vision of God, and the virtues of the Companions, and similar matters, are tawatur among the scholars; they are tawatur in meaning even if no single wording is tawatur.",
+  "what_it_says": "Tawatur is of two types, lafzi (wording) and ma'nawi (meaning); many doctrinal hadiths are tawatur in meaning only.",
+  "why_relevant": "The clearest statement in this slice of the lafzi / ma'nawi distinction and of relativity (\"tawatur among the elite\").",
+  "stance": "own view",
+  "limits": "The examples he gives (intercession, Sirat, Balance, vision of God, Companions' virtues) are doctrinal items on which Sunni and non-Sunni positions differ; the passage states his judgment, not a neutral inventory. The question-asker's position is paraphrased by him.",
+  "significance": 5,
+  "famous": true
+ },
+ {
+  "id": "T5-W-MF18-69",
+  "work": "MajmucFatawa",
+  "theme": [
+   "W"
+  ],
+  "ar": "والتواتر لا يشترط له عدد معين؛ بل من العلماء من ادعى أن له عددا يحصل له به العلم من كل ما أخبر به كل مخبر ونفوا ذلك عن الأربعة وتوقفوا فيما زاد عليها وهذا غلط فالعلم يحصل تارة بالكثرة؛ وتارة بصفات المخبرين؛ وتارة بقرائن تقترن بأخبارهم وبأمور أخر",
+  "ref": {
+   "work": "مجموع الفتاوى",
+   "volume": "18",
+   "page": "vol. 18, p. 69",
+   "chapter": "Same answer (vol. 18, p. 69)"
+  },
+  "vol_page": "vol. 18, p. 69",
+  "edition_note": "Majmu al-Fatawa, Majma al-Malik Fahd ed. (1416/1995), vol./page from PageV markers in OpenITI/Shamela text.",
+  "openiti_versionUri": "0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.MajmucFatawa/0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+  "offset_start": 9349791,
+  "offset_end": 9350042,
+  "ar_before": "ليه وسلم الخارجة عن القرآن متواترة أيضا وكذلك سجود السهو متواتر أيضا عند العلماء وكذلك القضاء بالشفعة ونحو ذلك. وعلماء الحديث يتواتر عندهم ما لا يتواتر عند غيرهم؛ لكونهم سمعوا ما لم يسمع غيرهم وعلموا من أحوال النبي صلى الله عليه وسلم ما لم يعلم غيرهم",
+  "ar_after": ". وأيضا فالخبر الذي رواه الواحد من الصحابة والاثنان: إذا تلقته الأمة بالقبول والتصديق أفاد العلم عند جماهير العلماء ومن الناس من يسمي هذا: المستفيض. والعلم هنا حصل بإجماع العلماء على صحته؛ فإن الإجماع لا يكون على خطإ؛ ولهذا كان أكثر متون الصحيحين مما",
+  "gloss_en": "[T5 translation, English] Tawatur does not require a fixed number. Some scholars claimed that there is a fixed number which yields knowledge from every report by every informant, and they denied this for the four and hesitated about any more; this is an error. Knowledge arises at times from multitude, at times from the qualities of the informants, and at times from qara'in that accompany their reports and from other factors.",
+  "what_it_says": "Restates that no fixed number is required; knowledge comes from multitude, informant qualities, and qara'in.",
+  "why_relevant": "Short, sharp restatement; also shows the claim that the scholars of hadith have tawatur that others lack.",
+  "stance": "own view",
+  "limits": "The \"four\" is probably the number of witnesses in legal testimony, but the Arabic is elliptical (\"ونفوا ذلك عن الأربعة\"); check the sense before quoting. The other scholars are unnamed.",
+  "significance": 4,
+  "famous": false
+ },
+ {
+  "id": "T5-W-MF4-29",
+  "work": "MajmucFatawa",
+  "theme": [
+   "E",
+   "W"
+  ],
+  "ar": "ولهذا لا نحتج على منكر العلم إلا بوجودنا نفوسنا عالمة؛ كما احتجوا على منكري الأخبار المتواترة بأنا نجد نفوسنا عالمة بذلك وجازمة به كعلمنا وجزمنا بما أحسسناه. وجعل المحققون وجود العلم بخبر من الأخبار هو الضابط في حصول التواتر؛ إذ لم يحدوه بعدد ولا صفة؛ بل متى حصل العلم كان هو المعتبر، والإنسان يجد نفسه عالمة وهذا حق",
+  "ref": {
+   "work": "مجموع الفتاوى",
+   "volume": "4",
+   "page": "vol. 4, p. 29",
+   "chapter": "Epistemology section in the discussion of self-knowledge and certainty (vol. 4, p. 29)"
+  },
+  "vol_page": "vol. 4, p. 29",
+  "edition_note": "Majmu al-Fatawa, Majma al-Malik Fahd ed. (1416/1995), vol./page from PageV markers in OpenITI/Shamela text.",
+  "openiti_versionUri": "0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.MajmucFatawa/0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+  "offset_start": 1431057,
+  "offset_end": 1431390,
+  "ar_before": "ارى فأعظم ضلالا منهم وإن كانوا في العادة والأخلاق أقل منهم شرا فليسوا جازمين بغالب ضلالهم بل عند الاعتبار تجد من ترك الهوى من الطائفتين ونظر نوع نظر تبين له الإسلام حقا. والمقصود هنا: أن معرفة الإنسان بكونه يعلم أو لا يعلم: مرجعه إلى وجود نفسه عالمة.",
+  "ar_after": ". فإنه لا يجوز أن يستدل الإنسان على كونه عالما بدليل فإن علمه بمقدمات ذلك الدليل يحتاج إلى أن يجد نفسه عالمة بها فلو احتاج علمه بكونه عالما إلى دليل أفضى إلى الدور أو التسلسل؛ ولهذا لا يحس الإنسان بوجود العلم عند وجود سببه إن كان بديهيا؛ أو إن كان نظ",
+  "gloss_en": "[T5 translation, English] So we argue against one who denies knowledge only by our finding ourselves knowing; as they argued against those who denied tawatur reports, saying that we find ourselves knowing and certain of them, as we know and are certain of what we perceived. The verifiers (al-muhaqqiqun) made the existence of knowledge from a report the criterion of tawatur, since they did not limit it by number or quality; whenever knowledge arises, that is what counts; a person finds himself knowing, and this is true.",
+  "what_it_says": "The criterion of tawatur is the knowledge that arises in the hearer; the hearer finds himself knowing, which is the basis for the argument against deniers.",
+  "why_relevant": "Ties tawatur to his theory of self-evident knowledge (a person \"finds himself knowing\") and to the response to skeptics.",
+  "stance": "own view",
+  "limits": "The \"verifiers\" are unnamed; the paragraph is part of a long epistemological discussion in which he is also engaging Razi and the Ash'aris, so the tone is argumentative. The same sentence occurs in Intisar (vol. 1, p. 45), a duplicate for citation purposes.",
+  "significance": 5,
+  "famous": true
+ },
+ {
+  "id": "T5-W-MF13-349",
+  "work": "MajmucFatawa",
+  "theme": [
+   "W"
+  ],
+  "ar": "ولهذا كان جمهور أهل العلم من جميع الطوائف على أن \" خبر الواحد \" إذا تلقته الأمة بالقبول تصديقا له أو عملا به أنه يوجب العلم وهذا هو الذي ذكره المصنفون في أصول الفقه من أصحاب أبي حنيفة ومالك والشافعي وأحمد إلا فرقة قليلة من المتأخرين اتبعوا في ذلك طائفة من أهل الكلام أنكروا ذلك؛ ولكن كثيرا من أهل الكلام أو أكثرهم يوافقون الفقهاء وأهل الحديث والسلف على ذلك وهو قول أكثر الأشعرية كأبي إسحاق وابن فورك وأما ابن الباقلاني فهو الذي أنكر ذلك وتبعه مثل أبي المعالي وأبي حامد وابن عقيل وابن الجوزي وابن الخطيب والآمدي ونحو هؤلاء",
+  "ref": {
+   "work": "مجموع الفتاوى",
+   "volume": "13",
+   "page": "vol. 13, p. 350",
+   "chapter": "Answer on the transmission of hadith and the certainty of Sahih reports (vol. 13, pp. 349-350)"
+  },
+  "vol_page": "vol. 13, p. 350",
+  "edition_note": "Majmu al-Fatawa, Majma al-Malik Fahd ed. (1416/1995), vol./page from PageV markers in OpenITI/Shamela text.",
+  "openiti_versionUri": "0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.MajmucFatawa/0728IbnTaymiyya.MajmucFatawa.Shamela0007289-ara1",
+  "offset_start": 7264002,
+  "offset_end": 7264537,
+  "ar_before": "إجماع على الخطإ وذلك ممتنع وإن كنا نحن بدون الإجماع نجوز الخطأ أو الكذب على الخبر فهو كتجويزنا قبل أن نعلم الإجماع على العلم الذي ثبت بظاهر أو قياس ظني أن يكون الحق في الباطن؛ بخلاف ما اعتقدناه فإذا أجمعوا على الحكم جزمنا بأن الحكم ثابت باطنا وظاهرا.",
+  "ar_after": "والأول هو الذي ذكره الشيخ أبو حامد وأبو الطيب وأبو إسحاق وأمثاله من أئمة الشافعية وهو الذي ذكره القاضي عبد الوهاب وأمثاله من المالكية وهو الذي ذكره أبو يعلى وأبو الخطاب وأبو الحسن بن الزاغوني وأمثالهم من الحنبلية. وهو الذي ذكره شمس الدين السرخسي وأمث",
+  "gloss_en": "[T5 translation, English] Most scholars of all sects agree that a single report, when the Umma accepts it by affirming or acting on it, yields certainty. This is what the authors of usul al-fiqh among the Hanafis, Malikis, Shafiis and Hanbalis stated, except a small group of later scholars who followed some mutakallimun who denied it. Many mutakallimun, or most of them, agree with the jurists, the hadith scholars and the early generations on this; it is the view of most Ash'aris, such as Abu Ishaq and Ibn Furak. As for Ibn al-Baqillani, he is the one who denied it, and Abu al-Maali, Abu Hamid, Ibn Aqil, Ibn al-Jawzi, Ibn al-Khatib, al-Amidi and similar scholars followed him.",
+  "what_it_says": "Reports the majority of jurists and hadith scholars holds that Umma-accepted khabar wahid yields certainty; names the mutakallimun (Ibn al-Baqillani and followers) who deny it.",
+  "why_relevant": "The clearest direct contrast with mutakallimun on whether a report yields knowledge, with names.",
+  "stance": "own view",
+  "limits": "These are his characterizations of the schools (\"most Ash'aris\", the attributions to Ibn al-Baqillani and followers). Check against the primary usul and kalam texts before quoting the attributions as fact. Earlier in the same passage he states the premise that consensus cannot be wrong.",
+  "significance": 5,
+  "famous": true
+ },
+ {
+  "id": "T5-W-MS1-55",
+  "work": "MinhajSunna",
+  "theme": [
+   "W"
+  ],
+  "ar": "فإن كثرة الشهادات والأخبار قد توجب العلم وإن لم يكن كل من المخبرين ثقة حافظا حتى يحصل العلم بمخبر الأخبار المتواترة وإن كان المخبرون من أهل الفسوق إذا لم يحصل بينهم تشاعر وتواطؤ",
+  "ref": {
+   "work": "منهاج السنة النبوية",
+   "volume": "1",
+   "page": "vol. 1, p. 55",
+   "chapter": "Polemic against Shia narrators (Minhaj, vol. 1, p. 55)"
+  },
+  "vol_page": "vol. 1, p. 55",
+  "edition_note": "Minhaj al-Sunna, Shamela Zaydiyya text; print edition not named; page markers as given.",
+  "openiti_versionUri": "0728IbnTaymiyya.MinhajSunna.Zaydiyya0000108-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.MinhajSunna/0728IbnTaymiyya.MinhajSunna.Zaydiyya0000108-ara1",
+  "offset_start": 33483,
+  "offset_end": 33664,
+  "ar_before": "في زمن تابعي التابعين وإنما ذكرنا هذا لأن عبد الرحمن وكثير من الناس لا يحتج بروايته المفردة إما لسوء حفظه وإما لتهمة في تحسين الحديث وإن كان له علم ومعرفة بأنواع من العلوم ولكن يصلحون للاعتضاد والمتابعة كمقاتل بن سليمان ومحمد بن عمر الواقدي وأمثالهما",
+  "ar_after": "والقول الحق الذي يقوم عليه الدليل يقبل من كل من قاله وإن لم يقبل بمجرد إخبار المخبر به فلهذا ذكرنا ما ذكره عبد الرحمن بن مالك بن مغول فإن غاية ما فيه أنه قاله ذاكرا لا آثرا وعبد الرحمن هذا يروي عن أبيه وعن الأعمش وعن (1/56) عبيد الله بن عمر ولا يحتج ",
+  "gloss_en": "[T5 translation, English] Accumulated testimonies and reports can yield knowledge even if not every informant is a reliable, precise narrator, so that knowledge of tawatur reports is reached; and even if the informants are wicked (fussaq), provided there is no collusion or conspiracy among them. The true statement that is supported by evidence is accepted from whoever says it, even if it is not accepted merely on the report of the one who reports it.",
+  "what_it_says": "Tawatur-type knowledge can arise from multiple reports without collusion, even if individual informants are not reliable.",
+  "why_relevant": "Clear statement that tawatur does not depend on the moral reliability of each informant, only on the absence of collusion.",
+  "stance": "own view",
+  "limits": "Written in polemic against Shia narrators (the passage discusses a report transmitted by Abd al-Rahman ibn Malik ibn Mughawwal). The point is general, but the context is partisan; cite with that context. Print edition not named in the file.",
+  "significance": 4,
+  "famous": false
+ },
+ {
+  "id": "T5-WC-JS2-43",
+  "work": "JawabSahih",
+  "theme": [
+   "W",
+   "C"
+  ],
+  "ar": "وإن قالوا: معجزات محمد - صلى الله عليه وسلم - لم تتواتر عندنا قيل: ليس من شرط التواتر أن يتواتر عند طائفة معينة بل هذا كما يقول المشركون والمجوس وغيرهم لم يتواتر عندنا معجزات موسى والمسيح - عليهما السلام - وإنما تتواتر أخبار كل إنسان عند من رأى المشاهدين له أو رأى من رآهم وهلم جرا",
+  "ref": {
+   "work": "الجواب الصحيح لمن بدل دين المسيح",
+   "volume": "2",
+   "page": "vol. 2, p. 43",
+   "chapter": "Reply to an objection about the transmission of Muhammad's miracles (vol. 2, p. 43)"
+  },
+  "vol_page": "vol. 2, p. 43",
+  "edition_note": "Al-Jawab al-Sahih, Dar al-Asima ed. (1419/1999), vol./page from PageV markers.",
+  "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.JawabSahih/0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "offset_start": 282469,
+  "offset_end": 282758,
+  "ar_before": "محمد - صلى الله عليه وسلم - وإن لم يكن دليلا لم يكن دليلا على نبوة موسى وعيسى، فإنه قد ثبت عن محمد من المعجزات ما لم يثبت مثله عن غيره ونقل معجزاته متواتر أعظم من نقل معجزات عيسى وغيره فيمتنع التصديق بآياته مع التكذيب بآيات محمد - صلى الله عليه وسلم.",
+  "ar_after": ". ومعلوم أن أصحاب محمد - صلى الله عليه وسلم - الذين رأوه ونقلوا معجزاته أضعاف أصحاب المسيح - عليه السلام - والتابعون الذين نقلوا ذلك عن الصحابة كذلك فيلزم من التصديق بمعجزات المسيح - عليه السلام - التصديق بمعجزات محمد - صلى الله عليه وسلم - ومن التكذ",
+  "gloss_en": "[T5 translation, English] If they say, \"Muhammad's miracles were not transmitted to us by tawatur,\" it is replied: tawatur does not require that it be transmitted to a specific group. Likewise the miracles of Moses and Jesus were not transmitted to the polytheists, the Magians and others; what is transmitted is the reports of each person to those who saw the witnesses, and so on.",
+  "what_it_says": "Replies to a hypothetical objection: tawatur need not be established within a specific audience; the reasoning is applied to miracles of Moses and Jesus as well.",
+  "why_relevant": "The best short statement of the relativity-of-tawatur argument in the polemic, showing that the same reasoning applies to Moses and Jesus.",
+  "stance": "hypothetical",
+  "limits": "This is a reply to an objection attributed to the interlocutors (\"if they say\"); it is not his statement of what Christians hold. The \"they\" are Jews and/or Christians from the context (the preceding lines mention Moses and Jesus). The sentence \"if they say ... we say\" is his device, not a quotation.",
+  "significance": 5,
+  "famous": true,
+  "attributed_to_christians": "In the hypothetical objection, the interlocutors (Jews and/or Christians, by context) accept miracles as proof of prophecy for Moses and Jesus but deny that Muhammad's miracles reached them by tawatur. The passage does not describe Christian doctrine on tawatur as such.",
+  "christian_check": null,
+  "verdict_candidate": "unverifiable",
+  "verdict_reason": "This is a hypothetical objection and reply within an argument for the prophethood of Muhammad. It does not state a Christian doctrine that a Christian primary source could confirm or refute, so it can only be judged as an argument."
+ },
+ {
+  "id": "T5-WC-JS2-272",
+  "work": "JawabSahih",
+  "theme": [
+   "W",
+   "C"
+  ],
+  "ar": "وهذا مما يؤيد أنهم فعلوا كذلك بالتوراة والإنجيل، فإنه إذا كان القرآن الذي قد عرف تفسيره والمراد به العام والخاص ونقل ذلك عن الرسول نقلا متواترا حتى عرف معناه علما يقينا اضطراريا فيبدلون معناه ويحرفون الكلم عن مواضعه فماذا يصنعون بالتوراة والإنجيل ولم ينقل لفظ ذلك ومعناه ; كما نقل القرآن وليس في أهل تلك الكتب من يذب عن لفظها ومعناها ; كما يذب المسلمون عن لفظ القرآن ومعناه",
+  "ref": {
+   "work": "الجواب الصحيح لمن بدل دين المسيح",
+   "volume": "2",
+   "page": "vol. 2, p. 272",
+   "chapter": "Argument on the textual transmission of the Torah and Gospel (vol. 2, p. 272)"
+  },
+  "vol_page": "vol. 2, p. 272",
+  "edition_note": "Al-Jawab al-Sahih, Dar al-Asima ed. (1419/1999), vol./page from PageV markers.",
+  "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.JawabSahih/0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "offset_start": 462817,
+  "offset_end": 463200,
+  "ar_before": "ريف الكلم عن مواضعه وتبديل كلام الله ; كما فعلوه في قوله: {ومن يبتغ غير الإسلام دينا} [آل عمران: 85] وفي قوله: بإذني أي باللاهوت وفي قوله: {اهدنا الصراط المستقيم} [الفاتحة: 6] . وفي غير ذلك مما ذكروه وتأولوه من القرآن على غير المعنى الذي أراد الله به",
+  "ar_after": "؟ . وهؤلاء غرهم قوله: {ذلك الكتاب} [البقرة: 2] فظنوا أن لفظ ذلك لما كان يشار بها إلى الغائب أشير بها إلى الإنجيل. فيقال: لهم هذا كقوله: {ذلك نتلوه عليك من الآيات والذكر الحكيم} [آل عمران: 58] وأشار بذلك إلى ما تلاه قبل هذه الآية، وقوله: {واسألوا ما أ",
+  "gloss_en": "[T5 translation, English] This shows they did the same with the Torah and the Gospel. For if the Qur'an, whose tafsir is known and whose general and specific meanings were transmitted from the Messenger by tawatur until its meaning is known with necessary certainty, can still be changed in meaning and its words twisted by them, what would they do with the Torah and the Gospel, whose wording was not transmitted as the Qur'an was, and among the people of those books there is no one who defends their wording or meaning as Muslims defend the wording and meaning of the Qur'an?",
+  "what_it_says": "The Torah and Gospel were not transmitted with the tawatur the Qur'an enjoys, and no one among their communities defends their wording and meaning as Muslims do the Qur'an.",
+  "why_relevant": "Links tawatur directly to the claim that Christian scripture is textually unreliable; the key claim for the C-theme check.",
+  "stance": "own view",
+  "limits": "This is his polemical claim about the Christians' and Jews' scriptures, not a quotation. It is stated as a sweeping generalization (\"no one ... defends\"). The Christian check below uses Jerome, who shows scholarly work on the text. Only the Gospel-side claim is relevant here.",
+  "significance": 5,
+  "famous": true,
+  "attributed_to_christians": "Christians (and Jews) have altered the meaning of their scriptures; the Torah and Gospel were not transmitted by tawatur as the Qur'an was, and no one in those communities defends their wording and meaning as Muslims defend the Qur'an.",
+  "christian_check": {
+   "source": "Jerome, Preface to the Four Gospels (letter to Pope Damasus, usually dated c. 383; other dating 376-377)",
+   "quotation": "Per a search-tool summary (not verbatim): Jerome says the Latin copies differ so widely that there are almost as many forms of text as there are copies, and he undertook to correct the Latin Gospels against Greek manuscripts.",
+   "url": "https://www.newadvent.org/fathers/3002.htm",
+   "verification": "Summary from WebSearch/WebFetch; wording must be checked against the English or Latin text before use."
+  },
+  "verdict_candidate": "partly faithful",
+  "verdict_reason": "Jerome shows that early Latin texts circulated in many differing copies and that scholars corrected them against Greek, so the claim of no textual care is overstated; but the passage correctly notes that variant copies existed and that Christian scripture lacked a single fixed text in the sense he means. His inference from variants to altered meaning is his own argument."
+ },
+ {
+  "id": "T5-WC-JS1-363",
+  "work": "JawabSahih",
+  "theme": [
+   "W",
+   "C"
+  ],
+  "ar": "وأما النصارى، فليست الصلوات التي يصلونها منقولة عن المسيح عليه السلام ولا الصوم الذي يصومونه منقولا عن المسيح، بل جعل أولهم الصوم أربعين يوما، ثم زادوا فيه عشرة أيام، ونقلوه إلى الربيع، وليس هذا منقولا عندهم عن المسيح عليه السلام. وكذلك حجهم للقمامة، وبيت لحم، وكنيسة صيدنايا ليس شيء من ذلك منقولا عن المسيح عليه السلام",
+  "ref": {
+   "work": "الجواب الصحيح لمن بدل دين المسيح",
+   "volume": "1",
+   "page": "vol. 1, p. 363–364",
+   "chapter": "Christian prayers, fasts, pilgrimages and feasts compared with those transmitted from the Prophet (vol. 1, pp. 363-364)"
+  },
+  "vol_page": "vol. 1, p. 363–364",
+  "edition_note": "Al-Jawab al-Sahih, Dar al-Asima ed. (1419/1999), vol./page from PageV markers.",
+  "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.JawabSahih/0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+  "offset_start": 190542,
+  "offset_end": 190885,
+  "ar_before": "ا الناس إلى حجه وحجته الأنبياء، حتى حجه موسى بن عمران ويونس بن متى وغيرهما، وإجماعهم على وجوب الاغتسال من الجنابة وتحريم الخبائث وإيجاب الطهارة للصلاة، فإن هذا كله مما تلقوه عن نبيهم، وهو منقول عنه صلى الله عليه وسلم نقلا متواترا وهو مذكور في القرآن.",
+  "ar_after": "، بل وكذلك عامة أعيادهم مثل عيد القلندس، وعيد الميلاد، وعيد الغطاس - وهو القداس - وعيد الخميس وعيد الصليب الذي جعلوه في وقت ظهور الصليب، لما أظهرته هيلانة الحرانية الفندقانية أم قسطنطين بعد المسيح عليه السلام بمائتين من السنين، وعيد الخميس والجمعة وا",
+  "gloss_en": "[T5 translation, English] As for the Christians: their prayers are not transmitted from the Messiah, peace be upon him, nor is the fast they keep transmitted from the Messiah; rather their first ones made the fast forty days, then added ten days and moved it to spring, and this is not transmitted among them from the Messiah. Likewise their pilgrimage to the Qumama (the Holy Sepulchre), to Bethlehem and to the church of Saydnaya: none of that is transmitted from the Messiah.",
+  "what_it_says": "Christian prayers, the Lenten fast, and pilgrimage churches are not transmitted from Jesus; by contrast he says Muslim practices are transmitted by tawatur from the Prophet.",
+  "why_relevant": "Shows his use of tawatur as the criterion of origin for religious practices; the sharpest example of the argument applied to Christian practice.",
+  "stance": "own view",
+  "limits": "The claim that the prayers are \"not transmitted from the Messiah\" is his judgment; Christians claim Gospel and apostolic sources for some practices (see the Didache and Basil in the christian_check). The date for Helena (see next sentence in the text) is approximate. The passage spans pp. 363-364 of the edition.",
+  "significance": 4,
+  "famous": true,
+  "attributed_to_christians": "Christian prayers, the fast (forty days then ten added, moved to spring), the pilgrimage churches (Holy Sepulchre, Bethlehem, Saydnaya) and the feasts are not transmitted from Jesus; Muslim practices are transmitted by tawatur from the Prophet.",
+  "christian_check": {
+   "source": "Didache 8.1-3 (early Christian text); Eusebius, Life of Constantine III.28 (discovery of the Holy Sepulchre and Constantine's order to build a church); Basil, On the Holy Spirit 27.66 (unwritten apostolic practices)",
+   "quotation": "Didache 8: fast on Wednesdays and Fridays, and \"pray thus three times a day\" with the Lord's Prayer \"as the Lord commanded in his Gospel\" (English per bc.edu transcription, quoted via WebFetch summary). Eusebius III.28: \"the venerable and hollowed monument of our Saviour's resurrection was discovered\" (via WebFetch summary). Basil 27.66 asks what writing taught the sign of the cross and turning east in prayer (via search summary).",
+   "url": "https://www.bc.edu/content/dam/files/research_sites/cjl/sites/partners/cbaa_seminar/didache.htm ; https://www.newadvent.org/fathers/25023.htm ; https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_VIII/De_Spiritu_Sancto/Chapter_27",
+   "verification": "All three quotations come from WebFetch/WebSearch summaries, not from checked originals. Verify wording before use."
+  },
+  "verdict_candidate": "partly faithful",
+  "verdict_reason": "He is right that the Gospels do not record Jesus instituting several of these practices and sites, and that the Holy Sepulchre church and the pilgrimage cult belong to the Constantinian period. But he presents Christian practices as simply \"not transmitted from Christ\" and does not engage the Christian claims of apostolic or unwritten tradition (Basil) or of Gospel origin for the Lord's Prayer (Didache)."
+ }
+]

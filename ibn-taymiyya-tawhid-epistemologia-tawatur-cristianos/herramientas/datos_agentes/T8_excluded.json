@@ -1,0 +1,128 @@
+[
+  {
+    "id": "T8-X01",
+    "work": "JawabSahih",
+    "theme": [
+      "C"
+    ],
+    "ar": "أومن بإله واحد، أب ضابط الكل، خالق السماوات والأرض، كل ما يرى وما لا يرى، وبرب واحد يسوع المسيح ابن الله الوحيد المولود من الأب قبل كل الدهور، نور من نور، إله حق من إله حق، من جوهر أبيه، مولود غير مخلوق، مساو للأب في الجوهر الذي به كان كل شيء",
+    "vol_page": "vol. 3, p. 227",
+    "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "offset_start": 757144,
+    "offset_end": 757392,
+    "stance": "quotes Christian text",
+    "reason_excluded": "Nicene-style Creed as IT quotes it. Strong primary Christian text, but over the 15-passage cap; its content is used in T8-C10. Priority candidate if T9 needs the Creed text."
+  },
+  {
+    "id": "T8-X02",
+    "work": "JawabSahih",
+    "theme": [
+      "C"
+    ],
+    "ar": "وبعضهم يقول: إن الأقانيم الثلاثة: جواد حكيم قادر، فيجعل الأب هو الجواد، والابن هو الحكيم، وروح القدس هو القادر، ويزعمون أن جميع الصفات تدخل تحت هذه الثلاثة، ويقولون: إنا استدللنا على وجوده بإخراجه الأشياء من العدم إلى الوجود، وذلك من جوده. وقد رأيت في كتب النصارى هذا وهذا وهذا، ومنهم من يعبر عن الكلمة بالعلم، فيقولون: موجود حي عالم، أو موجود عالم قادر، كما يقول بعضهم: ناطق، ومنهم من يقول موجود حي حكيم، ومنهم من يقول قائم بنفسه حي حكيم",
+    "vol_page": "vol. 3, p. 189",
+    "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "offset_start": 724052,
+    "offset_end": 724502,
+    "stance": "own view",
+    "reason_excluded": "Variant gloss (Father = generous, Son = wise, Spirit = powerful; 'living, knowing'). Duplicate of the attribute-variant point in T8-C02; kept out for the cap."
+  },
+  {
+    "id": "T8-X03",
+    "work": "JawabSahih",
+    "theme": [
+      "C"
+    ],
+    "ar": "وأما روح القدس: فهي لفظة موجودة في غير موضع من الكتب التي عندهم، وليس المراد بها حياة الله باتفاقهم، بل روح القدس عندهم تحل في إبراهيم وموسى وداود وغيرهم من الأنبياء الصالحين",
+    "vol_page": "vol. 3, p. 193",
+    "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "offset_start": 728642,
+    "offset_end": 728820,
+    "stance": "own view",
+    "reason_excluded": "IT says the Holy Spirit is 'not God's life, by their agreement' and is the spirit given to prophets. This conflicts with the 'Spirit = life' gloss in T8-C01/C02; flagged for T9 (what do Christians say?). Kept out for the cap."
+  },
+  {
+    "id": "T8-X04",
+    "work": "JawabSahih",
+    "theme": [
+      "C"
+    ],
+    "ar": "أن المتحد بالمسيح هو الكلمة الذي هو العلم، وهذا إن أرادوا به نفس الذات العالمة الناطقة، كان المسيح هو الأب، وكان المسيح نفسه هو الأب، وهو الابن، وهو روح القدس، وهذا عندهم وعند جميع الناس باطل وكفر. وإن قالوا المتحد به هو العلم، فالعلم صفة لا تفارق العالم، ولا تفارق الصفة الأخرى التي هي حياة، فيمتنع أن يتحد به العلم دون الذات، ودون الحياة. الوجه السادس: أن العلم أيضا صفة، والصفة لا تخلق ولا ترزق، والمسيح نفسه ليس هو صفة قائمة بغيرها باتفاق العقلاء، وأيضا فهو عندهم خالق السماوات والأرض، فامتنع أن يكون المتحد به صفة، فإن الإله المعبود هو الإله الحي العالم القادر، وليس هو نفس الحياة، ولا نفس العلم والكلام",
+    "vol_page": "vol. 3, p. 225",
+    "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "offset_start": 755378,
+    "offset_end": 756013,
+    "stance": "own view",
+    "reason_excluded": "Reductio: if the united Word is the whole essence, Christ is the Father; if it is knowledge, see T8-C08. Overlaps T8-C08 and T8-C10; kept out for the cap."
+  },
+  {
+    "id": "T8-X05",
+    "work": "JawabSahih",
+    "theme": [
+      "C"
+    ],
+    "ar": "وإذا جعل الناسوت الذي ولدته ابنا للاهوت، فلأي شيء لا تجعل هي صاحبة وزوجة للاهوت فإن المسيح عندهم اسم لمجموع اللاهوت والناسوت، وهو عندهم إله تام وإنسان تام، فلاهوته من الله، وناسوته من مريم، فهو من أصلين: لاهوت وناسوت، فإذا كان أحد الأصلين أباه والآخر أمه، فلماذا لا تكون أمه زوجة أبيه بهذا الاعتبار، مع أن المصاحبة قبل البنوة",
+    "vol_page": "vol. 3, p. 192",
+    "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "offset_start": 727086,
+    "offset_end": 727421,
+    "stance": "own view",
+    "reason_excluded": "Reductio: if the humanity born of Mary is a son of the divinity, Mary should be the divinity's wife. IT says this is 'necessary for common Christians' (this claim about the general Christian people is a straw-man check point). Kept out for the cap; priority for question 4/straw-man check if room."
+  },
+  {
+    "id": "T8-X06",
+    "work": "JawabSahih",
+    "theme": [
+      "C"
+    ],
+    "ar": "قالت النصارى روح الله من ذات الله وكلمة الله من ذات الله كما يقال هذه الخرقة من هذا الثوب",
+    "vol_page": "vol. 2, p. 17",
+    "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "offset_start": 264771,
+    "offset_end": 264862,
+    "stance": "reports opponent",
+    "reason_excluded": "Imam Ahmad (quoted by IT, 'al-Radd 'ala al-Jahmiyya') reports that the Christians say the Spirit and the Word of God are 'from God's essence', like a piece of cloth from a cloth. Strong for question 6; kept out for the cap. Its quotation chain is Ahmad's, not IT's."
+  },
+  {
+    "id": "T8-X07",
+    "work": "JawabSahih",
+    "theme": [
+      "C"
+    ],
+    "ar": "المريميون يقولون إن مريم إله وإن عيسى إله",
+    "vol_page": "vol. 2, p. 14",
+    "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "offset_start": 262911,
+    "offset_end": 262952,
+    "stance": "reports opponent",
+    "reason_excluded": "Sect report (Mariamites: Mary and Jesus are gods), relayed via Sa'id ibn al-Bitriq (Eutychius) in IT's Quran commentary. Relevant to sect distinctions (question 7); kept out for the cap."
+  },
+  {
+    "id": "T8-X08",
+    "work": "JawabSahih",
+    "theme": [
+      "C"
+    ],
+    "ar": "وهم من النصرانية على دين الملك مع اختلافهم من أمرهم يقولون هو الله، ويقولون هو ولد الله، ويقولون هو ثالث ثلاثة، وكذلك قول النصرانية",
+    "vol_page": "vol. 1, p. 192",
+    "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "offset_start": 86934,
+    "offset_end": 87069,
+    "stance": "own view",
+    "reason_excluded": "Najran delegation narrative (sira context): 'they say he is God, they say he is God's son, they say he is third of three'. Needs the sira context (vol. 1 p. 189-192); kept out for the cap."
+  },
+  {
+    "id": "T8-X09",
+    "work": "JawabSahih",
+    "theme": [
+      "C"
+    ],
+    "ar": "وهم في هذه الأمانة قد جعلوا الله والدا وهو الأب، ومولودا وهو الابن، وجعلوه مساويا له في الجوهر، وقد نزه الله نفسه عن الأنواع الثلاثة، فقالوا: مولود غير مخلوق مساو الأب في الجوهر، فصرحوا بأنه مساو له في الجوهر، والمساوي ليس هو المساوى. ولا يساوي الأب في الجوهر إلا جوهر، فوجب أن يكون الابن جوهرا ثانيا، وروح القدس جوهرا ثالثا كما سيأتي. وهذا تصريح بإثبات ثلاثة جواهر، وثلاثة آلهة، ويقولون مع ذلك: إنما نثبت جوهرا واحدا وإلها واحدا، وهذا جمع بين النقيضين",
+    "vol_page": "vol. 3, p. 229",
+    "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "offset_start": 759204,
+    "offset_end": 759677,
+    "stance": "own view",
+    "reason_excluded": "Longer version of T8-C10 (includes 'they made God a begetter and the Son a begotten, equal in substance'). Duplicate of T8-C10; use the longer text if the orchestrator wants it."
+  }
+]

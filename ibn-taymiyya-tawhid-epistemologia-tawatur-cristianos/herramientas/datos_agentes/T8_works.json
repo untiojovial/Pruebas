@@ -1,0 +1,12 @@
+[
+  {
+    "id": "JawabSahih",
+    "title_ar": "الجواب الصحيح لمن بدل دين المسيح",
+    "title_es_or_en": "Al-Jawab al-Sahih li-man baddala din al-Masih (The Correct Answer to Those Who Changed the Religion of the Messiah)",
+    "edition_note": "Shamela 0000170 (OpenITI version of the Shamela edition). Printed edition per #META#: al-Jawab al-Sahih li-man baddala din al-Masih, 6 vols, ed. Ali ibn Hasan, Abd al-Aziz ibn Ibrahim, Hamdan ibn Muhammad, 2nd ed. 1419/1999, Dar al-Asima (Saudi Arabia). Page numbers = OpenITI PageVvvPppp markers, taken as volume/page of that printed edition; NOT checked against a scanned page image.",
+    "openiti_versionUri": "0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "openiti_url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.JawabSahih/0728IbnTaymiyya.JawabSahih.Shamela0000170-ara1",
+    "genre": "polemic / refutation of Christianity (6 vols)",
+    "notes": "Two OpenITI versions exist in the TSV: Shamela0000170 (1.48M chars, used here) and JK000330 (1.40M chars, not compared). The quoted Christian texts: (a) a long letter that IT attributes to Paul of Antioch (vol. 1 p. 99-100; the letter is quoted at length from vol. 3 p. ~181 and vol. 4); (b) the Nicene-style Creed as IT quotes it (vol. 3 p. 226-227); (c) Matthew 28:19 (vol. 3 p. 256); (d) Imam Ahmad's report of Christian views (vol. 2 p. 15, not selected). IT's own replies are the 'Wujuh' (numbered objections) and 'Fasl' sections. The quoted letter's Trinity section is at vol. 3 p. ~181-240 and 455-466; the attribute section at vol. 3 p. 279-300."
+  }
+]

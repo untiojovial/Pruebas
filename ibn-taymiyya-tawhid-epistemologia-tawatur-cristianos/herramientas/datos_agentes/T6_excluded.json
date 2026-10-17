@@ -1,0 +1,93 @@
+[
+ {
+  "id": "T6-X01",
+  "work": "JawabSahih",
+  "vol_page": "vol. 3, p. 26",
+  "reason": "Overlaps T6-06 and T6-07 (crucifixion). Backup: \"والحواريون كلهم اثنا عشر رجلا\"; \"لم ير أحد منهم المسيح مصلوبا، بل أخبرهم بصلبه بعض من شهد ذلك من اليهود\"; \"الواحد والاثنان والثلاثة والأربعة لا يمتنع وقوع الغلط منهم\".",
+  "anchor": "قصة الصلب مما وقع فيها الاشتباه"
+ },
+ {
+  "id": "T6-X02",
+  "work": "JawabSahih",
+  "vol_page": "vol. 3, p. 21",
+  "reason": "Quran claim: \"ألوفا مؤلفة أكثر من مائة ألف رأوه\" (over 100,000 saw the Prophet). Unsourced number; kept out. Useful for the Quran-side test.",
+  "anchor": "ألوفا مؤلفة أكثر من مائة ألف"
+ },
+ {
+  "id": "T6-X03",
+  "work": "JawabSahih",
+  "vol_page": "vol. 3, p. 422",
+  "reason": "Quran wording and rasm \"منقولة بالتواتر حفظا ورسما\" and \"الاعتماد في نقله على حفظ أهل التواتر\"; overlaps T6-05.",
+  "anchor": "ونقلوا رسم المصاحف أيضا بالتواتر"
+ },
+ {
+  "id": "T6-X04",
+  "work": "JawabSahih",
+  "vol_page": "vol. 3, pp. 414-419",
+  "reason": "Full Christian quotation (\"قالوا: ومثل هذا القول ... قول واحد ونص واحد ... كل أمة بلسانها\") exceeds 700 characters; quote boundary needed for the orchestrator. Use with T6-08/T6-03.",
+  "anchor": "قالوا: ومثل هذا القول في كتب الله المنزلة"
+ },
+ {
+  "id": "T6-X05",
+  "work": "JawabSahih",
+  "vol_page": "vol. 5, p. 277",
+  "reason": "Text attributed to Daniel (\"فسلطت عليهم بخت نصر ... وحرق كتبهم\"); a quoted (not Ibn Taymiyya-own) text whose source he does not name in this passage; not checked against the Book of Daniel (I did not verify it). Relevant to (c) only.",
+  "anchor": "وحرق كتبهم"
+ },
+ {
+  "id": "T6-X06",
+  "work": "JawabSahih",
+  "vol_page": "vol. 6, p. 337",
+  "reason": "Continuation of T6-12: \"والمتواتر أن (بخت نصر) هو الذي قدم في المرة الأولى\" and \"وعند النصارى من أخبارهم ... المتواترة ما لا يعرفه المسلمون واليهود\". Excluded for length (the span is over 700 characters); should be read with T6-12.",
+  "anchor": "وعند النصارى من أخبارهم وأخبار علمائهم وملوكهم المتواترة"
+ },
+ {
+  "id": "T6-X07",
+  "work": "JawabSahih",
+  "vol_page": "vol. 2, pp. 89-92",
+  "reason": "Ibn Taymiyya restating the Christian \"four claims\" (72 languages, identical, all from apostles, infallible); duplicate of T6-08/T6-09 and T6-03.",
+  "anchor": "فهذا أربع دعاوى أنها موجودة باثنين وسبعين لسانا"
+ },
+ {
+  "id": "T6-X08",
+  "work": "MajmucFatawa",
+  "vol_page": "vol. 20, p. 261",
+  "reason": "IMPORTANT consistency item, not used as a passage: he says one cannot argue that absence of a definitive proof means absence, \"كعدم الخبر المتواتر على القراءات الزائدة على ما في المصحف\" (as the absence of a mutawatir report for readings beyond the codex). Context is the argument on wa'id; orchestrator should check it against the Risala (T6-13).",
+  "anchor": "كعدم الخبر المتواتر على القراءات الزائدة"
+ },
+ {
+  "id": "T6-X09",
+  "work": "MajmucFatawa",
+  "vol_page": "vol. 22, p. 352",
+  "reason": "Basmala discussion: reports a view that a verse is Quranic in one reading \"لتواتر هذه القراءات\", then replies \"المتواتر هو الأمر الوجودي\". Needs context; mixed own/reported.",
+  "anchor": "فيقال: المتواتر هو الأمر الوجودي"
+ },
+ {
+  "id": "T6-X10",
+  "work": "MajmucFatawa",
+  "vol_page": "vol. 13, p. 400",
+  "reason": "Parallel to T6-15 in Majmu': \"القراءات الثابتة عن أئمة القراء ... هي بمنزلة القراءات الثابتة عن هؤلاء السبعة عند من ثبت ذلك عنده\" and \"ليست هذه القراءات السبعة هي مجموع حرف واحد\". Good backup for the \"established\" criterion.",
+  "anchor": "بل القراءات الثابتة عن أئمة القراء"
+ },
+ {
+  "id": "T6-X11",
+  "work": "MajmucFatawa",
+  "vol_page": "vol. 18, p. 204",
+  "reason": "Uses \"القراءة المتواترة\" for the standard reading in an exegetical argument (Q 4:79 type); shows his terminology but off-topic.",
+  "anchor": "ومعلوم أن معنى هذه القراءة يناقض القراءة المتواترة"
+ },
+ {
+  "id": "T6-X12",
+  "work": "Nubuwwat",
+  "vol_page": "not used",
+  "reason": "Searched: tawatur near Torah/Gospel/Christians (no hit). \"تحريف\" hits are general (vol 1 p. 6, 67, 107 editorial list). No usable passage.",
+  "anchor": null
+ },
+ {
+  "id": "T6-X13",
+  "work": "MuqaddimaFiUsulTafsir",
+  "vol_page": "not used",
+  "reason": "Searched near qira'at/ahruf/tawatur: no relevant passage.",
+  "anchor": null
+ }
+]
