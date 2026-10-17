@@ -1,0 +1,60 @@
+{
+ "manuel-ii": {
+  "ok": true,
+  "file": "Manuel_II_Paleologus.jpg",
+  "summary": "Miniatura de BnF Parisinus suppl. grec 309 (Oración fúnebre por Teodoro I Paleólogo). Subido originalmente por Pitchka (Wikipedia en inglés).",
+  "lic": "Public domain (PD-old, Public Domain Mark 1.0)"
+ },
+ "palamas": {
+  "ok": true,
+  "file": "Григорий_Палама_14в.jpg",
+  "summary": "Description Григорий Палама 14в.jpg English: 15th-century icon of Palamas Date 15th century Source photo from icon-art.info Official page - Museum site Author Unknown",
+  "lic": "Description Григорий Палама 14в.jpg English: 15th-century icon of Palamas Public domain Public domain false false"
+ },
+ "cantacuzeno": {
+  "ok": true,
+  "file": "John_VI_Kantakouzenos.jpg",
+  "summary": "Description John VI Kantakouzenos.jpg Byzantine Emperor John VI Kantakouzenos presiding over a synod. The Hesychast Council of Constantinople, 1351. Constantinople, 1370-75, paint on parchment, Greek Manuscript 1242, fol.5 v, 33,5x24 cm, Bibliothèque nationale de France, Paris. Date 8 March 2008 Source Manuscript of the collected Theological Works of John VI Kantakouzenos (Constantinople 1370s), today at the Bibliothèque nationale de France, Paris (Ms. grec 1242) Author Uploaded by Cplakidas Other versions This image has multiple extracted files : John VI Kantakouzenos (cropped).jpg [[|thumb|none|320x160px|[[:|John Kantakouzenos sword]]]] John Kantakouzenos sword.jpg",
+  "lic": "Description John VI Kantakouzenos.jpg Byzantine Emperor John VI Kantakouzenos presiding over a synod. The Hesychast Council of Constantinople, 1351. Constantinople, 1370-75, paint on parchment, Greek Manuscript 1242, fol.5 v, 33,5x24 cm, Bibliothèque nationale de France, Paris. Date 8 March 2008 Source Manuscript of the collected Theological Works of John VI Kantakouzenos (Constantinople 1370s), today at the Bibliothèque nationale de France, Paris (Ms. grec 1242) Author Uploaded by Cplakidas Other versions This image has multiple extracted files : John VI Kantakouzenos (cropped).jpg [[|thumb|none|320x160px|[[:|John Kantakouzenos sword]]]] John Kantakouzenos sword.jpg Public domain Public domain false false"
+ },
+ "maximo-griego": {
+  "ok": true,
+  "file": "Максим_Грек.jpg",
+  "summary": "Description Максим Грек.jpg English: Maxim the Greek Date XVI-XVII Source http://img-fotki.yandex.ru/get/12/tapirr.2b/0_5dd2_26d478f6_XL Author Unknown author Unknown author",
+  "lic": "Description Максим Грек.jpg English: Maxim the Greek Public domain Public domain false false"
+ },
+ "simeon-tesalonica": {
+  "ok": true,
+  "file": "Symeon_of_Thessaloniki.jpg",
+  "summary": "San Simeón de Tesalónica, códice 47 del monasterio de Vatopedi, f. 82 (1763). Fotocorrección de Lunyo.",
+  "lic": "Public domain (PD-old-100, PD-1923, Public Domain Mark 1.0)"
+ },
+ "choniates": {
+  "ok": true,
+  "file": "Niketas_Choniates.jpg",
+  "summary": "Description Niketas Choniates.jpg Deutsch: Niketas Choniates, Miniatur aus Niketas Choniates: Historia (Konstantinopel?, 14. Jh.), Wien, Österreichische Nationalbibliothek, Cod. Hist. gr. 53*, fol. 1v Date 2010 Source Scan aus Andreas Fingernagel (Hrsg.): Juden, Christen und Muslime. Interkultureller Dialog in alten Schriften. Kremayr & Scheriau, Wien 2010, ISBN 978-3-218-00809-9 Author Buchhändler Other versions This image has an extracted file : Niketas Choniates (cropped).jpg .",
+  "lic": "Description Niketas Choniates.jpg Deutsch: Niketas Choniates, Miniatur aus Niketas Choniates: Historia (Konstantinopel?, 14. Jh.), Wien, Österreichische Nationalbibliothek, Cod. Hist. gr. 53*, fol. 1v Public domain Public domain false false"
+ },
+ "zonaras": {
+  "ok": true,
+  "file": "Jean_Zonare_Historien_Grec._(BM_1879,1213.109).jpg",
+  "summary": "Jean Zonare Historien Grec. ( ) Title Jean Zonare Historien Grec. Description English: Portrait of Joannes Zonaras, half-length in profile to right, writing at desk; illustration to Thevet's \"Vrais portraits et vies des hommes illustres\" (Paris, 1584), p. 26 Engraving and letterpress Depicted people Illustration to: André Thevet Date circa 1584 date QS:P571,+1584-00-00T00:00:00Z/9,P1480,Q5727902 Medium paper Dimensions Height: 176 millimetres ((plate-mark)) Width: 146 millimetres Collection British Museum Native name British Museum Location London Coordinates 51° 31′ 10″ N, 0° 07′ 37″ W Established 1753 Website www.britishmuseum.org Authority file : Q6373 VIAF : 134857252 ISNI : 0000000123428817 ULAN : 500125180 LCCN : n79107735 NLA : 35022119 WorldCat",
+  "lic": "Jean Zonare Historien Grec. ( ) Title Jean Zonare Historien Grec. Public domain Public domain false false"
+ },
+ "zigabeno": {
+  "ok": true,
+  "file": "Commentary_on_Psalms_by_Euthymios_Zygabenos.jpg",
+  "summary": "",
+  "lic": ""
+ },
+ "descartadas": {
+  "manuel-ii (recorte)": {
+   "file": "Manuel_II_Palaiologos_(cropped).jpg",
+   "lic": "CC BY-SA 4.0 (recorte subido por Pitchka); sustituido por el original de dominio público Manuel_II_Paleologus.jpg y recortado por mí"
+  },
+  "simeon-tesalonica (fotografía)": {
+   "file": "Peinture_sainte_sophie_01558.jpg",
+   "lic": "CC BY-SA 4.0 (obra propia de G.Garitan; fotografía de una pintura de Santa Sofía de Tesalónica); sustituida por la miniatura de dominio público Symeon_of_Thessaloniki.jpg"
+  }
+ }
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "palamas_ep_captivity_1354",
+    "figure": "palamas",
+    "title_orig": "Γρηγορίου Παλαμᾶ ἐπιστολή (running header of the printed letter; also cited as the Epistle to his own church, 1354)",
+    "title_es": "Carta de Gregorio Palamás desde el cautiverio (a su propia Iglesia)",
+    "title_en": "Letter of Gregory Palamas from captivity (to his own church)",
+    "date": "c. 1354 (date as given in the brief; not re-verified in this task)",
+    "language": "Byzantine Greek",
+    "genre": "letter (captivity narrative with reported debates against Turkish interlocutors)",
+    "edition_original": "Νέος Ἑλληνομνήμων 16 (1922), τεῦχος 1, editor K. I. Dyovouniotis (editor name as given in the brief; not confirmed on the pages I read). Printed pages 10 to 21 read; p. 21 ends the letter with the closing doxology «τῶν αἰώνων ἀμήν». Start page not checked.",
+    "edition_english": "None found. No public-domain English translation located; not searched beyond the sources named in the brief.",
+    "digital_url": "https://olympias.lib.uoi.gr/jspui/bitstream/123456789/1865/1/doc.pdf (the PDF the first researcher downloaded; I read the local copy O2/dl/nh16_1.pdf, 69 PDF pages, image-only). Olympias itself failed to connect for me today (ws_closed_mid_exchange through the agent proxy), so my reading comes from that downloaded copy.",
+    "licence": "Olympias record https://olympias.lib.uoi.gr/jspui/handle/123456789/1865: 'licensed under a Creative Commons License 4.0 by Attribution 4.0 International' (CC BY 4.0). Issue date 31-Mar-1922; publisher Athens: Ὁ Φοῖνιξ. The 1922 text is a medieval Greek text printed in 1922.",
+    "authenticity_note": "Genuine as far as the pages read go: the letter is printed in NH 16 under Palamas's name and the running header reads Γρηγορίου Παλαμᾶ ἐπιστολή. First printed in 1922 (not in Migne, per the brief). The authorship and dating literature was not checked in this task.",
+    "notes": "Scan is image-only (no text layer, 2000 px-wide spreads). Every Greek quotation was transcribed by me from the page images (about 110 dpi, then re-checked on high-resolution crops at 160 dpi). Words marked [?] are uncertain at scan resolution. Printed page numbers are read from the page headers; PDF page n holds printed pp. 2n-2 and 2n-1 (pp. 10-11 on PDF p. 6, 16-17 on PDF p. 9, 18-19 on PDF p. 10, 20-21 on PDF p. 11)."
+  },
+  {
+    "id": "symeon_dialogue_heresies",
+    "figure": "symeon_thessalonica",
+    "title_orig": "Διάλογος ἐν Χριστῷ κατὰ πασῶν τῶν αἱρέσεων (title as cited in modern Greek sources)",
+    "title_es": "Diálogo en Cristo contra todas las herejías",
+    "title_en": "Dialogue in Christ against all heresies",
+    "date": "c. 1400-1429 (early 15th century, per the modern Greek introduction I read)",
+    "language": "Byzantine Greek (Latin translation printed beside it in Migne)",
+    "genre": "dialogue (anti-heretical catechesis)",
+    "edition_original": "Migne, PG 155 (Patrologiae cursus completus, Series Graeca), 'Dialogus contra omnes haereses', cols. c. 33-176 (per the brief). Chapter 14 'Contra gentes impias' located at approx. cols. 77-78 from the page headers of the OCR.",
+    "edition_english": "None found in public domain. Daniel Sahas and others have modern translations (not checked for rights, not quoted).",
+    "digital_url": "https://archive.org/download/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1866_155/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1866_155_djvu.txt (archive.org item bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1866_155; OCR text read at this URL. Its Greek columns are garbled in OCR; the Latin facing text is legible.)",
+    "licence": "Migne 1857-1866, 19th century: public domain by age. The archive.org item has no licence field; the digitisation is a BIM reprint.",
+    "authenticity_note": "Authorship by Symeon accepted in the printed PG 155; not otherwise checked in this task.",
+    "notes": "Chapter 14 'Contra gentes impias' answers a cleric's question about who was led into impiety by the heresy of Nestorius; the chapter then treats the Muslims. The Latin footnote (1) reads 'hic auctor loquitur de Mahumetis' (the author speaks of Muhammad). The Greek of this chapter could not be read reliably in the OCR, so the passages below carry the Latin only. A modern Greek reproduction of ch. 14 (ethnegersis.substack.com/p/28a, 2026) was used only as a locator: it is a Modern Greek translation with short Greek fragments, not a PD edition. Anemi (University of Crete, 1862 edition) and Documenta Catholica Omnia were not reachable (TLS verification failed with the provided CA bundle; I did not disable verification)."
+  },
+  {
+    "id": "palamas_dialogue_chiones",
+    "figure": "palamas",
+    "title_orig": "Τοῦ αὐτοῦ πρὸς τοὺς ἀθέους Χιόνας διάλεξις συγγραφεῖσα παρὰ ἰατροῦ τοῦ Ταρωνείτου (title as given in NH 16 p. 1 introduction)",
+    "title_es": "Diálogo de Palamás con los Chiones (impíos)",
+    "title_en": "Palamas's dialogue with the Chiones (Muslim interlocutors, recorded by Taronites)",
+    "date": "1354-1355 (captivity; as given in the brief)",
+    "language": "Byzantine Greek",
+    "genre": "dialogue (record of a debate, written by the physician Taronites)",
+    "edition_original": "NOT LOCATED as a public-domain Greek text. Printed in full in the Lampros copy only (per footnote 2 of Νέος Ἑλληνομνήμων 16 (1922) p. 1: 'Τὸ κείμενον παρατίθεται ὁλόκληρον ἐν τῷ ἀντιγράφῳ τοῦ Λάμπρου, παρέλειψα δ' ἐγὼ ἐνταῦθα χάριν συντομίας'; the same NH 16 introduction says the work is in Ross. cod. 215 of Agiou Pantelemonos on Athos, f. 708). Migne PG 150 lists it only as a manuscript (Paris cod. 1289 / Coislin. p. 171), not printed.",
+    "edition_english": "Modern English translation by Daniel J. Sahas (GOTR 1980) and Norman Russell (Liverpool UP, 2020): in copyright, not quoted.",
+    "digital_url": "not read (no PD Greek text reached). Searched: archive.org (only the 1883 Δελτίον vol. 2 and a 2026 Sahas translation found); Google Books API quota exhausted (429); HathiTrust blocked (403); Wikisource API rate-limited.",
+    "licence": "n/a",
+    "authenticity_note": "Attribution to Palamas as recorded in the Athos manuscript (per NH 16 p. 1); not otherwise checked.",
+    "notes": "No passages from this work could be verified and no Greek was quoted. The archive.org item 'St. Gregory Palamas' Letter to the Atheist Chiones' carries a CC0 mark but is Daniel Sahas's 1980 translation (an in-copyright text); it was read only to locate the content, not quoted."
+  }
+]

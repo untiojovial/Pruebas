@@ -1,0 +1,50 @@
+[
+ {
+  "id": "maxim_slovo1",
+  "figure": "maksim_grek",
+  "title_orig": "Слово обличительное против агарянского заблуждения и против измыслившего его скверного пса Магомета",
+  "title_es": "Discurso de refutación del error agareno y de Mahoma, que lo inventó (el título original contiene un insulto personal: «скверного пса»)",
+  "title_en": "Discourse of refutation against the Hagarene error and against Muhammad who devised it (own translation; no PD English found)",
+  "date": "c. 1520s; before 1525 per azbyka.ru annotation («написано до 1525 г.»); not checked against a critical edition",
+  "language": "Russian (1910 translation). Original language (Greek or Slavonic) NOT established in this session",
+  "genre": "Polemical treatise (first of the two 'Слова' in «Два слова против Магомета»)",
+  "edition_original": "Сочинения преподобнаго Максима Грека в русском переводе, Sergiev Posad: Holy Trinity-St Sergius Lavra, 1910, vol. 2, «Два слова против Магомета», pp. 38–82 (source note on azbyka.ru); paraklit.org cites it as «Догматико-полемические сочинения», гл. 6. Kazan 1859 edition (Сочинения ... изданные при Казанской духовной академии, ч. 1): NOT READ (rusneb.ru blocked behind a VPN notice).",
+  "edition_english": "NONE found in public domain. Own literal translation supplied for each passage.",
+  "digital_url": "https://azbyka.ru/otechnik/Maksim_Grek/magomet/ (READ); cross-checked at https://www.paraklit.org/eres/musulmanstvo/maksim_grek-islam (READ); second copy read: https://k-istine.ru/library/maksim_greek-01.htm",
+  "licence": "azbyka.ru shows epub/pdf download and a source note; no licence statement seen. Text is a 1910 imperial-era printing (public domain by age, team to confirm).",
+  "authenticity_note": "Attributed to Maxim in the 1910 Lavra edition (as cited by azbyka.ru) and on paraklit.org. Not checked against a critical edition or manuscript. Authorship UNVERIFIED independently.",
+  "notes": "Insult in the title («скверного пса», 'vile dog'); the Slovo 2 title has «пса Магомета». Quoted passages avoid the insults as argument, but some contain the adjective «скверный» ('foul/wicked') and devil-talk. The Muhammad 'legend' passages (Jewish and Arian teachers; the dove) are polemical narratives, not verified history. CROSS-CHECK: the pigeon episode and the sword dialogue (maxim_p06) are present in the azbyka.ru text only; paraklit.org and k-istine.ru omit them. k-istine.ru (https://k-istine.ru/library/maksim_greek-01.htm, read; cp1251; older orthography; title without the insult) is a second Russian copy with different wording in places."
+ },
+ {
+  "id": "maxim_slovo2",
+  "figure": "maksim_grek",
+  "title_orig": "Слово 2-е, о том же, к благочестивым против богоборца и пса Магомета; здесь же отчасти и сказание о кончине века сего",
+  "title_es": "Segundo discurso, sobre el mismo tema, a los piadosos, contra Mahoma; incluye en parte un relato sobre el fin de este siglo (título con insulto: «пса Магомета»)",
+  "title_en": "Second discourse, on the same matter, to the pious, against Muhammad; partly an account of the end of this age (own translation)",
+  "date": "c. 1520s; before 1525 per azbyka.ru annotation; not checked against a critical edition",
+  "language": "Russian (1910 translation)",
+  "genre": "Polemical and eschatological treatise (second 'Слово')",
+  "edition_original": "Same 1910 Lavra edition as maxim_slovo1 (vol. 2); paraklit.org cites it as «Догматико-полемические сочинения», гл. 7",
+  "edition_english": "NONE found in public domain. Own literal translation supplied.",
+  "digital_url": "https://azbyka.ru/otechnik/Maksim_Grek/magomet/ (READ); cross-checked at https://www.paraklit.org/eres/musulmanstvo/maksim_grek-islam (READ)",
+  "licence": "As maxim_slovo1: azbyka.ru shows no licence statement; 1910 printing.",
+  "authenticity_note": "As maxim_slovo1: attributed to Maxim in the cited editions; not checked against a critical edition. UNVERIFIED independently.",
+  "notes": "Contains the most quotable eschatological claim: Muhammad as the 'false prophet' and 'forerunner of the God-fighting Antichrist' (see maxim_p01). The azbyka.ru annotation summarises the work with the same claim."
+ },
+ {
+  "id": "maxim_otvety",
+  "figure": "maksim_grek",
+  "title_orig": "Ответы христиан против агарян (мусульман), хулящих нашу православную христианскую веру",
+  "title_es": "Respuestas de los cristianos a los agarenos (musulmanes) que blasfeman contra nuestra fe ortodoxa cristiana",
+  "title_en": "Answers of Christians to the Hagarenes (Muslims) who revile our Orthodox Christian faith (own translation)",
+  "date": "not given in the source read",
+  "language": "Russian (text on paraklit.org; origin of that text not established)",
+  "genre": "Apologetic guidance: how to answer Muslim objections from the Gospel",
+  "edition_original": "Cited on paraklit.org as «Догматико-полемические сочинения», гл. 8 (publisher and year not stated on the page). Not identified with the 1910 Lavra text.",
+  "edition_english": "NONE found in public domain.",
+  "digital_url": "https://www.paraklit.org/eres/musulmanstvo/maksim_grek-islam (READ)",
+  "licence": "No licence statement seen on paraklit.org; a devotional reproduction site.",
+  "authenticity_note": "Attributed to Maxim on paraklit.org; not checked against a critical edition. UNVERIFIED.",
+  "notes": "The paraklit.org page has an editorial gloss «[«Евангелие истинно» — Коран]» in another paragraph. It is not Maxim's text and is not in the quotes used here. The azbyka.ru page does not contain this text (only Slovo 1 and 2 were on it)."
+ }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "alexiad",
+    "figure": "anna_komnene",
+    "title_orig": "Ἀλεξιάς",
+    "title_es": "Alexíada",
+    "title_en": "The Alexiad",
+    "date": "c. 1148 (c. 1148-1150)",
+    "language": "Greek",
+    "genre": "history (imperial narrative)",
+    "edition_original": "Bonn CSHB, Annae Comnenae Alexias (Bonn 1839), listed as Google Books bub_gb_pjwTAAAAQAAJ (not opened); Greek text read: el.wikisource Αλεξιάς, Books 6 and 10 (base edition not stated)",
+    "edition_english": "Elizabeth A. S. Dawes, The Alexiad of Princess Anna Comnena (London: Kegan Paul, 1928), public domain by date",
+    "digital_url": "https://el.wikisource.org/wiki/%CE%91%CE%BB%CE%B5%CE%BE%CE%B9%CE%AC%CF%82/%CE%92%CE%B9%CE%B2%CE%BB%CE%AF%CE%BF_6 (Greek, Book 6 read); https://el.wikisource.org/wiki/%CE%91%CE%BB%CE%B5%CE%BE%CE%B9%CE%AC%CF%82/%CE%92%CE%B9%CE%B2%CE%BB%CE%AF%CE%BF_10 (Greek, Book 10 read); https://archive.org/details/alexiad-english-dawes-1928 (English; OCR text https://archive.org/download/alexiad-english-dawes-1928/Alexiad_English_Dawes_1928_djvu.txt)",
+    "licence": "Greek Wikisource: CC BY-SA page licence (transcription); Dawes 1928 public domain by date (pre-1931).",
+    "authenticity_note": "Genuine work of Anna Komnene; no doubt about authorship.",
+    "notes": "Book 6.13 read and quoted (passage). Book 10.5 read: the 'Ishmaelites' insult is excluded (see excluded.json). Greek source edition not confirmed."
+  },
+  {
+    "id": "synaxaristes_1868",
+    "figure": "theophilos_zakynthios",
+    "title_orig": "Συναξαριστὴς τῶν δώδεκα μηνῶν τοῦ ἐνιαυτοῦ",
+    "title_es": "Sinaxarista de los doce meses del año (vol. I, mayo-agosto)",
+    "title_en": "Synaxarist of the Twelve Months of the Year (vol. I, May-August)",
+    "date": "original text c. 17th-18th c. (Maurikios Liakonos, date not verified); this printing 1868 (archive metadata); Zakynthos footnote dates the Akolouthia to 1856",
+    "language": "Greek",
+    "genre": "hagiography (Synaxarion)",
+    "edition_original": "Athens: Ch. N. Philadelpheus, 1868, per archive.org metadata (synaxaristestond01nico); title page names Nikodemos the Hagiorite (OCR) and Zakynthos press of Sergios Ch. Raftanis; date conflict unresolved",
+    "edition_english": "none found",
+    "digital_url": "https://archive.org/details/synaxaristestond01nico (metadata); https://archive.org/download/synaxaristestond01nico/synaxaristestond01nico.pdf (PDF, read p. 197 = printed p. 193)",
+    "licence": "archive.org scan of a 19th-century printing (public domain)",
+    "authenticity_note": "Hagiographic compilation; the martyr account is not an eyewitness record; the martyr's words are reported.",
+    "notes": "Vol. I printed p. 193 read by visual reading of the scan; OCR (djvu) is noisy and not used for the quote. The vol. II entry for St Bacchos (Jerusalem, Agarenes) is excluded as out of period."
+  }
+]

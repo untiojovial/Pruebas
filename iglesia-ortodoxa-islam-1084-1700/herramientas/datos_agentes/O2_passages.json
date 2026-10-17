@@ -1,0 +1,58 @@
+[
+  {
+    "id": "palamas_letter_muhammad_mortal",
+    "figure": "palamas",
+    "work": "palamas_letter_thessalonica",
+    "theme": "M",
+    "harshness": 4,
+    "famous": {
+      "value": false,
+      "where_cited": "Not found cited in any source I read."
+    },
+    "ref": "Neos Hellenomnemon 16 (1922), issue 1, printed p. 10 (left column), lines beginning 'θνητῷ καὶ τεθαμμένῳ' (scanned PDF page 6, Olympias doc.pdf)",
+    "url": "https://olympias.lib.uoi.gr/jspui/handle/123456789/1865",
+    "quote_orig": "ἐπίστευσαν καὶ ἐσεβάσθησαν καὶ ἠκολούθησαν ἀνθρώπῳ ψιλῷ τε καὶ θνητῷ καὶ τεθαμμένῳ. Μωάμεθ οὗτος, παρὰ τὸν θεάνθρωπον καὶ ἀΐδιον λόγον, ὡς εἰ καὶ σαρκὶ θανάτου ἐγεύσατο, ἀλλ' ἵνα καταργήσῃ τὸν θάνατον, καὶ ἀρχηγὸς γένηται τῆς αἰωνίου καὶ ἀκηράτου ζωῆς, ἣν, ἀνθρώπου ψιλοῦ πάθος καὶ θάνατος καὶ ἀνάστασις, οὐδέποτ' ἂν ἠδυνήθη παρασχεῖν.",
+    "orig_url": "https://olympias.lib.uoi.gr/jspui/bitstream/123456789/1865/1/doc.pdf",
+    "quote_en": "«»",
+    "own_translation_en": "They believed in, revered and followed a mere and mortal man who was buried: this Muhammad, in place of the God-man and eternal Word; as if he too had tasted death in the flesh, whereas the Christ tasted it so as to destroy death and become the author of eternal and undying life, which the suffering, death and resurrection of a mere man could never have given. (Team's own literal translation, from my transcription of the scan.)",
+    "quote_latin": "none (the 1922 edition is Greek only)",
+    "licence_note": "Olympias scan of a 1922 Greek journal, CC BY 4.0 per record; Palamas (d. 1359) is public domain. Editor's text is the 1922 publication (Dyovouniotis).",
+    "keys": [
+      "Μωάμεθ οὗτος, παρὰ τὸν θεάνθρωπον καὶ ἀΐδιον λόγον",
+      "ἀνθρώπου ψιλοῦ πάθος καὶ θάνατος καὶ ἀνάστασις",
+      "ἀνθρώπῳ ψιλῷ τε καὶ θνητῷ καὶ τεθαμμένῳ"
+    ],
+    "what_it_says": "Palamas says that those who turned from Christ, the God-man and eternal Word, to Muhammad followed a mere mortal man, and that a mere man's passion, death and resurrection could not give eternal life as Christ's did.",
+    "context": "This is in the captivity letter, in a reflection on providence and on the Turks and Christians living together under Ottoman rule. The sentence that opens the passage speaks of people who 'knew' Christ but did not honour him as God; the subject is not named in the sentence, and I infer from the preceding words that it is the Turkish boasters Palamas has just described. The surrounding sentences insult the Turks as a people and are excluded (see excluded.json).",
+    "limits": "Doctrinal statement, but it is the author's own polemic, not a report of Muslim teaching. Translation is mine. The subject 'they' is inferred from context, not stated. Transcription from a scan: a few accents may differ from the printed text. No public-domain English exists that I could verify. The Chionai dialogue, where the debate on Muhammad is said to be reported, is a separate text and is not quoted here.",
+    "stance": "own view"
+  },
+  {
+    "id": "palamas_letter_turks_word_theotokos",
+    "figure": "palamas",
+    "work": "palamas_letter_thessalonica",
+    "theme": "Q",
+    "harshness": 2,
+    "famous": {
+      "value": false,
+      "where_cited": "Not found cited in any source I read."
+    },
+    "ref": "Neos Hellenomnemon 16 (1922), issue 1, printed p. 13 (right column), opening lines 'Πρὸς αὐτὸν δ' ἐγὼ πάλιν' (scanned PDF page 7, Olympias doc.pdf)",
+    "url": "https://olympias.lib.uoi.gr/jspui/handle/123456789/1865",
+    "quote_orig": "Πρὸς αὐτὸν δ' ἐγὼ πάλιν, οἱ Τοῦρκοι, λόγον εἶναι τοῦ Θεοῦ φασι τὸν Χριστὸν καὶ ἐκ παρθένου γεννηθῆναι τῆς Μαρίας, ἣν ἡμεῖς ὡς Θεοτόκον δοξάζομεν, εἰ γοῦν ἡ Μαρία γεννήσασα κατὰ σάρκα τὸν Χριστόν, οὐκ ἔσχεν ἀνδρα, οὐδὲ ἔχρηζεν ἀνδρός",
+    "orig_url": "https://olympias.lib.uoi.gr/jspui/bitstream/123456789/1865/1/doc.pdf",
+    "quote_en": "«»",
+    "own_translation_en": "To him I replied again: the Turks say that Christ is the Word of God and was born of the virgin Mary, whom we call Theotokos; if Mary, who bore Christ according to the flesh, had no husband and had no need of one, [...]. (Team's own literal translation of the first sentence; the rest of the argument is not translated here.)",
+    "quote_latin": "none",
+    "licence_note": "Olympias scan, CC BY 4.0 per record; Palamas public domain.",
+    "keys": [
+      "οἱ Τοῦρκοι, λόγον εἶναι τοῦ Θεοῦ φασι τὸν Χριστὸν",
+      "ἐκ παρθένου γεννηθῆναι τῆς Μαρίας",
+      "ἣν ἡμεῖς ὡς Θεοτόκον δοξάζομεν"
+    ],
+    "what_it_says": "Palamas reports the Turks' view that Christ is the Word of God born of the Virgin Mary, and begins his reply by arguing from Mary's virginity and the Word's birth.",
+    "context": "Part of the Christological exchange in the captivity letter, placed in a passage where Palamas recounts his talks with Turkish interlocutors. The letter reports these talks in summary; the fuller disputation is a separate dialogue (Chionai), not read by me.",
+    "limits": "The Turkish view is reported by Palamas, who is the author and an opponent; the report is a summary, not a verbatim record of the Turks. Its Christological wording (Word of God; Theotokos) is Palamas's own. Only the first sentence is quoted here; I read the rest of the passage only at 110 dpi.",
+    "stance": "quoting opponent"
+  }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "reference": "Слово 1, заглавие (Догматико-полемические сочинения, гл. 6; «Два слова против Магомета», 1910): «скверного пса Магомета»; Слово 2, заглавие: «пса Магомета»",
+  "url": "https://azbyka.ru/otechnik/Maksim_Grek/magomet/",
+  "gist_en": "The titles call Muhammad a 'vile dog' and a 'dog'. It is a personal insult in the title, not a doctrinal argument.",
+  "why_excluded": "Personal insult (exclusion rule 3). Titles only, not quoted as passages; the works are still listed in works.json with the insult flagged."
+ },
+ {
+  "reference": "Слово 1 (гл. 6), раздел о рассказе о Магомете и жене (paragraph after the 'Jewish teacher' legend): «нечестивого народа аравийского, занятого скотоводством и живущего по-скотски»; «скотоподобных тех варваров»",
+  "url": "https://azbyka.ru/otechnik/Maksim_Grek/magomet/",
+  "gist_en": "Maxim describes the Arab people as godless, cattle-herding and living like beasts, and calls the people 'beast-like barbarians'.",
+  "why_excluded": "Ethnic insult against a people (exclusion rule 3). Not quoted. The Jewish and Arian legend in the earlier part of the work is kept as maxim_p02 and is not affected."
+ },
+ {
+  "reference": "Ответы христиан против агарян (гл. 8, paraklit.org): «богомерзких агарян»; «бесовдохновенная их книга» (the epithet is kept in maxim_p05)",
+  "url": "https://www.paraklit.org/eres/musulmanstvo/maksim_grek-islam",
+  "gist_en": "Maxim calls Muslims 'abominable Hagarenes' and their book demon-inspired.",
+  "why_excluded": "Insult against a people (the 'abominable' epithet); the book epithet is kept only inside maxim_p05 where the doctrinal point is the Qur'an's praise of the Gospel. Orchestrator may cut it."
+ },
+ {
+  "reference": "Нестор-Искандер, Повесть о взятии Царьграда турками в 1453 году (ИРЛИ, Библиотека литературы Древней Руси, т. 7; read at lib.pushkinskijdom.ru): epithets «безбожный Магомет», «безвѣрный Магмет» for Mehmed II in the siege narrative",
+  "url": "http://lib.pushkinskijdom.ru/Default.aspx?tabid=5059",
+  "gist_en": "The siege narrative calls Mehmed II the 'godless Mahomet' and 'faithless Mahmet', with personal insults; no doctrine.",
+  "why_excluded": "Personal insults against a ruler (Mehmed II, not Muhammad), inside a military narrative; no doctrinal statement about Islam found in the text read (rule 3). Not quoted."
+ }
+]

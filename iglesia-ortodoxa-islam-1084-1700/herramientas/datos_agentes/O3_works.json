@@ -1,0 +1,34 @@
+[
+  {
+    "id": "kant-apologiae-iv",
+    "figure": "kantakouzenos",
+    "title_orig": "Ἀπολογίαι Δ' (Apologiae IIII) de la «Christianae religionis ... pro Christiana religione contra Saracenorum haeresim»",
+    "title_es": "Cuatro Apologías en defensa de la religión cristiana contra la herejía sarracena",
+    "title_en": "Four Apologies for the Christian religion against the Saracen heresy",
+    "date": "c. 1355-1370 (posterior a su abdicación de 1354; fecha exacta NO verificada en fuente primaria)",
+    "language": "griego bizantino (texto original) con traducción latina de Rudolf Gwalther en la misma edición de 1543",
+    "genre": "tratado apologético en cuatro partes (Apologiae)",
+    "edition_original": "Basilea: ex officina Ioannis Oporini; para men Nikolaou Bruliggeri, 1543 (griego y latín en el mismo volumen; el griego va en la segunda paginación, p. 1-108). Reimpresión: Migne PG 154 (el índice de la reimpresión dice 'Contra sectam Mahometicam pro Christiana religione Apologiae quatuor, ex editione Basileensi anni 1543'; nota de columna 371 según el brief, no leída en la imagen).",
+    "edition_english": "No encontrada traducción inglesa de dominio público. Schaff (History of the Christian Church, vol. IV, 1910) sólo resume la obra en una frase (ver authenticity_note).",
+    "digital_url": "https://archive.org/details/jbc.bj.uj.edu.pl.NDIGSTDR048133 (archivo NDIGSTDR048133.pdf, 268 pp.; páginas leídas: PDF 157-223 para las Apologías). Copia de respaldo leída en metadatos: https://archive.org/details/sucho-id-ioannis-cantacuzeni-constantinopolitani-regis-contra-mahometicam-fidem-christian",
+    "licence": "archive.org (JBC): campo 'rights' = 'Domena publiczna (public domain)'. Item sucho: licenseurl http://creativecommons.org/publicdomain/mark/1.0/",
+    "authenticity_note": "Autoría: la portada (1543) y el colofón de las Orationes atribuyen la obra al emperador Juan VI Cantacuzeno (griego: 'τοῦ βασιλέως Ἰωάννου τοῦ Καντακουζηνοῦ'). Schaff (1910, dominio público, https://www.ccel.org/ccel/schaff/hcc4.i.iii.x.html) escribe 'John Kantakuzenus (or rather a monk Meletius, formerly a Mohammedan ...)' : atribución alternativa CONTRADICHA en lo que leí, porque el prefacio latino (djvu OCR, no comprobado en imagen) presenta a Meletio acudiendo al rey, que escribe él mismo la respuesta ('Meletio simul & veritati linguam ceu mutuo dat'). No hay indicio de interpolación en los pasajes leídos; el texto es un original griego del siglo XIV publicado en 1543.",
+    "notes": "Esta obra y la siguiente aparecen en el mismo volumen de 1543 con la Confutatio/Alcoran de Bibliander (portada de la copia sucho: 'Machumetis Saracenorum principis ... Alcoran'). Las Apologías defienden la fe cristiana (Trinidad, Encarnación, testimonio de Moisés y los profetas) frente a los musulmanes, según lo leído en el preámbulo de la Apología I y en la Apología IV; el running head 'Κατὰ τοῦ Μωαμέθ' aparece en el libro p. 46 (PDF 198), es decir, dentro de esta sección, y la Apología IV (libro pp. 52-71; PDF 205-223) sigue discutiendo la ley y las profecías. Dentro de la Apología IV se remite a la refutación del nombre de Mahoma en Juan (ver pasaje P-C). Apologías II y III no las he leído en griego; de la Apología I sólo el comienzo y de la IV sólo unas páginas (PDF 221-223)."
+  },
+  {
+    "id": "kant-orationes-iv",
+    "figure": "kantakouzenos",
+    "title_orig": "Λόγοι Δ' κατὰ Μωάμεθ (Orationes IIII contra Mahometem); cabecera corriente 'ΚΑΤΑ ΤΟΥ ΜΩΑΜΕΘ' ; 'ΛΟΓΟΣ ΠΡΩΤΟΣ' (pp. 77-79), 'ΛΟΓΟΣ ΤΕΤΑΡΤΟΣ' (p. 107)",
+    "title_es": "Cuatro Discursos (Oraciones) contra Mahoma",
+    "title_en": "Four Orations against Muhammad",
+    "date": "c. 1355-1370 (igual que las Apologías; no verificado)",
+    "language": "griego bizantino (texto original) con traducción latina de Rudolf Gwalther en la edición de 1543",
+    "genre": "polémica doctrinal en cuatro discursos (Orationes), con capítulos (κεφάλαια) indicados al inicio de cada discurso",
+    "edition_original": "Basilea: Oporinus / Brylinger, 1543 (ver works kant-apologiae-iv). Migne PG 154: el índice de la reimpresión sitúa 'Contra Mahometem orationes quatuor' en col. 583 (leído en el OCR del índice). Colofón griego al final (libro p. 108, PDF 260): 'Τῶν τοῦ βασιλέως Ἰωάννου τοῦ Καντακουζηνοῦ ... κατὰ Μωάμεθ ... λόγων τέλος' (leído a ojo, no completo).",
+    "edition_english": "No encontrada traducción inglesa de dominio público.",
+    "digital_url": "https://archive.org/details/jbc.bj.uj.edu.pl.NDIGSTDR048133 (PDF 223-260 para las Orationes; páginas leídas: PDF 229, 230, 231, 258, 259, 260). Migne PG 154 (sólo como comprobación de palabras, OCR del djvu): https://archive.org/details/patrologicursus14migngoog",
+    "licence": "archive.org (JBC): 'Domena publiczna (public domain)'; Migne (Google scan, 1857): sin licencia explícita leída; se usa como texto de comprobación.",
+    "authenticity_note": "La atribución al emperador está en el texto (ver works kant-apologiae-iv). El colofón citado y el epígrafe 'κατὰ Μωάμεθ' del margen confirman que las cuatro 'orationes' son contra Mahoma, no contra los judíos. Ningún indicio de interpolación en los pasajes leídos (no comprobado sistemáticamente).",
+    "notes": "Cabecera 'Alcoran' escrita a mano en el margen del ejemplar digitalizado (no es del autor). Los capítulos (κεφάλαια) de cada discurso se listan al comienzo (p. 73-75 de la numeración griega, PDF 224-225) y la Oratio I tiene una lista previa en latín ('ORATIONIS III CAPITA'). El discurso I contiene la mayor parte de las acusaciones sobre la profecía de Mahoma, su enfermedad epiléptica y la pretendida profecía de Cristo; el discurso III trata de la cristología (Cristo como Palabra y Espíritu de Dios); el IV de demonios, Trinidad y de nuevo la figura de Mahoma."
+  }
+]

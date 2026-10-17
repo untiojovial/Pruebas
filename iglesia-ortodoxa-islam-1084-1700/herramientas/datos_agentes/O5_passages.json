@@ -1,0 +1,23 @@
+[
+  {
+    "id": "kalekas_pg151_ismaelites",
+    "figure": "kalekas",
+    "work": "kalekas_synodal_letter_pg151",
+    "theme": "S",
+    "harshness": 1,
+    "famous": {"is_famous": false, "where_cited": "Not cited in any source I checked."},
+    "ref": "Migne PG 151, Ioannes Kalekas patriarchal letter, penitential section; column approx. 1227-1228 (exact column UNVERIFIED: not clearly printed in the OCR)",
+    "url": "https://archive.org/download/patrologiaecurs151migngoog/patrologiaecurs151migngoog_djvu.txt",
+    "quote_orig": "οὐδένα γὰρ ἁπωθείται, οὐδὲ ἁποστρέφεται ὁ θεὸς, φιλανθρωπίας ἄπειρον ἔχων πέλαγος, µόνον ἐὰν γνησίως µετανοήσωμεν καὶ προσπέσωμεν καὶ κλαύσωμεν καὶ δεηθῶμεν τῆς αὐτοῦ ἁγαθότητος. Ἐπεὶ οὖν παραχω- [line garbled in OCR] θεοῦ διὰ πλῆθος ἁμαρτιῶν ὑπερίσχυσε χαθ' ἡμῶν ἡ τῶν Ἰσμαηλιτῶν ἐπίθασις, καὶ πολλοὺς",
+    "orig_url": "https://archive.org/download/patrologiaecurs151migngoog/patrologiaecurs151migngoog_djvu.txt",
+    "quote_en": "«»",
+    "own_translation_en": "God rejects no one and turns no one away, having an infinite sea of loving-kindness, provided only that we repent sincerely, fall down, weep and beseech his goodness. Since therefore, by God's permission, the Ishmaelite onslaught has prevailed against us because of the multitude of our sins, and many [...] (TEAM'S LITERAL TRANSLATION of an OCR text; not a public-domain translation).",
+    "quote_latin": "",
+    "licence_note": "Migne PG 151 (1857) is public domain. Text read from the OCR layer of the Google scan on archive.org (item patrologiaecurs151migngoog); no Latin printed beside this passage in the OCR.",
+    "keys": ["διὰ πλῆθος ἁμαρτιῶν", "ὑπερίσχυσε χαθ' ἡμῶν", "ἡ τῶν Ἰσμαηλιτῶν ἐπίθασις"],
+    "what_it_says": "The patriarch urges repentance, saying God forgives all who repent, and states that the Ishmaelite (Turkish) advance has prevailed over Christians by God's permission because of their sins.",
+    "context": "Patriarchal letter printed in Migne PG 151 under the running head of John Kalekas (patriarch 1334-1347). The Ishmaelite assault is used as a historical reason for penance, not as an argument about Islam's teaching. The OCR suggests a Nicaea addressee, which is unverified.",
+    "limits": "Historical/penitential, not doctrinal: it says nothing about Muhammad, the Qur'an or Islamic doctrine. Quote is only 40 words and comes from an OCR text with garbled line-end fragments: 'παραχω-' is completed as 'παραχωρήσει' only by inference from the printed fragment, which is left in brackets; 'χαθ'' is OCR for 'καθ'' and 'ἁπωθείται' / 'ἁποστρέφεται' are probably OCR for 'ἀπωθεῖται' / 'ἀποστρέφεται'. Exact column and attribution of the letter are not verified against the page image or a manuscript. 'Ἰσμαηλίτης' is an old label for Muslims but here refers to the Turkish conquerors. Translation is the team's own (no public-domain English found).",
+    "stance": "reporting"
+  }
+]

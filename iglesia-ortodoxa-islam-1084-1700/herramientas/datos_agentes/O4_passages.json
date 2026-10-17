@@ -1,0 +1,225 @@
+[
+ {
+  "id": "p01_enoch_elijah_menders_of_paradise_garments",
+  "figure": "manuel_ii",
+  "work": "dialogue_persian_I_II",
+  "theme": "Q",
+  "harshness": 3,
+  "famous": {
+   "is_famous": false,
+   "where_cited": "Not located in any secondary source I checked; treat as UNVERIFIED as a 'famous' passage."
+  },
+  "ref": "Migne PG 156, Dialogus II, §3 end and §4 (Greek γ'-δ'), cols. 153-154 (Greek column); Latin §3-4 on the facing column",
+  "url": "https://archive.org/details/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1866_156 (read: PDF page 77 of the scan, Greek column at 300 and 600 dpi)",
+  "orig_url": "https://archive.org/download/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1866_156/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1866_156.pdf",
+  "quote_orig": "Ζῆν γὰρ αὐτούς, φασίν, ἠθέλησεν ὁ Θεὸς, ὥστε τὰ ἱμάτια ῥάπτειν τῶν ὅσοι δήπου μέλλουσι τοῦ παραδείσου τεύξεσθαι· οὗτοι δὲ ἀρ' εἰσὶν οἱ τοῖς τοῦ Μωάμεθ ἕπονται νόμοις, ὡς γε ἡμεῖς λέγομεν. Θεὸς δὲ μόνος ἐπίσταται τἀληθές. δ'. Ἀκέσταί τοίνυν οἵδε ἦσαν, ἔφην, ὦ βέλτιστε, [...] Οὔ, φησὶν ὁ Πέρσης, οὐδαμῶς· ἀλλ' ὁ Θεὸς αὐτοῖς μετὰ τὴν ἐνθένδε μετάστασιν τοῦτ' ἐπεχείρισε τοὔργον.",
+  "quote_en": "",
+  "own_translation_en": "For God, they say, wanted them to live, so that they would sew the garments of those who were to attain paradise; these are those who follow the laws of Muhammad, as we say. God alone knows the truth. [4] So these menders, my good man, I said, [...] 'No,' says the Persian, 'by no means; but after their departure from this place God entrusted this task to them.'",
+  "quote_latin": "Eos enim, inquiunt, vivere voluit Deus, vestes suere eorum, qui paradisum consecuti essent: hi autem sunt ii, qui Moamethis legem sequuntur, ut nos quidem dicimus. Sed Deus veritatem novit. 4. Hic ego: Sartores igitur, optime vir, erant, tesque pacta mercede sarciebant, quandiu cum hominibus hic vixerunt? Dii meliora, inquit Persa: sed postquam ex hoc mundo translati sunt, ipsis Deus opus faciendum tradidit. (Latin from the PDF text layer, lightly checked against the image.)",
+  "licence_note": "Migne PG 156 (1866 printing, Internet Archive scan). Public domain by age; no rights statement in the archive.org metadata. The Latin column is Migne's own printed Latin, not an English translation. Own English is the team's translation (no public-domain English for Dialogue II).",
+  "keys": [
+   "οὗτοι δὲ ἀρ' εἰσὶν οἱ τοῖς τοῦ Μωάμεθ ἕπονται νόμοις",
+   "Θεὸς δὲ μόνος ἐπίσταται τἀληθές",
+   "Ἀκέσταί τοίνυν οἵδε ἦσαν"
+  ],
+  "what_it_says": "The Persian claims that God kept Enoch and Elijah alive so that they could sew the garments of those who will reach paradise, and that these two belong to the followers of Muhammad's law. Manuel answers with irony, asking whether they were paid menders among people here; the Persian replies that the task was given to them only after they left this world.",
+  "context": "Dialogue II opens with heaven and earth, the Fall and the Judgement, and the Persian then describes paradise and the place of Muhammad. Manuel, the Christian speaker ('ἔφην', 'Hic ego'), answers the Persian's account here; the claim about Muhammad's law is the Persian's, not Manuel's.",
+  "limits": "Greek read from the 300-dpi page image; the phrase 'καὶ ἀκούμενοι μισθοῖ διέζων' is hard to read and is replaced by [...]. The claim that the followers of Muhammad's law are the paradise-bound is the Persian's (Manuel says 'as we say' only in the Persian's mouth). The Latin is from the text layer. No public-domain English exists for Dialogue II.",
+  "stance": "quoting opponent, with Manuel's ironic reply"
+ },
+ {
+  "id": "p02_christ_judge_muhammad_intercessor",
+  "figure": "manuel_ii",
+  "work": "dialogue_persian_I_II",
+  "theme": "M",
+  "harshness": 2,
+  "famous": {
+   "is_famous": false,
+   "where_cited": "Not located in secondary literature I checked (UNVERIFIED as famous)."
+  },
+  "ref": "Migne PG 156, Dialogus II, §8 (Greek η'), col. 157 (Greek column); Latin §8 on the facing column",
+  "url": "https://archive.org/details/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1866_156 (read: PDF page 79 of the scan, Greek column at 300 dpi)",
+  "orig_url": "https://archive.org/download/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1866_156/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1866_156.pdf",
+  "quote_orig": "Αὐτὸς γὰρ καθεδεῖται πάντων κριτὴς δικαιότατος· ἴσμεν τοῦτο πάνυ καλῶς· πνοή τε γάρ ἐστι, καὶ ψυχή, καὶ Λόγος ζῶντος Θεοῦ, καὶ ἐκ Παρθένου τεχθεὶς, φυλάξας ταύτην καὶ μετὰ τόκον, ὡς δὴ καὶ πρότερον ἦν· ἀλλὰ τὸν Μωάμεθ πλεῖστα φιλῶν, ὑπὲρ τῶν ἐπταικότων παραιτούμενον, αἰσχυνθήσεται, καὶ οὐχ ἀποπέμψει τοῦτον κενὸν ἐλπίδων· ὅθεν οἱ πάντες σχεδὸν σωθήσονται, λέγω δὴ τοὺς ἡμετέρους.",
+  "quote_en": "",
+  "own_translation_en": "He himself will sit as the most just judge of all; we know this very well. For he is breath and soul and Word of the living God, born of the Virgin, who kept her [intact] after the birth, as he was before. But Muhammad, whom he loves most, when he intercedes for those who have erred, will be ashamed and will not send him away empty of hope; so almost all of ours, I mean our people, will be saved.",
+  "quote_latin": "sed Moamethi, quem eximie diligit, pro lapsis intercedentis deprecationisque rationem habebit (Latin text layer, §8; the same passage is Migne's Latin column).",
+  "licence_note": "Migne PG 156 (1866 printing, Internet Archive scan). Public domain by age; no rights statement in the archive.org metadata. The Latin column is Migne's own printed Latin, not an English translation. Own English is the team's translation.",
+  "keys": [
+   "ἀλλὰ τὸν Μωάμεθ πλεῖστα φιλῶν",
+   "ὅθεν οἱ πάντες σχεδὸν σωθήσονται",
+   "πνοή τε γάρ ἐστι, καὶ ψυχή, καὶ Λόγος ζῶντος Θεοῦ"
+  ],
+  "what_it_says": "The Persian says that Christ, the judge, loves Muhammad most, and that Muhammad will intercede for the sinners so that almost all Muslims will be saved. In the same breath he calls Christ 'breath, soul and Word of the living God, born of the Virgin'.",
+  "context": "Part of the Persian's account of the Judgement and of the 'way of salvation' in paradise, given in answer to Manuel's request. Manuel's reply (§12) attacks the foundations of the Persian's claim about Christ's judgement.",
+  "limits": "This is the Persian's claim, not Manuel's; the Persian's 'breath, soul and Word' formula resembles Qur'an 4:171 (team identification, not stated in the text). Greek read from the 300-dpi image. Muhammad's intercession is described as a privilege given by Christ's love for him.",
+  "stance": "quoting opponent"
+ },
+ {
+  "id": "p03_paradise_trench_and_sword_bridge",
+  "figure": "manuel_ii",
+  "work": "dialogue_persian_I_II",
+  "theme": "Q",
+  "harshness": 2,
+  "famous": {
+   "is_famous": false,
+   "where_cited": "Not located in secondary literature I checked. Note: the image of a sharp sword as the bridge is in Dialogue II, a different text from the Regensburg 'sword' remark in Dialogue VII."
+  },
+  "ref": "Migne PG 156, Dialogus II, end of §8, cols. 159-160 (Greek column); Latin §8 on the facing column",
+  "url": "https://archive.org/details/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1866_156 (read: PDF pages 79-80 of the scan, Greek column at 300 dpi)",
+  "orig_url": "https://archive.org/download/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1866_156/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1866_156.pdf",
+  "quote_orig": "Τάφρος αὐτὸν τὸν παράδεισον περιχυκλοῦσα βαθεῖα, ἥτις γε αὐτόματος γέγονε, τοῖς πᾶσι τοῦτον ἄβατον ἀπεργάζεται· καὶ γάρ τοι πίττης πλήρης ἐστιν, [...] Μία δέ τι[ς] θύρα τῷ παραδείσῳ, καὶ γέφυρα μία· ἥδ' ἔστι ξίφος τομώτατον πῶς οἷσι, ὃ δεῖ γυμνοῖν τὸν ποδῶν διελθόντας τοῦ παραδείσου μετέχειν· ἄλλως δ' οὐκ ἔνεστιν ἐκείνου τυχεῖν. Ὅσοις τοίνυν τὸ σῶμα κοῦφον, καὶ ὑπόπτερον, ὡς ἂν εἴποι τις, μηδὲν παραβλαβέντες διαβήσονται, καὶ τεύξονται γε τοῦ χώρου τῶν μακαρίων· ὅσοι δ' ἄχθος ἁμαρτιῶν περιφέρουσιν (εἰσὶ δ' ἀρ' οἱ πλείους), τῷ σιδήρῳ τεμνόμενοι κατενεχθήσονται.",
+  "quote_en": "",
+  "own_translation_en": "A deep trench, which came into being by itself, encircles paradise itself and makes it inaccessible to all; it is full of pitch, [...] There is one door to paradise and one bridge, which is a very sharp sword, on which one must cross with bare feet to share in paradise; otherwise it is not possible to attain it. Those whose body is light and winged, as one might say, will cross unharmed and will attain the region of the blessed; but those who carry the burden of sins (and these are the majority) will be cut by the iron and fall.",
+  "quote_latin": "Paradisum fossa circumdat profunda ... ea fossa pice repleta ... Est porro para[disi] porta una, pons unus: is pons gladius est mirum quantum acutus, super quem nudis pedibus transire oportet (Latin text layer, §8; the Greek 'ξίφος' corresponds to Latin 'gladius').",
+  "licence_note": "Migne PG 156 (1866 printing, Internet Archive scan). Public domain by age; no rights statement in the archive.org metadata. The Latin column is Migne's own printed Latin, not an English translation. Own English is the team's translation.",
+  "keys": [
+   "ἥδ' ἔστι ξίφος τομώτατον",
+   "ὅσοι δ' ἄχθος ἁμαρτιῶν περιφέρουσιν",
+   "τῷ σιδήρῳ τεμνόμενοι κατενεχθήσονται"
+  ],
+  "what_it_says": "The Persian describes paradise surrounded by a self-made trench full of pitch and burning fire, with one bridge that is a very sharp sword: the light-bodied and the sinless cross unharmed, the sinners fall. This is the Persian's account of how salvation works.",
+  "context": "The Persian's answer to Manuel on the 'way of salvation' and the paradise of the believers, placed before the list of paradise pleasures in §11. No judgement by Manuel is attached to this passage in the text.",
+  "limits": "Greek read from the 300-dpi image. Three readings are uncertain: 'Μία δέ τι[ς]' (the 'ς' is not clear), 'πῶς οἷσι' and 'γυμνοῖν τὸν ποδῶν'. The sword-bridge is an image in the Persian's voice (Muslim eschatology as reported by Manuel), not a statement by Manuel. The passage contains an [...] for an omitted sentence about the fire.",
+  "stance": "quoting opponent"
+ },
+ {
+  "id": "p04_paradise_pleasures_horses_hunt_women",
+  "figure": "manuel_ii",
+  "work": "dialogue_persian_I_II",
+  "theme": "Q",
+  "harshness": 2,
+  "famous": {
+   "is_famous": false,
+   "where_cited": "Not located in secondary literature I checked (UNVERIFIED as famous)."
+  },
+  "ref": "Migne PG 156, Dialogus II, §11 (Greek ια'), col. 161 (Greek column); Latin §11 on the facing column",
+  "url": "https://archive.org/details/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1866_156 (read: PDF page 81 of the scan, Greek column at 300 dpi)",
+  "orig_url": "https://archive.org/download/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1866_156/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1866_156.pdf",
+  "quote_orig": "Τί χρὴ καταλέγειν τὰς ἡμῖν ἐπηγγελμένας; θείας τρυφάς; Ἄν τε γάρ τις φιλίππος ἢ, καὶ θήρᾳ χαίρων, καὶ τόξοις, καὶ κυσί, καὶ χειροήθεσι πτηνοῖς (τούτοισί φημι τοῖς θηρευτικοῖς, οἷς τὰ ἐδώδιμα χειρούμεθα), ἄν τε τὴν ἐσθῆτα φιλότιμος, καὶ τῷ συνεῖναι κόραις ἐντρυφῶν, καὶ πᾶσιν, ἵνα συνέλω, ἅπερ εἰς ἡδονὴν ὁ νοῦς ἡμῖν δυνήσεται πλάσαι, πάρεστιν εὐθὺς βουληθεῖσιν· οὐ γάρ ἐστιν οὗ δεηθέντων ἐκεῖνο μὴ φθάσαι τὴν ἔφεσιν, πολλῷ τῷ περιόντι ταύτην νικῶν.",
+  "quote_en": "",
+  "own_translation_en": "Why should I list the divine delights promised to us? Whoever is a lover of horses, delights in the hunt, the bow, dogs and tame birds (I mean the hunting birds by which we take the game for food), and whoever is eager for fine clothing, and who delights in being with girls, and in everything, to sum up, that the mind can imagine for pleasure, it is at hand at once for those who wish it; for there is no one who lacks something and whose desire is not satisfied in that thing, and who does not surpass it, by far, in the excellence of that prize.",
+  "quote_latin": "Quid opus est amplius promissas nobis divinas (...) recensere? Si quis equis studet, sive venationi gaudet, arcuque, canibusve, aut alitibus ... puellarumque congressu delectatur. Omnia denique, ut breviter dicam, quaecunque in voluptate mens effingere nobis potest, ea omnia statim adsunt (Latin text layer, §11).",
+  "licence_note": "Migne PG 156 (1866 printing, Internet Archive scan). Public domain by age; no rights statement in the archive.org metadata. The Latin column is Migne's own printed Latin, not an English translation. Own English is the team's translation.",
+  "keys": [
+   "Τί χρὴ καταλέγειν τὰς ἡμῖν ἐπηγγελμένας",
+   "τῷ συνεῖναι κόραις ἐντρυφῶν",
+   "πάρεστιν εὐθὺς βουληθεῖσιν"
+  ],
+  "what_it_says": "The Persian lists the paradise pleasures promised to believers: horses, hunting with bows, dogs and birds, fine clothing, being with girls, and whatever the mind can imagine, available at once. The passage is a list of Muslim promises of paradise, with no comment of its own.",
+  "context": "The Persian's list, placed directly after his account of the trench and the bridge; Manuel's reply (§12) follows and challenges the foundations of the Persian's claims.",
+  "limits": "The list is the Persian's, not Manuel's; Manuel's own voice comes next, in §12 (passage p05). The sexual reference is explicit in the Greek ('κόραις'). The Greek is read from the 300-dpi image.",
+  "stance": "quoting opponent"
+ },
+ {
+  "id": "p05_manuel_rotten_foundations_of_the_persians_claims",
+  "figure": "manuel_ii",
+  "work": "dialogue_persian_I_II",
+  "theme": "Q",
+  "harshness": 3,
+  "famous": {
+   "is_famous": false,
+   "where_cited": "Not located in secondary literature I checked (UNVERIFIED as famous)."
+  },
+  "ref": "Migne PG 156, Dialogus II, §12 (Greek ιβ'), cols. 161-162 (Greek column); Latin §12 on the facing column",
+  "url": "https://archive.org/details/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1866_156 (read: PDF page 81 of the scan, Greek column at 300 dpi)",
+  "orig_url": "https://archive.org/download/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1866_156/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1866_156.pdf",
+  "quote_orig": "Ἀλλ' ἄλις, ἔφην, διεξῆλθες τὰ τῆς Ἐδέμ· ὅπως δ' ἀμυνεῖ γενναίως τοῖς εἰρημένοις, περὶ ὧν ἂν ἔχοιμι νῦν προφέρειν· οὐδὲ γὰρ πάντ' ἐλέγχειν βουλήσομαί τὰ προειρημένα σοι, οὐδ' ἐκεῖνά γε πάντως, ὅσ' ἐκ τούτων μοι δοκοῦσιν ἀνισχεῖν τὰ ἀτοπήματα· ἦν γὰρ ἂν, ταυτὶ βουληθῇς, εἰς λόγων πέλαγος ἐμπεσών· οὕτω μοι πολλὰ φαίνεται. Ταυτὶ μὲν οὖν σιωπήσομαι· πειράσομαι δέ σοι δεῖξαι, ὡς ἂν οἷός τε ὦ, σαθροὺς τοὺς θεμελίους τῶν εἰρημένων σοι· κἂν τοῦτο γένηται, οὐδεὶς σοι πάντως τῶν λοιπῶν ἔσται λόγος. Οὐδὲ γὰρ μελήσει σοι τῆς οἰκοδομῆς, ἀνατετραμμένης τῆς ὑποβάθρας. Ἔφησθα τοίνυν, ὡς ὁ Χριστὸς καθεδεῖται πάντων κριτὴς δικαιότατος μετὰ τὴν τούτων ἀνάστασιν.",
+  "quote_en": "",
+  "own_translation_en": "'Enough,' I said, 'you have gone through the things of Eden; but see how you will defend yourself bravely against what you said, about which I could now bring forward [objections]. For I do not want to refute everything you have said, nor even all the absurdities that seem to me to follow from these things: for if you wished, you would fall into a sea of words; so it seems to me. These things I will keep silent; but I will try to show you, as far as I am able, that the foundations of your statements are rotten; and if that happens, there will be no need of any further argument from you. For you will not care for the building when its base is overturned. You said, then, that Christ will sit as the most just judge of all after the resurrection of these people.",
+  "quote_latin": "Satis tu mihi, inquam, quae ad Eden pertinent dicendo pereurristi: sed vide sis, hospes, ut tua fortiter defendas adversus ea saltem, quae ... (Latin text layer, §12; the Latin is Migne's).",
+  "licence_note": "Migne PG 156 (1866 printing, Internet Archive scan). Public domain by age; no rights statement in the archive.org metadata. The Latin column is Migne's own printed Latin, not an English translation. Own English is the team's translation.",
+  "keys": [
+   "σαθροὺς τοὺς θεμελίους τῶν εἰρημένων σοι",
+   "Ἔφησθα τοίνυν, ὡς ὁ Χριστὸς καθεδεῖται πάντων κριτὴς δικαιότατος",
+   "Οὐδὲ γὰρ μελήσει σοι τῆς οἰκοδομῆς"
+  ],
+  "what_it_says": "Manuel mocks the Persian's paradise and promises to show that the foundations of the Persian's statements, starting with Christ's judgement after the resurrection, are rotten. This is Manuel's own sharpest statement in Dialogue II, although it does not state a specific doctrinal error in the Qur'an.",
+  "context": "Manuel's answer ('ἔφην', 'inquam') to the Persian's list of paradise pleasures (p04). The passage ends the section; the text goes on in the same dialogue with the discussion of Christ and the Judgement.",
+  "limits": "The critique is of the Persian's account (judgement after resurrection, paradise), not of the Qur'an itself. The sentence 'σαθροὺς τοὺς θεμελίους' is a rhetorical promise, not an argument. Greek read from the 300-dpi image.",
+  "stance": "own view (Manuel's voice)"
+ },
+ {
+  "id": "p06_sword_remark_seventh_dialogue_regensburg",
+  "figure": "manuel_ii",
+  "work": "dialogue_persian_VII",
+  "theme": "S",
+  "harshness": 5,
+  "famous": {
+   "is_famous": true,
+   "where_cited": "Benedict XVI, Regensburg lecture, 12 Sept 2006, quoted from the 'seventh conversation' (the Regensburg text cites Khoury's edition); I saw the quotation and its reception described in the English Wikipedia article 'Regensburg lecture'. The English wording differs between the Vatican text and Pearse's translation."
+  },
+  "ref": "Dialogue VII, chapter 2(c) in Pearse's numbering (Pearse: 'chapters 1-18 (of 37)'). Greek reference not verified (Migne has no Dialogue VII; Trapp 1966 / Khoury 1966 numbering not checked).",
+  "url": "https://www.tertullian.org/fathers/manuel_paleologus_dialogue7_trans.htm",
+  "orig_url": "",
+  "quote_orig": "",
+  "quote_en": "So there is nothing new there, but the same things have been said again; or rather they have been impudently plundered. For show me anything that Mohammed instituted new: you will only find what is bad or inhuman, such as when he orders in decreeing that the belief that he preached should be advanced by the sword.",
+  "own_translation_en": "",
+  "quote_latin": "",
+  "licence_note": "Pearse translation: 'This file and all material on this page is in the public domain - copy freely.' The translator's own declaration; not a pre-1931 publication. The Greek behind it is not public domain as far as I can tell, and its source is not named.",
+  "keys": [
+   "For show me anything that Mohammed instituted new",
+   "you will only find what is bad or inhuman",
+   "the belief that he preached should be advanced by the sword"
+  ],
+  "what_it_says": "Manuel says that nothing new in Muhammad's law is good: the only new things are bad or inhuman, such as ordering that the faith he preached be spread by the sword. The rest of the law, he says, is borrowed from Abraham and Moses.",
+  "context": "Manuel's own argument to the Persian in the Seventh Dialogue, Pearse ch. 2 (c): the 'law' of Islam is not a true law because its main articles come from Abraham and Moses. The sword remark is the last sentence of this argument.",
+  "limits": "No public-domain Greek of the Seventh Dialogue was found (Migne PG 156 contains only Dialogues I-II). Quote is the English of Pearse only; its source text is unknown. The Pearse translation is a 'copy freely' declaration. The Regensburg (Vatican) wording, 'Show me just what Mohammed brought that was new, and there you will find things only evil and inhuman, such as his command to spread by the sword the faith he preached', differs and is not verified as public domain. The Regensburg text describes it as the 'seventh conversation'. Ch. 2(c) of Pearse is not checked against Khoury's numbering.",
+  "stance": "own view (Manuel's voice)"
+ },
+ {
+  "id": "p07_worst_law_consensus_argument",
+  "figure": "manuel_ii",
+  "work": "dialogue_persian_VII",
+  "theme": "H",
+  "harshness": 4,
+  "famous": {
+   "is_famous": false,
+   "where_cited": "Not located in secondary literature I checked (UNVERIFIED as famous)."
+  },
+  "ref": "Dialogue VII, chapter 2(b) in Pearse's numbering. Greek reference not verified.",
+  "url": "https://www.tertullian.org/fathers/manuel_paleologus_dialogue7_trans.htm",
+  "orig_url": "",
+  "quote_orig": "",
+  "quote_en": "\"Here is the proof: If one asked the whole of the men which is the best of all the Laws and which is on the contrary the worst, each one would make this assertion: that his own is the best, but that of Mohammed is the worst.",
+  "own_translation_en": "",
+  "quote_latin": "",
+  "licence_note": "Pearse translation, self-declared public domain (see dialogue_persian_VII in works.json).",
+  "keys": [
+   "each one would make this assertion",
+   "but that of Mohammed is the worst"
+  ],
+  "what_it_says": "Manuel argues from consensus: if all men were asked which law is best and which is worst, each would say that their own is best and that of Muhammad is worst. He treats that as a proof that Islam's law is judged the worst.",
+  "context": "Manuel's argument in chapter 2(b) of the Seventh Dialogue, after the claim (2a) that the Law of Moses is from God and the Christian law is better. Manuel uses the Persian's own terms of comparison.",
+  "limits": "The consensus argument is a rhetorical device; the claim that 'all men' would call Muhammad's law the worst is not a doctrinal argument. The text is Pearse's English; no Greek verified.",
+  "stance": "own view (Manuel's voice)"
+ },
+ {
+  "id": "p08_faith_not_force_and_the_sword_absurdity",
+  "figure": "manuel_ii",
+  "work": "dialogue_persian_VII",
+  "theme": "S",
+  "harshness": 4,
+  "famous": {
+   "is_famous": false,
+   "where_cited": "Not located in secondary literature I checked. Part of the same argument as the Regensburg sword remark (p06)."
+  },
+  "ref": "Dialogue VII, chapters 3(c)-3(d) in Pearse's numbering. Greek reference not verified.",
+  "url": "https://www.tertullian.org/fathers/manuel_paleologus_dialogue7_trans.htm",
+  "orig_url": "",
+  "quote_orig": "",
+  "quote_en": "\"Next, faith is a fruit of the heart, not of the body. So he who intends to bring somebody to faith needs skilful language and correct thinking, not violence or threats, nor some instrument of wounding or intimidation. Because just as, when it is necessary to compel a non-reasonable nature, one would not have recourse to persuasion, in the same way to persuade a reasonable soul, one does not need to resort to force, or a whip, or any other threat of death. d. \"No one can ever claim that, if he uses violence, it is in spite of himself, because it is an order from God. Because if it was good to attack with the sword those which are complete unbelievers and that this was a law of God given from heaven -- as Mohammed claims -- it would undoubtedly be necessary to kill all those who would not embrace this Law and this preaching. He is indeed quite impious to buy piety with money. Do you think differently about this? I do not think so. How would you do it? However if that is not good, to kill is yet much worse.",
+  "own_translation_en": "",
+  "quote_latin": "",
+  "licence_note": "Pearse translation, self-declared public domain (see dialogue_persian_VII in works.json). Pearse's paragraph label 'd.' is kept inside the quote.",
+  "keys": [
+   "faith is a fruit of the heart, not of the body",
+   "it would undoubtedly be necessary to kill all those who would not embrace this Law",
+   "to kill is yet much worse"
+  ],
+  "what_it_says": "Manuel argues that faith cannot be forced: one persuades a rational soul by reasoning, not by violence. He says that if the sword were a true law of God, as Muhammad claims, then everyone who did not accept the law would have to be killed, which he calls absurd.",
+  "context": "Manuel's argument in chapter 3(c)-3(d), after the claim (3a-3b) that the sword doctrine cannot be the will of God because God takes no pleasure in blood. The killing is the reductio the argument rejects, not an incitement.",
+  "limits": "The passage contains the word 'kill' as a reductio of the Islamic claim; the point is opposition to killing, but the team should check the exclusion rule before presenting it. Pearse's translation, not Greek. The Pearse text is contained in ch. 3 of the translation which is only partly on the page (chapters 1-18 of 37).",
+  "stance": "own view (Manuel's voice)"
+ }
+]

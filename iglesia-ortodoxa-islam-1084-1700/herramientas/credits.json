@@ -1,0 +1,76 @@
+{
+ "zigabeno": {
+  "credit": "Página de un manuscrito del siglo XV del «Comentario a los Salmos» de Eutimio Zigabeno (Patriarcado Ortodoxo Griego de Jerusalén, Panagios Taphos 78, ff. 32v–33r), digitalizado por la Biblioteca del Congreso de EE. UU. Wikipedia en inglés, «Commentary on Psalms by Euthymios Zygabenos.jpg», dominio público según su ficha.",
+  "note": "No hay retrato de Zigabeno: se muestra una página de un manuscrito de su obra.",
+  "pos": "50% 50%"
+ },
+ "zonaras": {
+  "credit": "Grabado de André Thevet, «Vrais portraits et vies des hommes illustres» (París, 1584), p. 26 (British Museum 1879,1213.109). Wikimedia Commons, «Jean Zonare Historien Grec. (BM 1879,1213.109).jpg», dominio público.",
+  "note": "Grabado imaginario del siglo XVI, 400 años posterior a su vida; no un retrato en vida.",
+  "pos": "50% 30%",
+  "crop": [
+   0,
+   30,
+   500,
+   700
+  ]
+ },
+ "glykas": {
+  "credit": "Portada de la edición de Immanuel Bekker de los «Anales» de Miguel Glicas (Bonn, 1836); escaneo de Google Libros en archive.org. Dominio público por antigüedad.",
+  "note": "No se conserva retrato de Glicas: se muestra la portada de la edición de la que cito.",
+  "pos": "50% 30%"
+ },
+ "choniates": {
+  "credit": "Nicetas Coniates, miniatura de su «Historia» (Constantinopla?, siglo XIV), Biblioteca Nacional de Austria, Cod. Hist. gr. 53, f. 1v. Wikimedia Commons, «Niketas Choniates.jpg», dominio público.",
+  "note": "Miniatura del siglo XIV, más de un siglo posterior a su muerte; no un retrato en vida.",
+  "pos": "50% 55%"
+ },
+ "cantacuzeno": {
+  "credit": "Juan VI Cantacuceno presidiendo el concilio hesicasta de 1351 (recorte), miniatura del manuscrito de sus «Obras teológicas» (Constantinopla, 1370–75), BnF, Ms. grec 1242, f. 5v. Wikimedia Commons, «John VI Kantakouzenos.jpg», dominio público.",
+  "note": "Miniatura de su época (hecha en vida del emperador), no un retrato.",
+  "pos": "50% 25%",
+  "crop": [
+   220,
+   130,
+   620,
+   760
+  ]
+ },
+ "palamas": {
+  "credit": "Icono de san Gregorio Palamás (siglo XV según su ficha; fotografía de icon-art.info). Wikimedia Commons, «Григорий Палама 14в.jpg», dominio público.",
+  "note": "Icono posterior a su muerte (1359); no un retrato en vida.",
+  "pos": "50% 25%"
+ },
+ "manuel-ii": {
+  "credit": "Manuel II Paleólogo, miniatura de un manuscrito de la «Oración fúnebre por Teodoro I Paleólogo» (BnF, Parisinus suppl. grec 309), de principios del siglo XV; recorte mío. Wikimedia Commons, «Manuel II Paleologus.jpg» (el original, no el recorte «cropped», que lleva licencia CC BY-SA 4.0), dominio público.",
+  "note": "Miniatura bizantina de su época; no un retrato fotográfico.",
+  "pos": "50% 15%",
+  "crop": [
+   100,
+   0,
+   520,
+   520
+  ]
+ },
+ "simeon-tesalonica": {
+  "credit": "Simeón de Tesalónica, miniatura del códice 47 del monasterio de Vatopedi, f. 82 (1763). Wikimedia Commons, «Symeon of Thessaloniki.jpg» (fotocorrección de Lunyo), dominio público.",
+  "note": "Miniatura del siglo XVIII, más de 300 años posterior a su muerte (1429); no un retrato en vida. Baja resolución (383 × 804 px).",
+  "pos": "50% 10%",
+  "crop": [
+   0,
+   0,
+   383,
+   620
+  ]
+ },
+ "maximo-griego": {
+  "credit": "Icono de san Máximo el Griego (siglos XVI–XVII). Wikimedia Commons, «Максим Грек.jpg», dominio público.",
+  "note": "Icono posterior a su vida; no un retrato en vida.",
+  "pos": "50% 25%"
+ },
+ "melisseno": {
+  "credit": "Portada de la edición de Immanuel Bekker que imprime la «Crónica mayor» atribuida a Sfrantzes (Bonn, 1838); escaneo de Google Libros en archive.org. Dominio público por antigüedad.",
+  "note": "No se conserva retrato de Melisseno: se muestra la portada de la edición de la que cito.",
+  "pos": "50% 30%"
+ }
+}

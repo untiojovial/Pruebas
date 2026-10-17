@@ -1,0 +1,14 @@
+[
+ {
+  "reference": "Manuel II, 'Psalmus eucharisticus ... de fulmine Agareno, Bajazete exstincto' (Migne PG 156, pp. 448-451; Migne's own list of works, item 15)",
+  "url": "https://archive.org/details/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1866_156 (Migne list of works, PDF p. 43)",
+  "gist_en": "A thanksgiving psalm in Greek and Latin celebrating the death of the Ottoman sultan Bayezid, called a 'lightning' from the Agarenes; it rejoices in an enemy ruler's defeat.",
+  "why_excluded": "Its point is the celebration of a war victory and the death of an enemy ruler, not a doctrinal statement about Islam. Title and Migne's list read; the Greek text itself was not read in this task."
+ },
+ {
+  "reference": "Manuel II, 'Ethopeia Tamerlanis ... ad Turcorum tyrannum Bajazetem' (Migne PG 156, p. 446; list of works, item 14)",
+  "url": "https://archive.org/details/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1866_156 (Migne list of works, PDF p. 43)",
+  "gist_en": "A rhetorical speech put in the mouth of Tamerlane, addressed to Bayezid, the Ottoman sultan he had defeated; a war-triumph piece in Migne's list of works.",
+  "why_excluded": "Its point is military triumph and a personal insult to the defeated Ottoman ruler, not Islamic doctrine. Only the title and Migne's list were read; the text was not read."
+ }
+]

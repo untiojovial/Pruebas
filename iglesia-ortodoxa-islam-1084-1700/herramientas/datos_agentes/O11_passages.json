@@ -1,0 +1,111 @@
+[
+  {
+    "id": "nikousios_dialexis_p370_jesus_last_prophet",
+    "figure": "nikousios",
+    "work": "nikousios_dialexis",
+    "theme": "M",
+    "harshness": 3,
+    "famous": {
+      "is_famous": false,
+      "where_cited": "Not cited in the literature I checked; the debate as a whole is discussed by Kermeli (Bilig 82, 2017) and Tzedopoulos (Frederiks vol. 2)."
+    },
+    "ref": "Pandora τ. ΙΗ' (1868), φύλλ. 427, p. 370, left column (Christian speech of Nikousios, reply to Vani's claim that Moses and Jesus were followed by Muhammad)",
+    "url": "https://pleias.library.upatras.gr/index.php/pandora/article/view/15787",
+    "quote_orig": "ὁ Ἰησοῦς μᾶς εἶπε πὼς ἄλλος προφήτης δὲν ἔρχεται ὕστερα, ἀμὴ ἂν ἔλθῃ καὶ ἄγγελος, νὰ μὴν τὸν πιστεύσεται.",
+    "orig_url": "https://pleias.library.upatras.gr/index.php/pandora/article/download/15787/15773/15773 (PDF page 10 of 11; scan, no text layer; transcription by me from a 260 dpi crop, accents to be checked against the scan)",
+    "quote_en": "«»",
+    "own_translation_en": "«Jesus told us that no other prophet comes after him, even if an angel comes, do not believe him.» (team's own literal translation; Sakellion 1868 text, transcribed from scan)",
+    "quote_latin": "",
+    "licence_note": "Pandora 1868: public domain (19th-century Greek periodical). No public-domain English translation found; own translation given.",
+    "keys": [
+      "ἄλλος προφήτης δὲν ἔρχεται ὕστερα",
+      "νὰ μὴν τὸν πιστεύσεται"
+    ],
+    "what_it_says": "Nikousios argues that Christ is the last prophet, following Moses, and that a later prophet, even an angel, must not be believed. The text does not name Muhammad in this sentence; the reference to a later prophet answers Vani's Muhammad-centred reading of Scripture.",
+    "context": "In the second (theological) day of the 1662 debate, the Muslim scholar Vani Mehmed Efendi reads Deuteronomy and Habakkuk as predicting Muhammad in Paran; Nikousios replies here that the Gospel and the law of Moses are complete and sealed in Christ. The text is a redaction by Nikousios or his circle, recorded after the event.",
+    "limits": "(1) Anonymous or circle-authored record of a debate, not a treatise by Nikousios; (2) the Greek is my transcription from a scanned printing, accents and one or two letters may be wrong; (3) the sentence is a reply, and the speaker identification rests on the dialogue format; (4) the 1868 editor is Sakellion, who edited a text dependent on a single 18th-century MS (Patmos).",
+    "stance": "reporting Nikousios's own position in a record (the record may be by a follower)"
+  },
+  {
+    "id": "nikousios_dialexis_p370_vani_paran_muhammad",
+    "figure": "nikousios",
+    "work": "nikousios_dialexis",
+    "theme": "M",
+    "harshness": 1,
+    "famous": {
+      "is_famous": false,
+      "where_cited": "The Vani-Paran argument is noted by Kermeli (Bilig 82, 2017, pp. 166–167) and by Cucarella 2015, p. 240 (as cited there)."
+    },
+    "ref": "Pandora τ. ΙΗ' (1868), φύλλ. 427, p. 370, left column (speech of Vani Mehmed Efendi, Βανής)",
+    "url": "https://pleias.library.upatras.gr/index.php/pandora/article/view/15787",
+    "quote_orig": "καὶ ἔλαμψεν ἐν Φαρὰθ, ὅταν ἦλθεν καὶ ἔλαμψεν ὁ προφήτης Μωάμεθ, ἐν χώρα Ἀμεηκά, ἡ συριστὶ λέγεται Φαραθί.",
+    "orig_url": "https://pleias.library.upatras.gr/index.php/pandora/article/download/15787/15773/15773 (PDF page 10 of 11; transcription by me from 260 dpi scan; 'Ἀμεηκά' to be checked)",
+    "quote_en": "«»",
+    "own_translation_en": "«And he shone in Paran, when he came, and the prophet Muhammad shone, in the land of Amekâ, which in Syriac is called Pharaith.» (team's own literal translation)",
+    "quote_latin": "",
+    "licence_note": "Pandora 1868: public domain. No public-domain English translation found.",
+    "keys": [
+      "ὁ προφήτης Μωάμεθ",
+      "ἐν Φαρὰθ"
+    ],
+    "what_it_says": "Vani, the Muslim scholar, reads the Biblical line about God shining from Paran as a prophecy of Muhammad, located in Mecca's region (Amekâ/Pharaith). This is the Muslim side quoted in the Christian record, not Nikousios's own view.",
+    "context": "In the same theological session Vani cites Biblical verses (Deut 33:2 with Paran) as predictions of Muhammad and argues from the Qur'an; Nikousios disputes the reading immediately after. The passage is reported speech inside the dialogue.",
+    "limits": "QUOTING AN OPPONENT (Vani's argument as recorded). The name 'Ἀμεηκά' is an unusual spelling and may be an OCR/print error. The line joins a print hyphen in 'Μωά-μεθ'. Not a doctrinal statement by a Christian author.",
+    "stance": "quoting opponent (Vani Mehmed Efendi, as recorded in the dialogue)"
+  },
+  {
+    "id": "nikousios_dialexis_p369_vani_false_prophets",
+    "figure": "nikousios",
+    "work": "nikousios_dialexis",
+    "theme": "M",
+    "harshness": 2,
+    "famous": {
+      "is_famous": false,
+      "where_cited": "Not located in the literature I checked; the episode is mentioned by Kermeli (Bilig 82, 2017, p. 163: Nikousios 'momentarily lost his temper in the mention of false prophets')."
+    },
+    "ref": "Pandora τ. ΙΗ' (1868), φύλλ. 427, p. 369, left column, lines in the middle of the column (Vani's argument, then Nikousios's silent reaction)",
+    "url": "https://pleias.library.upatras.gr/index.php/pandora/article/view/15787",
+    "quote_orig": "διατὶ πόσοι ψευδοπροφῆται ἤλθασιν, καὶ θαύματα ἔκαμασι πλαστά, ὡς ὁ Ἀπέχμαν ἐκεῖνος ὁ περίφημος, καὶ ἄλλοι·",
+    "orig_url": "https://pleias.library.upatras.gr/index.php/pandora/article/download/15787/15773/15773 (PDF page 9 of 11; transcription by me from 260 dpi crop; accents may differ from the print)",
+    "quote_en": "«»",
+    "own_translation_en": "«Because many false prophets came, and made up false miracles, like that famous Apechman, and others.» (team's own literal translation; the name 'Apechman' is as printed and not identified)",
+    "quote_latin": "",
+    "licence_note": "Pandora 1868: public domain. No public-domain English translation found.",
+    "keys": [
+      "ψευδοπροφῆται ἤλθασιν",
+      "θαύματα ἔκαμασι πλαστά"
+    ],
+    "what_it_says": "Vani argues that Muhammad's prophethood is confirmed by his conduct and the spread of his religion, and that false prophets, who produced fake miracles, were quickly exposed. He is contrasting Muhammad with false prophets, not condemning Muhammad.",
+    "context": "In the theological session, Vani asks why Nikousios does not accept the traditions of Muhammad, who is only 1000 years old, while accepting Christian traditions 1662 years old. Vani's reply (quoted here) is the Muslim defence of Muhammad's integrity. Nikousios is recorded as too upset to answer and then falls silent.",
+    "limits": "QUOTING AN OPPONENT (Vani Mehmed Efendi). Not Nikousios's doctrinal statement, though the record shows Nikousios's irritation at the 'false prophets' mention. Transcription from scan (not OCR); the name 'Ἀπέχμαν' is uncertain and unidentified. Record by Nikousios's circle, not a treatise.",
+    "stance": "quoting opponent (Vani Mehmed Efendi, as recorded)"
+  },
+  {
+    "id": "nikousios_dialexis_p367_paraclete_muhammad",
+    "figure": "nikousios",
+    "work": "nikousios_dialexis",
+    "theme": "M",
+    "harshness": 3,
+    "famous": {
+      "is_famous": false,
+      "where_cited": "Summarised in Kermeli (Bilig 82, 2017) as the 'Prophet as Paraclete' theme; not cited elsewhere that I found."
+    },
+    "ref": "Pandora τ. ΙΗ' (1868), φύλλ. 427, p. 367, right column, lower half (Nikousios's reply to Vani's identification of the Paraclete with Muhammad)",
+    "url": "https://pleias.library.upatras.gr/index.php/pandora/article/view/15787",
+    "quote_orig": "Δὲν εἶναι βολετὸν νὰ εἶναι ὁ Παράκλητος ὁ Μωάμεθ ὁ προφήτης σας· διατὶ ὁ Ἰησοῦς εἶπε τοῖς Ἀποστόλοις, ὅτι εἰς αὐτοὺς νὰ στείλλῃ τὸν Παράκλητον· καὶ ὁ προφήτης σας ἦλθεν ὕστερα ἀπὸ τὸν Χριστὸν 600 χρόνους.",
+    "orig_url": "https://pleias.library.upatras.gr/index.php/pandora/article/download/15787/15773/15773 (PDF page 7 of 11; transcription by me from 260 dpi crop; the word 'βολετὸν' and the Paraclete line-break need checking against the print)",
+    "quote_en": "«»",
+    "own_translation_en": "«It is not possible for Muhammad your prophet to be the Paraclete; because Jesus told the Apostles that he would send them the Paraclete; and your prophet came 600 years after Christ.» (team's own literal translation)",
+    "quote_latin": "",
+    "licence_note": "Pandora 1868: public domain. No public-domain English translation found.",
+    "keys": [
+      "Δὲν εἶναι βολετὸν νὰ εἶναι ὁ Παράκλητος",
+      "ὁ προφήτης σας ἦλθεν ὕστερα",
+      "τὸν Χριστὸν 600 χρόνους"
+    ],
+    "what_it_says": "Nikousios rejects the Muslim claim that Muhammad is the Paraclete promised by Christ, on the grounds that the Paraclete was sent to the Apostles, and notes that Muhammad came about 600 years after Christ. This is a direct doctrinal rebuttal of the Muslim reading of John 14–16.",
+    "context": "In the theological session Vani argues that the Paraclete of John's Gospel is Muhammad; Nikousios replies here, and Vani then disputes the chronology (saying the interval is 590 years, not 600). The exchange is recorded in the dialogue, not a treatise.",
+    "limits": "Quoting a dialogue, not a treatise; speaker identification rests on the 'Λέγει ὁ Παναγιώτης' rubric. The transcription from a scanned print is mine and may differ in accents or one or two letters ('βολετὸν', 'στείλλῃ'). The 600-year figure is Nikousios's own; Vani's counter-figure is a different number (line partly unclear in the scan). No public-domain English translation.",
+    "stance": "own view of Nikousios as recorded in the dialogue (rebuttal)"
+  }
+]

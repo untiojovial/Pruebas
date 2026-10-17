@@ -1,0 +1,41 @@
+[
+  {
+    "id": "gennadios",
+    "name_es": "Genadio II Escolario (Gennadio Scholario)",
+    "name_en": "Gennadios II Scholarios (George Scholarios)",
+    "name_orig": "Γεννάδιος Β΄ Σχολάριος (Γεώργιος Κουρτέσιος Σχολάριος)",
+    "born": "c. 1400-1405 (dates as commonly given; not verified in this session)",
+    "died": "c. 1472-1473 (not verified in this session)",
+    "language": "Greek",
+    "role_place": "Constantinople, Ottoman period: first Ecumenical Patriarch after 1453 (1454-1456 per usual dating, not verified here) and a second term later.",
+    "why_relevant": "Wrote the Christian creed-homily addressed to Mehmed II's Muslim scholars (PG 160, col. 333-352), the one major Orthodox text of this period presented to Muslims; he wrote little that names Muhammad in what I read.",
+    "fame": "Known mainly as a scholastic theologian and as the patriarch who accepted the Ottoman order; the Confession to Mehmed II is his best-known work on Islam. A Cambridge article by Angeliki Ziaka (Studies in Church History) discusses him with George Amiroutzes on Islam; I saw only a search snippet of it, not the article.",
+    "orthodox_status": "patriarch (Orthodox; canonization status not checked)"
+  },
+  {
+    "id": "doukas",
+    "name_es": "Miguel Ducas (Doukas)",
+    "name_en": "Michael Doukas",
+    "name_orig": "Μιχαὴλ Δούκας (Ducas, Michaelis Ducae nepotis)",
+    "born": "c. 1400 (as in the Bonn/Bekker catalogue record; not verified)",
+    "died": "after 1462 (as commonly given; not verified)",
+    "language": "Greek",
+    "role_place": "Lesbos/Aegean and Constantinople; author of the Historia Byzantina (Turco-Byzantina), a narrative from 1341 to 1462.",
+    "why_relevant": "Contemporary Greek historian who calls the Ottoman sultans antichrist-like and reports the religious oaths and claims of Bayezid and Mehmed II in theological terms, though his Islam content is scattered rather than doctrinal.",
+    "fame": "Widely used historian of the fall of Constantinople; his use of the Muslim religious vocabulary is cited in general surveys (specific scholarly citations not checked in this session).",
+    "orthodox_status": "historian / layman (Orthodox, Lesbian-Genoese world; no canonical status)"
+  },
+  {
+    "id": "sphrantzes",
+    "name_es": "Jorge Sfrantzes (Phrantzes)",
+    "name_en": "George Sphrantzes (Phrantzes)",
+    "name_orig": "Γεώργιος Φραντζῆς",
+    "born": "1401",
+    "died": "c. 1478-1477 (as commonly given; not verified)",
+    "language": "Greek",
+    "role_place": "Protovestiarios and close adviser/envoy of Emperor Constantine XI; eyewitness of 1453; the Chronicon minus is the text attributed to him.",
+    "why_relevant": "Eyewitness of the fall; his Chronicon maius contains the longest Greek polemic against Muhammad in the Bekker text I read, but that work is widely doubted as Sphrantzes' own (see limits).",
+    "fame": "Known for the Chronicon (minus), a main source for 1401-1477; the Chronicon maius is the longer and disputed redaction. Scholarly disputes are reported in a Cambridge guide snippet (not opened).",
+    "orthodox_status": "court official / layman (late monastic profession reported in tradition, not verified)"
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "id": "kant-or1-law-from-devil",
+    "figure": "kantakouzenos",
+    "work": "kant-orationes-iv",
+    "theme": "M",
+    "harshness": 5,
+    "famous": {
+      "value": false,
+      "where_cited": "No se encontró cita en la búsqueda; no verificado en la literatura moderna."
+    },
+    "ref": "Oratio I contra Mahometem (Λόγος Πρῶτος κατὰ Μωάμεθ), griego de 1543, p. 78 (numeración impresa; PDF 230 de 268). Latín (Gwalther): Oratio I, pasaje ubicado en el OCR del djvu (no localizado su folio exacto en la imagen).",
+    "url": "https://archive.org/details/jbc.bj.uj.edu.pl.NDIGSTDR048133 (PDF p. 230 de NDIGSTDR048133.pdf)",
+    "quote_orig": "Ὁ δὲ Μωάμεθ, ὅτι οἶδ' ὅθεν [ἐδέξατο?] τὸν νόμον, ἢ τὰ ἀληθέστερον εἰπεῖν τῆς ἀνομίας, εἰ μὴ ἀπὸ τοῦ πατρὸς αὐτοῦ τοῦ διαβόλου. Οὐδὲ γὰρ ἐξ ἑτέρωθεν [?] τὴν μαρτυρίαν, ὅτι ἀπὸ τῆς παλαιᾶς διαθήκης καὶ τῶν προφητῶν, ὅτι οὐκ ἀπὸ τῆς νέας [καὶ τῶν ἀποστόλων].",
+    "orig_url": "https://archive.org/details/jbc.bj.uj.edu.pl.NDIGSTDR048133 (PDF p. 230)",
+    "quote_latin": "Mahomet vero qua causa legem suam tulerit, vel potius legibus honesti solutas, nescio, nisi forte a patre suo diabolo motus. Nullo enim testimonio aliunde petito innititur, neque veteri Testamento prophetis, neque novo apostolis. [Texto latino tomado del OCR del djvu de archive.org (Gwalther 1543); no cotejado visualmente.]",
+    "quote_en": "«»",
+    "own_translation_en": "[Traducción propia del equipo, literal, no publicada.] I do not know from where Muhammad took his law, or, to speak more truly, his lawlessness, unless it was from his father the devil. For he sought no testimony from elsewhere: not from the Old Covenant and the prophets, and not from the New and the apostles.",
+    "licence_note": "Griego: edición de 1543 (dominio público según la ficha de archive.org JBC). Latín: Gwalther 1543 (dominio público). No hay traducción inglesa de dominio público localizada.",
+    "keys": [
+      "εἰ μὴ ἀπὸ τοῦ πατρὸς αὐτοῦ τοῦ διαβόλου",
+      "ὅτι οὐκ ἀπὸ τῆς νέας"
+    ],
+    "what_it_says": "Kantakouzenos says he cannot tell where Muhammad got his law, or rather his lawlessness, unless from his father the devil, and that Muhammad's claims rest on no testimony from the Old or New Testament.",
+    "context": "Dentro de la Oratio I contra Mahometem, en la sección que examina la base escritural de la «ley» de Mahoma. La frase cierra una discusión sobre cómo el Corán y la tradición musulmana se apoyan en la Biblia sin citarla con exactitud. Es un argumento de fuentes y no una descripción biográfica.",
+    "limits": "(1) Griego transcrito a ojo desde la imagen de la página a 600 dpi; las palabras entre corchetes no están aseguradas (ἐδέξατο? / ἐξ ἑτέρωθεν? / καὶ τῶν ἀποστόλων?). (2) Latín del OCR del djvu, no cotejado. (3) La frase insulta a Mahoma en tono retórico ('padre diablo'); el contenido doctrinal es que su ley no tiene fuente escritural. (4) Hay una frase inmediatamente anterior y otra posterior con insultos étnicos o personales (ver excluded.json); no se citan aquí.",
+    "stance": "own view"
+  },
+  {
+    "id": "kant-or1-false-prophets",
+    "figure": "kantakouzenos",
+    "work": "kant-orationes-iv",
+    "theme": "M",
+    "harshness": 4,
+    "famous": {
+      "value": false,
+      "where_cited": "No se encontró cita en la búsqueda; no verificado."
+    },
+    "ref": "Oratio I contra Mahometem (Λόγος Πρῶτος κατὰ Μωάμεθ), griego de 1543, p. 78 (PDF 230). La cita bíblica es Mt 7,15-16, usada en el argumento sobre el «profeta como Moisés» (Dt 18,15-18). Latín: Oratio I, mismo pasaje (OCR del djvu).",
+    "url": "https://archive.org/details/jbc.bj.uj.edu.pl.NDIGSTDR048133 (PDF p. 230 de NDIGSTDR048133.pdf)",
+    "quote_orig": "Ὁ Χριστὸς οὕτως φησὶ πρὸς τοὺς εἰς αὐτὸν πεπιστευκότας, Προσέχετε ἀπὸ τῶν ψευδοπροφητῶν, οἵτινες ἔρχονται πρὸς ὑμᾶς ἐν ἐνδύμασι προβάτων, ἔσωθεν δὲ εἰσὶν λύκοι ἅρπαγες. Ἀπὸ τῶν καρπῶν αὐτῶν γνώσεσθε αὐτούς.",
+    "orig_url": "https://archive.org/details/jbc.bj.uj.edu.pl.NDIGSTDR048133 (PDF p. 230)",
+    "quote_latin": "Christus vero ad illos qui in ipsum credunt, sic dicit: Cauete a falsis prophetis, qui veniunt ad vos vestitu ouium, intus vero sunt lupi rapaces. A fructibus ipsorum cognoscetis eos. [OCR del djvu de archive.org; no cotejado visualmente.]",
+    "quote_en": "«»",
+    "own_translation_en": "[Traducción propia del equipo, literal, no publicada.] Christ says thus to those who believed in him: Beware of false prophets, who come to you in sheep's clothing, but inwardly are ravening wolves. By their fruits you will know them.",
+    "licence_note": "Griego y latín de 1543 (dominio público). El texto bíblico es la cita evangélica del propio autor; no hay problema de derechos.",
+    "keys": [
+      "Προσέχετε ἀπὸ τῶν ψευδοπροφητῶν",
+      "ἔσωθεν δὲ εἰσὶν λύκοι ἅρπαγες"
+    ],
+    "what_it_says": "Kantakouzenos quotes Matthew 7:15-16 (beware of false prophets, wolves in sheep's clothing) in the argument that Christ, not a later figure, is the prophet 'like Moses' of Deuteronomy 18; the warning is applied to the claims made for Muhammad.",
+    "context": "La cita aparece en la Oratio I, tras el argumento de que Moisés anunció a un profeta de entre los hermanos de Israel que sólo puede ser Cristo, y antes de la refutación de que Mahoma sea ese profeta. Las palabras no nombran a Mahoma; la aplicación se hace por el contexto inmediato, que trata de la pretensión profética de Mahoma.",
+    "limits": "(1) El nombre de Mahoma no aparece en la frase citada; la aplicación depende del contexto (Latín: 'Mahomet ... Beatus ille Moses'). (2) Griego leído a 300 dpi en líneas largas; hay una palabra del final ('γνώσεσθε αὐτούς') cuya lectura es más segura en Mt 7,16 que en la imagen. (3) El autor usa el texto evangélico en su sentido apologético; es su interpretación, no la de Mt.",
+    "stance": "own view (argument by scriptural citation)"
+  },
+  {
+    "id": "kant-or1-paraclete-name",
+    "figure": "kantakouzenos",
+    "work": "kant-orationes-iv",
+    "theme": "M",
+    "harshness": 4,
+    "famous": {
+      "value": false,
+      "where_cited": "Tema muy conocido en la polémica musulmana-cristiana (Juan 14-16); la cita concreta de Kantakouzenos no la encontré en la literatura consultada."
+    },
+    "ref": "Oratio I contra Mahometem (Λόγος Πρῶτος κατὰ Μωάμεθ), griego de 1543, p. 79 (PDF 231). Latín: Oratio I, djvu ~ líneas 7003-7016 ('Praeterea, quod de nomine suo Mahomet effinxit...').",
+    "url": "https://archive.org/details/jbc.bj.uj.edu.pl.NDIGSTDR048133 (PDF p. 231 de NDIGSTDR048133.pdf)",
+    "quote_orig": "ἡ ὅτι [ποθεῖ] αὐτὸν προφητεύων ὁ Χριστὸς τοῖς υἱοῖς Ἰσραήλ, ὅτι ἔρχηται, ἀναγγελίζομαι ὑμῖν τὸν ἀπόστολον τοῦ θεοῦ, τὸν ἥξοντα μετ' ἐμέ, καὶ τὸ ὄνομα αὐτοῦ Μωάμεθ. ἐπεὶ [οὔτε] ἐν τῇ παλαιᾷ εὑρίσκεται γραφῇ, [οὔτε] ἐν τῇ νέᾳ, ἀλλ' ἐστὶ σαφὲς ψεῦδος, ἐπλάσαντο οἱ ἐκείνου διάδοχοι, ὡς ἂν φθόνῳ [κινηθέντες] ἐ[…] αὐτὸ οἱ μὲν Ἰουδαῖοι ἐκ τῆς παλαιᾶς γραφῆς, οἱ δὲ χριστιανοὶ ἐκ τοῦ εὐαγγελίου.",
+    "orig_url": "https://archive.org/details/jbc.bj.uj.edu.pl.NDIGSTDR048133 (PDF p. 231)",
+    "quote_latin": "Praeterea, quod de nomine suo Mahomet effinxit, quod ex aeterno scriptum inueniatur in fastigio dextrae partis throni diuini: quodque de illo uaticinatus Christus filiis Israel dixerit, Annuncio uobis, apostolum Dei uenturum post me, nomen illi Mahomet. Cum uero nec in ueteri nec in nouo Testamento huiusmodi scriptura inueniatur, & mendacium sit apertissimum, dixerunt finxerunt & successores huius, quosdam inuidia motos illud expunxisse, Iudaeos quidem ex ueteri Testamento, Christianos autem ex Euangelio. [OCR del djvu; no cotejado visualmente.]",
+    "quote_en": "«»",
+    "own_translation_en": "[Traducción propia del equipo, literal, no publicada; las palabras entre corchetes no están aseguradas.] ...Christ, prophesying to the sons of Israel, says: I announce to you the apostle of God who will come after me, and his name is Muhammad. But since it is found neither in the Old nor in the New [Scripture], it is clearly a lie; his successors invented it, and some, moved by envy, erased it: the Jews from the Old Testament, the Christians from the Gospel.",
+    "licence_note": "Griego y latín de 1543 (dominio público). No hay traducción inglesa de dominio público.",
+    "keys": [
+      "ἐπλάσαντο οἱ ἐκείνου διάδοχοι",
+      "καὶ τὸ ὄνομα αὐτοῦ Μωάμεθ"
+    ],
+    "what_it_says": "Kantakouzenos reports the Muslim claim that Christ foretold 'the apostle of God ... whose name is Muhammad', and that the name is written in heaven; he rejects this as an evident lie invented by Muhammad's successors, and says Jews and Christians later erased it from their books.",
+    "context": "En la Oratio I, el autor presenta la pretensión musulmana (que Cristo anunció a Mahoma y que su nombre está escrito en el cielo) y la rechaza remitiéndose a su refutación en la Apología IV. La frase es, por tanto, una reproducción de la objeción seguida de refutación.",
+    "limits": "(1) Es una cita de la objeción de los musulmanes: el autor la reporta y la rechaza; no es su propia afirmación. (2) Griego leído a 600 dpi, pero varias palabras son inciertas: 'ποθεῖ' (entre corchetes), 'οὔτε' (dos veces), 'κινηθέντες' y el verbo de 'ἐ[…] αὐτὸ' (quizá de la familia de 'ἐξαλείφειν', borrar). (3) Latín del OCR del djvu. (4) La misma objeción figura en el preámbulo de la Apología I del Latín (djvu, ~ líneas 880-900, 'Item quod & Christus de Mahomet uaticinatus sit'), no leído en griego.",
+    "stance": "quoting opponent (followed by refutation)"
+  },
+  {
+    "id": "kant-or4-demons-saved",
+    "figure": "kantakouzenos",
+    "work": "kant-orationes-iv",
+    "theme": "Q",
+    "harshness": 3,
+    "famous": {
+      "value": false,
+      "where_cited": "No se encontró cita en la búsqueda."
+    },
+    "ref": "Oratio IV contra Mahometem (Λόγος Τέταρτος), capítulo β' ('Ἐπὶ τῷ κεφαλαίῳ β'), griego de 1543, p. 106 (PDF 258). Latín: Oratio IV, cap. 2 (djvu ~ líneas 9112-9120).",
+    "url": "https://archive.org/details/jbc.bj.uj.edu.pl.NDIGSTDR048133 (PDF p. 258 de NDIGSTDR048133.pdf)",
+    "quote_orig": "Ἐν ἑτέρῳ τόπῳ φησὶν ὁ αὐτὸς ὅτι πολλοὶ τῶν δαιμόνων ἀκούσαντες τὸ τοῦ Μαχουμέτ ἀναγινωσκόμενον, ἐπῄνεσαν καὶ ἐθαύμασαν, καὶ πιστεύσαντες αὐτῷ ἐσώθησαν. Ἀλλὰ νῦν δ' οὐχ οὕτως, ἀλλὰ καθολικῶς λέγει καὶ ἀφαιρεῖται, ὅτι σωθῆναι μέλλουσιν οἱ δαίμονες.",
+    "orig_url": "https://archive.org/details/jbc.bj.uj.edu.pl.NDIGSTDR048133 (PDF p. 258)",
+    "quote_latin": "Praeterea in capite Mahometis, quod & daemones salutem sint consecuturi, Origenis haeresim secutus, & quamuis alio in loco idem dicat, quod multi ex daemonibus, cum Mahometis Alcoranum praelegi audiuissent, collaudauerunt, & admirati sunt & cum credidissent, salutem consecuti sunt: nunc tamen non sic dicit, sed universaliter daemones saluandos fore affirmat. [OCR del djvu; no cotejado visualmente.]",
+    "quote_en": "«»",
+    "own_translation_en": "[Traducción propia del equipo, literal, no publicada.] In another place he [Muhammad] says that many demons, having heard the book of Muhammad read, praised and admired it, and believing in him were saved. But now he does not speak thus; he says it universally, and withdraws [the restriction]: that the demons are to be saved.",
+    "licence_note": "Griego y latín de 1543 (dominio público).",
+    "keys": [
+      "ὅτι πολλοὶ τῶν δαιμόνων ἀκούσαντες",
+      "ὅτι σωθῆναι μέλλουσιν οἱ δαίμονες"
+    ],
+    "what_it_says": "Kantakouzenos says Muhammad teaches that demons will be saved: he quotes a passage where many demons, having heard the Qur'an read, were saved by believing, and says that Muhammad elsewhere states it universally, that all demons will be saved.",
+    "context": "Se trata de la crítica del cap. 2 del discurso IV, que compara la doctrina musulmana de la salvación con el origenismo condenado. El autor usa el pasaje para mostrar que el Corán contradice su propia doctrina, lo que da pie a su argumento de incoherencia.",
+    "limits": "(1) La cláusula final ('ἀφαιρεῖται', 'quita' o 'retira') se lee en el borde de la línea; no tengo certeza total. (2) El Latín del cap. 2 dice 'Origenis haeresim', es decir que el autor compara la doctrina con el origenismo: es una acusación doctrinal, no una afirmación neutral. (3) No he comprobado si la referencia coránica concreta corresponde a una sura real; sólo se reporta como cita de Mahoma.",
+    "stance": "own view (polemic against Muslim doctrine, quoting Muslim text)"
+  },
+  {
+    "id": "kant-or4-devil-homicide",
+    "figure": "kantakouzenos",
+    "work": "kant-orationes-iv",
+    "theme": "M",
+    "harshness": 5,
+    "famous": {
+      "value": false,
+      "where_cited": "No se encontró cita en la búsqueda; no verificado."
+    },
+    "ref": "Oratio IV contra Mahometem, griego de 1543, p. 107 (PDF 259), líneas finales del capítulo que compara a Mahoma con el diablo. Latín: Oratio IV (djvu ~ líneas 9236-9246: 'Quis enim Mahomete maior est ... Diabolus homicida est').",
+    "url": "https://archive.org/details/jbc.bj.uj.edu.pl.NDIGSTDR048133 (PDF p. 259 de NDIGSTDR048133.pdf)",
+    "quote_orig": "Τίς γὰρ μείζων τοῦ Μωάμεθ, ὃς ὑπεραναβὰς τοὺς οὐρανούς, ὡς αὐτὸς ὑπὲρ αὐτοῦ εἴρηκε, καὶ αὐτὰς τὰς ἀγγελικὰς πάσας δυνάμεις τῷ θεῷ προσ[…] καὶ μεσίτης τῶν ἐπταικότων ἀγγέλων ἐγένετο, ἀλλὰ καὶ παντὸς τοῦ κόσμου προστάτης; Ὁ διάβολος ἀνθρωποκτόνος ἐστὶ, καὶ ὁ Μωάμεθ τοὺς μὴ πειθομένους τοῖς δόγμασιν αὐτοῦ θανάτῳ κατεδίκασεν.",
+    "orig_url": "https://archive.org/details/jbc.bj.uj.edu.pl.NDIGSTDR048133 (PDF p. 259)",
+    "quote_latin": "Quis enim Mahomete maior est, qui coelis superatis, ut ipse de se dixit, & omnibus angelicis potestatibus, cum Deo collocutus est, & intercessor patronusque angelorum, qui ceciderunt, factus, quin etiam totius mundi aduocatus? Diabolus homicida est, & Mahomet legibus suis non morigeros morti adiudicauit. [OCR del djvu; no cotejado visualmente.]",
+    "quote_en": "«»",
+    "own_translation_en": "[Traducción propia del equipo, literal, no publicada; el hueco […] no está leído.] For who is greater than Muhammad, who rose above the heavens, as he himself says, and [...] the angelic powers with God, and became mediator of the fallen angels, and advocate of the whole world? The devil is a murderer, and Muhammad condemned to death those who did not obey his teachings.",
+    "licence_note": "Griego y latín de 1543 (dominio público). Migne PG 154 (djvu OCR de archive.org, dominio público, texto griego/latino en columnas) da la misma frase griega en comprobación, pero no se usa como fuente de la cita.",
+    "keys": [
+      "Ὁ διάβολος ἀνθρωποκτόνος ἐστὶ",
+      "τοὺς μὴ πειθομένους τοῖς δόγμασιν αὐτοῦ θανάτῳ κατεδίκασεν"
+    ],
+    "what_it_says": "Kantakouzenos argues that Muhammad, who claims to have risen above the heavens and to be mediator for the fallen angels, imitates the devil: as the devil is a murderer, Muhammad condemned to death those who did not obey his teachings.",
+    "context": "Parte de la Oratio IV, en la que el autor compara punto por punto a Mahoma con el diablo (homicida, seductor, mentiroso, hipócrita). La frase sobre la condena a muerte de los no creyentes es la afirmación más directa sobre la coacción; se cita como afirmación histórica del autor, no como exhortación.",
+    "limits": "(1) SENSIBLE: la frase afirma que Mahoma condenó a muerte a quienes no obedecían sus dogmas; es una acusación histórica, no una llamada a matar, pero el equipo debe tratarla con cuidado. (2) La parte central de la frase ('προσ[…]') no está leída; el resto del griego sí se leyó a 600 dpi. (3) 'Ἀγγελικὰς' y 'ἐπταικότων' cotejados con Migne (djvu OCR). (4) El insulto personal de la misma página ('ὁ δὲ ἀπωλείας υἱὸς ὁ Μαχούμετ') está excluido (ver excluded.json).",
+    "stance": "own view (polemic comparison; historical accusation)"
+  }
+]

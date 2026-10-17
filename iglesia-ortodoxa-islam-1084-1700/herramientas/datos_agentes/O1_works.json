@@ -1,0 +1,50 @@
+[
+  {
+    "id": "zig_panoplia_t28",
+    "figure": "zigabenos",
+    "title_orig": "Πανοπλία δογματική, Τίτλος ΚΗ' (Κατὰ Σαρακηνῶν). Heading as printed in the Greek column of the 1864 Opera: «Κατὰ Σαρακηνῶν» (Greek heading read from the title page OCR; the full heading was not re-checked on its page image).",
+    "title_es": "Panoplia dogmática, Título XXVIII: «Contra los sarracenos»",
+    "title_en": "Dogmatic Panoply, Title 28: Against the Saracens",
+    "date": "c. 1100–1118",
+    "language": "Greek (Latin translation printed beside it in Migne)",
+    "genre": "Systematic refutation of heresies (compilation of doctrinal refutations, part of the Panoplia)",
+    "edition_original": "Migne PG 130, cols. 1331–1360 (Greek with Latin). Read in the 1864 reprint «Euthymii Zigabeni Opera quae reperiri potuerunt omnia» (Greek and Latin in parallel columns). First Greek+Latin edition: Frid. Sylburg, «Saracenica sive Moamethica», 1595 (Google Books ID bub_gb_XBo1ORCLgY4C, identified by catalogue search; not opened in this run).",
+    "edition_english": "No public-domain English translation of Title 28 located (searched, not found). Modern translations exist but are in copyright, so not quoted.",
+    "digital_url": "archive.org item for the 1864 Opera, identified by title match: https://archive.org/details/operaquaereperi00canggoog . The local file read was the Google scan PDF of the 1864 Opera (pages 691, 693, 694, 695, 696 of that scan = Migne cols. 1333–1334, 1337–1338, 1339–1340, 1341–1342, 1343–1344). The archive.org item's full text could not be downloaded in this run (the djvu download returned empty), so the URL is the item page, not a page I re-opened.",
+    "licence": "Google scan of a 19th-century reprint, public domain (the scan notice asks for non-commercial use).",
+    "authenticity_note": "Genuine. The Panoplia Dogmatica is Zigabenos's work, written at Alexios I's request; Title 28 (on Islam) is generally attributed to him, though the Panoplia compiles earlier material. Wickert 1910 (German dissertation) discusses its sources; not quoted here.",
+    "notes": "The brief calls it «Against the Ishmaelites». The printed title is «Contra Saracenos» (Lat. index, 1864 Opera) and the Latin heading reads «Adversus Saracenos, qui vocantur Ismaelitae, quod ab Ismaele originem duxerint». The Ishmaelite name is in the subtitle."
+  },
+  {
+    "id": "choniates_thesaurus_xx",
+    "figure": "choniates",
+    "title_orig": "Θησαυρὸς τῆς ὀρθοδόξου πίστεως (Thesaurus orthodoxae fidei), liber XX; chapter «Περὶ τῆς θρησκείας τῶν Ἀγαρηνῶν» (Greek heading as printed on PDF p. 51)",
+    "title_es": "Tesoro de la fe ortodoxa, libro XX: «Sobre la superstición de los agarenos»",
+    "title_en": "Thesaurus of the Orthodox Faith, Book XX: On the Superstition of the Agarenes",
+    "date": "c. 1190–1200",
+    "language": "Greek (Latin translation printed beside it in Migne PG 140)",
+    "genre": "Systematic theological treatise (Thesaurus), Book XX on Islam and other sects",
+    "edition_original": "Migne PG 140: Book XX of the Thesaurus begins on the page printed 105/103 (PDF p. 51) and the chapter continues to printed pp. 111–114 (PDF pp. 54–55). Greek (from Angelo Mai, Bibliotheca nova Patrum, t. IV, 1837, as printed in Migne) and Latin in parallel columns. The 1865 PDF printing was read; column numbers as printed on the pages.",
+    "edition_english": "No public-domain English translation of the Thesaurus located (searched, not found). Modern translation exists and is in copyright (not quoted).",
+    "digital_url": "Local copy of the Migne PG 140 PDF (pg140_1865.pdf, 801 pages, 1865 printing) read at PDF pages 51 (Book XX, ch. 'De superstitione Agarenorum', nos. 1–2) and 54–55 (nos. 6–9 of the chapter). Page-image render of PDF p. 51 read directly. Source item on archive.org not re-opened in this run (the local file has a Google/Internet Archive style footer).",
+    "licence": "Migne PG (1857–66), public domain. The 1865 scan has a Google-style notice; public domain content.",
+    "authenticity_note": "Genuine. The Thesaurus is by Nicetas Choniates (c. 1155–1217). Book XX is attributed to him in the manuscript tradition printed by Mai and Migne; the chapter on the Agarenes is part of that book. A table of contents in PG 139 (line 'vigesimus contra Saracenos') confirms that Book XX deals with the Saracens.",
+    "notes": "The brief said Book 20 deals with the Muslims: confirmed (chapter 'De superstitione Agarenorum' in Book XX; PG 139 table of contents lists 'vigesimus contra Saracenos'). The Latin 'Mohamedes' and Greek Μωάμεθ are both used."
+  },
+  {
+    "id": "anon_formula_pg140",
+    "figure": "anonymous_abjuration_formula",
+    "title_orig": "Ὁ ἀναθεματισμὸς τῶν Σαρακηνῶν / «Ordo quo observatur super iis qui a Saracenis ad nostram fidem accedunt» (ritual for converts from Islam; Latin title in Migne)",
+    "title_es": "Fórmula de abjuración para conversos del islam (anatemas contra Mahoma)",
+    "title_en": "Abjuration formula for converts from Islam (anathemas against Muhammad)",
+    "date": "uncertain (attributed to the 12th century in some literature; not checked)",
+    "language": "Greek (Latin printed beside it in Migne PG 140)",
+    "genre": "Liturgical / ritual formula (anonymous)",
+    "edition_original": "Migne PG 140, cols. 127–128 (printed after the Choniates Book XX chapter; from Sylburg's 'Saracenica', 1593/1595, as Migne states).",
+    "edition_english": "No public-domain English translation located (not searched in depth).",
+    "digital_url": "Local copy of the Migne PG 140 PDF (1865 printing), PDF p. 62 (printed pp. 127–128), page image read directly. Source of the 1865 PDF: see works entry zig/choniates (archive.org item not re-opened in this run).",
+    "licence": "Migne PG (public domain).",
+    "authenticity_note": "Anonymous; Migne attributes the text to Sylburg's source, not to Choniates. The Migne printing sits in the Choniates section, so it is easily misread as Choniates's own. Not Choniates's work per the printed source.",
+    "notes": "Bonus item as the brief requests, labelled anonymous/ritual. The Migne footnotes also discuss Choniates's misreading of Q 2:25 in the chapter (note (a), 'male intellexit Nicetas'). The 1180 controversy under Manuel I is not checked in a source here."
+  }
+]

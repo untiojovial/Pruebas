@@ -1,0 +1,20 @@
+[
+  {
+    "reference": "Alexiad, Book X, ch. 5 (Greek 10.5.6; el.wikisource Αλεξιάς Βιβλίο 10); Dawes 1928 Book X",
+    "url": "https://el.wikisource.org/wiki/%CE%91%CE%BB%CE%B5%CE%BE%CE%B9%CE%AC%CF%82/%CE%92%CE%B9%CE%B2%CE%BB%CE%AF%CE%BF_10",
+    "gist_en": "Anna says the barbarian Ishmaelites are slaves to wine and Dionysus and worship Astarte, valuing the image of the moon; a sneer at Muslim customs and lineage.",
+    "why_excluded": "Ethnic and customary abuse of Arabs or Turks (the 'Ishmaelites') described as filthy and idolatrous; not a doctrinal argument. Rule 3."
+  },
+  {
+    "reference": "Synaxaristes ton dodeka menon, vol. II, 15 December (entry for St Bacchos of Jerusalem, Saracen rule)",
+    "url": "https://archive.org/details/synaxaristestond01nico",
+    "gist_en": "A converted Jewish martyr at Jerusalem calls the faith of the Agarenes false and vain, mocks it, and is beheaded under Muslim rule.",
+    "why_excluded": "Out of period: martyr under early Arab rule of Jerusalem, well before 1084 and before the 1500-1700 focus; the author is not a post-Schism Orthodox writer. Date not verified in the text."
+  },
+  {
+    "reference": "Neophytos Rodinos, Cypriot scholar (1576/7-1659)",
+    "url": "https://en.wikipedia.org/wiki/Neophytos_Rodinos",
+    "gist_en": "Cypriot Greek scholar and educator who converted from Orthodoxy to Catholicism and preached as a Catholic missionary in Italy, Poland, Greece, Turkey and Albania.",
+    "why_excluded": "Converted to Catholicism (Latin-rite writer); the brief excludes Greeks who converted to Catholicism."
+  }
+]

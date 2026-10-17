@@ -1,0 +1,18 @@
+[
+  {
+    "id": "palamas_letter_thessalonica",
+    "figure": "palamas",
+    "title_orig": "Ἐπιστολὴ πρὸς Θεσσαλονικεῖς (Τοῦ αὐτοῦ ἐπιστολή, ἣν ἐξ Ἀσίας αἰχμάλωτος ὤν, πρὸς τὴν ἑαυτοῦ ἐκκλησίαν ἀπέστειλεν)",
+    "title_es": "Carta a la Iglesia de Tesalónica (escrita desde el cautiverio en Asia)",
+    "title_en": "Letter to the Church of Thessalonica (written from captivity in Asia)",
+    "date": "c. 1354-1355 (written from captivity; the editor and secondary sources place it at the end of the captivity, Nicaea area)",
+    "language": "Greek",
+    "genre": "Letter (epistle) with narrative of captivity and reflections on providence, Turks and Christians",
+    "edition_original": "Νέος Ἑλληνομνήμων (N. Hellenomnemon) vol. 16, issue 1 (31 March 1922), printed pp. 3-21 (the letter text begins on p. 7 with the heading 'Τοῦ αὐτοῦ ἐπιστολή'). Editor credited as K. I. Dyovouniotis (Δυοβουνιώτης) in the journal's notes, copied from Athos, Monastery of St Panteleimon (ms. no. 215 per secondary sources) by A. Adamantios in 1895 for Sp. Lambros. Also in Paris gr. 2409 (cited by the editor as Migne PG 150, pp. 777-778) and Athens NL cod. 1379 (per secondary sources). NOT printed in Migne PG 150 or PG 151 (checked by searching the OCR text of both volumes).",
+    "edition_english": "No public-domain English translation verified. archive.org item 'St. Gregory Palamas' Letter, Which He Sent to His Church from Asia While Captive (1355 AD)' exists but names no translator, appears to be a modern translation, and is marked 'Public Domain Mark 1.0' by the uploader only. Not quoted. Norman Russell, Gregory Palamas: The Hesychast Controversy and the Debate with Islam (Liverpool UP, 2020) translates the letter but is in copyright.",
+    "digital_url": "https://olympias.lib.uoi.gr/jspui/bitstream/123456789/1865/1/doc.pdf",
+    "licence": "Olympias (University of Ioannina) record handle 123456789/1865 states 'licensed under a Creative Commons License 4.0 by Attribution'. The 1922 journal is also listed as 'Full view' with rights code pdus on HathiTrust (mdp.39015036027178), which I could not open (Cloudflare challenge).",
+    "authenticity_note": "Not verified by me. Secondary sources (search summaries, unverified) describe the letter as genuine with no serious challenge; Arnakis (Speculum 1951) treats it as a historical source. The letter is attributed to Palamas in the editor's note.",
+    "notes": "I read the printed text from the scanned PDF (no text layer; no Greek OCR data available), at 110 dpi for whole pages and 220 dpi for the quoted lines. Transcription is mine, not OCR; accents and breathings are as printed where legible. The letter is mainly narrative (capture, shipwreck, Gallipoli, Prusa, Nicaea, Christians under Ottoman rule); doctrinal statements about Islam are few. The debates with the Chionai are a separate dialogue (Sakkelion, edition in Sotir 1892, per the editor's note), not read by me; the editor says Sakkelion also cited the letter as printed in Migne, which is wrong. The Thessalonian letter's Greek was first printed in this 1922 volume."
+  }
+]

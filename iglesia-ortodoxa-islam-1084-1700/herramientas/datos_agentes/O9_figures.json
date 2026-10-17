@@ -1,0 +1,28 @@
+[
+  {
+    "id": "palamas",
+    "name_es": "Gregorio Palamás",
+    "name_en": "Gregory Palamas",
+    "name_orig": "Γρηγόριος Παλαμᾶς",
+    "born": "1296 (as given in the brief; not re-verified in this task)",
+    "died": "1359 (as given in the brief; not re-verified in this task)",
+    "language": "Byzantine Greek",
+    "role_place": "Archbishop of Thessalonica and leading hesychast theologian (Mount Athos, Constantinople); captured by the Turks in 1354 and writing from captivity (captivity details from the letter itself and general knowledge, not independently verified here).",
+    "why_relevant": "His 1354 captivity letter records his own debates with Turkish interlocutors about Muhammad, the Gospel and the Turkish claim to accept the prophets and Christ, so it is a rare first-person Orthodox answer to Muslim arguments from the period.",
+    "fame": "Best known as the defender of Hesychasm (Triads in Defence of the Holy Hesychasts) and as a saint of the Eastern Orthodox Church (canonisation and feast day from general knowledge, not verified here). His Islam-related writing is little cited compared with his hesychast works; the captivity letter itself is cited mainly for its narrative of captivity (not checked).",
+    "orthodox_status": "saint (Eastern Orthodox); archbishop; theologian"
+  },
+  {
+    "id": "symeon_thessalonica",
+    "name_es": "Simeón de Tesalónica",
+    "name_en": "Symeon of Thessalonica",
+    "name_orig": "Συμεὼν ὁ Θεσσαλονίκης",
+    "born": "c. 1381 (as given in the brief; not re-verified here)",
+    "died": "1429 (as given in the brief; not re-verified here)",
+    "language": "Byzantine Greek",
+    "role_place": "Archbishop of Thessalonica (early 15th century), liturgical and anti-heretical writer",
+    "why_relevant": "His Dialogue against all heresies has a chapter (ch. 14, 'Contra gentes impias') on the Muslims that names Muhammad's claims: apostleship, ascension, a vision of God, and denial of the Son and Spirit.",
+    "fame": "Known mainly as a liturgical commentator and a defender of Orthodox sacramental practice against the Latins; his anti-Muslim chapter is less cited than his anti-Latin writing (not checked by search).",
+    "orthodox_status": "saint (Eastern Orthodox; canonisation from general knowledge, not verified here); archbishop; liturgical and polemical theologian"
+  }
+]

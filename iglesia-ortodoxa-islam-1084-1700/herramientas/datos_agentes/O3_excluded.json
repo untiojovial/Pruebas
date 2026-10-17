@@ -1,0 +1,20 @@
+[
+  {
+    "reference": "Oratio I contra Mahometem (Latin, Gwalther 1543, djvu ~ l. 6640-6650): 'diaboli primogenitus et filius perditionis, patremque simul et filium mendacii ... nomen illi Mahomet, Arabs natione, perverses ingenio, et animo perversior'. Greek equivalent: 'ὁ δὲ ἀπωλείας υἱὸς ὁ Μαχούμετ' (Oratio IV, p. 108, PDF 260).",
+    "url": "https://archive.org/details/jbc.bj.uj.edu.pl.NDIGSTDR048133 (PDF pp. 230-260 of NDIGSTDR048133.pdf; the Latin is in the Latin section, not in PDF 157-268 Greek pagination)",
+    "gist_en": "Kantakouzenos calls Muhammad the firstborn of the devil, son of perdition and of lies, an Arab by nation, perverse in mind and even more perverse in soul, who gathered all heresies into his teaching.",
+    "why_excluded": "Personal invective and an ethnic label ('Arabs natione') in the opening of the first Oration. The doctrinal point (Muhammad as a gatherer of heresies) is covered by passages P-A and P-E without the insult. The 'son of perdition' phrase recurs in Oratio IV (Greek p. 108) and is also excluded."
+  },
+  {
+    "reference": "Oratio I contra Mahometem (Latin, Gwalther 1543, djvu ~ l. 6650-6660): 'Deinde aliquos nactus homines qui de nomine re ipsa a pecudibus nihil differentes, in illos virus impietatis suae evomuit: homines nimirum pastores ... inter greges versatos'.",
+    "url": "https://archive.org/details/jbc.bj.uj.edu.pl.NDIGSTDR048133 (Latin section of NDIGSTDR048133.pdf; Greek equivalent not read)",
+    "gist_en": "Kantakouzenos says Muhammad's followers were shepherds and nomads 'nothing different from beasts', among whom he spread the poison of his impiety, since they could not judge what was true.",
+    "why_excluded": "Ethnic and personal insult against a people (Arab nomads described as beast-like and unable to judge). Excluded under the brief's rule on insults against peoples. The doctrinal claim about his heretical sources is not quoted here because its Greek could not be read reliably."
+  },
+  {
+    "reference": "Oratio I and III, Latin: recurring epithets 'stultus' ('foolish') and 'impudens' ('shameless') applied to Mahomet, e.g. Latin ~ l. 6729 ('quam obsecro apologiam instituet stultus Mabomet') and ~ l. 8388 ('stulte igitur Mahometi tradit').",
+    "url": "https://archive.org/details/jbc.bj.uj.edu.pl.NDIGSTDR048133 (Latin section of NDIGSTDR048133.pdf)",
+    "gist_en": "Throughout the Orations the author calls Muhammad foolish and shameless while refuting his claims; these epithets are rhetorical and occur inside doctrinal arguments.",
+    "why_excluded": "Personal insult used as a recurring epithet. Not selected as a passage point; the arguments containing them were not quoted, to avoid insult-led quotations. Listed so the team knows the vocabulary exists."
+  }
+]

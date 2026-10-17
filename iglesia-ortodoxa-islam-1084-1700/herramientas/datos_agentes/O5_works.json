@@ -1,0 +1,18 @@
+[
+  {
+    "id": "kalekas_synodal_letter_pg151",
+    "figure": "kalekas",
+    "title_orig": "Patriarchal (synodal) letter of Ioannes Kalekas on repentance, addressed to the faithful (running head 'JOAN. CALECA CP. PATRIARCHAE'); exact title and addressee UNVERIFIED because the OCR of the heading is garbled",
+    "title_es": "Carta patriarcal (sinodal) de Juan Calecas sobre el arrepentimiento (título exacto no verificado)",
+    "title_en": "Patriarchal (synodal) letter of John Kalekas on repentance (exact title UNVERIFIED)",
+    "date": "c. 1334-1347 (Kalekas's patriarchate; exact date of this letter UNVERIFIED)",
+    "language": "Greek (with a Latin column in Migne for some texts; no Latin printed beside this passage in the OCR)",
+    "genre": "Patriarchal synodal letter / pastoral exhortation on penance",
+    "edition_original": "Migne PG 151 (Paris, 1857), the section headed as Kalekas's letter; column approx. 1227-1228, exact column UNVERIFIED",
+    "edition_english": "None found. No public-domain English translation located.",
+    "digital_url": "https://archive.org/download/patrologiaecurs151migngoog/patrologiaecurs151migngoog_djvu.txt (OCR text of the Google scan of Migne PG 151; read directly; the item page is https://archive.org/details/patrologiaecurs151migngoog)",
+    "licence": "Migne Patrologia Graeca (1857) is public domain. The archive.org item carries a Google 'public domain' notice in its scan; no CC licence field on the item metadata.",
+    "authenticity_note": "Patriarchal letter attributed to Ioannes Kalekas by the running head of the Migne page; not checked against manuscripts. Authenticity not assessed beyond the attribution.",
+    "notes": "The OCR is poor in places (garbled line-end fragments, Greek diacritics misread e.g. 'χαθ'' for 'καθ''). The Ishmaelite sentence is clean enough to read but its exact word-forms should be checked against the page image in Migne col. 1228 before publication. The letter is a penitential exhortation; the Ishmaelite (Turkish) assault is a historical explanation, not a doctrinal statement on Islam."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "reference": "Doukas, Historia byzantina, cap. XV, Bekker p. 59 (CSHB 1834): Bayezid's threat to Constantinople",
+    "url": "https://archive.org/download/bub_gb_fNQFAAAAQAAJ/bub_gb_fNQFAAAAQAAJ_djvu.txt",
+    "gist_en": "Bayezid swears by God and the great prophet that he will spare no one and destroy everyone if the city's rulers refuse his demands.",
+    "why_excluded": "Its point is a war threat to destroy the city and its people (a call to mass killing), not a doctrinal statement about Islam."
+  },
+  {
+    "reference": "Doukas, Historia byzantina, cap. XIX, Bekker pp. 91-92 (CSHB 1834): a Turkish prince's speech on the sword of the prophet",
+    "url": "https://archive.org/download/bub_gb_fNQFAAAAQAAJ/bub_gb_fNQFAAAAQAAJ_djvu.txt",
+    "gist_en": "The speaker says God gave him the Prophet's sword to cut down the unbeliever and to make the churches of Thessalonica and Constantinople temples of God and the prophet.",
+    "why_excluded": "The point is a legitimation of conquest with a call to cut down unbelievers. The temple clause is theological but cannot be separated from the call to violence; the team may review it separately."
+  },
+  {
+    "reference": "Doukas, Historia byzantina, cap. XXX, Bekker c. pp. 207-208 (CSHB 1834): counsellor urges the sword against the impious",
+    "url": "https://archive.org/download/bub_gb_fNQFAAAAQAAJ/bub_gb_fNQFAAAAQAAJ_djvu.txt",
+    "gist_en": "A counsellor tells the Sultan that God gave him power and that his sword should devour the flesh of the impious until they turn to the teaching of the one God and the great prophet.",
+    "why_excluded": "Explicit call to kill (sword against the impious); excluded by the rule for calls to kill."
+  },
+  {
+    "reference": "Doukas, Historia byzantina, cap. XVI, Bekker c. p. 64 (CSHB 1834): Latin 'Turci semibarbari hybridae'",
+    "url": "https://archive.org/download/bub_gb_fNQFAAAAQAAJ/bub_gb_fNQFAAAAQAAJ_djvu.txt",
+    "gist_en": "Doukas says the Turks are semi-barbarian hybrids, comparable to some other peoples, in a passage on the Ottomans' mixed origins and customs.",
+    "why_excluded": "Ethnic insult against the Turks as a people; excluded by the rule on ethnic abuse."
+  },
+  {
+    "reference": "Chronicon maius, Liber III, cap. IV, c. Bekker p. 261 (CSHB 1838): Turks shouting insults at the emperor",
+    "url": "https://archive.org/download/georgiusphrantz00egoog/georgiusphrantz00egoog_djvu.txt",
+    "gist_en": "During the 1453 siege, Turkish troops in the city's streets shout insults at the emperor and lords from their impure throats, without fearing God or men.",
+    "why_excluded": "Personal and ethnic abuse of the Turks as a people, not Islamic doctrine; excluded by the rule."
+  },
+  {
+    "reference": "Chronicon maius, Liber IV, c. XXII-XXIII, c. Bekker p. 455-460 (CSHB 1838, page approximate): Ottoman battle-cry invoking God and 'Rasul Mahmet'",
+    "url": "https://archive.org/download/georgiusphrantz00egoog/georgiusphrantz00egoog_djvu.txt",
+    "gist_en": "Ottoman troops and Mehmed charge the walls shouting a battle-cry invoking God and the Prophet ('Rasul Mahmet') with drums and trumpets.",
+    "why_excluded": "A war cry during an assault; excluded by the rule on war exhortation, though it names God and the Prophet."
+  },
+  {
+    "reference": "Chronicon maius, Liber IV, cap. II, Bekker p. 344 (CSHB 1838): death clause of Muhammad's quoted claim",
+    "url": "https://archive.org/download/georgiusphrantz00egoog/georgiusphrantz00egoog_djvu.txt",
+    "gist_en": "The author quotes Muhammad as saying he came to give the law not by miracles but by sword, and that those who do not submit to his law shall die.",
+    "why_excluded": "The quoted sentence ends in a call to kill (those who do not submit shall die); excluded. The 'by sword, not miracles' claim (theme S) could be reviewed if the team takes the sentence without its last clause, which I have NOT done."
+  },
+  {
+    "reference": "Migne PG 160, col. 747 (archive.org scan, 1866): Narrative of Luke Notaras and his sons' execution, ordered by Mehmed II (index attributes narrative to Ioannes Moschus)",
+    "url": "https://archive.org/download/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1866_160/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1866_160_djvu.txt",
+    "gist_en": "A narrative of the 1453 execution of Luke Notaras and his sons, ordered by Mehmed II, included in Gennadios' correspondence volume.",
+    "why_excluded": "Narrative of executions by a Muslim ruler, not doctrinal content about Islam; included only as a listed item (not verified line by line)."
+  }
+]

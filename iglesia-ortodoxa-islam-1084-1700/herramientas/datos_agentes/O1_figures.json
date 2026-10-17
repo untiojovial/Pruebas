@@ -1,0 +1,41 @@
+[
+  {
+    "id": "zigabenos",
+    "name_es": "Eutimio Zigabeno",
+    "name_en": "Euthymios Zigabenos (Zygadenos)",
+    "name_orig": "Εὐθύμιος Ζιγαβηνός",
+    "born": "c. 1050",
+    "died": "after 1118 (c.)",
+    "language": "Greek",
+    "role_place": "Monk of the Peribleptos monastery, Constantinople; compiler of the Panoplia Dogmatica commissioned by Emperor Alexios I Komnenos.",
+    "why_relevant": "Writes the longest systematic Byzantine refutation of Islam (Title 28 of the Panoplia Dogmatica, 'Against the Saracens') with direct quotations of Qur'anic claims.",
+    "fame": "Well known in Byzantine studies and in the history of Byzantine anti-Islamic polemic; Title 28 was first printed in Greek and Latin by Sylburg (1595) as 'Saracenica sive Moamethica'. Cited in modern scholarship on Byzantine views of Islam (Wickert 1910 dissertation).",
+    "orthodox_status": "Orthodox monk and theologian, commissioned by the emperor; not canonised as far as I know (UNVERIFIED for a formal canonisation or local veneration)."
+  },
+  {
+    "id": "choniates",
+    "name_es": "Nicetas Coniates",
+    "name_en": "Nicetas Choniates",
+    "name_orig": "Νικήτας Χωνιάτης",
+    "born": "c. 1155",
+    "died": "1217",
+    "language": "Greek",
+    "role_place": "Byzantine court official and historian (Constantinople, Nicaea); author of the Thesaurus of the Orthodox Faith and of the History (Chronike Diegesis).",
+    "why_relevant": "Book XX of the Thesaurus is a dedicated chapter-by-chapter treatment of Islam ('On the superstition of the Agarenes'), with the sharpest label in the set: Islam as 'forerunner of the Antichrist'.",
+    "fame": "Known as a historian (the History) and as a theologian of the Thesaurus; the Thesaurus is much less read than the History. The Book XX chapter on Islam is cited in modern work on Byzantine views of Islam (not searched in this run; UNVERIFIED which later authors cite it).",
+    "orthodox_status": "Orthodox layman (court official, historian) and theologian; not a saint."
+  },
+  {
+    "id": "anonymous_abjuration_formula",
+    "name_es": "Fórmula anónima de abjuración (anatemas contra Mahoma)",
+    "name_en": "Anonymous abjuration formula (anathemas against Muhammad), ritual text",
+    "name_orig": "Ἀναθεματισμὸς τῶν Σαρακηνῶν / Ordo quo observatur super iis qui a Saracenis ad nostram fidem accedunt",
+    "born": "unknown",
+    "died": "unknown",
+    "language": "Greek (Latin printed beside it in Migne PG 140)",
+    "role_place": "Liturgical or ritual formula for the reception of converts from Islam into the Orthodox Church; anonymous.",
+    "why_relevant": "Shows the ritual side of Byzantine anti-Islamic polemic: the converts renounce Muhammad and 'the god of Muhammad' in explicit anathemas.",
+    "fame": "Known to specialists through Sylburg 1595 and the Migne PG 140 printing; attributed to the 12th century in the scholarly literature (UNVERIFIED for the date and for the controversy of 1180 under Manuel I Komnenos, which I did not check in a source).",
+    "orthodox_status": "Anonymous ritual text; not an author. Listed as a bonus item, labelled anonymous/ritual."
+  }
+]

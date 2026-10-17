@@ -1,0 +1,36 @@
+[
+ {
+  "id": "dialogue_persian_I_II",
+  "figure": "manuel_ii",
+  "title_orig": "NOT RELIABLY READ. Hase's notice (Migne PDF p. 56) gives a Greek heading whose OCR reads 'Μανουὴλ βασιλέως τοῦ Παλαιολόγου ... ἄλλο περὶ τῆς Χριστιανῶν θρησκείας'; the Latin Migne title is 'Dialogi quos cum Persa aliquo habuit'",
+  "title_es": "Diálogo con un persa (Diálogos I y II)",
+  "title_en": "Dialogue with a Persian (Dialogues I and II)",
+  "date": "c. 1391-1392 (written at Ankara, winter 1391-92, per the standard dating; the 1391 date is the one commonly cited)",
+  "language": "Greek (Migne prints Greek with a Latin column)",
+  "genre": "Literary dialogue (Christian emperor vs. a Muslim scholar, 'Mudarris')",
+  "edition_original": "Migne, PG 156 (Patrologiae cursus completus, Series graeca, vol. 156), Dialogus I at cols. 133 ff., Dialogus II at c. 149 ff. (start inferred from the pagination; end not checked). Greek of Dialogues I-II first edited by C. B. Hase in Notices et extraits des manuscrits, vol. VIII (1810), per Migne's own footnote.",
+  "edition_english": "None found in the public domain for Dialogues I-II. (The public-domain English of Dialogue VII by Roger Pearse, 2009, is a different text; see dialogue_persian_VII.)",
+  "digital_url": "https://archive.org/details/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1866_156",
+  "digital_url_read": "https://archive.org/download/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1866_156/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1866_156.pdf (PDF pp. 42-44, 56, 67-85 read; text layer and page images at 300 dpi). The Migne PDF scan is the 1866 reprint of PG 156 on archive.org.",
+  "licence": "The archive.org item shows no rights statement in its metadata (licenseurl and rights empty). The text is a Migne volume of 1866, so it is public domain by age.",
+  "authenticity_note": "Genuine work of Manuel II (widely accepted in the scholarship; the Persian interlocutor is a literary frame, and some accounts treat the debate as partly fictionalised). Hase's notice (Migne PDF p. 56, French) describes the Paris Bibliothèque royale manuscript (Regius 1253, per his description) and its title, which contains the words 'ἄλλο περὶ τῆς Χριστιανῶν θρησκείας' (OCR reading, not fully checked).",
+  "notes": "Migne PG 156 contains only Dialogues I and II; footnote (1) on PDF p. 42 says Hase edited 'duos, primum et secundum' only, and that other manuscripts contain 26 dialogues (Paris cod. 4253 cites 'xxvi dialogi') or 6 (Milan). Dialogue I (angels and souls) mentions no Muhammad in the Latin text layer. Dialogue II contains the Persian's account of paradise, the intercession of Muhammad and the 'bridge like a sword', plus Manuel's replies. Greek OCR of the scan is unusable; all Greek below was read from the 300-dpi page images and should be cross-checked at higher resolution by the team."
+ },
+ {
+  "id": "dialogue_persian_VII",
+  "figure": "manuel_ii",
+  "title_orig": "NOT FOUND. No Greek title for Dialogue VII was in any public-domain source I opened (Migne has only Dialogues I-II).",
+  "title_es": "Diálogo con un persa, Séptimo diálogo (controversia VII)",
+  "title_en": "Dialogue with a Persian, Seventh Dialogue (Seventh controversy)",
+  "date": "c. 1391-1392",
+  "language": "Greek original (not in any public-domain Greek source I could open); English translation by Roger Pearse (2009)",
+  "genre": "Literary dialogue, seventh of 26 dialogues (as the Pearse page and the Regensburg commentary describe it)",
+  "edition_original": "NOT in Migne PG 156 (only Dialogues I-II there, per Migne footnote on PDF p. 42 and Pearse's own note that the Migne text is 'incomplete'). First complete critical edition: Erich Trapp, Wiener Byzantinistische Studien 2 (Vienna 1966) - copyright, not quoted. Dialogue 7 with French translation: Khoury, Sources Chrétiennes 115 (Paris 1966) - copyright, not quoted. Corpus Islamo-Christianum 4/1-3 (1993-96) - copyright.",
+  "edition_english": "Roger Pearse, translation of Dialogue 7 (chapters 1-18 of 37 on the page), 2009, published on tertullian.org ('Early Church Fathers - Additional Texts'). The page declares: 'This file and all material on this page is in the public domain - copy freely.' Translator's self-declaration, not a pre-1931 publication; the team should treat it as a PD claim to confirm.",
+  "digital_url": "https://www.tertullian.org/fathers/manuel_paleologus_dialogue7_trans.htm",
+  "digital_url_read": "https://www.tertullian.org/fathers/manuel_paleologus_dialogue7_trans.htm (raw HTML downloaded and read in full for chapters 1-18; the page ends with '[The seventh dialogue continues, to chapter 37 ...]')",
+  "licence": "Page text: 'This file and all material on this page is in the public domain - copy freely.'",
+  "authenticity_note": "The Dialogue is Manuel's own work (per the scholarship). The English is a translation from a Greek text that Pearse does not name; the page's own Greek reference is Migne PG 156, which does not contain Dialogue 7, so the source text of this translation is unknown (possibly a modern edition). It is therefore a translation of unverified provenance.",
+  "notes": "Chapters 2-3 of the Pearse translation contain the lines most cited in the Regensburg controversy (2006). The Greek of this dialogue could not be located in any public-domain source I opened; the quotations in passages.json for this work therefore carry an empty quote_orig and the English is the only text. The Regensburg (Vatican) English wording differs from Pearse's, and it is not public domain as far as I could establish (Libreria Editrice Vaticana text, 12 Sept 2006); the Regensburg footnote cites Khoury's edition as the source of the 'seventh conversation'."
+ }
+]

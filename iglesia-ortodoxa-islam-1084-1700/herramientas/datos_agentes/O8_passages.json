@@ -1,0 +1,57 @@
+[
+  {
+    "id": "komnene_alexiad_vi13_mohammed_rites",
+    "figure": "anna_komnene",
+    "work": "alexiad",
+    "theme": "H",
+    "harshness": 1,
+    "famous": {
+      "value": false,
+      "where_cited": "none checked; not a noted passage"
+    },
+    "ref": "Alexiad, Book VI, ch. 13 (Greek numbering 6.13.4; Dawes 1928, Book VI ch. XIII)",
+    "url": "https://el.wikisource.org/wiki/%CE%91%CE%BB%CE%B5%CE%BE%CE%B9%CE%AC%CF%82/%CE%92%CE%B9%CE%B2%CE%BB%CE%AF%CE%BF_6",
+    "orig_url": "https://el.wikisource.org/wiki/%CE%91%CE%BB%CE%B5%CE%BE%CE%B9%CE%AC%CF%82/%CE%92%CE%B9%CE%B2%CE%BB%CE%AF%CE%BF_6",
+    "quote_orig": "Ἦν γὰρ ὁ βασιλεὺς οὗτος ἄντικρυς ἱερατικώτατος καὶ τὴν ἀρετὴν καὶ τὸν λόγον, ὡς εἰπεῖν, εὐσεβείας ἁπάσης ἀρχιερεύς. Διδασκαλικώτατός τε γὰρ ἦν τοῦ ἡμετέρου δόγματος καὶ ἀποστολικὸς τὴν προαίρεσιν καὶ τὸν λόγον καὶ εἴσω τῆς ἡμετέρας πίστεως ποιῆσαι βουλόμενος οὐ μόνον τοὺς νομάδας τουτουσὶ Σκύθας, ἀλλὰ καὶ τὴν Περσίδα πᾶσαν καὶ ὁπόσοι τὴν Αἴγυπτον καὶ τὴν Λιβύην νέμονται βάρβαροι καὶ ταῖς τοῦ Μωάμεθ τελεταῖς ὀργιάζουσιν.",
+    "quote_en": "For the Emperor was essentially a most religious man, and in his life and speech the high priest of all piety. He was very fond, too, of teaching our doctrines and was a real missionary by choice and in his manner of speech; he wanted to bring into the fold of our church not only the Scythian nomads, but also the whole of Persia, as well as the barbarians who inhabit Libya and Egypt and follow the rites of Mohammed.",
+    "own_translation_en": "",
+    "quote_latin": "",
+    "licence_note": "Greek: transcription on Greek Wikisource (page licence CC BY-SA; base printed edition not stated on the page, the Bonn CSHB 1839 edition is public domain, Google Books bub_gb_pjwTAAAAQAAJ listed, not opened). English: Elizabeth A. S. Dawes, 1928 (published before 1931); text read from archive.org OCR (alexiad-english-dawes-1928), spot-read, not image-checked.",
+    "keys": [
+      "ταῖς τοῦ Μωάμεθ τελεταῖς ὀργιάζουσιν",
+      "οὐ μόνον τοὺς νομάδας τουτουσὶ Σκύθας"
+    ],
+    "what_it_says": "Anna praises Emperor Alexios I as a zealous missionary who wanted to bring Scythian nomads, all of Persia, and the peoples of Libya and Egypt 'who follow the rites of Mohammed' into the Church. The clause is a mention in passing, with no argument against Islam.",
+    "context": "The sentence follows the account of Elchanes, a Turkish commander, who surrendered Nicaea to Alexios and received baptism. Anna then describes the emperor's missionary zeal as part of his character.",
+    "limits": "Only one clause; the word 'Mohammed' is a name for the religion, not a doctrinal critique. The Greek is a Wikisource transcription of an unstated edition, so exact spelling needs checking against Bonn 1839. Twelfth century, outside the 1500-1700 focus.",
+    "stance": "reporting (Anna's narrative about Alexios's aims)"
+  },
+  {
+    "id": "synaxarion_theophilos_chios_1635",
+    "figure": "theophilos_zakynthios",
+    "work": "synaxaristes_1868",
+    "theme": "H",
+    "harshness": 3,
+    "famous": {
+      "value": false,
+      "where_cited": "none found; local Zakynthian hagiography"
+    },
+    "ref": "Synaxaristes ton dodeka menon, vol. I (May-August), entry headed 'ΕΙΣ ΤΗΝ ΚΔ'. ΤΟΥ ΙΟΥΝΙΟΥ' (24 June), printed p. 193 (archive scan PDF p. 197); St Theophilos of Zakynthos, martyred at Chios, 1635",
+    "url": "https://archive.org/details/synaxaristestond01nico",
+    "orig_url": "https://archive.org/download/synaxaristestond01nico/synaxaristestond01nico.pdf",
+    "quote_orig": "οἱ μὲν Ἀγαρηνοὶ ἐμαρτύρουν καὶ ὑπεστήριζον ψευδῶς ὅτι ἠσπάσθη τὸν Μωαμεθανισμὸν ὁ Θεόφιλος, οὗτος δὲ μεγαλοφώνως ἐκήρυσσεν ὅτι εἶναι χριστιανὸς καὶ ὡς τοιοῦτος θέλει νὰ ἀποθάνῃ, ὁ ἀσεβέστατος δικαστὴς δεχθεὶς τὴν ψευδῆ μαρτυρίαν τῶν ὁμοπίστων του ἐβίαζε τὸν Ἅγιον νὰ ἐγκολπωθῇ τὸ μωαμεθανικὸν δόγμα. Ἀλλ' ὁ ἥρως τῆς ὀρθοδόξου πίστεως σφοδρῶς ἀνθίστατο καὶ θαρραλέως πρὸς τὸν βδελυρὸν κριτὴν ἐφώνει· Ἐγὼ δὲν προδίδω τὴν ἁγίαν πίστιν τοῦ Ἰησοῦ μου Χριστοῦ, δὲν γίνομαι ἐξωμότης, δὲν παραιτῶ τὸ φῶς ἵνα ἔλθω εἰς τὸ σκότος. Μὴ γένοιτο ποτὲ τοῦτο νὰ πράξω!",
+    "quote_en": "«»",
+    "own_translation_en": "The hero of the Orthodox faith resisted vigorously and, speaking boldly to the abominable judge, said: \"I do not betray the holy faith of my Jesus Christ, I do not become an apostate, I do not give up the light to go into darkness. God forbid that I should ever do this!\" [team translation, labelled as own]",
+    "quote_latin": "",
+    "licence_note": "Scan on archive.org (1868 Athens, Ch. N. Philadelpheus, per archive metadata); a 19th-century printing, public domain. No public-domain English translation found.",
+    "keys": [
+      "Ἐγὼ δὲν προδίδω τὴν ἁγίαν πίστιν",
+      "δὲν γίνομαι ἐξωμότης",
+      "ἐγκολπωθῇ τὸ μωαμεθανικὸν δόγμα"
+    ],
+    "what_it_says": "The Agarenes (Muslims) falsely claimed the martyr had embraced Muhammadanism. Before the judge, Theophilos declared he would not betray his faith in Jesus Christ or become an apostate. The judge's attempt to make him accept the Muslim doctrine is the core of the account.",
+    "context": "Hagiographic account of an 1635 Chios martyr; the Greek text was read from the scan image (I read it visually from PDF p. 197; text not machine-verified). The Synaxarion is a later compilation; the martyr's speech is reported, not a verbatim court record.",
+    "limits": "Hagiographic narrative, not a doctrinal treatise; the account sets out the martyr's refusal rather than a critique of Muhammad. The quoted text calls the judge 'abominable' and 'most impious'; elsewhere in the same entry the persecutors are called 'foul' (μυσαροί) and 'blood-devouring' (αἱμοβόρων). These insults are incidental to the doctrinal point. The Greek was read by me from the image, so accent and spelling should be double-checked against the page before publication. 17th-century event, 1868 printing (Zakynthos 1856 date in a footnote conflicts).",
+    "stance": "reporting (hagiographer reporting a martyr's confession)"
+  }
+]

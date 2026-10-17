@@ -1,0 +1,14 @@
+[
+  {
+    "reference": "Nikephoros Gregoras, Byzantine History (Ῥωμαϊκὴ Ἱστορία) 28.41, ll. 12-14 (Bekker 1855, pp. 202-3, as cited by Fanelli 2024; the Bekker text itself was not opened)",
+    "url": "https://edizionicafoscari.it/media/pdf/books/978-88-6969-837-8/978-88-6969-837-8-ch-04_k8MirEk.pdf",
+    "gist_en": "Gregoras mocks Turkish dervish-style ritual dancing and chanting of Muhammad's hymns at the palace, calling it impious, lazy and sensual, and says it attracts the audience away from the Gospels.",
+    "why_excluded": "It describes Turkish ritual customs with ridicule ('barbarians', dancing, 'impious' rites), which is an ethnic and customary abuse rather than a doctrinal argument about Islam; the Greek was read only as quoted in a secondary chapter."
+  },
+  {
+    "reference": "Ricoldo da Monte Croce, Improbatio Alcorani, as translated into Greek by Demetrios Kydones (c. 1354-1360); Migne PG 154, cols. 1052-1112 (page range as cited by Vryonis 1970, n. 18)",
+    "url": "https://grbs.library.duke.edu/index.php/grbs/article/download/9961/4455/14295 (secondary: Speros Vryonis 1970, read via OCR; PG 154 itself not opened)",
+    "gist_en": "Ricoldo's refutation, as Greek-translated by Kydones, argues that the Qur'an is not revealed because it is in verse, contradicts God's law, and that Muhammad taught war and rapine rather than virtue.",
+    "why_excluded": "The author chain is excluded by team rule: Demetrios Kydones converted to Catholicism and Ricoldo is a Latin Dominican. The text is strongly doctrinal and is flagged so the orchestrator knows it is the most-cited Greek anti-Qur'an source of the period."
+  }
+]

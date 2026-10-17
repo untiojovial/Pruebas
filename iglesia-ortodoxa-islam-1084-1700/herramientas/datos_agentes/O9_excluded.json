@@ -1,0 +1,20 @@
+[
+  {
+    "reference": "Symeon, Dialogus contra omnes haereses, Caput XIV 'Contra gentes impias', approx. cols. 77-78 (Latin: 'arcu enim gladioque virentes, adversus omnem gentem moventur, persequentes, interficientes more latronum, aliena rapientes')",
+    "url": "https://archive.org/download/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1866_155/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1866_155_djvu.txt",
+    "gist_en": "Describes the Muslims as armed raiders who attack every nation, kill, seize goods and separate fathers from children.",
+    "why_excluded": "Call-to-violence and ethnic-group abuse (the 'armed raiders' description of a whole people): excluded by the rule on violence and ethnic insult."
+  },
+  {
+    "reference": "Symeon, Dialogus contra omnes haereses, Caput XIV, approx. cols. 77-78 (Latin: 'neſanda contra naturam Sodomitarum facinora ... usorum copiam sibi colligunt')",
+    "url": "https://archive.org/download/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1866_155/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1866_155_djvu.txt",
+    "gist_en": "Charges the Muslims with sodomy and sexual licence, and with a 'paradise' full of lust.",
+    "why_excluded": "Sexual insult against a people and personal-moral abuse (not doctrinal); excluded."
+  },
+  {
+    "reference": "Symeon, Dialogus contra omnes haereses, Caput XIV, approx. cols. 77-78 (Latin: 'decepti ab homine immundo et barbaro'; Greek 'ὁ δυσσεβέστατος καὶ μαινόμενος Βάρβαρος' cited in the modern Greek reproduction)",
+    "url": "https://archive.org/download/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1866_155/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1866_155_djvu.txt",
+    "gist_en": "Calls Muhammad an impure and barbarian man and a most impious madman; the doctrinal claims in the same sentence (apostleship, ascension) are kept in sym_01.",
+    "why_excluded": "Personal insult ('impure', 'barbarian') separated from the doctrinal content, which is quoted in sym_01 without these words; the insult words alone are excluded."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "reference": "Euthymios Zigabenos, Panoplia Dogmatica, Tit. XXVIII, sect. 8 (Lat. 8 / Gr. η'), Migne PG 130, cols. 1339–1340",
+    "url": "Local copy of the 1864 Opera (Google scan), page 694 of the PDF = Migne cols. 1339–1340",
+    "gist_en": "Mocks the Muslim veneration of the Black Stone (Brachthan) at the Kaaba as idolatry, calling it a statue of Venus or Baccha, and ridicules the rite of circling it.",
+    "why_excluded": "Its point is to ridicule a religious practice as idolatrous and bizarre (a description of customs as absurd), not a doctrinal argument about Islam's claims; treated as mockery of people's practice under the exclusion rule."
+  },
+  {
+    "reference": "Euthymios Zigabenos, Panoplia Dogmatica, Tit. XXVIII, sect. 1 (Lat. 1 / Gr. α'), Migne PG 130, cols. 1333–1334 (personal clause)",
+    "url": "Local copy of the 1864 Opera (Google scan), page 691 of the PDF = Migne cols. 1333–1334",
+    "gist_en": "Describes Muhammad as an ignorant, rustic man (Lat. 'rudis et agrestis homo'; Gr. 'ἀμαθὴς ... καὶ ἀγροικος') who nevertheless wrote 113 fables.",
+    "why_excluded": "The clause is a personal insult against Muhammad rather than a doctrinal point; the doctrinal part of the same sentence (the 113 fables) is quoted in passage zig_t28_113_fables instead."
+  }
+]
