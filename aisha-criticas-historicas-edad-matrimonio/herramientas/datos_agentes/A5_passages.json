@@ -1,0 +1,59 @@
+[
+  {
+    "id": "kindi-AGE-01",
+    "figure": "kindi",
+    "work": "kindi-apology",
+    "kind": "AGE",
+    "explicitness": 3,
+    "aisha_named": "true: عائشة (Muir: 'Ayesha')",
+    "age_mentioned": "implicit only: 'nor younger in age than her' (ولا أحدث سنا منها) among his wives; no number given; 'the only virgin he married' (بكر غيرها)",
+    "famous": "false (not known to me as cited elsewhere; not searched)",
+    "ref": "Apology of al-Kindi, Christian reply, Arabic (Kalema transcription; Tien-based 1885 printing shows the same sentence). Muir 1882 pp. 9-10. Arabic page unconfirmed: Muir's note places the preceding Safwan story at p. 60 of the Arabic edition, so this sentence is probably pp. 60-61 (not verified).",
+    "url": "https://raw.githubusercontent.com/OpenITI/0300AH/master/data/0300Anonymous/0300Anonymous.RisalataHashimiWaKindi/0300Anonymous.RisalataHashimiWaKindi.Kalema00001-ara1 (read); Muir: https://archive.org/details/apologyofalkindy00abdarich",
+    "quote_orig": "فلم يلتفت صاحبك إلى ذلك كله لشدة إعجابه بها، لأنه لم يكن في من نكح من نسائه بكر غيرها ولا أحدث سنا منها، فكان لها من قلبه مكان.",
+    "orig_url": "https://raw.githubusercontent.com/OpenITI/0300AH/master/data/0300Anonymous/0300Anonymous.RisalataHashimiWaKindi/0300Anonymous.RisalataHashimiWaKindi.Kalema00001-ara1 ; 1885 printing: https://archive.org/details/AlKindi_201306",
+    "quote_en": "whom only he married a maiden, and who being young and bewitching had possession of his heart",
+    "own_translation_en": null,
+    "quote_latin": null,
+    "licence_note": "English: Muir 1882 (public domain, see works.json licence). Arabic: 9th-c. text in a web transcription (alkalema.net via OpenITI); the transcription's licence is unknown, the text itself is ancient. The English quote runs across the page break: 'because of his uxorious fondness of Ayesha, whom' (p. 9, read from the OCR text layer, not checked as image) + 'only he married a maiden, and who being young and bewitching had possession of his heart' (p. 10, checked as image).",
+    "keys": [
+      "لأنه لم يكن في من نكح من نسائه بكر غيرها",
+      "ولا أحدث سنا منها",
+      "فكان لها من قلبه مكان"
+    ],
+    "what_it_says": "The Christian speaker says the Prophet's great attachment to Aisha, which made him overlook the scandal narrated just before, came from her being the only virgin among his wives and the youngest in age.",
+    "context": "Kindi's reply to al-Hashimi's Muslim letter, in a passage attacking Muhammad's conduct (raids, the Zaynab marriage with Quran 33:37, and the Aisha affair). The sentence closes the Aisha story, which I do not quote because it is a sexually charged scandal narrative; it is followed by the list of wives.",
+    "limits": "Age is implicit (youngest; only virgin), not stated as a number, so AGE is my classification; the orchestrator may prefer NAME or LUST. Muir renders 'ولا أحدث سنا منها' loosely as 'being young'. The author's identity and the date of the text are disputed. The Arabic edition page is not confirmed. The Arabic text differs slightly between transcriptions (SyriacStudies variant adds 'وكانت خلابة'; Kalema lacks it). Muir's English is the only English; the quote is Muir's wording, not a literal rendering.",
+    "stance": "own view (the Christian author speaking in his own polemical voice)",
+    "vol_page": null,
+    "edition_note": null
+  },
+  {
+    "id": "kindi-NAME-02",
+    "figure": "kindi",
+    "work": "kindi-apology",
+    "kind": "NAME",
+    "explicitness": 2,
+    "aisha_named": "true: عائشة بنت أبي بكر (Muir does not name her in this sentence)",
+    "age_mentioned": "false",
+    "famous": "false",
+    "ref": "Apology of al-Kindi, Christian reply, Arabic (Kalema transcription). Muir 1882 p. 10 (his summary of the same sentence). Arabic page unconfirmed.",
+    "url": "https://raw.githubusercontent.com/OpenITI/0300AH/master/data/0300Anonymous/0300Anonymous.RisalataHashimiWaKindi/0300Anonymous.RisalataHashimiWaKindi.Kalema00001-ara1 (read); Muir: https://archive.org/details/apologyofalkindy00abdarich",
+    "quote_orig": "وكانت نساؤه فيما يظهر خمس عشرة حرة، وأمتين. أولهن خديجة بنت خويلد، ثم عائشة بنت أبي بكر وهو عبد الله المعروف بعتيق بن أبي قحافة.",
+    "orig_url": "https://raw.githubusercontent.com/OpenITI/0300AH/master/data/0300Anonymous/0300Anonymous.RisalataHashimiWaKindi/0300Anonymous.RisalataHashimiWaKindi.Kalema00001-ara1 ; 1885 printing: https://archive.org/details/AlKindi_201306",
+    "quote_en": "in all he had fifteen wives and two slave-girls",
+    "own_translation_en": null,
+    "quote_latin": null,
+    "licence_note": "English: Muir 1882 (public domain). Arabic: as above. Muir's sentence is his summary of the count only; it does not name Khadija or Aisha.",
+    "keys": [
+      "خمس عشرة حرة، وأمتين",
+      "ثم عائشة بنت أبي بكر"
+    ],
+    "what_it_says": "The Christian speaker lists Muhammad's wives, with Khadija first and then Aisha daughter of Abu Bakr, and states that there were fifteen free women and two slave-girls.",
+    "context": "Same Christian reply, immediately after the Aisha passage above and before the list of individual wives. The count is part of the polemic on Muhammad's marriages, not a claim about Aisha's age.",
+    "limits": "Neutral naming; no age; the count alone is not a criticism of Aisha (per team rule). Variant in the 1885 printing and SyriacStudies transcription: 'أولاهن' instead of 'أولهن'. Muir's English omits the names here, so the English quote is only the summary of the count.",
+    "stance": "own view (author's polemical voice; the count is his claim)",
+    "vol_page": null,
+    "edition_note": null
+  }
+]

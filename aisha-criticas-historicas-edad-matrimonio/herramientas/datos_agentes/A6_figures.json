@@ -1,0 +1,54 @@
+[
+  {
+    "id": "theophanes",
+    "name_es": "Teófanes el Confesor",
+    "name_en": "Theophanes the Confessor",
+    "name_orig": "Θεοφάνης ὁ Ὁμολογητής",
+    "born": "c. 760",
+    "died": "c. 818",
+    "language": "Greek",
+    "role_place": "Byzantine monk and chronicler (Greek-speaking, Constantinople region); author of the Chronographia (place of monastery not checked).",
+    "why_relevant": "Earliest Greek narrative in the set that describes Muhammad's marriage (to Khadija) and mentions Abu Bakr as his successor; does not name Aisha.",
+    "fame": "Very well known: the Chronographia is a main Byzantine chronicle for 602-813 and a key source for early Byzantine-Arab relations.",
+    "community": "Byzantine Greek Orthodox (monk, confessor of icons)"
+  },
+  {
+    "id": "bartholomew_edessenus",
+    "name_es": "Bartolomé de Edesa",
+    "name_en": "Bartholomew of Edessa",
+    "name_orig": "Βαρθολομαῖος Ἐδεσσηνὸς μοναχός",
+    "born": "unknown",
+    "died": "unknown",
+    "language": "Greek",
+    "role_place": "Monk, author of an Elenchus (refutation of the 'Agarenes') and a Contra Muhammed; place and date not fixed in the sources read.",
+    "why_relevant": "Only Greek text read so far that names Aisha in the Greek-Latin edition (as Aise / Ἀϊσέ in the list of four wives) and gives a critical list of Muhammad's wives and concubines.",
+    "fame": "Little known; the Elenchus was edited by Stephanus Le Moyne (Lugdunum Batavorum 1685) and reprinted in PG 104.",
+    "community": "Greek Christian (Orthodox or Melkite; not determined from the edition)"
+  },
+  {
+    "id": "euthymios_zigabenos",
+    "name_es": "Eutimio Zigabeno",
+    "name_en": "Euthymios Zigabenos",
+    "name_orig": "Εὐθύμιος Ζυγαβηνός",
+    "born": "c. 1050 (uncertain)",
+    "died": "c. 1118 (uncertain)",
+    "language": "Greek",
+    "role_place": "Byzantine monk in Constantinople, author of the Panoplia dogmatica (Titulus XXVIII, 'Adversus Saracenos').",
+    "why_relevant": "Greek text with Latin facing that criticises Muhammad's law of four wives and concubines; does not name Aisha.",
+    "fame": "Known to specialists of Byzantine heresiology and Byzantine-Muslim polemic; the Panoplia is widely cited.",
+    "community": "Byzantine Greek Orthodox"
+  },
+  {
+    "id": "nicetas_choniates",
+    "name_es": "Nicetas Coniates",
+    "name_en": "Nicetas Choniates",
+    "name_orig": "Νικήτας Χωνιάτης",
+    "born": "c. 1155",
+    "died": "c. 1217",
+    "language": "Greek",
+    "role_place": "Byzantine historian and imperial official in Constantinople; author of the Thesaurus orthodoxae fidei, book XX on the Agarenes.",
+    "why_relevant": "Greek text (with Latin facing in PG 140) describing Muhammad's four legal wives, the concubines and the Zayd episode as criticism; no Aisha name, no age.",
+    "fame": "Very well known as a Byzantine historian (Historia); the Thesaurus is less read.",
+    "community": "Byzantine Greek Orthodox"
+  }
+]

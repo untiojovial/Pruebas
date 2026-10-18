@@ -1,0 +1,56 @@
+[
+  {
+    "reference": "Praemonitio ad Lectorem (1543), attributed to Melanchthon (title line of the McGill copy; Corpus Reformatorum vol. 5, no. 2616) and headed 'D. Martini Lutheri Praemonitio' in the Source Library scan (p. 7). Passage: 'Deinde coniugium prorsus abolet. Nam Mahometus concedit duci, & abijci, & abiectas reuocari in thalamum, quot quisque uult priuato arbitrio.'",
+    "url": "https://bph.sourcelibrary.org/book/alcoran/page-number/8 (Source Library p. 8, OCR); McGill djvu text (line ~292-420); CR 5: https://archive.org/download/philippimelantho05mela/philippimelantho05mela_djvu.txt (lines ~1307-1420)",
+    "gist_en": "Muhammad lets men divorce and take back wives at will and permits wicked lusts; the text names no wife and gives no age.",
+    "why_excluded": "No Aisha, no age: generic criticism of polygamy and divorce. Not a passage for the Aisha file; kept here so the orchestrator knows it exists. Attribution (Melanchthon vs Luther) is itself disputed between the copies: see notes.md."
+  },
+  {
+    "reference": "Riccoldo da Monte di Croce, Latin text in Tomus I (Annotationes of an 'eruditus et recentior scriptor'; Source Library p. 419-420, Latin with Greek parallel), chapter 'Mahometi conditio' and the closing 'Conclusio'. Accusation that Muhammad committed adultery with the wife of Zeith (Zayd) and perjured with Maria the Jacobite.",
+    "url": "https://bph.sourcelibrary.org/book/alcoran/page-number/419 and /420 (OCR); McGill djvu text, Tomus I Annotationes (line ~17365 onward)",
+    "gist_en": "The Latin says Muhammad committed incest with Zeith's wife and perjured himself with Maria the Jacobite; an earlier sentence mentions, without a name, a widow he married first.",
+    "why_excluded": "No Aisha. Names Zayd's wife and the Coptic woman Maria, which is out of scope. The Latin is printed beside the Greek; the Latin's authenticity as Riccoldo's own is not verified. The 'uiduam' (Khadija) is not named."
+  },
+  {
+    "reference": "Ludovicus Vives, censure excerpt, Tomus II (1543), Qur'anic codex passage: 'Dixit etiam Aiffa uxor Machumet, Hali multa inde abstulisse, & pene totum demutasse' (1550 OCR reads 'Aijfa uxor Machumet').",
+    "url": "https://archive.org/download/McGillLibrary-rbsc_machumetis-saracenorum-principis_FOLIO-1379-19727/rbsc_machumetis-saracenorum-principis_FOLIO-1379_djvu.txt (line ~21095); 1550: https://archive.org/download/case_bp127_l3_1550/case_bp127_l3_1550_djvu.txt (line ~18210)",
+    "gist_en": "A wife of Muhammad named Aiffa is said to have spoken of Ali taking much from the codex and altering the Qur'an.",
+    "why_excluded": "Duplicate spelling of the first wave's 'Aiffa' (same book). Content is the codex story, not Aisha's age or marriage; the wife is likely Hafsa (Ḥafṣa) by context, but this identification is NOT verified. Not used as an Aisha passage."
+  },
+  {
+    "reference": "Ludovicus Vives, censure excerpt, Tomus II: Muhammad's desire for Zaynab (Zameb), daughter of Jahsh (Gayfus), wife of Zayd (Zaidus). Also 'Zameb iudaea uxor Zelem' in the poisoned-sheep story.",
+    "url": "McGill djvu text lines ~20655, 20693, 20783; 1550 Newberry djvu lines ~17536, 17693",
+    "gist_en": "Muhammad is said to have desired Zayd's wife Zaynab and taken her after Zayd; another wife named Zaynab, a Jewess, poisoned a sheep.",
+    "why_excluded": "Wife named is Zaynab, not Aisha. Sexual content. Out of scope for the Aisha file."
+  },
+  {
+    "reference": "Ludovicus Vives, censure excerpt, Tomus II, chapter 'DE IMPVDICITIA EIVS, ET FLAGITIIS' (opening paragraph, before the Aysa passage): claims about the sexual powers Muhammad ascribes to himself and about his extreme lust.",
+    "url": "McGill djvu text lines ~20650-20660; 1550 Newberry djvu lines ~17495-17505",
+    "gist_en": "The opening of the chapter describes Muhammad's sexual powers and lust in graphic terms, then turns to his named wives.",
+    "why_excluded": "Sexually graphic. The team's exclusion rule applies. The next passage (vives_1543_aysa_stuprum) keeps only the adultery accusation with the name, which is not graphic."
+  },
+  {
+    "reference": "Tomus I annotation on the Qur'an, Source Library p. 340 (OCR): Latin annotator quoting the Qur'an on 'girls, their breasts and bestial intercourse in paradise' and on 'Muhammad permitting many wives'. The page also says Muhammad allowed 'castas mulieres ... praebendo ducatis' for money.",
+    "url": "https://bph.sourcelibrary.org/book/alcoran/page-number/340 (OCR)",
+    "gist_en": "A Latin annotator says the Qur'an describes sexual pleasures and girls in paradise in graphic terms and allows many wives.",
+    "why_excluded": "Sexually graphic in part; no Aisha named on this page; generic criticism of many wives."
+  },
+  {
+    "reference": "Improbatio Alcorani seu libellus contra legem Sarracenorum (Seville, Stanislaus Polonus, 20 March 1500; the Salamanca copy in the Gredos digital reproduction). Paradise passage: 'uxores et concubinas, multas puellas uerecundas et pulchras'.",
+    "url": "https://gredos.usal.es/bitstreams/a1bbbfe9-b244-49f6-8ec2-7e2f8f595059/download (PDF, 37 pages, image-only; OCR by tesseract eng run locally, page 14 of the PDF)",
+    "gist_en": "In a paradise passage the Qur'an promises believers many wives, concubines and modest, beautiful girls.",
+    "why_excluded": "Sexual description of paradise (exclusion rule); no Aisha; the OCR is unreliable and no Aisha or age term was found in the OCR (a garbled 'Aisha' fragment is OCR noise, not a name)."
+  },
+  {
+    "reference": "Chronica mendosa et ridicula Saracenorum (Tomus I, McGill djvu lines ~16751-19970): 'Mifit quoq Dechera filium Aaifa', an envoy sent to the Romans; the spelling 'Aaifa' is printed in the 1550 reissue too (line ~15536).",
+    "url": "McGill djvu text line ~16880; 1550 Newberry djvu line ~15536",
+    "gist_en": "The Chronicle says Muhammad sent a man named Aaifa, son of Dechera, as an envoy to the Romans.",
+    "why_excluded": "Near-spelling of Aisha but a male envoy's name; not a wife. Not an Aisha passage."
+  },
+  {
+    "reference": "Martin Luther, Verlegung des Alcoran Bruder Richardi (Wittenberg, Lufft, 1542), German text in WA 53 pp. 261-396; lead from a secondary source: WA 53 p. 314 'Aischa', 'Hafsa' and p. 316 'Zainab'.",
+    "url": "not read (WA 53 not reachable; Halle copy behind a bot challenge; no Wikisource or Google Books full text found)",
+    "gist_en": "Lead only. Not read. The claim that WA 53 names Aischa, Hafsa and Zainab in the wives section could not be checked.",
+    "why_excluded": "UNVERIFIED LEAD: not read. Bobzin, Akademie aktuell 32 (2010), https://badw.de/fileadmin/pub/akademieAktuell/2010/32/07_Bobzin.pdf (text extracted with pdftotext), says the 1542 Verlegung is an abridged version ('gekuerzte Fassung') of Riccoldo's tract. The abridgement may omit the wives passage."
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "ibn_hazm",
+    "name_es": "Ibn Ḥazm (ʿAlī ibn Aḥmad ibn Saʿīd, Abū Muḥammad al-Ẓāhirī, de Córdoba)",
+    "name_en": "Ibn Hazm (ʿAli ibn Ahmad ibn Said, Abu Muhammad al-Zahiri)",
+    "name_orig": "ابن حزم (علي بن أحمد بن سعيد، أبو محمد الظاهري)",
+    "born": "384 AH (994 CE), per OpenITI metadata",
+    "died": "456 AH (1064 CE), per OpenITI metadata",
+    "language": "Arabic",
+    "role_place": "Andalusian (Cordoba-born) Zahiri jurist, theologian and heresiographer",
+    "why_relevant": "Records a heretic's accusation of marriage slander (P03); states Aisha's age at the Hijra (P04); reports and answers the \"special privilege\" defence and gives the marriage at six (P05).",
+    "fame": "Very well known: author of al-Fisal and al-Muhalla; major Zahiri jurist and heresiographer.",
+    "community": "Sunni (Zahiri school)"
+  },
+  {
+    "id": "ibn_kathir",
+    "name_es": "Ibn Kaṯīr (Ismāʿīl ibn ʿUmar al-Qurašī, Abū l-Fidāʾ)",
+    "name_en": "Ibn Kathir (Ismail ibn Umar, Abu l-Fida)",
+    "name_orig": "ابن كثير (إسماعيل بن عمر القرشي، أبو الفداء)",
+    "born": "c. 700 AH (c. 1301 CE): standard date, not in the OpenITI metadata (NOTGIVEN); not verified by me",
+    "died": "774 AH (1373 CE), per OpenITI metadata",
+    "language": "Arabic",
+    "role_place": "Damascene historian and Qur'an exegete (Shafi'i)",
+    "why_relevant": "P07: says the marriage at six and consummation at nine is undisputed among people, while doubting the chronology.",
+    "fame": "Very well known (Tafsir; al-Bidaya wa-l-nihaya).",
+    "community": "Sunni (Shafi'i)"
+  },
+  {
+    "id": "ibn_hajar",
+    "name_es": "Ibn Ḥaŷar al-ʿAsqalānī (Aḥmad ibn ʿAlī)",
+    "name_en": "Ibn Hajar al-Asqalani (Ahmad ibn Ali)",
+    "name_orig": "ابن حجر العسقلاني (أحمد بن علي)",
+    "born": "773 AH (1372 CE): standard date, not in the OpenITI metadata; not verified by me",
+    "died": "852 AH (1449 CE): standard date, not verified by me",
+    "language": "Arabic",
+    "role_place": "Cairo-based hadith scholar and Shafi'i jurist",
+    "why_relevant": "P06: reports Ibn Shubruma's legal objection about minor virgins and the \"special privilege\" defence of the marriage at six (subject of the claim ambiguous).",
+    "fame": "Very well known (Fath al-Bari, commentary on al-Bukhari).",
+    "community": "Sunni (Shafi'i)"
+  },
+  {
+    "id": "kindi",
+    "name_es": "ʿAbd al-Masīḥ ibn Isḥāq al-Kindī (atribuido; autor no identificado en OpenITI)",
+    "name_en": "ʿAbd al-Masih ibn Ishaq al-Kindi (attributed)",
+    "name_orig": "عبد المسيح بن إسحاق الكندي (منسوب)",
+    "born": "Not known from my sources",
+    "died": "Not known from my sources",
+    "language": "Arabic",
+    "role_place": "Christian correspondent who replies to al-Hashimi; place not stated in my sources. OpenITI header places the exchange in the time of al-Ma'mun (247 AH / 861 CE; editor's claim, not verified).",
+    "why_relevant": "P01 and P02: Christian polemic that names Aisha among Muhammad's wives and calls her the only virgin and youngest. Not a Muslim source; outside the core brief, flagged for the Arabic-Christian team.",
+    "fame": "Known from the \"Apology of al-Kindi\" literature (Van Koningsveld 2004, cited in the OpenITI header, not read by me).",
+    "community": "Christian (church not stated in the text)"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "X01",
+    "figure": "kindi",
+    "work": "kindi_reply_hashimi",
+    "ref": "Kindi reply (Kalema copy), char ~54,966; no page markers",
+    "url": "https://raw.githubusercontent.com/OpenITI/0300AH/master/data/0300Anonymous/0300Anonymous.RisalataHashimiWaKindi/0300Anonymous.RisalataHashimiWaKindi.Kalema00001-ara1",
+    "gist_en": "Kindi says Muhammad cared only for attractive women to marry and for peoples to raid, and claims he had the potency of forty men.",
+    "why_excluded": "Sexual-potency claim and raid/killing imagery in the same sentence; Aisha not named. Excluded under the exclusion rule. Its Aisha paragraph (P01) is included."
+  },
+  {
+    "id": "X02",
+    "figure": "ibn_hajar",
+    "work": "ibn_hajar_fath",
+    "ref": "Fath al-Bari, vol. 7, p. 224 (OpenITI marker)",
+    "url": "https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.FathBari/0852IbnHajarCasqalani.FathBari.JK000166-ara1",
+    "gist_en": "Ibn Hajar notes a chronological difficulty in the hadith of Aisha's marriage at six and consummation at nine, and resolves it by dating the consummation after Medina.",
+    "why_excluded": "Chronology, not an objection to the marriage. Age is only the hadith (team pack)."
+  },
+  {
+    "id": "X03",
+    "figure": "ibn_hazm",
+    "work": "ibn_hazm_muhalla",
+    "ref": "Muhalla, vol. 8, p. 376 (OpenITI marker)",
+    "url": "https://raw.githubusercontent.com/OpenITI/0475AH/master/data/0456IbnHazm/0456IbnHazm.MuhallaBiAthar/0456IbnHazm.MuhallaBiAthar.Shamela0000767-ara1.completed",
+    "gist_en": "Ibn Hazm imagines a Malikite follower citing Aisha's marriage at six and consummation at nine to validate a minor's will, and rejects the analogy.",
+    "why_excluded": "Internal legal analogy about wills, not an outside objection to the marriage. Its \"special privilege\" point is covered by P05."
+  },
+  {
+    "id": "X04",
+    "figure": "ibn_hazm",
+    "work": "ibn_hazm_fisal",
+    "ref": "Fisal, vol. 4, pp. 103–105 (OpenITI marker)",
+    "url": "https://raw.githubusercontent.com/OpenITI/0475AH/master/data/0456IbnHazm/0456IbnHazm.FisalFiMilal/0456IbnHazm.FisalFiMilal.JK000343-ara1",
+    "gist_en": "Ibn Hazm answers an objector who reads \"deficient in reason and religion\" against Aisha and Fatima; about women's merit, not the marriage or age.",
+    "why_excluded": "Not about the marriage or Aisha's age. Names Aisha only in a list of virtuous women."
+  },
+  {
+    "id": "X05",
+    "figure": "nawawi",
+    "work": "nawawi_minhaj_sharh_muslim",
+    "ref": "Minhaj fi Sharh Muslim, vol. 9, p. 206 (OpenITI marker), commentary on hadith 1422",
+    "url": "https://raw.githubusercontent.com/OpenITI/0700AH/master/data/0676Nawawi/0676Nawawi.MinhajFiSharhMuslim/0676Nawawi.MinhajFiSharhMuslim.JK000137-ara1",
+    "gist_en": "Nawawi says the hadith is explicit proof that a father may marry off a minor daughter without her permission, and surveys the schools.",
+    "why_excluded": "Legal commentary on the age hadith (duplicate of the team pack); no objection recorded in the windows scanned."
+  },
+  {
+    "id": "X06",
+    "figure": "iyad",
+    "work": "iyad_ikmal",
+    "ref": "Ikmal al-Muʿlim (Qadi Iyad), vol. 4, p. 572–574 (OpenITI marker), commentary on Muslim hadith 1422",
+    "url": "https://raw.githubusercontent.com/OpenITI/0550AH/master/data/0544QadiCiyad/0544QadiCiyad.IkmalMuclim/0544QadiCiyad.IkmalMuclim.Sham19Y0122406-ara1",
+    "gist_en": "Qadi Iyad's commentary on the Aisha marriage hadiths discusses guardianship and the schools; no outside objection is recorded.",
+    "why_excluded": "Duplicate of the team hadith pack and legal; no objection found in the windows scanned."
+  },
+  {
+    "id": "X07",
+    "figure": "kindi",
+    "work": "kindi_reply_hashimi",
+    "ref": "Hashimi letter (Muslim side), Kalema copy, char ~24,369",
+    "url": "https://raw.githubusercontent.com/OpenITI/0300AH/master/data/0300Anonymous/0300Anonymous.RisalataHashimiWaKindi/0300Anonymous.RisalataHashimiWaKindi.Kalema00001-ara1",
+    "gist_en": "The Muslim letter tells Kindi that he may marry up to four wives, divorce, and take concubines, as part of the rules of Islam.",
+    "why_excluded": "A legal instruction in the Muslim letter, not a reply to an objection. Included here only because the team asked for the wives topic."
+  },
+  {
+    "id": "X08",
+    "figure": "abd_al_jabbar",
+    "work": "abd_al_jabbar_tathbit",
+    "ref": "Tathbit dala'il al-nubuwwa, vol. 2, p. 528 (OpenITI marker)",
+    "url": "https://raw.githubusercontent.com/OpenITI/0425AH/master/data/0415QadiCabdJabbar/0415QadiCabdJabbar.TathbitDalailNubuwwa/0415QadiCabdJabbar.TathbitDalailNubuwwa.Masaha001985Vols-ara1",
+    "gist_en": "Abd al-Jabbar says the Prophet had many co-wives, but that no one, including wives, reproached him in anything.",
+    "why_excluded": "Neutral statement; no objection recorded. Recorded as a negative (the wives are mentioned, no critic)."
+  }
+]

@@ -1,0 +1,79 @@
+[
+ {
+  "id": "x01",
+  "reference": "Ibn Ḥanbal, Musnad, Musnad ʿĀʾisha, ḥadīṯ 25923 (marcador «\\ 25923 \\ 25810»; vol. 6, p. 210 en la lectura OpenITI)",
+  "url": "https://raw.githubusercontent.com/OpenITI/0250AH/master/data/0241IbnHanbal/0241IbnHanbal.Musnad/0241IbnHanbal.Musnad.JK000145-ara2",
+  "gist_en": "Khawla proposes Aisha; Abu Bakr asks if she is fit, being his brother's daughter; Mut'im's wife fears her son's conversion.",
+  "why_excluded": "Duplicado (otro colector) del relato de p04, de la misma cadena de Muhammad ibn 'Amr. Variante distinta: «لعلك مصب صاحبنا» (texto corrupto en esta copia). Se usa p04."
+ },
+ {
+  "id": "x02",
+  "reference": "Ṭabarānī, al-Muʿjam al-kabīr, ḥadīṯ 57 (vol. 23, p. 22–23 en la lectura OpenITI)",
+  "url": "https://raw.githubusercontent.com/OpenITI/0375AH/master/data/0360Tabarani/0360Tabarani.MucjamKabir/0360Tabarani.MucjamKabir.JK000474-ara1",
+  "gist_en": "Same proposal narrative; Abu Bakr says she is his brother's daughter; Aisha says she was six when married.",
+  "why_excluded": "Duplicado del relato de p04 con variante («هل تصلح له وإنما هي بنت أخيه»). Testimonio posterior (m. 360 AH)."
+ },
+ {
+  "id": "x03",
+  "reference": "Muslim, Ṣaḥīḥ, ḥadīṯ 1464 (vol. 2, p. 1085 en la lectura OpenITI; capítulo «jawāz hibatihā nawbataha li-darratihā»)",
+  "url": "https://raw.githubusercontent.com/OpenITI/0275AH/master/data/0261Muslim/0261Muslim.Sahih/0261Muslim.Sahih.JK000109-ara1",
+  "gist_en": "Aisha resented women who gave themselves to the Prophet; after the verse she said his Lord hastens to his desire.",
+  "why_excluded": "Mismo informe que p07 (Bujari 4823) y p08; cuenta como testimonio, no como pasaje nuevo. Su redacción («قلت والله ما أرى ربك إلا يسارع لك في هواك») es la variante de Muslim."
+ },
+ {
+  "id": "x04",
+  "reference": "Bujari, al-Jamiʿ al-ṣaḥīḥ, ḥadīṯ 4510 (vol. 4, p. 1797 en la lectura OpenITI; capítulo de tafsir/nikah no identificado)",
+  "url": "https://raw.githubusercontent.com/OpenITI/0275AH/master/data/0256Bukhari/0256Bukhari.Sahih/0256Bukhari.Sahih.JK000110-ara1.completed",
+  "gist_en": "Aisha resented women who gave themselves to the Prophet; after the verse she said his Lord hastens to his desire.",
+  "why_excluded": "Mismo informe que p07 (Bujari 4823); duplicado."
+ },
+ {
+  "id": "x05",
+  "reference": "Ibn Hisham, al-Sira al-nabawiyya, vol. 1, p. 254 (lista de conversos de los emigrantes)",
+  "url": "https://raw.githubusercontent.com/OpenITI/0225AH/master/data/0213IbnHisham/0213IbnHisham.SiraNabawiyya/0213IbnHisham.SiraNabawiyya.Shamela0023833-ara1.completed",
+  "gist_en": "Among early converts: Aisha bint Abi Bakr, 'who was young at that time'.",
+  "why_excluded": "Duplicado de p06 (Ibn Hisham transmite el mismo informe con «وهي يومئذ صغيرة»). Se usa p06."
+ },
+ {
+  "id": "x06",
+  "reference": "Ibn Hisham, al-Sira al-nabawiyya, vol. 2, p. 644 («زواجه بعائشة»)",
+  "url": "https://raw.githubusercontent.com/OpenITI/0225AH/master/data/0213IbnHisham/0213IbnHisham.SiraNabawiyya/0213IbnHisham.SiraNabawiyya.Shamela0023833-ara1.completed",
+  "gist_en": "He married Aisha, aged seven, and consummated at nine or ten; she was the only virgin he married.",
+  "why_excluded": "Dato de edad sin objeción; es parte del paquete de edades del equipo, no de objeciones. Lo dejo para la contabilidad de edades."
+ },
+ {
+  "id": "x07",
+  "reference": "Ibn Saʿd, al-Ṭabaqāt al-kubrā, vol. 8, pp. 45–48 (entrada 4128 y siguientes): varios informes de edad y la propuesta de Jawla a Sawda",
+  "url": "https://raw.githubusercontent.com/OpenITI/0250AH/master/data/0230IbnSacd/0230IbnSacd.TabaqatKubra/0230IbnSacd.TabaqatKubra.Shamela0001686-ara1.mARkdown",
+  "gist_en": "Six at marriage, nine at consummation (several chains); Khawla proposes Sawda and Aisha; no objection recorded.",
+  "why_excluded": "Edad sin objeción (paquete de edades) o relato sin objeción. Localizado para que el orquestador sepa que existe."
+ },
+ {
+  "id": "x08",
+  "reference": "Ibn Saʿd, al-Ṭabaqāt al-kubrā, vol. 8, p. 357 (entrada 4707, sobre una esclava)",
+  "url": "https://raw.githubusercontent.com/OpenITI/0250AH/master/data/0230IbnSacd/0230IbnSacd.TabaqatKubra/0230IbnSacd.TabaqatKubra.Shamela0001686-ara1.mARkdown",
+  "gist_en": "Asked why a young slave-girl does not veil, Aisha says she 'has not yet menstruated'.",
+  "why_excluded": "Trata del velo de una esclava, no del matrimonio; cercano a la búsqueda de «لم تحض/لم تبلغ», pero no es objeción."
+ },
+ {
+  "id": "x09",
+  "reference": "Ibn Saʿd, al-Ṭabaqāt al-kubrā, vol. 8, p. 338 (entrada 4634, Umm Kulthum bint ʿAlī)",
+  "url": "https://raw.githubusercontent.com/OpenITI/0250AH/master/data/0230IbnSacd/0230IbnSacd.TabaqatKubra/0230IbnSacd.TabaqatKubra.Shamela0001686-ara1.mARkdown",
+  "gist_en": "ʿUmar married Umm Kulthum bint ʿAli while she was a young girl who had not reached puberty; she stayed with him.",
+  "why_excluded": "No trata de Aisha (fuera de la tarea). Lead para el orquestador: un matrimonio de ʿUmar con una joven, sin objeción registrada."
+ },
+ {
+  "id": "x10",
+  "reference": "Ibn Ḥanbal, Musnad, ḥadīṯ 25184, 25404 y 26408 (marcadores «\\ 25184», «\\ 25404», «\\ 26408»)",
+  "url": "https://raw.githubusercontent.com/OpenITI/0250AH/master/data/0241IbnHanbal/0241IbnHanbal.Musnad/0241IbnHanbal.Musnad.JK000145-ara2",
+  "gist_en": "Aisha says that after the verse on the wives' choice she saw the Lord hastening to the Prophet's desire (three reports).",
+  "why_excluded": "Tres copias más del informe de p07/p08 en el Musnad. Duplicados."
+ },
+ {
+  "id": "x11",
+  "reference": "Muir, The Life of Mahomet (ed. del siglo XIX; escaneo de archive.org lifemahometfrom00muirgoog, texto OCR; volumen y página no confirmados)",
+  "url": "https://archive.org/download/lifemahometfrom00muirgoog/lifemahometfrom00muirgoog_djvu.txt",
+  "gist_en": "Muir notes that Muhammad, fifty, was betrothed to the child Aisha, and that she may have been precocious.",
+  "why_excluded": "Autor del siglo XIX, fuera del rango de la tarea (hasta c. 1700). El OCR del pasaje de la edad es ilegible en parte. No se usa como traducción de ninguna fuente primaria."
+ }
+]

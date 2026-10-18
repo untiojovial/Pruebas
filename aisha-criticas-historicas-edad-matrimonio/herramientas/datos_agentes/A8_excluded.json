@@ -1,0 +1,50 @@
+[
+  {
+    "reference": "Dante Alighieri, Inferno XXVIII (Italian), Maometto passage; read at https://it.wikisource.org/wiki/Divina_Commedia/Inferno/Canto_XXVIII (CC BY-SA text)",
+    "url": "https://it.wikisource.org/wiki/Divina_Commedia/Inferno/Canto_XXVIII",
+    "gist_en": "Muhammad appears as a split, opened body in Hell; the canto names no wife, no Aisha and gives no age.",
+    "why_excluded": "The relevant passage is graphic bodily violence (the exclusion rule); it also contains no wives, no Aisha and no age. Nothing from it is placed in passages.json."
+  },
+  {
+    "reference": "Riccoldo, Confutatio (Latin, 1606 print, Venice: Zannettus), sentence beginning 'Est igitur omnino irrationabile' (boast of sexual vigour and of forty men's strength); the same passage is in the 1550 Basel print",
+    "url": "https://archive.org/details/bub_gb_u0DM9SzvBlMC (PDF pp. 49-50)",
+    "gist_en": "Riccoldo calls Muhammad a most carnal and unclean man and says he boasted of sexual strength equal to forty men.",
+    "why_excluded": "The sentence describes Muhammad's sexual potency in terms the rule excludes (sexually explicit). It names no wife, so it is also outside the Aisha question. Orchestrator may decide whether a summary is acceptable."
+  },
+  {
+    "reference": "Riccoldo, Confutatio (Latin, 1606 print), the Mary story sentence 'Mahometus forte cuiusdam Mariae amore tenebatur' and the following lines on the concubine",
+    "url": "https://archive.org/details/bub_gb_u0DM9SzvBlMC (PDF p. 49)",
+    "gist_en": "Muhammad was smitten with a concubine named Mary; his wives were jealous and found him sleeping with her.",
+    "why_excluded": "Sexual narrative about a concubine (exclusion rule). Only the wives' jealousy sentence was used (passage A8-riccoldo-1606-aiefe-zelotipia). Not quoted."
+  },
+  {
+    "reference": "Pius II (Enea Silvio Piccolomini), Epistola ad Mahumetem (1461 letter), Latin incunable of 1474 (Biblioteca Nazionale Centrale di Firenze, Magl. A.5.40) read through the text layer of the archive.org scan",
+    "url": "https://archive.org/details/ita-bnc-in1-00000493-001",
+    "gist_en": "Pius II attacks Muhammad's law for allowing many wives and concubines and sexual indulgence; the letter names no Aisha and gives no age.",
+    "why_excluded": "Sexual language and a boast of sexual potency in the relevant lines (exclusion rule); text layer only, not checked against the page image; the letter is addressed to Mehmed II and the referent of 'Mahumet' shifts between the sultan and the Prophet, which needs a closer reading before any quotation."
+  },
+  {
+    "reference": "Alonso de Espina, Fortalitium fidei, book on Muhammad (Lyon 1511 print), lines on Muhammad's libido and luxury (OCR)",
+    "url": "https://archive.org/details/FortalitiumFideiContraJudeos1511",
+    "gist_en": "Espina calls Muhammad lustful and says he claimed sexual vigour equal to forty men; no Aisha name was found in the OCR.",
+    "why_excluded": "Sexual-potency content (exclusion rule). The OCR of this print is too poor to quote safely and the Aisha search was negative only in the OCR; the relevant page was not read as an image. Status: UNVERIFIED for Aisha."
+  },
+  {
+    "reference": "Roman de Mahomet (Alexandre du Pont, 13th century; French verse, ed. Michel 1831), lines on Mahomet's new law: 'Que uns sens hom .x. femmes ait' and 'Et que .x. femmes ait uns hons'; also 'Encore jouene femme sui' spoken by the widow (Khadija)",
+    "url": "https://archive.org/details/romandemahomete00michgoog",
+    "gist_en": "The poem's Mahomet law lets one man have ten wives; the widow who marries Mahomet calls herself still young. Neither names Aisha or gives a child's age.",
+    "why_excluded": "Generic polygamy in a speech of a character; no Aisha, no age. The 'young' widow is Khadija, not Aisha. Not counted as a criticism of Aisha's age."
+  },
+  {
+    "reference": "Matthew Paris, Chronica majora, vol. 1 (ed. Luard, Rolls Series 1872), Mahumet passage: names the rich widow as 'Cadisan vel Adige filia Husaitae'",
+    "url": "https://archive.org/details/matthiparisiensi01pari",
+    "gist_en": "Matthew Paris calls Muhammad a most wicked magician whose wealthy patroness (Khadija, given as Cadisan or Adige) clung to him; no Aisha and no age.",
+    "why_excluded": "Names Khadija, not Aisha; no age. Not a passage about Aisha. Recorded so the orchestrator does not mistake the name for Aisha."
+  },
+  {
+    "reference": "Bibliander 1550 print of the Riccoldo/Kydones Confutatio, second copy of the 'Duae autem ex uxoribus Mahometi ... Aiefe' sentence (text layer only; the same sentence also on the 1606 page 49)",
+    "url": "https://archive.org/details/case_bp127_l3_1550 (text layer; PDF page not determined)",
+    "gist_en": "Same sentence as the 1606 printing: two wives, one named Aiefe, daughter of Empipecer, jealous of Mary.",
+    "why_excluded": "Duplicate of A8-riccoldo-1606-aiefe-zelotipia (the 1606 page image is the one verified). Not added to passages.json."
+  }
+]

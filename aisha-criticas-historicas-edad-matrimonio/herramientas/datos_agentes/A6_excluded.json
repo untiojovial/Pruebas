@@ -1,0 +1,93 @@
+[
+  {
+    "id": "nb-105-uxores-novalia",
+    "reference": "Nicetas of Byzantium, Refutatio libri falsi quem scripsit Mohamedes, PG 105 (Confutatio on Qur'an 2:223; Latin printed beside Greek)",
+    "url": "https://archive.org/download/bim_early-english-books-1641-1700_1862_105/bim_early-english-books-1641-1700_1862_105_djvu.txt (OCR read)",
+    "gist_en": "Nicetas quotes the Qur'an permission that wives are a tilth to go into, and says it shows a lust-serving law.",
+    "why_excluded": "Sexually explicit/graphic content (quotation of the Qur'anic sexual permission and comment on lust); the passage concerns no named wife, Aisha or age. Not put in passages.json per rule 4."
+  },
+  {
+    "id": "nb-105-divorce-libido",
+    "reference": "Nicetas of Byzantium, Refutatio, PG 105 (confutatio on the divorce and remarriage rule)",
+    "url": "https://archive.org/download/bim_early-english-books-1641-1700_1862_105/bim_early-english-books-1641-1700_1862_105_djvu.txt (OCR read)",
+    "gist_en": "Nicetas calls the Qur'anic rule on divorce and remarriage a 'barbaric lust' and a beastly law.",
+    "why_excluded": "Sexual subject matter (divorce and remarriage as lust); no wife named, no Aisha, no age. Excluded under rule 4 as close to graphic sexual content; orchestrator may review."
+  },
+  {
+    "id": "nb-105-ramadan-copula",
+    "reference": "Nicetas of Byzantium, Refutatio, PG 105 (confutatio on the Ramadan night rule)",
+    "url": "https://archive.org/download/bim_early-english-books-1641-1700_1862_105/bim_early-english-books-1641-1700_1862_105_djvu.txt (OCR read)",
+    "gist_en": "Nicetas quotes the Qur'anic permission of sexual relations during the Ramadan night and mocks it.",
+    "why_excluded": "Sexual content (quoted sexual permission); no Aisha, no age."
+  },
+  {
+    "id": "nb-105-paradisus-lascivus",
+    "reference": "Nicetas of Byzantium, Refutatio, PG 105, numbered point (24) on Paradise",
+    "url": "https://archive.org/download/bim_early-english-books-1641-1700_1862_105/bim_early-english-books-1641-1700_1862_105_djvu.txt (OCR read)",
+    "gist_en": "Nicetas calls Muhammad's paradise voluptuous and lascivious, with sensual rewards.",
+    "why_excluded": "Sensual description of paradise; not about wives, Aisha or age. Excluded as sexual content."
+  },
+  {
+    "id": "nb-105-de-mohamede-mulieres",
+    "reference": "Nicetas of Byzantium, Refutatio, PG 105, Confutatio II, chapter 'De Mohamede Mulieres'",
+    "url": "https://archive.org/download/bim_early-english-books-1641-1700_1862_105/bim_early-english-books-1641-1700_1862_105_djvu.txt (OCR read)",
+    "gist_en": "Nicetas summarises a Qur'anic chapter on which women may be married, close to the old law.",
+    "why_excluded": "Neutral summary, not a criticism of the marriage or of Aisha. Kept here as a negative: no Aisha, no age, no wife named."
+  },
+  {
+    "id": "kant-154-paradise-women",
+    "reference": "John VI Kantakouzenos, Contra Mahometem, Apologia IV, PG 154 (Latin facing; Greek OCR unreadable)",
+    "url": "https://archive.org/download/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1866_154/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1866_154_djvu.txt (OCR read, Latin)",
+    "gist_en": "Kantakouzenos says Muhammad was devoted to pleasure and taught it to draw many men, and mocks the paradise rewards of many women.",
+    "why_excluded": "Sensual paradise and pleasure vocabulary; no wife, Aisha or age named. Excluded as sexual content (rule 4). The sentence about 'voluptas' is general, not about Muhammad's marriages."
+  },
+  {
+    "id": "kant-154-mahomet-lust-general",
+    "reference": "John VI Kantakouzenos, Contra Mahometem, PG 154, Apologia IV (Latin)",
+    "url": "https://archive.org/download/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1866_154/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1866_154_djvu.txt (OCR read, Latin)",
+    "gist_en": "Kantakouzenos says Muhammad studied human will and pleasure first and taught by it to attract many fools.",
+    "why_excluded": "General criticism of sensuality with no wives or Aisha named; not about the marriages. Not selected (noted as a negative for the wives question)."
+  },
+  {
+    "id": "zig-130-impuritate",
+    "reference": "Euthymius Zigabenus, Panoplia, Titulus XXVIII, PG 130 (Latin; Greek OCR partial)",
+    "url": "https://archive.org/download/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1864_130/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1864_130_djvu.txt (OCR read)",
+    "gist_en": "Zigabenus quotes the Qur'anic 'your wives are your tilth' and calls it impure and 'more filthy than swine'.",
+    "why_excluded": "Sexual content (quoted Qur'anic sexual permission and invective). Not selected under rule 4; no Aisha or age named."
+  },
+  {
+    "id": "choniates-140-paradise-menstruis",
+    "reference": "Nicetas Choniates, Thesaurus XX, PG 140 (Latin facing)",
+    "url": "https://archive.org/download/patrologicursus41migngoog/patrologicursus41migngoog_djvu.txt (OCR read)",
+    "gist_en": "Choniates says paradise women will be without menstruation and will have intercourse with the faithful.",
+    "why_excluded": "Sexual content (paradise intercourse); no Aisha, age or named wife. Excluded under rule 4."
+  },
+  {
+    "id": "choniates-140-uxores-agri",
+    "reference": "Nicetas Choniates, Thesaurus XX, PG 140 (Latin facing, commentary on Qur'an 2:223 and 2:187)",
+    "url": "https://archive.org/download/patrologicursus41migngoog/patrologicursus41migngoog_djvu.txt (OCR read)",
+    "gist_en": "Choniates mocks the Qur'anic permission that wives are fields to enter and calls its libido 'diabolical'.",
+    "why_excluded": "Sexual content (Qur'anic sexual permission, comment on libido); no Aisha, age or named wife. Excluded under rule 4."
+  },
+  {
+    "id": "theo-6122-paradise-mixis",
+    "reference": "Theophanes, Chronographia, de Boor p. 334 (AM 6122), description of Muhammad's paradise",
+    "url": "https://archive.org/download/bub_gb_QlPPAAAAMAAJ/bub_gb_QlPPAAAAMAAJ_djvu.txt (OCR read)",
+    "gist_en": "Theophanes describes Muhammad's paradise as food, drink and intercourse with women not present, and says other things in it are full of dissipation and folly.",
+    "why_excluded": "Sexual vocabulary (μίξις γυναικῶν) in a doctrinal description of paradise; no wife, Aisha or age named. Not selected under rule 4; a negative for Aisha."
+  },
+  {
+    "id": "zig-130-khadija-duplicate",
+    "reference": "Euthymius Zigabenus, Panoplia, Titulus XXVIII, PG 130 (Muhammad's first marriage to the widow Khadija)",
+    "url": "https://archive.org/download/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1864_130/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1864_130_djvu.txt (OCR read)",
+    "gist_en": "Zigabenus says Muhammad, an orphan, served a widow, lay with her and then married her.",
+    "why_excluded": "Duplicate NAME passage of Khadija (same content as theo-6122-khadija); not Aisha; partly sexual wording ('cum ea concubuit'). Kept out of passages.json."
+  },
+  {
+    "id": "bart-104-khadija-duplicate",
+    "reference": "Bartholomaeus Edessenus, Elenchus, PG 104 (Muhammad and Khadija)",
+    "url": "https://archive.org/download/patrologiaecurs128migngoog/patrologiaecurs128migngoog_djvu.txt (OCR read)",
+    "gist_en": "Bartholomew tells how Muhammad, a servant of the widow Khadija, went in to her and then married her.",
+    "why_excluded": "Duplicate NAME of Khadija; not Aisha; partly sexual wording ('congreditur'). Kept out of passages.json."
+  }
+]

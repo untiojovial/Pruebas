@@ -1,0 +1,54 @@
+[
+ {
+  "id": "espina",
+  "name_es": "Alfonso de Espina",
+  "name_en": "Alfonso de Espina (Alphonsus de Spina)",
+  "name_orig": "Alfonsus de Spina / Alfonso de la Espina",
+  "born": "c. 1390 (uncertain)",
+  "died": "1469",
+  "language": "Latin (Castilian-born Franciscan)",
+  "role_place": "Franciscan friar, Castilian; Bishop of Orense (in some sources); author of Fortalitium fidei c. 1458-1460",
+  "why_relevant": "Book IV of the Fortalitium gives a Latin account of Muhammad's life, his wives and his 'lust', and names two wives (one as Ayosse daughter of Hebeboz, one as Ahassa daughter of Homoz).",
+  "fame": "Known in Hispanic anti-Jewish and anti-Muslim historiography. The Fortalitium fidei was printed several times in the late 15th century (e.g., Koberger, Nuremberg, 1494, which we read). The earliest print date (c. 1471) is from a catalogue listing and was not checked.",
+  "community": "Latin Catholic (Franciscan, Castile)"
+ },
+ {
+  "id": "pedro_pascual",
+  "name_es": "Pedro Pascual (atribuido; 'Pseudo Pedro Pascual')",
+  "name_en": "Peter Pascual (attributed author; the treatise may be pseudonymous)",
+  "name_orig": "Pere Pasqual / Pedro Pascual, Obispo de Jaén",
+  "born": "c. 1227 (Armengol's dates for Pere Pasqual; per the 1908 catalogue record)",
+  "died": "1300 (martyred in Granada, per tradition)",
+  "language": "Castilian (Spanish) text; Latin version of the 17th century printed beside it",
+  "role_place": "Mercedarian friar and bishop of Jaén, martyred 1300 per tradition (dates from Armengol/archive metadata, not all checked). The treatise 'Sobre la seta mahometana' is attributed to him; a 2011-2012 scholarly study (González Muñoz, known to us only from a search snippet) argues it is pseudo-Pascual, 2nd half of the 14th c.",
+  "why_relevant": "Chapter II ('En como Mahomad ovo muchas mugeres') names Axa, daughter of Abubecrin, gives her age at marriage (seven) and at consummation (ten), and calls her the only virgin Muhammad had.",
+  "fame": "Pedro Pascual (Peter Pascual, d. 1300) is a known Mercedarian bishop and martyr, canonised in the Catholic tradition; the treatise is a specialised text of medieval Iberian anti-Islamic polemic, known mainly to specialists.",
+  "community": "Latin Catholic (Mercedarian; Castile)"
+ },
+ {
+  "id": "juan_andres",
+  "name_es": "Juan Andrés (converso del islam, valenciano)",
+  "name_en": "Juan Andrés (former Muslim convert, Valencia)",
+  "name_orig": "Joan Andreu / Juan Andrés, 'quondam alfaqui' (former Muslim jurist)",
+  "born": "1487",
+  "died": "1515 (per LOC catalogue record)",
+  "language": "Spanish (Castilian, Valencia 1515)",
+  "role_place": "Former Muslim scholar (alfaqui) converted to Christianity; wrote 'Confusión de la secta mahomética y del Alcorán' (Valencia, Joffre, 1515)",
+  "why_relevant": "In the chapter on Muhammad's wives he states the marriage ages: six at betrothal and eight at consummation, with Abubequar as her father; the book also names Axa, wife of Mahoma, in the Qur'an-collection narrative.",
+  "fame": "Known to specialists in Iberian anti-Islamic polemic and in Morisco studies; the Confusión is one of the main Spanish polemical texts of the period.",
+  "community": "Latin Catholic (convert from Islam)"
+ },
+ {
+  "id": "torquemada",
+  "name_es": "Juan de Torquemada (Turrecremata), cardenal",
+  "name_en": "John of Torquemada (Turrecremata), cardinal",
+  "name_orig": "Ioannes de Turrecremata",
+  "born": "1388",
+  "died": "1468",
+  "language": "Latin",
+  "role_place": "Dominican, cardinal; Contra principales errores perfidi Machometi (Latin treatise, c. 1459 per secondary snippet)",
+  "why_relevant": "His Latin treatise on Muhammad says he 'is read' to have had fifteen wives and repeats the sensual claims; it does not name Aisha or give her age in the passages we read.",
+  "fame": "Well known in Spanish and Roman church history (Dominican theologian, cardinal, papal adviser); the anti-Islamic treatise is specialist literature.",
+  "community": "Latin Catholic (Dominican)"
+ }
+]

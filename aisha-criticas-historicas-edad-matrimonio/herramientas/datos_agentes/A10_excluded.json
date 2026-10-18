@@ -1,0 +1,32 @@
+[
+ {
+  "reference": "Bayle, Dictionnaire historique et critique (1697), art. Mahomet, remark (i) and text near 'sans attendre qu'elle fut en age nubile'",
+  "url": "https://archive.org/details/gri_33125008462851",
+  "gist_en": "Bayle's remark on Muhammad's relations with a servant (Mary the Copt) and the wives' oath; the passage is about sexual conduct in explicit terms and does not name Aisha's age.",
+  "why_excluded": "Sexually explicit passage (adultery and sexual conduct); and it concerns Mary the Copt, not Aisha."
+ },
+ {
+  "reference": "Bibliander, Machumetis Saracenorum principis (Basel, 1543), Latin section on the number of wives (OCR lines around 43466-43471 and 62241 of the djvu.txt)",
+  "url": "https://archive.org/details/McGillLibrary-rbsc_machumetis-saracenorum-principis_FOLIO-1379-19727",
+  "gist_en": "A generic critique of the Prophet's intemperance and of polygamy with twelve wives mentioned as a limit, without naming Aisha.",
+  "why_excluded": "Does not name Aisha or give her age; generic lust (does not meet the LUST rule). Logged for the orchestrator only. OCR of this edition is poor."
+ },
+ {
+  "reference": "Marracci, Prodromus ad refutationem Alcorani (1698), Latin history of the Caliphate: 'Aifa etiam uxor Mahumeti incitavit populum contra illum' (djvu.txt line 13064)",
+  "url": "https://archive.org/details/AlcoranusTextusMaracci",
+  "gist_en": "Narrative that Aisha ('Aifa' in the OCR) incited people against Ali and joined the Camel army.",
+  "why_excluded": "Names Aisha but is a war narrative (rebellion against Ali); it does not give her age or criticise the marriage. Logged for the orchestrator only."
+ },
+ {
+  "reference": "Sale, The Koran (1734), Preliminary Discourse, note on the resurrection (Ayesha, nudity of the dead)",
+  "url": "https://archive.org/details/bim_eighteenth-century_the-koran-commonly-call_1734",
+  "gist_en": "Note that Muhammad told his wife Ayesha about the nakedness of the risen; she objected about modesty.",
+  "why_excluded": "Graphic/sexual content about nakedness; not about the marriage or age. Logged only."
+ },
+ {
+  "reference": "Luther, Verlegung des Alcoran (1542), printed p. ~169 (PDF page 169; OCR and image checked in part)",
+  "url": "https://sammlungen.ulb.uni-muenster.de/hd/content/titleinfo/759977",
+  "gist_en": "Polemic on Muhammad's many wives and his unclean lust; calls him an unclean adulterer-like figure; Aisha is not named on the page.",
+  "why_excluded": "Generic lust/insult with no name for Aisha (does not meet the LUST rule); insulting in tone. Logged for the orchestrator only."
+ }
+]

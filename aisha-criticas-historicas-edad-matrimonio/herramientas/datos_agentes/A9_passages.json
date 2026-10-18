@@ -1,0 +1,61 @@
+[
+  {
+    "id": "andres1515_age_6_8",
+    "figure": "juan_andres",
+    "work": "andres1515_es",
+    "kind": "AGE",
+    "explicitness": 5,
+    "aisha_named": "true: 'axa' (lower case in print, Spanish 1515; 'Axa' in the 1652 English; father named 'Ubequar')",
+    "age_mentioned": "true: betrothed at six ('seys años'), consummated at eight ('ocho años')",
+    "famous": "false (not in the team's list as famous; the Wikipedia article on Juan Andrés cites the 1652 English pp. 229-30 for the 'young age' criticism)",
+    "ref": "Confusión o confutación de la secta mahomética (Valencia 1515), chapter on the wives (the author says he forgot to put this article 'en el capitulo delas mugeres'); scan leaf read: LOC image index 182 of 189 (printed foliation not visible; signature mark at foot appears as 'ij'). English equivalent: 1652 ed., pp. 229-230 (EEBO-TCP page breaks).",
+    "url": "https://www.loc.gov/item/47043529/ (page image read: https://tile.loc.gov/image-services/iiif/public:rbc:2021rosen1275:0182/full/pct:100.0/0/default.jpg)",
+    "orig_url": "https://tile.loc.gov/image-services/iiif/public:rbc:2021rosen1275:0182/full/pct:100.0/0/default.jpg",
+    "quote_orig": "Aqui quiero poner vn articulo que me oluide de ponerlo enel capitulo delas mugeres: asaber es como mahoma firmo matrimonio conla sobredicha axa: siendo ella de seys años: y consumio el matrimonio conla dicha axa fija de Ubequar: siendo ella de ocho años: la qual cosa prouare por el sobredicho libro de acear.",
+    "quote_en": "For concluſion I will here inſert one Article which I forgot to ſet down in the Chapter of wives. You muſt know that Muhamed contracted marriage with the ſaid Axa, who was Ubequar's Daughter, when ſhe was ſix years old; and conſummated the ſaid Marriage with her, when ſhe was but eight years old; which thing I prove by the ſaid book Azar, upon which I would ask thee, O Moore, and would have thee reſolve me",
+    "own_translation_en": "",
+    "quote_latin": "",
+    "licence_note": "1515 text: public domain. Read from the page image (LOC scan, Rosenwald copy), not from OCR; the LOC OCR gave 'fiendo ellade feps anos' and 'oeocho afios', so the OCR is not reliable for this passage. English: EEBO-TCP transcription (CC0) of the 1652 translation.",
+    "keys": [
+      "siendo ella de seys años",
+      "siendo ella de ocho años",
+      "libro de acear"
+    ],
+    "what_it_says": "Juan Andrés says Muhammad contracted the marriage with Axa, daughter of Ubequar, when she was six, and consummated it when she was eight, and he proves this from the book he calls Azar (printed 'acear').",
+    "context": "The author, a former Muslim jurist, writes in the first person to a Moor (\"O moro\") and says he is adding a point he had forgotten to put in the chapter on wives. The text is a Christian polemic that presents itself as based on Islamic books; the passage ends by asking the Muslim reader whether it was fitting for Muhammad to consummate a marriage with an eight-year-old while having seven wives.",
+    "limits": "(1) Stance: the author's own claim, quoting 'the book Azar' as his authority; the book is not identified by me. (2) The age given here (eight at consummation) differs from the usual Muslim report of nine (as the team brief notes; I did not read Bukhari 5133 or Muslim 1422 myself). (3) The 1652 English is a translation of a translation (the TCP header calls the original Spanish; the translator is I.N. = Joshua Notstock), and the printed pagination is flagged as erroneous by TCP. (4) Only the Spanish 1515 text was read from the scan; the French and Latin were not read at page level.",
+    "stance": "own view (of the author), presenting it as proof from an Islamic book",
+    "vol_page": "",
+    "edition_note": "1515 Valencia; LOC Rosenwald copy; read from scan images 182 and 183 of 189. Line-end hyphens joined in the quote."
+  },
+  {
+    "id": "andres1515_lust_7wives",
+    "figure": "juan_andres",
+    "work": "andres1515_es",
+    "kind": "AGE",
+    "explicitness": 5,
+    "aisha_named": "false in this sentence (the eight-year-old is the girl just named as Axa in the previous passage; here she is 'una mochacha')",
+    "age_mentioned": "true: eight ('ocho años')",
+    "famous": "false",
+    "ref": "Same chapter/leaf as the previous passage; continues onto the next scan (LOC image index 183 of 189), first lines.",
+    "url": "https://www.loc.gov/item/47043529/ (page image read: https://tile.loc.gov/image-services/iiif/public:rbc:2021rosen1275:0183/full/pct:100.0/0/default.jpg)",
+    "orig_url": "https://tile.loc.gov/image-services/iiif/public:rbc:2021rosen1275:0183/full/pct:100.0/0/default.jpg",
+    "quote_orig": "que necessidad tuuo mahoma de consumir matrimonio con vna mochacha de ocho años. La qual cosa es casi omicida: y casi contra natura: mayormente a tal hombre como mahoma: el qual tenia entonces siete mugeres juntamente. Pues di me agora tu moro: si dios te valga: si no fue este grande vicio de hombre grande luxurioso.",
+    "quote_en": "which is almoſt a homicide, and a ſin againſt nature, eſpecially in ſuch a man as Muhamed, and who at that time had ſeven wives together. Speak, O Moore, in Gods Name, was it not a great vice? and was he not a man Luxurious beyond meaſure?",
+    "own_translation_en": "",
+    "quote_latin": "",
+    "licence_note": "Public domain 1515 text, read from the scan (image 183, upper half). English: EEBO-TCP (CC0). The English quote starts mid-sentence in the TCP text; the Spanish starts with the words that close the previous line ('tu' at the foot of image 182 + 'uo' at top of image 183, read as 'tuuo').",
+    "keys": [
+      "vna mochacha de ocho años",
+      "casi omicida",
+      "siete mugeres juntamente",
+      "grande vicio de hombre grande luxurioso"
+    ],
+    "what_it_says": "The author asks the Muslim reader what need Muhammad had to consummate marriage with an eight-year-old girl, calls it nearly homicide and against nature, notes that he then had seven wives, and calls him very lustful.",
+    "context": "Immediately follows the passage on the marriage at six and eight. The author addresses the reader directly with a rhetorical question and an accusation of 'great lust' (luxurioso).",
+    "limits": "Reading of the line-break 'tu/uo' as 'tuuo' is my inference from the French ('qu'auoit affaire Muhamed') and the English; the word 'uo' at the top of image 183 is clear enough but the join is an editorial decision. The 'seven wives' count differs from the 1652 English at p.117 (fifteen married, eleven together) and from nine in other statements in the book; I did not reconcile these. Stance: own view of the author (rhetorical).",
+    "stance": "own view",
+    "vol_page": "",
+    "edition_note": "1515 Valencia; LOC Rosenwald copy; scan image 183 of 189, upper half. Lines joined at hyphens only."
+  }
+]

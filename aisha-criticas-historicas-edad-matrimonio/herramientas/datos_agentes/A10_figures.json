@@ -1,0 +1,54 @@
+[
+ {
+  "id": "prideaux",
+  "name_es": "Humphrey Prideaux",
+  "name_en": "Humphrey Prideaux",
+  "name_orig": "Humphrey Prideaux",
+  "born": "1648",
+  "died": "1724",
+  "language": "English",
+  "role_place": "Anglican dean of Norwich; English apologist; book on the life of Mahomet written for English deists.",
+  "why_relevant": "Explicit English statement of Aisha's age at marriage and consummation, with an explanation of it by the custom of hot countries, and a remark that Mahomet's Imposture served his lust.",
+  "fame": "Known mainly for his Old and New Testament connection (1716-18) and for the Life of Mahomet, a standard early-modern English life of the Prophet.",
+  "community": "Church of England (Anglican)"
+ },
+ {
+  "id": "gagnier",
+  "name_es": "Jean Gagnier",
+  "name_en": "Jean Gagnier",
+  "name_orig": "Jean Gagnier",
+  "born": "1670",
+  "died": "1740",
+  "language": "French (Latin and Arabic scholar)",
+  "role_place": "Professor of Oriental languages at Oxford; compiled La Vie de Mahomet (1732) from Abulfeda, Arabic traditions and Arab authors.",
+  "why_relevant": "Gives Aisha's age as seven at the marriage and nine at consummation in a neutral narrative, with an explicit list of the Prophet's wives.",
+  "fame": "Known as an Arabist and editor of Abulfeda's life of Muhammad (Latin, 1723) and the French Vie de Mahomet (1732).",
+  "community": "Church of England (Anglican)"
+ },
+ {
+  "id": "reland",
+  "name_es": "Adriaan Reland",
+  "name_en": "Adriaan Reland",
+  "name_orig": "Adrianus Relandus",
+  "born": "1676",
+  "died": "1718",
+  "language": "Latin",
+  "role_place": "Dutch orientalist at Utrecht; De religione Mohammedica libri duo (1705).",
+  "why_relevant": "Lists Muhammad's wives and names Aisha ('Aifcha') as the only virgin among them, from 'reliable records', with no age given.",
+  "fame": "Respected Dutch Arabist and Islamicist; De religione Mohammedica was a standard early-modern Latin account of Islam.",
+  "community": "Dutch Reformed"
+ },
+ {
+  "id": "boulainvilliers",
+  "name_es": "Henri de Boulainvilliers",
+  "name_en": "Henri de Boulainvilliers",
+  "name_orig": "Henri de Boulainvilliers",
+  "born": "1658",
+  "died": "1722",
+  "language": "French",
+  "role_place": "French aristocratic historian; La vie de Mahomed (1730, posthumous), a favourable life of the Prophet.",
+  "why_relevant": "Favourable to Muhammad, yet describes Aisha as 'fort jeune' at the marriage and argues she was probably a virgin; the youngest wife, given to coquetry, which he attributes to her youth.",
+  "fame": "Known as a writer on the history of the Franks; his Vie de Mahomed was a sympathetic 18th-century life of the Prophet, published in English in 1731.",
+  "community": "Catholic (French aristocrat), sympathetic to Islam in this work"
+ }
+]

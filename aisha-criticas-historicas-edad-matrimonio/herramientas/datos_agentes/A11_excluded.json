@@ -1,0 +1,32 @@
+[
+  {
+    "reference": "Juan Andrés, Confusion of Muhamed's Sect (1652), chap. VII, text line 197",
+    "url": "https://distantreader.org/stacks/earlyprint/txt/A74637.txt",
+    "gist_en": "Andrés cites the book of Azar: fifteen wives, eleven at once, only two virgins; Aisha not named.",
+    "why": "Number of wives only, no age and Aisha not named: does not qualify (the number of wives is not by itself a criticism). Not selected."
+  },
+  {
+    "reference": "Juan Andrés, Confusion of Muhamed's Sect (1652), chap. VII, text line 197 (continuation)",
+    "url": "https://distantreader.org/stacks/earlyprint/txt/A74637.txt",
+    "gist_en": "Andrés cites a book describing sexual relations with all eleven wives in one hour.",
+    "why": "Sexually explicit detail: excluded under rule 4 (kept only as existence record)."
+  },
+  {
+    "reference": "Juan Andrés, Confusion of Muhamed's Sect (1652), chap. VII, text line 205",
+    "url": "https://distantreader.org/stacks/earlyprint/txt/A74637.txt",
+    "gist_en": "Andrés tells of Muhammad and a captive girl, caught by two wives, one named Axa.",
+    "why": "Sexual narrative about Muhammad and a concubine; names Aisha but says nothing about her age or the marriage. Excluded on the sexual-narrative rule; orchestrator may decide."
+  },
+  {
+    "reference": "Juan Andrés, Confusion of Muhamed's Sect (1652), text line 295 (after CHAP. XII heading, line 277)",
+    "url": "https://distantreader.org/stacks/earlyprint/txt/A74637.txt",
+    "gist_en": "Andrés accuses Axa of poisoning a sword used to kill Caliph Hosman; the corpse is described.",
+    "why": "NAME passage but a murder narrative with a graphic description of the corpse left unburied; not about the marriage. Excluded under rule 4."
+  },
+  {
+    "reference": "en.wikipedia.org 'Aisha' (search snippet from wiki.krisyotam.com mirror, not the page I read)",
+    "url": "https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/Aisha",
+    "gist_en": "Mirror snippet says her age went unremarked by medieval and early-modern Christian polemicists.",
+    "why": "Secondary claim CONTRADICTED by the en.wikipedia 'Aisha' page I read, which names Juan Andrés as one who commented in the 16th century. Not a passage; recorded so the orchestrator does not reuse it."
+  }
+]

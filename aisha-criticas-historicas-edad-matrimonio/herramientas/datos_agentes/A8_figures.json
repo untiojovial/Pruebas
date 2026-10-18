@@ -1,0 +1,67 @@
+[
+  {
+    "id": "riccoldo",
+    "name_es": "Riccoldo da Monte di Croce",
+    "name_en": "Riccoldo da Monte di Croce (Ricoldo of Monte Croce)",
+    "name_orig": "Riccoldus de Monte Crucis (Latin); the Latin version of the Greek text prints the author as 'Richardus frater ord. Praedicatorum'",
+    "born": "c. 1243",
+    "died": "1320",
+    "language": "Latin (original Contra legem Sarracenorum, not read); Greek (Kydones' translation); Latin back-translation printed 1550 and 1606 (read)",
+    "role_place": "Dominican missionary in the Near East (Baghdad area, c. 1288-1300); wrote his Latin refutation of the Qur'an c. 1300",
+    "why_relevant": "His Confutatio legis Sarracenorum names Muhammad's wife Aisha (daughter of Abu Bakr) in a story about his lust and jealous wives and gives a 'still young' remark about her, but no number.",
+    "fame": "Widely known Dominican traveller and anti-Islamic polemicist; his Confutatio was the most-printed Latin polemic on Islam in the early modern period. His own Latin original is not the text quoted here.",
+    "community": "Latin Catholic (Dominican)"
+  },
+  {
+    "id": "cluniac_dossier",
+    "name_es": "Dosier latino cluniacense sobre Mahoma y el Corán (anónimo)",
+    "name_en": "Anonymous Cluniac Latin dossier on Muhammad and the Qur'an (translation attributed in the print to Robert of Ketton and Hermann of Dalmatia)",
+    "name_orig": "Machumetis Saracenorum principis ... vitae, doctrina ac ipse Alcoran (title of the 1543 and 1550 prints); translators 'Robertus Retenensis' and 'Hermannus Dalmata'",
+    "born": "unknown",
+    "died": "unknown",
+    "language": "Latin (translation from Arabic, c. 1143, per the print's title page)",
+    "role_place": "Compiled and translated for Peter the Venerable, abbot of Cluny; it is an Arabic-derived Muslim account of Muhammad, the Qur'an and its collection",
+    "why_relevant": "Its account of the Qur'an's collection names Aisha ('Aiffa uxor Machumet') in a Muslim report of her accusation against Ali. Earliest Latin naming of Aisha found in this pass, but neutral (no criticism of the marriage).",
+    "fame": "Known to specialists as the 1143 Latin Qur'an dossier of Peter the Venerable; printed by Bibliander and Oporinus in Basel in 1543 and 1550.",
+    "community": "Latin Catholic (Cluny) translators; the source text is Muslim"
+  },
+  {
+    "id": "cusanus",
+    "name_es": "Nicolás de Cusa",
+    "name_en": "Nicholas of Cusa",
+    "name_orig": "Nicolaus de Cusa (Cusanus), Cardinalis",
+    "born": "1401",
+    "died": "1464",
+    "language": "Latin",
+    "role_place": "Cardinal and humanist; wrote Cribratio Alkorani in 1461 after reading a Latin Qur'an",
+    "why_relevant": "Book II of the Cribratio criticises the Qur'an's permission of many wives and concubines and attacks Muhammad's lax law, but it does not name Aisha and gives no age for any wife.",
+    "fame": "Major 15th-century philosopher and cardinal; the Cribratio Alkorani is his best-known text on Islam.",
+    "community": "Latin Catholic"
+  },
+  {
+    "id": "vitry",
+    "name_es": "Jacques de Vitry",
+    "name_en": "Jacques de Vitry (Jacobus de Vitriaco)",
+    "name_orig": "Iacobus de Vitriaco",
+    "born": "c. 1160/1170",
+    "died": "1240",
+    "language": "Latin",
+    "role_place": "Bishop of Acre (1216-1228); wrote the Historia Hierosolymitana (c. 1220) and Historia Orientalis",
+    "why_relevant": "His Historia Hierosolymitana opens with Muhammad and calls him lustful and warlike, but names no wife and gives no age.",
+    "fame": "Well-known chronicler of the Crusades and author of sermons (exempla); his Historia Orientalis is a standard source on the early 13th-century East.",
+    "community": "Latin Catholic (Augustinian canon; later cardinal)"
+  },
+  {
+    "id": "anon_glossator",
+    "name_es": "Glosador latino anónimo del Corán (márgenes del dosier cluniacense)",
+    "name_en": "Anonymous Latin glossator of the Qur'an text (marginal notes in the Cluniac dossier)",
+    "name_orig": "'eruditi cuiusdam et recentioris scriptoris' (title-page list of the 1550 print)",
+    "born": "unknown",
+    "died": "unknown",
+    "language": "Latin",
+    "role_place": "Wrote marginal notes against the Qur'an in a Latin manuscript that was printed in 1543 and 1550; date not established here",
+    "why_relevant": "A marginal note comments that Muhammad speaks 'on account of his wives, like a jealous man and the worst adulterer', without naming any wife.",
+    "fame": "Unknown; attribution to Peter the Venerable's circle is NOT stated in the print and was not verified.",
+    "community": "Latin Catholic (uncertain)"
+  }
+]

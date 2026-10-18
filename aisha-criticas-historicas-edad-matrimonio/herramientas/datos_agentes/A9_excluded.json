@@ -1,0 +1,20 @@
+[
+  {
+    "reference": "Juan Andrés, Confusión (1652 English, EEBO-TCP A74637, pp. 117-118 / ch. VII on Muhamed's wives)",
+    "url": "https://raw.githubusercontent.com/textcreationpartnership/A74637/master/A74637.xml",
+    "gist_en": "Book says Muhamed had nine wives and that the Azar book 'says' he lay with all his eleven wives in one hour, quoting an Arabic text of the 'good customs' book (Assamiel).",
+    "why_excluded": "Sexually explicit claim about Muhammad's sexual acts; not needed for age criticism. Also in the Spanish 1515 (not image-read)."
+  },
+  {
+    "reference": "Juan Andrés, Confusión (1652 English, pp. 126-127 / chapter VII on the slave girl)",
+    "url": "https://raw.githubusercontent.com/textcreationpartnership/A74637/master/A74637.xml",
+    "gist_en": "Narrative that Muhammad lay with his slave girl by a special law and that his wives complained; a sexual episode involving a slave.",
+    "why_excluded": "Sexual narrative about a slave; not about Aisha's age; not selected to keep the passages to the age criticism."
+  },
+  {
+    "reference": "Juan Andrés, Confusión (1652 English, pp. 117-118, 'fifteen wives ... eleven wives together ... two Virgins'; Spanish 1515 scan not image-read)",
+    "url": "https://raw.githubusercontent.com/textcreationpartnership/A74637/master/A74637.xml",
+    "gist_en": "States from 'the book of Azar' that Muhamed married fifteen wives, had eleven together and only two virgins; four more offered themselves.",
+    "why_excluded": "Not excluded for content; left out because I did not image-verify the Spanish (only the LOC OCR, e.g. 'Como mahoma caso con quinze mugeres: y vuo juntamente onze mugeres'). See notes.md."
+  }
+]

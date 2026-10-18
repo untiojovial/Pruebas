@@ -1,0 +1,90 @@
+[
+ {
+  "id": "X01",
+  "reference": "Vives, censure of Mahomet (Bibliander 1543), sub-section 'De impudicitia eius et flagitiis'; OCR offset 972514-975792 of the djvu.txt",
+  "url": "https://archive.org/download/McGillLibrary-rbsc_machumetis-saracenorum-principis_FOLIO-1379-19727/rbsc_machumetis-saracenorum-principis_FOLIO-1379_djvu.txt (page image not checked)",
+  "gist_en": "Vives says Muhammad lusted after Zaynab, wife of Zayd, and that his wife 'Aysa' was adulterously involved with a man while he approved; Ali urges divorce.",
+  "why_excluded": "Sexually explicit (adultery, fornication, sexual conduct). It is the only passage in the volume that names Aisha in a sexual context. It also contains the phrase 'adhuc iuvenculam' (still a young woman/girl), with no number, but that phrase is garbled in the OCR and was not checked on the page image. Verify before any use.",
+  "aisha_relevance": "names Aysa (A y sa in OCR) as wife of Muhammad in a sexual story; youth only by an unverified word"
+ },
+ {
+  "id": "X02",
+  "reference": "Chronica mendosa (Corpus Toletanum, Bibliander 1543), marginal notes 'Nota quanta cura de mulieribus suis: quas ad minus XIII habebat' and 'libidine insaniebat'; OCR near offset 898407",
+  "url": "https://archive.org/download/McGillLibrary-rbsc_machumetis-saracenorum-principis_FOLIO-1379-19727/rbsc_machumetis-saracenorum-principis_FOLIO-1379_djvu.txt",
+  "gist_en": "Marginal note says Muhammad had at least thirteen wives and was raging with lust for women, though he preached chastity.",
+  "why_excluded": "Criticises number of wives and lust but names no Aisha and gives no age; the number of wives is not evidence on Aisha's age. Glosses are by an unidentified annotator.",
+  "aisha_relevance": "none"
+ },
+ {
+  "id": "X03",
+  "reference": "Chronica mendosa (Bibliander 1543), passage on Muhammad and Zaynab; OCR near offset 894748",
+  "url": "https://archive.org/download/McGillLibrary-rbsc_machumetis-saracenorum-principis_FOLIO-1379-19727/rbsc_machumetis-saracenorum-principis_FOLIO-1379_djvu.txt",
+  "gist_en": "Text says Muhammad loved Zaynab, then took her as a wife by alleged divine permission, in a passage about his sexual licence.",
+  "why_excluded": "Names Zaynab, not Aisha; sexual content; no age.",
+  "aisha_relevance": "none"
+ },
+ {
+  "id": "X04",
+  "reference": "Peter the Venerable, Summa totius haeresis ac diabolicae fraudis sectae Saracenorum (PL 189, col. 655)",
+  "url": "https://archive.org/details/bim_early-english-books-1641-1700_1854_189",
+  "gist_en": "Says Muhammad had eighteen wives at once and, adulterously, others' wives, to lead men into lust.",
+  "why_excluded": "Number-of-wives criticism without naming Aisha; no age. Bibliander 1543 OCR drops 'decem' ('octo uxores habes') and is therefore less reliable here than PL 189.",
+  "aisha_relevance": "none"
+ },
+ {
+  "id": "X05",
+  "reference": "Peter the Venerable, Epistolae lib. IV (PL 189), passage repeating 'decem et octo uxores habens'; OCR offset 1010187",
+  "url": "https://archive.org/details/bim_early-english-books-1641-1700_1854_189",
+  "gist_en": "Same eighteen-wives criticism of Muhammad repeated in a letter of the fourth book.",
+  "why_excluded": "Same as X04: number of wives, no Aisha, no age. Letter number not identified in OCR.",
+  "aisha_relevance": "none"
+ },
+ {
+  "id": "X06",
+  "reference": "Eulogius, Memoriale sanctorum lib. II, speech of the martyr Perfectus (PL 115, cols. c. 767-768)",
+  "url": "https://archive.org/details/patrologiaecursu0115mign",
+  "gist_en": "Christian martyr denounces Muhammad: taking Zaynab, Zayd's wife, by force and claiming an angel's command, is adulterous and no prophet.",
+  "why_excluded": "Names Zaynab (Zeinab), not Aisha; no age. Column numbers approximate (OCR).",
+  "aisha_relevance": "none"
+ },
+ {
+  "id": "X07",
+  "reference": "Eulogius, Liber apologeticus martyrum, cap. 16 (quoting an anonymous Latin Vita of Mahumat from a Leyre codex; PL 115, cols. c. 860-861)",
+  "url": "https://archive.org/details/patrologiaecursu0115mign",
+  "gist_en": "Anonymous Latin life of Muhammad: he is said to have desired Zayd's wife and subjugated her to his lust.",
+  "why_excluded": "Earliest Latin Vita quoted in PL 115 but no Aisha and no age; Zayd's wife is Zaynab.",
+  "aisha_relevance": "none"
+ },
+ {
+  "id": "X08",
+  "reference": "Peter Alfonsi, Dialogi contra Iudaeos (1110), Mahomet passage (PL 157, c. 601-602)",
+  "url": "https://archive.org/details/patrologiaecursu0157mign",
+  "gist_en": "Dialogue speaker says Muhammad's lust was so great that he took Zaynab, wife of Zayd, and was endlessly sensual.",
+  "why_excluded": "Zaynab, not Aisha. Khadija (widow, 'Chadigia') is named in the same narrative; no age. Lust criticism only.",
+  "aisha_relevance": "none"
+ },
+ {
+  "id": "X09",
+  "reference": "Alvarus, Indiculus luminosus (854), passage on the one who grants 'innumerositates licentiam' (PL 121, c. 1663647 region)",
+  "url": "https://archive.org/details/patrologiaecursu0121mign",
+  "gist_en": "Indiculus says the false prophet grants unrestrained licence and many wives to lustful followers, unlike Christ's chastity.",
+  "why_excluded": "No name in the text (editors identify the figure with Muhammad); no Aisha; no age; sexual content described graphically (incestuous concubitus, horse-like flux).",
+  "aisha_relevance": "none"
+ },
+ {
+  "id": "X10",
+  "reference": "Hildebert(?), Historia de Mahumete (PL 171, cols. 1343-1366)",
+  "url": "https://archive.org/details/patrologiaecursu0171mign",
+  "gist_en": "Verse legend: Mahumet seduces a consul's wife; the poem denounces licentious sexual practice in his law.",
+  "why_excluded": "Sexual and graphic content; no Aisha; no age; attribution to Hildebert disputed in the edition.",
+  "aisha_relevance": "none"
+ },
+ {
+  "id": "X11",
+  "reference": "Peter the Venerable, Summa totius haeresis (PL 189), chapter on sexual teaching of the Qur'an (around PL 189 col. 656-657)",
+  "url": "https://archive.org/details/bim_early-english-books-1641-1700_1854_189",
+  "gist_en": "Peter lists Qur'anic sexual teaching (women as tilled land, licence for many women) as part of Muhammad's errors.",
+  "why_excluded": "Sexually explicit teaching; no Aisha; no age.",
+  "aisha_relevance": "none"
+ }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "reference": "John of Damascus, De haeresibus 101 (PG 94, approx. col. 765-766; Greek 'ἔχετε μὲν καὶ γυναῖκας, καὶ κτήματα, καὶ ὄνους')",
+    "url": "https://archive.org/download/patrologicursus53migngoog/patrologicursus53migngoog_djvu.txt",
+    "gist_en": "Argues that Muslims need witnesses to marry, buy or own a donkey, yet rely on an unwitnessed scripture; mentions that they have wives, possessions and donkeys witnessed.",
+    "why_excluded": "Generic mention of wives among Muslims in a legal argument. Not about Muhammad's marriages, Aisha or any age. Not selected."
+  },
+  {
+    "reference": "Michael the Syrian, Chronicle, Book XI ch. II (Chabot, French transl., vol. 2, pp. 404-405; Chabot 1901)",
+    "url": "https://archive.org/download/MichelLeSyrien2/michael_the_syrian2_djvu.txt",
+    "gist_en": "Summary of Islam: Muslims 'take up to four free wives and concubines as they wish' and divorce freely; statement is general, not about Muhammad.",
+    "why_excluded": "Twelfth-century compilation (Michael d. 1199); general statement on Muslim polygamy and divorce; no Muhammad's wives, no Aisha, no age. Not a 630-800 Christian source; not selected."
+  },
+  {
+    "reference": "PG 94, Greek text at OCR line ~8009 (an iconophile polemic against Constantine V; the work and column not identified by me; NOT in De haeresibus 101)",
+    "url": "https://archive.org/download/patrologicursus53migngoog/patrologicursus53migngoog_djvu.txt",
+    "gist_en": "A Greek polemic calls the emperor Constantine V a 'new Mohammed', an enemy of Christ and of the saints.",
+    "why_excluded": "Insult aimed at a Byzantine emperor using the prophet's name; says nothing about wives, marriage or age. Not selected."
+  },
+  {
+    "reference": "Pseudo-Methodius, Apocalypse, Latin version, ed. E. Sackur, Sibyllinische Texte und Forschungen (Halle 1898), Latin text c. ch. 11-12 (Sackur's numbering as printed in the OCR)",
+    "url": "https://archive.org/download/b24854773/b24854773_djvu.txt",
+    "gist_en": "The sons of Ishmael are given power over Christians for their sins; the text describes men and women committing sexual acts against nature, as in Sodom.",
+    "why_excluded": "Most relevant passage on Arab/Ishmaelite sexuality is sexually graphic: excluded by rule and listed here. No mention of Muhammad's wives, of Aisha or of any age. Syriac original (c. 692) not read; date of the Latin version not checked."
+  },
+  {
+    "reference": "Chronique de Denys de Tell-Mahré, IV (Chabot 1895, French translation, p. 5, year 938 of the Greeks = 626-627, marginal [6])",
+    "url": "https://archive.org/download/chroniquededeny00chabgoog/chroniquededeny00chabgoog_djvu.txt",
+    "gist_en": "The Arabs were 'very sensual and carnal'; they accepted any law that satisfied their desires, given by Muhammad or by any other man.",
+    "why_excluded": "Generic claim about the sensuality of the Arabs and of Muhammad's laws; Muhammad's wives, Aisha and any age are not mentioned. Under the team's definitions this is not a LUST passage (no Aisha). Attribution: the 1895 edition calls the author Dionysius of Tel-Mahre (d. 845); the work (c. 775, the Zuqnin Chronicle part IV) is from my background knowledge, not checked here. Syriac original not read."
+  },
+  {
+    "reference": "Chronicon miscellaneum ad annum domini 724 pertinens (Brooks, Syriac; Latin transl. Chabot in Guidi, Chronica minora pars prior, 1903), Latin, year 'Anno 9?45' (Seleucid 945, c. 633-634), Battle of Gaza/Palestine",
+    "url": "https://archive.org/download/chronicaminorapa00guid/chronicaminorapa00guid_djvu.txt",
+    "gist_en": "A battle in Palestine is fought between the Romans and the 'Arabs of Muhammad' ('Arabibus Mohamedi'), forty thousand poor people killed; the Arabs ravage the whole region.",
+    "why_excluded": "Earliest Christian mention of Muhammad by name in the texts I read (per this Latin); it says nothing about wives, marriage, Aisha or age. Not selected for passages.json; included here so the orchestrator knows it exists."
+  }
+]

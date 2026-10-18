@@ -1,0 +1,50 @@
+[
+ {
+  "reference": "Fortalitium fidei, Liber quartus, Consideratio II, punctus 1 ('vita machometi fuit bestialis et libidinosa'), 1494 print, PDF p. 394",
+  "url": "https://archive.org/download/bub_gb_suVxAvfy1hoC/bub_gb_suVxAvfy1hoC.pdf#page=394",
+  "gist_en": "Espina: Muhammad's life was bestial and lustful; generic lust, no wife named here.",
+  "why_excluded": "Generic lust, no name, no age: not in scope of the kinds; recorded for the orchestrator."
+ },
+ {
+  "reference": "Fortalitium fidei, Liber quartus, Consideratio II (same page), 'quadraginta homines' potency claim, citing a 'historia orientalis ecclesie'",
+  "url": "https://archive.org/download/bub_gb_suVxAvfy1hoC/bub_gb_suVxAvfy1hoC.pdf#page=394",
+  "gist_en": "Espina repeats a claim that Muhammad had the sexual power of forty men.",
+  "why_excluded": "Sexually explicit/graphic content: not selected."
+ },
+ {
+  "reference": "Fortalitium fidei, Liber secundus(?) 'De pręcepto machometi circa pluralitatem uxorum' (heading), 1494 print, around OCR lines 49260-49300 of djvu text (PDF page not checked)",
+  "url": "https://archive.org/download/bub_gb_suVxAvfy1hoC/bub_gb_suVxAvfy1hoC.pdf",
+  "gist_en": "Espina argues that Muhammad's permission of up to four wives and repudiation is contrary to Christian law.",
+  "why_excluded": "Criticises plurality of wives as law, but names no wife and gives no age; not selected. Also contains a sentence on Muhammad's 'luxuriosus' nature (generic)."
+ },
+ {
+  "reference": "Pedro Pascual (attrib.), Sobre la secta mahometana, Cap. II, §§11-12 (Armengol 1908, vol. IV; page not confirmed by image; the episode follows the 'Axa' ages passage)",
+  "url": "https://archive.org/download/obrasdespedropascualmar4/obrasdespedropascualmar4.pdf",
+  "gist_en": "The treatise tells how Muhammad lay with a concubine in Axa's bed and how Axa, shamed, rebuked him.",
+  "why_excluded": "Sexual episode (adultery/concubine in bed); not about age; not selected. Recorded for the orchestrator."
+ },
+ {
+  "reference": "Juan Andrés, Confusión (1515), LOC image 0104 (~ printed p. 105?): Muhammad's nine wives and the Zayd/Zaynab story",
+  "url": "https://tile.loc.gov/image-services/iiif/public:rbc:2021rosen1275:0104/full/pct:100.0/0/default.jpg",
+  "gist_en": "Juan Andrés says Muhammad had nine wives at once in his house and recounts Zayd's wife story.",
+  "why_excluded": "Number of wives and adultery narrative, no Aisha, no age; not selected."
+ },
+ {
+  "reference": "Juan Andrés, Confusión (1515), LOC image ~0106-0107, Assameyl hadith: 'eleven wives in one hour' (Szpiech 2022, p. 297, quoting Andrés p. 167 of the 1515 print)",
+  "url": "https://tile.loc.gov/image-services/iiif/public:rbc:2021rosen1275:0107/full/pct:100.0/0/default.jpg",
+  "gist_en": "Juan Andrés claims that Muhammad slept with eleven wives in one hour, citing a hadith book.",
+  "why_excluded": "Sexual-potency claim (sexually explicit, excluded). No Aisha named in the passage read."
+ },
+ {
+  "reference": "Ioannes de Turrecremata, Contra principales errores perfidi Machometi (Rome 1606 print), djvu OCR around lines 340-360 (page not confirmed on image)",
+  "url": "https://archive.org/details/bub_gb_atVAUPHz_bYC",
+  "gist_en": "Turrecremata says Muhammad 'is read' to have had fifteen wives, was lustful, and claimed sexual power over all women.",
+  "why_excluded": "Wife count and generic lust, no Aisha, no age: not selected (wife count alone is not criticism of her age). Sexual claim part excluded."
+ },
+ {
+  "reference": "Juan Andrés, Confusión (1515), LOC image 0181 (OCR): narrative of the caliphs' murders, which names 'axa muger de mahoma' in the succession struggle",
+  "url": "https://tile.loc.gov/image-services/iiif/public:rbc:2021rosen1275:0181/full/pct:100.0/0/default.jpg",
+  "gist_en": "Juan Andrés recounts the murders of early caliphs and mentions Muhammad's wife Axa in the succession struggle.",
+  "why_excluded": "Violence/war narrative (killing of caliphs); names Axa but gives no age and no criticism of the marriage. Not selected per exclusion rule."
+ }
+]

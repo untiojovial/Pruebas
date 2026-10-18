@@ -1,0 +1,34 @@
+[
+ {
+  "id": "chronica-mendosa-1143",
+  "figure": "hermann-dalmata",
+  "title_orig": "Chronica mendosa et ridicula Sarracenorum, de vita Mahumetis et successorum eius",
+  "title_es": "Crónica falsa y ridícula de los sarracenos, sobre la vida de Mahoma y sus sucesores",
+  "title_en": "The Faulty and Ridiculous Chronicle of the Saracens, on the Life of Mahumet and his Successors",
+  "date": "c. 1142-43 (Toledan translation; approx.)",
+  "language": "Latin (translation from an Arabic-language Muslim history)",
+  "genre": "Latin translation of a Muslim historical narrative with Christian marginal notes",
+  "edition_original": "Printed in Machumetis Saracenorum principis ... ipseque Alcoran, ed. Theodor Bibliander, Basel 1543 (McGill copy on archive.org), chronicle at printed pp. c. 213-236 (Ali's caliphate at p. 220)",
+  "edition_english": "",
+  "digital_url": "https://archive.org/details/McGillLibrary-rbsc_machumetis-saracenorum-principis_FOLIO-1379-19727 ; page image read: https://archive.org/download/McGillLibrary-rbsc_machumetis-saracenorum-principis_FOLIO-1379-19727/page/n241 (leaf 241, printed p. 220)",
+  "licence": "archive.org metadata gives no rights or licence field (rights: None); McGill University Library digital copy of a 1543 print",
+  "authenticity_note": "The Latin is a translation of an unnamed Arabic-language Muslim history; the 1543 print labels it chronica mendosa; the author is anonymous. Date from the Toledan corpus, not re-verified here.",
+  "notes": "Read on the page image (leaf 241) and on the djvu.txt OCR. Long s printed as f in OCR; the printed form is Ayſca. The same page has a second Aiſca (Aisca uero Ietrib) whose referent is unclear and not used."
+ },
+ {
+  "id": "vives-de-veritate-1543",
+  "figure": "ludovico-vives",
+  "title_orig": "Ludovici Vivis de Mahomete et Alcorano eius censura, e libris de veritate fidei christianae excerpta",
+  "title_es": "Censura de Juan Luis Vives sobre Mahoma y el Corán, extraída de su De veritate fidei christianae",
+  "title_en": "Ludovicus Vives' censure of Mahomet and the Qur'an, excerpted from his De veritate fidei christianae",
+  "date": "composed c. 1520s-1540; printed 1543",
+  "language": "Latin",
+  "genre": "Humanist polemic excerpt (with Muslim-attributed narrative)",
+  "edition_original": "Printed in Machumetis Saracenorum principis ... ipseque Alcoran (Confutationes legis Machumeticae), Basel 1543, section 'De Mahomete et Alcorano ipsius', sub-section on the collection of the Qur'an (page image leaf 277, printed p. 10 of the sub-section)",
+  "edition_english": "",
+  "digital_url": "https://archive.org/details/McGillLibrary-rbsc_machumetis-saracenorum-principis_FOLIO-1379-19727 ; page image read: https://archive.org/download/McGillLibrary-rbsc_machumetis-saracenorum-principis_FOLIO-1379-19727/page/n277",
+  "licence": "archive.org metadata gives no rights or licence field (rights: None); McGill University Library digital copy of a 1543 print",
+  "authenticity_note": "Vives' authorship of the excerpt is given by the print's title; the Aisha statement is reported by Vives from Muslim tradition and he does not name his Arabic source in this passage.",
+  "notes": "Excerpt inside a volume that also contains Robert of Ketton/Hermann material. Sexually explicit Vives passage naming Aysa is in the same chapter (see excluded.json)."
+ }
+]

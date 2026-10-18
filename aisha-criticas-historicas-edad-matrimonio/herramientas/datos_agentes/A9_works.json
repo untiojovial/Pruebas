@@ -1,0 +1,50 @@
+[
+  {
+    "id": "andres1515_es",
+    "figure": "juan_andres",
+    "title_orig": "Libro nueuamente imprimido que se llama confusion dela secta mahomatica y d'l Alcoran, compuesto por mossen Juan Andres (title page); running title: Obra llamada confusion o confutacion de la secta mahometica compuesta por Juan Andres quondam Alfaqui",
+    "title_es": "Confusión o confutación de la secta mahomética y del Alcorán",
+    "title_en": "Confusion (or confutation) of the Mahometan sect and of the Qur'an",
+    "date": "1515",
+    "language": "Spanish (Castilian)",
+    "genre": "Christian polemic against Islam (with translated Islamic sources)",
+    "edition_original": "Valencia: [Juan Joffre], 1515 (imprint per Islam-Akademie bibliography, via search snippet, not read). Copy read: Library of Congress, Rosenwald collection, LCCN 47043529 (shelf DP124.8 .M317). Collation per LOC: [180] p., signatures A6 B-L8 M4.",
+    "edition_english": "The confusion of Muhamed's sect, or a confutation of the Turkish Alcoran (London: H. Blunden, 1652), translated by I.N. (= Joshua Notstock per the TCP header); no separate translator attribution beyond that. Public domain (1652).",
+    "digital_url": "https://www.loc.gov/item/47043529/ (metadata and OCR text file read: https://tile.loc.gov/storage-services/public/rbc/2021rosen1275/2021rosen1275.text.txt ; page images read: https://tile.loc.gov/image-services/iiif/public:rbc:2021rosen1275:0182/full/pct:100.0/0/default.jpg and ...:0183/... (scan index 182 and 183 of 189 images))",
+    "licence": "LOC record: digitized Rosenwald copy; I did not read the rights statement in full. A 1515 text is public domain in any case.",
+    "authenticity_note": "Authorship debated: Wiegers questions whether Juan Andrés is a historical figure (per search snippet, not read). The 1515 text itself claims to be by Juan Andrés, quondam alfaquí.",
+    "notes": "Printed in gothic type with long s and ligature-like abbreviations; the OCR file is unreliable (f for long s), so the quoted passages were read from the page image. The book cites the 'libro de acear' (= 'Azar' in the 1652 English) as a source. The image-read text is exact in spelling; no page numbers printed in the scan I read (folio signatures only, one signature mark 'ij' visible at foot of the scan 182)."
+  },
+  {
+    "id": "boderie1574_fr",
+    "figure": "juan_andres",
+    "title_orig": "Confusion de la secte de Muhamed, livre premierement composé en langue espagnole par Jehan André, jadis More & Alfaqui ... & tourné d'italien en françois par Guy Le Fèvre de La Boderie",
+    "title_es": "(traducción francesa de la Confusión)",
+    "title_en": "Confusion of the sect of Muhamed (French translation)",
+    "date": "1574",
+    "language": "French (from Italian)",
+    "genre": "Translation of the polemic",
+    "edition_original": "Paris: Martin le Jeune, 1574 (Google Books record hcQ7AAAAcAAJ, Bavarian State Library copy, 198 pages per record; read only as a catalogue record)",
+    "edition_english": "",
+    "digital_url": "https://books.google.com/books/about/Confusion_de_la_secte_de_Muhamed.html?id=hcQ7AAAAcAAJ (catalogue page read; page images for PA1, PA99, PA100 returned a 'image not available' placeholder, so I did NOT read page 99)",
+    "licence": "Google Books states 'Read free of charge' / full view on the record page.",
+    "authenticity_note": "Translation from the Italian (Gaztelu 1537 Italian per team brief and Wikipedia), so it is not the original Spanish.",
+    "notes": "The team's French transcription of p. 99 is NOT verified by me at page level. Its content (eight years; seven wives; 'Azar') matches the Spanish 1515 and English 1652 readings."
+  },
+  {
+    "id": "maurus1652_en",
+    "figure": "juan_andres",
+    "title_orig": "The confusion of Muhamed's sect, or a confutation of the Turkish Alcoran. Being a discovery of many secret policies and practices in that religion, not till now revealed. Written originally in Spanish, by Johannes Andreas Maurus ... Translated into English by I.N.",
+    "title_es": "",
+    "title_en": "The confusion of Muhamed's sect, or a confutation of the Turkish Alcoran (1652)",
+    "date": "1652",
+    "language": "English",
+    "genre": "Translation of the polemic",
+    "edition_original": "London: Printed for H. Blunden, at the Castle in Cornhill, 1652; [33], 231 p. Thomason E1296[1]; BL copy reproduced in EEBO image set 169729.",
+    "edition_english": "self (this is the English version)",
+    "digital_url": "https://quod.lib.umich.edu/e/eebo2/A74637.0001.001 (EEBO-TCP A74637; quod.lib.umich.edu blocked to my client, 403). Text read from the EEBO-TCP XML mirror: https://raw.githubusercontent.com/textcreationpartnership/A74637/master/A74637.xml",
+    "licence": "EEBO-TCP transcription released CC0 1.0 (per TCP header). The 1652 printed text is public domain.",
+    "authenticity_note": "Translation of an earlier text. The TCP header calls the original Spanish; it does not say which intermediate version the translator used. Wikipedia cites this edition (pp. 229-30) for the Aisha claim.",
+    "notes": "TCP header notes 'numerous errors in pagination'; the page numbers used here are the TCP page-break markers (pb n=229, pb n=230) and should be checked against the scan if precision matters. Line-end hyphens are encoded (EOLhyphen) and joined in the quotes."
+  }
+]

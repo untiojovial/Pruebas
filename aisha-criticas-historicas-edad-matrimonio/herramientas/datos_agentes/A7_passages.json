@@ -1,0 +1,56 @@
+[
+ {
+  "id": "A7-P01",
+  "figure": "hermann-dalmata",
+  "work": "chronica-mendosa-1143",
+  "kind": "NAME",
+  "explicitness": 2,
+  "aisha_named": "true: printed Ayſca (long s, read as 'Ayfca' by OCR); 'filiam Eubokarae coniugem prophetae' (Eubokara = Abu Bakr, per the same text's list of four caliphs)",
+  "age_mentioned": "false",
+  "famous": "false",
+  "ref": "Chronica mendosa et ridicula Sarracenorum (Corpus Toletanum; Latin translation attributed to Hermann of Dalmatia), printed in Bibliander 1543, printed p. 220, section on Ali (Hali) as successor",
+  "url": "https://archive.org/download/McGillLibrary-rbsc_machumetis-saracenorum-principis_FOLIO-1379-19727/page/n241 (page image, leaf 241); text: https://archive.org/download/McGillLibrary-rbsc_machumetis-saracenorum-principis_FOLIO-1379-19727/rbsc_machumetis-saracenorum-principis_FOLIO-1379_djvu.txt",
+  "quote_orig": "Multis tamen dissentientibus, & ob hoc Mecham euntibus, fugitiuis ad Ayſca filiam Eubokarae coniugem prophetae: Cui adhaerendo, suo fulciti consilio rebelles effecti sunt.",
+  "orig_url": "https://archive.org/download/McGillLibrary-rbsc_machumetis-saracenorum-principis_FOLIO-1379-19727/page/n241",
+  "quote_en": "",
+  "own_translation_en": "Many people disagreed, and because of this they went to Mecca, fleeing to Ayſca, daughter of Eubokara, wife of the prophet; by adhering to her and following her counsel, they became rebels.",
+  "quote_latin": "",
+  "licence_note": "No licence on the archive.org item (rights: None). Print is a 1543 Basel edition.",
+  "keys": [
+   "fugitiuis ad Ayſca filiam Eubokarae",
+   "coniugem prophetae",
+   "rebelles effecti sunt"
+  ],
+  "what_it_says": "Muslim-derived narrative says that dissidents after Ali's accession went to Mecca to Aisha, daughter of Abu Bakr and wife of the prophet, and became rebels through her counsel.",
+  "context": "The sentence sits in the Chronica mendosa's account of the four caliphs and Ali's succession; the text is a Latin translation of an anonymous Muslim history, with Christian marginal notes in the print. It names Aisha only as a political figure, with no mention of her marriage or age.",
+  "limits": "Names Aisha only in a hostile political story, not about the marriage. No age. Quoted from the page image (printed p. 220); OCR misreads long s as f. The sentence before ('Ali consequenter regnum...') is not quoted. The date of the translation (c. 1142-43) rests on the Toledan corpus, not on the print. The author of the Arabic source is unknown.",
+  "stance": "reporting (anonymous Muslim history, Latin translation)"
+ },
+ {
+  "id": "A7-P02",
+  "figure": "ludovico-vives",
+  "work": "vives-de-veritate-1543",
+  "kind": "NAME",
+  "explicitness": 2,
+  "aisha_named": "true: printed Aiſſa ('uxor Machumet'); OCR reads Aíffa",
+  "age_mentioned": "false",
+  "famous": "false",
+  "ref": "Vives' censure of Mahomet and the Qur'an (from De veritate fidei christianae), printed in Bibliander 1543, sub-section on the collection of the Qur'an, printed p. 10 of that section (page image leaf 277)",
+  "url": "https://archive.org/download/McGillLibrary-rbsc_machumetis-saracenorum-principis_FOLIO-1379-19727/page/n277 (page image, leaf 277)",
+  "quote_orig": "Dicitur etiam, capitulum corruptum esse & imperfectum. Dixit etiam Aiſſa uxor Machumet, Hali multa inde abſtuliſſe, & pene totum demutaſſe, & inſuper prohibuiſſe homines, ne legeretur Alchoran, & propter hoc multos ſæpe uerberaſſe.",
+  "orig_url": "https://archive.org/download/McGillLibrary-rbsc_machumetis-saracenorum-principis_FOLIO-1379-19727/page/n277",
+  "quote_en": "",
+  "own_translation_en": "It is also said that the chapter was corrupt and incomplete. Aisha, the wife of Muhammad, also said that Ali had removed much from it and almost wholly altered it, and moreover forbade people to read the Qur'an, so that on account of this he often beat many men.",
+  "quote_latin": "",
+  "licence_note": "No licence on the archive.org item (rights: None). Print is a 1543 Basel edition.",
+  "keys": [
+   "Dixit etiam Aiſſa uxor Machumet",
+   "Hali multa inde abſtuliſſe",
+   "propter hoc multos ſæpe uerberaſſe"
+  ],
+  "what_it_says": "Vives reports, as Muslim tradition, that Aisha, wife of Muhammad, accused Ali of removing and altering much of the Qur'an and of forbidding its reading.",
+  "context": "This is a sub-section on the Qur'an's textual history inside Vives' Mahomet censure, reprinted in Bibliander's 1543 volume. It names Aisha only as a witness to an alleged textual corruption; the marriage and age are not discussed here.",
+  "limits": "Named in a Qur'anic textual-history narrative, not about her marriage or age. Vives does not name his Arabic source in this passage. Quoted from the page image (printed p. 10 of the section); long s printed as f in the OCR. The Latin 'Alchoran' is broken across lines with a hyphen in print, joined here. Book published 1543, after Vives' death in 1540.",
+  "stance": "reporting (Vives reporting Muslim tradition)"
+ }
+]

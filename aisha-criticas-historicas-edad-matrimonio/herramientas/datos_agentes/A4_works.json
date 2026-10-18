@@ -1,0 +1,18 @@
+[
+  {
+    "id": "john-damascus-de-haeresibus",
+    "figure": "john-damascus",
+    "title_orig": "Περὶ αἱρέσεων (De haeresibus liber), ch. 101 'Ismaelitarum superstitio'",
+    "title_es": "Sobre las herejías (Libro de las herejías), cap. 101 sobre los ismaelitas",
+    "title_en": "On Heresies (De haeresibus), chapter 101 on the Ishmaelites",
+    "date": "c. 730-750 (approximate; I did not verify a precise date)",
+    "language": "Greek (Latin version printed beside the Greek in PG 94)",
+    "genre": "Heresiography (catalogue of heresies), with a polemical Christian-Muslim section",
+    "edition_original": "Migne, Patrologia Graeca 94 (1864 reprint of Lequien 1712), cols. 763-773, read through the Google scan on archive.org (OCR text). Modern critical edition: B. Kotter, Die Schriften des Johannes von Damaskos IV (PTS 22, 1981), which I did NOT read.",
+    "edition_english": "",
+    "digital_url": "https://archive.org/download/patrologicursus53migngoog/patrologicursus53migngoog_djvu.txt",
+    "licence": "The archive.org item is a Google scan of Migne's PG 94 (Paris 1857-1866 printing). The OCR'd text carries Google's notice: 'It has survived long enough for the copyright to expire and the book to enter the public domain' (the notice is on the scan; its status is per the scan notice, and I did not check any other licence statement).",
+    "authenticity_note": "Genuine work of John of Damascus according to the usual attribution (accepted by Kotter and Sahas); the Ishmaelite chapter is generally regarded as authentic, though the Greek is in a heresiology list with later additions possible. Not checked against the manuscript tradition.",
+    "notes": "Found by searching PG 94 for Ismael/Saracen/Mahomet and then reading the chapter. The chapter names the Prophet as 'Mamed' / 'Μάμεδ' and the friend as 'Zeid' / 'Ζεῖδ'; the wife is not named. The chapter also has a witness-requirement passage (wives, possessions, donkeys) that is generic and not about Muhammad's marriages (see excluded.json). Other copies not checked. The running heads in the OCR suggest cols. 768-769 for the Zayd passage; the orchestrator should verify column numbers on the page image."
+  }
+]

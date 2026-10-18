@@ -1,0 +1,18 @@
+[
+  {
+    "id": "juan_andres_confusion_1515",
+    "figure": "juan_andres",
+    "title_orig": "Confusión o confutación de la secta mahomética y del Alcorán",
+    "title_es": "Confusión o confutación de la secta mahomética y del Alcorán",
+    "title_en": "Confusion or Confutation of the Mahometan Sect and of the Qur'an (English 1652 title: The Confusion of Muhamed's Sect, or a Confutation of the Turkish Alcoran)",
+    "date": "1515 (Valencia, Juan Joffre, 13 Nov 1515, per Parnaseo catalogue description; preface reports earlier work c. 1510 per Starczewska's summary)",
+    "language": "Spanish (original); English (1652 translation)",
+    "genre": "Polemical treatise against Islam (Christian apologetic, by a former Muslim)",
+    "edition_original": "Valencia: Juan Joffre, 1515. Copy digitised by the Library of Congress (loc.gov/item/47043529), but the LOC page is behind a Cloudflare challenge and was NOT read. British Library copy known (catalogue only).",
+    "edition_english": "The Confusion of Muhamed's Sect, or a Confutation of the Turkish Alcoran. Translated into English by I. N. London: Printed for H. Blunden, 1652. (Translator 'I. N.' identified as Joshua Notstock in a catalogue note seen in a search snippet only: UNVERIFIED.)",
+    "digital_url": "https://distantreader.org/stacks/earlyprint/txt/A74637.txt",
+    "licence": "The 1652 English text is pre-1931 (public domain by age). The distantreader page states no licence that I read. The Oxford Text Archive record (A74637) reportedly says CC0: seen only in a search snippet, NOT opened, so UNVERIFIED.",
+    "authenticity_note": "Authentic work of Juan Andrés (Wikipedia; Starczewska 2015 treats it as his). The English is a translation of the Spanish; the Spanish wording of the age passage was NOT read. The 1652 title page calls the author 'Johannes Andreas, Maurus, who was one of their Bishops and afterwards turned Christian' (the 'Bishops' claim is unverified). Wikipedia treats Juan Andrés and Johannes Andreas Maurus as one man.",
+    "notes": "The book cites an Arabic 'book Azar' repeatedly as its source; I could not identify it. The age passage gives six at marriage and EIGHT at consummation; Islamic sources give nine (Bukhari, Muslim), so this is a discrepancy to report. Wikipedia's Juan Andrés article says 'contains one of the earliest explicit condemnations' but cites only the 1652 book itself. Printed page numbers are not in the text file."
+  }
+]

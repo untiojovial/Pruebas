@@ -1,0 +1,67 @@
+[
+ {
+  "id": "bukhari",
+  "name_es": "Al-Bujari (Muhammad ibn Ismaʿil)",
+  "name_en": "al-Bukhari (Muhammad ibn Isma'il)",
+  "name_orig": "محمد بن إسماعيل البخاري",
+  "born": "194 AH (810 d.C.) según OpenITI",
+  "died": "256 AH (870 d.C.) según OpenITI",
+  "language": "árabe",
+  "role_place": "Compilador del Sahih de hadices (Asia Central, Bujara)",
+  "why_relevant": "Recoge y titula (con capítulos propios) los informes sobre la boda de Aisha; sus títulos de capítulo son comentario del compilador.",
+  "fame": "Autor de la colección de hadices más prestigiosa del sunnismo; referencia central de la tradición suní.",
+  "community": "Sunní (clásico)"
+ },
+ {
+  "id": "ibn-saad",
+  "name_es": "Ibn Saʿd (Muhammad ibn Saʿd)",
+  "name_en": "Ibn Sa'd (Muhammad ibn Sa'd)",
+  "name_orig": "محمد بن سعد بن منيع الهاشمي البصري البغدادي",
+  "born": "no consta en el metadato OpenITI",
+  "died": "230 AH (845 d.C.) según OpenITI",
+  "language": "árabe",
+  "role_place": "Secretario y biógrafo en Bagdad; autor de la gran colección de biografías (Tabaqat)",
+  "why_relevant": "Su biografía de Aisha (vol. 8) recoge una objeción de Abu Bakr por parentesco y el relato de la promesa a Jubayr.",
+  "fame": "Autor de los Tabaqat, la fuente biográfica más usada sobre los compañeros y las mujeres del Profeta.",
+  "community": "Sunní (clásico)"
+ },
+ {
+  "id": "tabari",
+  "name_es": "Al-Tabari (Muhammad ibn Jarir)",
+  "name_en": "al-Tabari (Muhammad ibn Jarir)",
+  "name_orig": "محمد بن جرير بن يزيد الطبري",
+  "born": "224 AH (839 d.C.) según OpenITI",
+  "died": "310 AH (923 d.C.) según OpenITI",
+  "language": "árabe",
+  "role_place": "Historiador y exegeta en Bagdad",
+  "why_relevant": "Su Taʾrikh contiene el relato más completo (con la objeción de Abu Bakr y la de la familia de Mutʿim); su tafsir comenta Q 33:51 con el informe de Aisha.",
+  "fame": "Autor de la Historia universal (Taʾrikh) y del mayor comentario clásico del Corán (tafsir).",
+  "community": "Sunní (clásico)"
+ },
+ {
+  "id": "baladhuri",
+  "name_es": "Al-Baladhuri (Ahmad ibn Yahya)",
+  "name_en": "al-Baladhuri (Ahmad ibn Yahya)",
+  "name_orig": "أحمد بن يحيى بن جابر البلاذري",
+  "born": "no consta en el metadato OpenITI",
+  "died": "279 AH (892 d.C.) según OpenITI",
+  "language": "árabe",
+  "role_place": "Historiador abasí (Bagdad)",
+  "why_relevant": "Recoge la promesa previa de Aisha a Jubayr ibn Mutʿim y su retirada, y luego la descarta como no fiable.",
+  "fame": "Autor de Ansab al-ashraf (linajes de los nobles) y de Futuh al-buldan (conquistas); conocido sobre todo por especialistas.",
+  "community": "Sunní (clásico)"
+ },
+ {
+  "id": "ibn-ishaq",
+  "name_es": "Ibn Ishaq (Muhammad ibn Ishaq)",
+  "name_en": "Ibn Ishaq (Muhammad ibn Ishaq)",
+  "name_orig": "محمد بن إسحاق بن يسار",
+  "born": "85 AH (704 d.C.) según OpenITI",
+  "died": "151 AH (768 d.C.) según OpenITI",
+  "language": "árabe",
+  "role_place": "Historiador y biógrafo del Profeta en Medina",
+  "why_relevant": "Es el primer autor que he encontrado que nombra a Aisha entre los primeros convertidos, con la nota de que era niña; no trata de su boda.",
+  "fame": "Autor de la primera gran biografía del Profeta (Sira), conocida sobre todo a través de la recensión de Ibn Hisham.",
+  "community": "Sunní (clásico)"
+ }
+]

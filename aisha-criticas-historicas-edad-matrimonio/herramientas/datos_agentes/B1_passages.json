@@ -1,0 +1,54 @@
+[
+  {
+    "id": "vives_1543_aysa_stuprum",
+    "figure": "vives",
+    "work": "vives_de_veritate_1543",
+    "kind": "LUST",
+    "explicitness": 3,
+    "aisha_named": "true: the wife is named 'Aysa' (1543 OCR 'A y sa'; 1550 OCR 'Ayjfi', i.e. Ayssa or Aysa, long s unclear). Name is in the sentence before the quoted text.",
+    "age_mentioned": "false (no age given in this quote; the age words are in passage vives_1543_aysa_virgo_iuvenculam)",
+    "famous": "false",
+    "ref": "Ludovicus Vives, excerpt 'De Mahumete et Alcorano eius censura' in Machumetis Saracenorum principis ... (Basileae, Oporinus, 1543), Tomus II, chapter heading 'DE IMPVDICITIA EIVS, ET FLAGITIIS'. Printed page not established; McGill djvu OCR lines 20661-20664 (1550 Basel reissue, Newberry copy, OCR lines c. 17505-17510).",
+    "url": "https://archive.org/download/McGillLibrary-rbsc_machumetis-saracenorum-principis_FOLIO-1379-19727/rbsc_machumetis-saracenorum-principis_FOLIO-1379_djvu.txt",
+    "quote_orig": "in sua uxore, quae uocabatur Aysa, ipse fecisse dicitur. Hac enim cum pulchra esset, & libidini dedita, diligebatur a Zhaphagam filio Almuhatham Ethfulami, qui & consuetudinarium cum ea stuprum gerebat, ipso Machumet sciente & consentiente.",
+    "orig_url": "https://archive.org/download/case_bp127_l3_1550/case_bp127_l3_1550_djvu.txt",
+    "quote_en": "",
+    "own_translation_en": "...in his own wife, who was called Aysa, he himself is said to have done [it]. For she, being beautiful and given to lust, was loved by Zhaphagam, son of Almuhatham of Ethful, who also habitually committed fornication with her, Muhammad knowing and consenting. (Team's translation; the Latin verb in 'ipse fecisse dicitur' is elliptic in the OCR and must be checked.)",
+    "quote_latin": "",
+    "licence_note": "Text is a 1543 print (public domain by date). McGill archive.org item shows no licence field. Quoted from the McGill OCR; the 1550 Newberry copy (rights reserved on reproduction) was used only to read the lines, not quoted.",
+    "keys": [
+      "stuprum gerebat",
+      "ipso Machumet sciente & consentiente"
+    ],
+    "what_it_says": "Vives reports an Arabic-derived narrative in which Muhammad's wife Aysa had a lover (Zhaphagam) who had habitual fornication with her, with Muhammad knowing and consenting.",
+    "context": "This is the adultery accusation in the Ali episode, told in the censure as part of Vives's attack on Muhammad's character. The surrounding text names witnesses (Mufatha and Hazen, as printed) and Ali, and the censure elsewhere cites 'the Chronicle of Machumet' (McGill djvu line 22424). The excerpt was printed by Bibliander in 1543 after Vives's posthumous De veritate fidei Christianae.",
+    "limits": "(1) OCR only: the 1543 OCR has 'fua uxore, quz uocabat A y sa, ipfe fecifse dice' and the 1550 OCR has an illegible line-start; 'in sua uxore' is a reconstruction. (2) The name 'Zhaphagam' is garbled in both OCRs; the quote keeps it as read and must be checked on the page image. (3) The passage is an accusation of adultery inside a narrative; it is not an age statement. (4) Sexual content: it is not graphic, but it is about fornication; the orchestrator should decide whether to keep it on the team's exclusion rule. (5) Not verified on the page image.",
+    "stance": "quoting opponent / reporting (Vives narrates an Arabic-derived account; the rhetorical framing is his)"
+  },
+  {
+    "id": "vives_1543_aysa_virgo_iuvenculam",
+    "figure": "vives",
+    "work": "vives_de_veritate_1543",
+    "kind": "AGE",
+    "explicitness": 3,
+    "aisha_named": "false: the wife is not named in this sentence; the referent is the wife named 'Aysa' in the preceding sentence (passage vives_1543_aysa_stuprum).",
+    "age_mentioned": "true: 'virginem' (a virgin) at the marriage and 'adhuc iuuenculam' (still a young girl); no number given in this passage",
+    "famous": "false",
+    "ref": "Ludovicus Vives, excerpt 'De Mahumete et Alcorano eius censura' in Machumetis Saracenorum principis ... (Basileae, Oporinus, 1543), Tomus II, chapter 'DE IMPVDICITIA EIVS, ET FLAGITIIS' (narrative of Ali's objection and Muhammad's answer). Printed page not established; McGill djvu OCR lines 20668-20669 (1550 reissue Newberry copy, OCR lines c. 17516-17521).",
+    "url": "https://archive.org/download/McGillLibrary-rbsc_machumetis-saracenorum-principis_FOLIO-1379-19727/rbsc_machumetis-saracenorum-principis_FOLIO-1379_djvu.txt",
+    "quote_orig": "nullam sibi adeo charam vel dilectam, utpote quam uirginem acceperat, & adhuc iuuenculam. Videbatur non se inde curare, nec propter hoc mulierem sibi habilem dimissurum.",
+    "orig_url": "https://archive.org/download/case_bp127_l3_1550/case_bp127_l3_1550_djvu.txt",
+    "quote_en": "",
+    "own_translation_en": "...he answered that he had no wife dearer or more beloved to him than her whom he had taken as a virgin and who was still a young girl. He seemed not to care about it, and for this reason he would not dismiss a wife suitable for him. (Team's translation.)",
+    "quote_latin": "",
+    "licence_note": "1543 print, public domain by date; quoted from the McGill OCR text. The 1550 Newberry copy (rights reserved on reproduction) was used only to check readings.",
+    "keys": [
+      "uirginem acceperat",
+      "adhuc iuuenculam"
+    ],
+    "what_it_says": "In Vives's narrative Muhammad's reply is given: the wife was taken in marriage as a virgin and was still a young girl, and he would not dismiss her for the accusation. The text gives no number for her age.",
+    "context": "This sentence closes the Ali episode: after Ali urges divorce for the adultery, Muhammad says none is dearer to him than the wife he took as a virgin while still young. The next sentence (1550 OCR) says that hatred between the descendants of Aysa and those of Ali persists among the Arabs to this day. It is a narrated defence by Muhammad, not Vives's own statement of age.",
+    "limits": "(1) AGE is implicit and stated in Muhammad's reply in a narrative; Vives does not give an age number here. (2) The OCR of the 1543 copy is damaged at this point ('Odim inter niroinem acceperat, et adhuc iuuenculà'); the words 'uirginem' and 'iuuenculam' are the 1550 OCR readings, which the 1543 OCR does not contradict. The 1543 OCR line reads 'Odim inter nuroinem' where 'uirginem' is the likely source. (3) Narrated by Vives from an Arabic-derived account; the Arabic original is not identified in this source. (4) The age word 'iuuencula' means young woman or girl, not a number. (5) Not verified on the page image.",
+    "stance": "reporting (Muhammad's reply in a narrative that Vives recounts)"
+  }
+]

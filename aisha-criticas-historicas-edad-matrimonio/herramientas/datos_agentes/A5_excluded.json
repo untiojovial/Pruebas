@@ -1,0 +1,51 @@
+[
+  {
+    "id": "ex-kindi-safwan",
+    "reference": "Apology of al-Kindi, Christian reply, Arabic: the Aisha and Safwan b. al-Mu'attal episode (sentence beginning 'وكذلك هناته مع عائشة'); Muir 1882 pp. 9 (footnote 1, p. 60 lines 4 and 6 of the Arabic)",
+    "url": "https://raw.githubusercontent.com/OpenITI/0300AH/master/data/0300Anonymous/0300Anonymous.RisalataHashimiWaKindi/0300Anonymous.RisalataHashimiWaKindi.Kalema00001-ara1",
+    "gist_en": "The author narrates Aisha's journey back with Safwan and the slander, and then Muhammad's favouritism; Muir calls the passage objectionable.",
+    "why_excluded": "Sexually charged scandal narrative (adultery accusation). Muir himself calls the passage objectionable. The sentence that closes this story (kindi-AGE-01) is quoted alone because it contains no details of the scandal."
+  },
+  {
+    "id": "ex-kindi-wives-anecdotes",
+    "reference": "Apology of al-Kindi, Christian reply, Arabic: remarks on individual wives (Umm Salama, Zaynab bint Jahsh, Safiyya, Muleika, Rayhana etc.), Muir 1882 p. 10",
+    "url": "https://raw.githubusercontent.com/OpenITI/0300AH/master/data/0300Anonymous/0300Anonymous.RisalataHashimiWaKindi/0300Anonymous.RisalataHashimiWaKindi.Kalema00001-ara1",
+    "gist_en": "The author comments on the sexual conduct and marriage bargains of several wives and on the Prophet's marital affairs, including a crude anecdote about a wife and a sexual offer.",
+    "why_excluded": "Sexually suggestive anecdotes; does not name Aisha in the same passage beyond the list; not needed for the Aisha finding. Kept out of passages.json."
+  },
+  {
+    "id": "ex-kindi-saadiya-variant",
+    "reference": "Apology of al-Kindi, OpenITI 0300Anonymous.RisalataHashimiWaKindi.SyriacStudies00001-ara1, same sentence as kindi-AGE-01 (variant 'وكانت خلابة')",
+    "url": "https://raw.githubusercontent.com/OpenITI/0300AH/master/data/0300Anonymous/0300Anonymous.RisalataHashimiWaKindi/0300Anonymous.RisalataHashimiWaKindi.SyriacStudies00001-ara1",
+    "gist_en": "Second Arabic transcription of the same Aisha sentence; differs in adding 'and she was bewitching'.",
+    "why_excluded": "Duplicate of kindi-AGE-01 with a textual variant; the Kalema text was used as the base. The variant is recorded in passages.json limits."
+  },
+  {
+    "id": "ex-michael-chabot-polygamy",
+    "reference": "Michael the Syrian, Chronique (Chabot, French, vol. 2, Book XI ch. 2, p. 407, Syriac original not read); archive.org MichelLeSyrien2",
+    "url": "https://archive.org/download/MichelLeSyrien2/michael_the_syrian2_djvu.txt",
+    "gist_en": "Michael describes the Arabs' teaching: four free wives and as many concubines as they like, and a passion for worldly and carnal pleasures.",
+    "why_excluded": "General polygamy description; no Aisha, no age. Not one of the five kinds. Negative result for the lead."
+  },
+  {
+    "id": "ex-barhebraeus-polygamy",
+    "reference": "Bar Hebraeus, Chronicon Syriacum (Bruns & Kirsch 1789, Latin, Dynasty X, pp. 102-103, Narratio de confessione Arabica)",
+    "url": "https://archive.org/download/ChroniconSyriacum/Chronicon_Syriacum%201_djvu.txt",
+    "gist_en": "The Arabic 'confession' narrative says the Prophet's followers were allowed carnal desires, polygamy with free women and concubines, and repudiation; Khadija is named, Abu Bakr is called his father-in-law.",
+    "why_excluded": "No Aisha in this narrative and no age; the polygamy criticism is general. Kept as a lead for the orchestrator; not a passage under the team's five kinds."
+  },
+  {
+    "id": "ex-kirakos-brosset-paradise",
+    "reference": "Kiracos de Gantzac (Kirakos Gandzaketsi), trad. Brosset 1870, Deux historiens arméniens, approx. p. 30-31 (page inferred from OCR page marker; not verified)",
+    "url": "https://archive.org/download/bub_gb_S8uAqXIdmCEC/bub_gb_S8uAqXIdmCEC_djvu.txt",
+    "gist_en": "Kirakos says Mahmet promised a material paradise with 'continual intercourse with women who remain virgins' and attacks his laws.",
+    "why_excluded": "Sexual content of a paradise description; no Aisha; no marriage criticism of the Prophet's wives. Not selected."
+  },
+  {
+    "id": "ex-ibn-hazm-bahira",
+    "reference": "Ibn Hazm, al-Risala al-Bahira (OpenITI 0456IbnHazm.RisalaBahira.ShamAY0037500-ara1, offset ~7287)",
+    "url": "https://raw.githubusercontent.com/OpenITI/0475AH/master/data/0456IbnHazm/0456IbnHazm.RisalaBahira/0456IbnHazm.RisalaBahira.ShamAY0037500-ara1",
+    "gist_en": "Ibn Hazm's 'al-Risala al-Bahira' is on the duty to follow the Companions over jurists; Aisha appears only as one of several Companions.",
+    "why_excluded": "Not about the monk Bahira legend (the title means 'the brilliant epistle'); Aisha appears only in a list of Companions. Negative result."
+  }
+]

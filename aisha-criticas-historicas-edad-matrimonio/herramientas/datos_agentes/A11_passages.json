@@ -1,0 +1,31 @@
+[
+  {
+    "id": "juan_andres_axa_age_closing_1652",
+    "figure": "juan_andres",
+    "work": "juan_andres_confusion_1515",
+    "kind": "AGE",
+    "explicitness": 5,
+    "aisha_named": "true: as 'Axa' in the 1652 English ('the said Axa, who was Ubequar's Daughter'); the Spanish original spelling was NOT read",
+    "age_mentioned": "true: six years old at marriage; 'eight years old' at consummation ('when she was but eight years old')",
+    "famous": "true: cited by en.wikipedia 'Aisha' article (note 48, the 1652 book, pp. 229-30) and 'Juan Andrés (convert)' article; no scholarly treatment of this passage read",
+    "ref": "Juan Andrés, The Confusion of Muhamed's Sect (London, 1652; trans. 'I. N.'), closing paragraph after the heading CHAP. XII (EEBO-TCP text line 296). The author says he 'forgot to set down in the Chapter of wives' (Chap. VII, text line 195). Page: Wikipedia cites pp. 229-30; NOT checked against a page image.",
+    "url": "https://distantreader.org/stacks/earlyprint/txt/A74637.txt",
+    "quote_orig": "",
+    "orig_url": "",
+    "quote_en": "You must know that Muhamed contracted marriage with the said Axa, who was Ubequar's Daughter, when she was six years old; and consummated the said Marriage with her, when she was but eight years old; which thing I prove by the said book Azar, upon which I would ask thee, O Moor, and would have thee resolve me, whether it was fit for Muhamed to consummate Marriage with a little girl of eight years old? which is almost a homicide, and a sin against nature, especially in such a man as Muhamed, and who at that time had seven wives together. Speak, O Moor, in God's Name, was it not a great vice? and was he not a man Luxurious beyond measure?",
+    "own_translation_en": "",
+    "quote_latin": "",
+    "licence_note": "1652 English: pre-1931, public domain. Read from the EEBO-TCP transcription on distantreader (plain text, not page image; transcription errors possible). The Spanish 1515 text and the Latin 1595 / German 1685 texts were NOT read, so quote_orig is empty.",
+    "keys": [
+      "a little girl of eight years old",
+      "Ubequar's Daughter",
+      "almost a homicide",
+      "a man Luxurious beyond measure"
+    ],
+    "keys_note": "English substrings of quote_en, because quote_orig is unavailable.",
+    "what_it_says": "Andrés says Muhammad married Aisha ('Axa') when she was six and consummated the marriage when she was eight, which he calls almost a homicide and a sin against nature, and notes Muhammad then had seven wives.",
+    "context": "The closing paragraph of a polemic by a former Muslim who became a Catholic priest; it is part of his attack on Muhammad's character and marriages, and he cites a book he calls 'Azar' as his source. The surrounding text is anti-Islamic polemic throughout and quotes Qur'anic and Sunni material he claims to have read.",
+    "limits": "(1) English translation only; the Spanish wording and original spelling were not read. (2) Ages are six and eight, not the Islamic six and nine: report the discrepancy. (3) The source 'book Azar' is unidentified. (4) The author is an ex-Muslim polemicist: his statements are his own, but polemical and unverified against Arabic sources. (5) The claim 'one of the earliest explicit condemnations' (Wikipedia) rests only on this book; the scholarly source it cites (Szpiech 2012, p. 318) was not accessed. (6) Transcription from EEBO-TCP; spelling is 1652 English. (7) Wikipedia calls him 'Spanish Catholic'; he was a convert from Islam (fl. 1487-1515 per Wikipedia).",
+    "stance": "own view (polemical)"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "kindi-apology",
+    "figure": "kindi",
+    "title_orig": "رسالة عبد الله بن إسمعيل الهاشمي إلى عبد المسيح بن إسحق الكندي يدعوه بها إلى الإسلام ورسالة الكندي إلى الهاشمي يرد بها عليه، ويدعوه إلى النصرانية",
+    "title_es": "Apología de al-Kindi (carta de al-Hāšimī y respuesta de al-Kindī)",
+    "title_en": "The Apology of Al Kindy (Risalat ʿAbd al-Masih al-Kindi)",
+    "date": "c. 9th century (Muir 1882: c. 830 A.D.; OpenITI header: 'second half of 9th C', citing P.S. van Koningsveld 2004)",
+    "language": "Arabic",
+    "genre": "Epistolary apologetic debate (two letters: Muslim letter of al-Hashimi and Christian reply attributed to al-Kindi)",
+    "edition_original": "(a) OpenITI 0300Anonymous.RisalataHashimiWaKindi.Kalema00001-ara1 (transcription from alkalema.net; used for all quotations, checked with oilib.verify). (b) archive.org item AlKindi_201306, 1885 printing (OCR; poor for the first pages; used only to cross-check the key sentence). (c) OpenITI SyriacStudies00001 variant (different transcription).",
+    "edition_english": "William Muir, The Apology of Al Kindy, written at the court of Al Mâmûn (A.H. 215; A.D. 830) ... with an essay on its age and authorship. London: Smith, Elder & Co., 1882.",
+    "digital_url": "https://archive.org/details/apologyofalkindy00abdarich (djvu text read; book pp. 9-10 checked as page image, PDF page 46)",
+    "licence": "Archive item shows no open licence. The 1882 title page carries the printed notice '[All Rights Reserved.]'. My judgement: public domain (1882 publication; Muir died 1905), but this is not stated on the scan.",
+    "authenticity_note": "Attribution to al-Kindi and the date are disputed. The Arabic text is a literary construct in letters. I did not read Muir's essay or van Koningsveld (2004); I only read the OpenITI header that cites van Koningsveld.",
+    "notes": "Muir's English has an OCR-clear sentence on book pp. 9-10 about Aisha; Muir flags the Safwan story (Arabic p. 60, lines 4 and 6 per his footnote) as objectionable and does not quote the Arabic. The Christian voice ('your companion' = Muhammad) starts after the Quran 33:37 quotation about Zaynab. Muir's enumeration of wives omits the names Khadija and Aisha; his count '(fifteen wives and two slave-girls)' is retained."
+  }
+]

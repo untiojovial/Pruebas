@@ -1,0 +1,270 @@
+[
+  {
+    "id": "P01",
+    "figure": "kindi",
+    "work": "kindi_reply_hashimi",
+    "kind": "LUST",
+    "explicitness": 3,
+    "aisha_named": {
+      "value": true,
+      "how": "عائشة, in the sentence just before the quoted text (وكذلك هناته مع عائشة); the quoted text itself uses pronouns (بها، غيرها، منها)"
+    },
+    "age_mentioned": {
+      "value": false,
+      "which": "no number; says she was the only virgin among his wives and the youngest (بكر؛ أحدث سنا)"
+    },
+    "famous": {
+      "value": false,
+      "where_cited": ""
+    },
+    "ref": "Kindi reply (Kalema copy), OpenITI char offset ~56,000; no page markers in file. Passage in the Aisha paragraph after the Ifk narrative.",
+    "url": "https://raw.githubusercontent.com/OpenITI/0300AH/master/data/0300Anonymous/0300Anonymous.RisalataHashimiWaKindi/0300Anonymous.RisalataHashimiWaKindi.Kalema00001-ara1",
+    "orig_url": "https://raw.githubusercontent.com/OpenITI/0300AH/master/data/0300Anonymous/0300Anonymous.RisalataHashimiWaKindi/0300Anonymous.RisalataHashimiWaKindi.Kalema00001-ara1",
+    "quote_orig": "وتبليغ علي بن أبي طالب إليه كلام المتكلمين وعيب العائبين، قائلا: يا رسول الله، لم يضيق الله عليك، والنساء سواها كثيرة . فلم يلتفت صاحبك إلى ذلك كله لشدة إعجابه بها، لأنه لم يكن في من نكح من نسائه بكر غيرها ولا أحدث سنا منها، فكان لها من قلبه مكان",
+    "quote_en": "",
+    "own_translation_en": "[Team's own literal translation, not a published translation] ...and Ali reported to him the words of the speakers and the mockery of the revilers, saying: 'O Messenger of God, God has not restricted you, and there are many women besides her.' But your companion paid no heed to all that because of his great admiration for her, since among the wives he married there was no virgin other than her, nor any younger in age than her; so she had a place in his heart.",
+    "quote_latin": "",
+    "licence_note": "Text from OpenITI file (header cites alkalema.net/kenedy.htm). Licence line not read on source page. 9th c. text; I quote only the Arabic.",
+    "keys": [
+      "لم يكن في من نكح من نسائه بكر غيرها",
+      "ولا أحدث سنا منها",
+      "فكان لها من قلبه مكان"
+    ],
+    "what_it_says": "The Christian correspondent says Muhammad favoured Aisha above his other wives because she was the only virgin among them and the youngest in age.",
+    "context": "Al-Kindi's reply to al-Hashimi, as titled in the OpenITI header. The sentence follows a passage on the Ifk slander and Ali's remark that God had not restricted him since «many other women» exist. The author reads Muhammad's marriages as lust.",
+    "limits": "Christian (not Muslim) source: outside the core A3 brief, found while searching; the Arabic-Christian team should double-check. OpenITI lists author as Anonymous; attribution to al-Kindi comes from the title. «Youngest» is not a numeric age. Cross-check: the same sentence occurs in the second OpenITI copy (SyriacStudies00001, char ~56,952), with «عاىش» forms near it.",
+    "stance": "own view",
+    "offset_start": 56079,
+    "offset_end": 56331,
+    "verified": "oilib.verify True; cut by code from the downloaded file"
+  },
+  {
+    "id": "P02",
+    "figure": "kindi",
+    "work": "kindi_reply_hashimi",
+    "kind": "NAME",
+    "explicitness": 2,
+    "aisha_named": {
+      "value": true,
+      "how": "عائشة بنت أبي بكر (plain form)"
+    },
+    "age_mentioned": {
+      "value": false,
+      "which": "none"
+    },
+    "famous": {
+      "value": false,
+      "where_cited": ""
+    },
+    "ref": "Kindi reply (Kalema copy), OpenITI char offset ~55,700; no page markers.",
+    "url": "https://raw.githubusercontent.com/OpenITI/0300AH/master/data/0300Anonymous/0300Anonymous.RisalataHashimiWaKindi/0300Anonymous.RisalataHashimiWaKindi.Kalema00001-ara1",
+    "orig_url": "https://raw.githubusercontent.com/OpenITI/0300AH/master/data/0300Anonymous/0300Anonymous.RisalataHashimiWaKindi/0300Anonymous.RisalataHashimiWaKindi.Kalema00001-ara1",
+    "quote_orig": "وكانت نساؤه فيما يظهر خمس عشرة حرة، وأمتين. أولهن خديجة بنت خويلد، ثم عائشة بنت أبي بكر وهو عبد الله المعروف بعتيق بن أبي قحافة",
+    "quote_en": "",
+    "own_translation_en": "[Team's own literal translation, not a published translation] His wives, as far as it appears, were fifteen free women and two slave-women. The first was Khadija bint Khuwaylid, then Aisha bint Abi Bakr, who is 'Abd Allah, known as 'Atiq ibn Abi Quhafa.",
+    "quote_latin": "",
+    "licence_note": "As P01 (OpenITI copy; licence line not read).",
+    "keys": [
+      "خمس عشرة حرة",
+      "ثم عائشة بنت أبي بكر"
+    ],
+    "what_it_says": "The author lists Muhammad's wives, fifteen free women and two slaves, and places Aisha second after Khadija.",
+    "context": "Part of the same Christian reply, which then reproaches Muhammad for his marriages in general.",
+    "limits": "A plain count and list, not a criticism of Aisha's age. Per the team's rule, the number of wives is not by itself a criticism of her age. Included only as the earliest naming in this document.",
+    "stance": "reporting",
+    "offset_start": 56526,
+    "offset_end": 56657,
+    "verified": "oilib.verify True; cut by code from the downloaded file"
+  },
+  {
+    "id": "P03",
+    "figure": "ibn_hazm",
+    "work": "ibn_hazm_fisal",
+    "kind": "MUSLIM",
+    "explicitness": 2,
+    "aisha_named": {
+      "value": false,
+      "how": "not named"
+    },
+    "age_mentioned": {
+      "value": false,
+      "which": "none"
+    },
+    "famous": {
+      "value": false,
+      "where_cited": ""
+    },
+    "ref": "Ibn Hazm, Fisal, vol. 1, p. 69 (OpenITI marker), on the sect of Ahmad ibn Habit (Ibn Hazm: a Basran who professed Mu'tazilism, a student of al-Nazzam).",
+    "url": "https://raw.githubusercontent.com/OpenITI/0475AH/master/data/0456IbnHazm/0456IbnHazm.FisalFiMilal/0456IbnHazm.FisalFiMilal.JK000343-ara1",
+    "orig_url": "https://raw.githubusercontent.com/OpenITI/0475AH/master/data/0456IbnHazm/0456IbnHazm.FisalFiMilal/0456IbnHazm.FisalFiMilal.JK000343-ara1",
+    "quote_orig": "استخرنا اخراجه عن الإسلام لأن أصحابه حكوا عنه وجوها من الكفر منها التناسخ والطعن على رسول الله صلى الله عليه وسلم بالنكاح",
+    "quote_en": "",
+    "own_translation_en": "[Team's own literal translation, not a published translation] ...we expelled him from Islam, because his followers related from him several aspects of unbelief, among them transmigration and the slander of the Messenger of God by (his) marriages.",
+    "quote_latin": "",
+    "licence_note": "Fisal is public domain (d. 456 AH). OpenITI copy (JK000343); licence line not read.",
+    "keys": [
+      "الطعن على رسول الله صلى الله عليه وسلم بالنكاح",
+      "حكوا عنه وجوها من الكفر"
+    ],
+    "what_it_says": "Ibn Hazm reports that the followers of Ahmad ibn Habit related from him several kinds of unbelief, including slander of the Prophet over his marriages.",
+    "context": "Heresiography: Ibn Hazm argues this man should be counted as an unbeliever and lists his doctrines (transmigration, animal prophets). The marriage charge is one line of that list.",
+    "limits": "A one-line report by a hostile heresiographer. The passage does not say which marriages or whether the objection involves Aisha or any age. The date of Ahmad ibn Habit is not stated in this passage and I did not verify it. Muslim author recording an objection from within Islam (Mu'tazilite), not an outside critic.",
+    "stance": "reporting",
+    "offset_start": 129810,
+    "offset_end": 129945,
+    "verified": "oilib.verify True; cut by code from the downloaded file"
+  },
+  {
+    "id": "P04",
+    "figure": "ibn_hazm",
+    "work": "ibn_hazm_fisal",
+    "kind": "NAME",
+    "explicitness": 3,
+    "aisha_named": {
+      "value": true,
+      "how": "عائشة (plain form)"
+    },
+    "age_mentioned": {
+      "value": true,
+      "which": "8 years and some months at the Hijra (not at marriage)"
+    },
+    "famous": {
+      "value": false,
+      "where_cited": ""
+    },
+    "ref": "Ibn Hazm, Fisal, vol. 4, p. 112 (OpenITI marker), in the argument on Ali's precedence.",
+    "url": "https://raw.githubusercontent.com/OpenITI/0475AH/master/data/0456IbnHazm/0456IbnHazm.FisalFiMilal/0456IbnHazm.FisalFiMilal.JK000343-ara1",
+    "orig_url": "https://raw.githubusercontent.com/OpenITI/0475AH/master/data/0456IbnHazm/0456IbnHazm.FisalFiMilal/0456IbnHazm.FisalFiMilal.JK000343-ara1",
+    "quote_orig": "وإلا لكانت عائشة سابقة لعلي رضي الله عنهما في هذا الفضل لأنها كانت إذ هاجر النبي صلى الله عليه وسلم بنت ثماني سنين وأشهر ولم تولد إلا بعد إسلام أبيها بسنين",
+    "quote_en": "",
+    "own_translation_en": "[Team's own literal translation, not a published translation] ...Otherwise Aisha would have preceded Ali in this merit, because when the Prophet emigrated she was eight years and some months old, and she was not born until years after her father had become a Muslim.",
+    "quote_latin": "",
+    "licence_note": "Fisal public domain; OpenITI copy (JK000343), licence line not read.",
+    "keys": [
+      "بنت ثماني سنين وأشهر",
+      "ولم تولد إلا بعد إسلام أبيها"
+    ],
+    "what_it_says": "Ibn Hazm says Aisha was eight years and some months old at the Hijra and was born years after her father's conversion.",
+    "context": "In a discussion of whether Ali's early conversion gives him a precedence, Ibn Hazm uses Aisha as a counter-example.",
+    "limits": "Neutral age statement with no criticism; it is the age at the Hijra, not at the marriage. Recorded because it is an early explicit age in a Muslim author outside the hadith collections.",
+    "stance": "own view",
+    "offset_start": 1396212,
+    "offset_end": 1396371,
+    "verified": "oilib.verify True; cut by code from the downloaded file"
+  },
+  {
+    "id": "P05",
+    "figure": "ibn_hazm",
+    "work": "ibn_hazm_muhalla",
+    "kind": "REPLY",
+    "explicitness": 2,
+    "aisha_named": {
+      "value": true,
+      "how": "عائشة (plain form)"
+    },
+    "age_mentioned": {
+      "value": true,
+      "which": "6 at marriage"
+    },
+    "famous": {
+      "value": false,
+      "where_cited": ""
+    },
+    "ref": "Ibn Hazm, al-Muhalla, Kitab al-Wasaya / nikah section, vol. 9, p. 40 (OpenITI marker; Shamela copy).",
+    "url": "https://raw.githubusercontent.com/OpenITI/0475AH/master/data/0456IbnHazm/0456IbnHazm.MuhallaBiAthar/0456IbnHazm.MuhallaBiAthar.Shamela0000767-ara1.completed",
+    "orig_url": "https://raw.githubusercontent.com/OpenITI/0475AH/master/data/0456IbnHazm/0456IbnHazm.MuhallaBiAthar/0456IbnHazm.MuhallaBiAthar.Shamela0000767-ara1.completed",
+    "quote_orig": "الحجة في إجازة إنكاح الأب ابنته الصغيرة البكر إنكاح أبي بكر - رضي الله عنه - النبي - صلى الله عليه وسلم - من عائشة - رضي الله عنها - وهي بنت ست سنين، وهذا أمر مشهور غني عن إيراد الإسناد فيه، فمن ادعى أنه خصوص لم يلتفت لقوله",
+    "quote_en": "",
+    "own_translation_en": "[Team's own literal translation, not a published translation] [Garbled in the printed text; literal attempt:] The argument for allowing a father to marry off his young virgin daughter is the marriage of [the Prophet to] Aisha bint Abi Bakr, by [the consent of] Abu Bakr, when she was six years old. This matter is well known and needs no isnad; whoever claims it was specific to him, his claim is disregarded.",
+    "quote_latin": "",
+    "licence_note": "Muhalla public domain (d. 456 AH). OpenITI Shamela copy; ed_info: Dar al-Fikr, Beirut. Licence line not read.",
+    "keys": [
+      "وهي بنت ست سنين",
+      "فمن ادعى أنه خصوص لم يلتفت لقوله"
+    ],
+    "what_it_says": "Ibn Hazm argues from the marriage of Aisha at six, with Abu Bakr's consent, that a father may marry off a young virgin daughter, and rejects the claim that this was a special privilege of the Prophet.",
+    "context": "Legal argument on a father's power to marry off a minor virgin. Ibn Hazm states the hadith is famous and needs no isnad. The rejected «special privilege» claim is anonymous in the passage.",
+    "limits": "A legal argument, not a moral objection to the marriage. The objector is not named. The printed text has dash-marked honorifics inside the sentence, kept verbatim. Also see P06 for the same «special privilege» idea reported by Ibn Hajar.",
+    "stance": "own view",
+    "offset_start": 5632621,
+    "offset_end": 5632850,
+    "verified": "oilib.verify True; cut by code from the downloaded file",
+    "famous_note": "Ibn Hazm himself calls the report mashhur (well known)."
+  },
+  {
+    "id": "P06",
+    "figure": "ibn_hajar",
+    "work": "ibn_hajar_fath",
+    "kind": "REPLY",
+    "explicitness": 2,
+    "aisha_named": {
+      "value": true,
+      "how": "عائشة (plain form)"
+    },
+    "age_mentioned": {
+      "value": true,
+      "which": "6 at marriage"
+    },
+    "famous": {
+      "value": false,
+      "where_cited": ""
+    },
+    "ref": "Ibn Hajar, Fath al-Bari, vol. 9, p. 190 (OpenITI marker), Kitab al-Nikah, on the father's power over a minor virgin.",
+    "url": "https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.FathBari/0852IbnHajarCasqalani.FathBari.JK000166-ara1",
+    "orig_url": "https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.FathBari/0852IbnHajarCasqalani.FathBari.JK000166-ara1",
+    "quote_orig": "بن حزم عن بن شبرمة مطلقا أن الأب لا يزوج بنته البكر الصغيرة حتى تبلغ وتأذن وزعم أن تزويج النبي صلى الله عليه وسلم عائشة وهي بنت ست سنين كان من خصائصه ومقابله تجوير الحسن والنخعي للأب اجبار بنته كبيرة كانت أو صغيرة بكرا كانت أو ثيبا",
+    "quote_en": "",
+    "own_translation_en": "[Team's own literal translation, not a published translation] ...Ibn Hazm reports from Ibn Shubruma, without qualification, that a father may not marry off his young virgin daughter until she reaches puberty and consents; and [the subject of 'he claimed' is unclear] claimed that the Prophet's marriage to Aisha when she was six was a special privilege of his, whereas al-Hasan and al-Nakha'i allowed the father to compel his daughter, whether grown or young, virgin or not.",
+    "quote_latin": "",
+    "licence_note": "Fath al-Bari (d. 852 AH) is public domain; OpenITI copy with ed_info: Muhibb al-Din al-Khatib, Dar al-Ma'rifa, Beirut. Licence line not read.",
+    "keys": [
+      "زعم أن تزويج النبي صلى الله عليه وسلم عائشة وهي بنت ست سنين كان من خصائصه",
+      "أن الأب لا يزوج بنته البكر الصغيرة حتى تبلغ وتأذن"
+    ],
+    "what_it_says": "Ibn Hajar reports that Ibn Shubruma held a father may not marry off a young virgin until she reaches puberty and consents, and says (the subject is unclear) that the marriage of Aisha at six was a special privilege of the Prophet.",
+    "context": "Legal debate on minors' marriage, as reported in the Fath commentary on the hadith of Aisha (team's hadith pack covers the hadith).",
+    "limits": "The subject of «wa-zaʿama» is ambiguous in the sentence: it may be Ibn Shubruma, Ibn Hazm (the sentence is introduced by «Ibn Hazm reports from Ibn Shubruma») or Ibn Hajar. Ibn Hazm himself rejects the special-privilege claim in the Muhalla (P05). The objection is legal, not moral. The sentence is garbled in places (tajwir). Verify subject against a second edition before use.",
+    "stance": "reporting",
+    "offset_start": 10655027,
+    "offset_end": 10655264,
+    "verified": "oilib.verify True; cut by code from the downloaded file"
+  },
+  {
+    "id": "P07",
+    "figure": "ibn_kathir",
+    "work": "ibn_kathir_bidaya",
+    "kind": "NAME",
+    "explicitness": 3,
+    "aisha_named": {
+      "value": true,
+      "how": "عائشة (plain form)"
+    },
+    "age_mentioned": {
+      "value": true,
+      "which": "6 at marriage; 9 at consummation"
+    },
+    "famous": {
+      "value": false,
+      "where_cited": ""
+    },
+    "ref": "Ibn Kathir, al-Bidaya wa-l-nihaya, vol. 3, p. 131 (OpenITI marker), year of the marriage after Khadija's death.",
+    "url": "https://raw.githubusercontent.com/OpenITI/0775AH/master/data/0774IbnKathir/0774IbnKathir.Bidaya/0774IbnKathir.Bidaya.JK000158-ara3",
+    "orig_url": "https://raw.githubusercontent.com/OpenITI/0775AH/master/data/0774IbnKathir/0774IbnKathir.Bidaya/0774IbnKathir.Bidaya.JK000158-ara3",
+    "quote_orig": "ونكح عائشة وهي بنت ست سنين ثم بنى بها وهي بنت تسع سنين وهذا الذي قاله عروة مرسل في ظاهر السياق كما قدمنا ولكنه في حكم المتصل في نفس الامر وقوله تزوجها وهي ابنة ست سنين وبنى بها وهي ابنة تسع مالا خلاف فيه بين الناس",
+    "quote_en": "",
+    "own_translation_en": "[Team's own literal translation, not a published translation] ...'He married Aisha when she was six years old, and consummated the marriage when she was nine'; what Urwa said is, in its apparent sense, a mursal report, as we mentioned, but in fact it has the force of a connected one; and the statement 'he married her when she was six years old and consummated it when she was nine' is one about which there is no disagreement among people.",
+    "quote_latin": "",
+    "licence_note": "Bidaya (d. 774 AH) is public domain. OpenITI copy JK000158-ara3; ed_info: Beirut, Maktabat al-Maʿarif. Licence line not read.",
+    "keys": [
+      "وهي بنت ست سنين",
+      "مالا خلاف فيه بين الناس"
+    ],
+    "what_it_says": "Ibn Kathir says the marriage at six and consummation at nine are undisputed among people, but he doubts the chronology (marriage three years after Khadija) and cites Yaʿqub ibn Sufyan's version.",
+    "context": "Historian's chronological commentary on the hadith of Hisham ibn Urwa. Neutral, with no objection recorded.",
+    "limits": "No objection recorded. The quoted hadith is in the team's hadith pack. Useful only as evidence that a 14th-century Muslim historian treated the ages as settled.",
+    "stance": "own view",
+    "offset_start": 1897344,
+    "offset_end": 1897563,
+    "verified": "oilib.verify True; cut by code from the downloaded file"
+  }
+]

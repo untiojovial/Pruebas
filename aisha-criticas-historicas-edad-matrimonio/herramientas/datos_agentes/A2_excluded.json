@@ -1,0 +1,26 @@
+[
+ {
+  "reference": "Hakim, al-Mustadrak, hadith printed as 6730 (Dhahabi epitome note), Aisha's \"nine privileges\" report with another chain",
+  "url": "OpenITI metadata URL for versionUri 0405HakimNaysaburi.Mustadrak.Shamela0002266-ara1",
+  "gist": "Aisha lists nine privileges, including being married at seven and sent to the Prophet at nine, graded sound by Hakim; the chain is different from the one in Tabari.",
+  "why_excluded": "Duplicate content of P02 (same report). The chain was not read in full, so it is not used as a separate passage."
+ },
+ {
+  "reference": "Dhahabi, Siyar a'lam al-nubala', vol. 2 p. 289 (Asma entry): Ibn Abi al-Zinad says Asma was ten years older than Aisha",
+  "url": "OpenITI metadata URL for versionUri 0748Dhahabi.SiyarAclamNubala.Shamela0010906-ara1",
+  "gist": "An earlier occurrence of the Ibn Abi al-Zinad statement that Asma was ten years older than Aisha, in Dhahabi's Asma entry.",
+  "why_excluded": "Duplicate of P20 (vol. 3 p. 380), which has Dhahabi's own arithmetic."
+ },
+ {
+  "reference": "Dhahabi, Siyar a'lam al-nubala', vol. 2 p. 293: \"وكانت بنت مائة سنة\" (Asma, reported by a chain through Ibn Uyayna)",
+  "url": "OpenITI metadata URL for versionUri 0748Dhahabi.SiyarAclamNubala.Shamela0010906-ara1",
+  "gist": "A search line states that a woman was a hundred years old; it appears in a report about the Zubayrid period; the context and the person were not read in full.",
+  "why_excluded": "Seen only as a search snippet; not opened in full, so not used. Candidate for a later check of the Asma-100 reports."
+ },
+ {
+  "reference": "Hakim, al-Mustadrak, Burayda hadith \"إنها صغيرة\" (Fatima is little, proposals of Abu Bakr and Umar)",
+  "url": "OpenITI metadata URL for versionUri 0405HakimNaysaburi.Mustadrak.Shamela0002266-ara1",
+  "gist": "Hakim reports that the Prophet refused Abu Bakr and Umar's proposals for Fatima because she was young, and Ali married her.",
+  "why_excluded": "Concerns Fatima, not Aisha; seen in a search snippet only. Not used."
+ }
+]

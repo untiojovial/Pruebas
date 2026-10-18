@@ -1,0 +1,28 @@
+[
+ {
+  "id": "hermann-dalmata",
+  "name_es": "Hermann de Dalmacia (traductor latino de la Chronica mendosa)",
+  "name_en": "Hermann of Dalmatia (Latin translator)",
+  "name_orig": "Hermannus Dalmata",
+  "born": "c. 1100 (unverified)",
+  "died": "after 1143 (unverified)",
+  "language": "Latin (translator from Arabic)",
+  "role_place": "Translator at Toledo for the Toledan (Cluniac) Corpus, c. 1142-43; the Bibliander 1543 table of contents names him for the Chronica mendosa.",
+  "why_relevant": "His Latin of the Chronica mendosa names Aisha as Ayſca, daughter of Eubokara (Abu Bakr) and wife of the prophet, in a political narrative.",
+  "fame": "Known mainly as a translator for Peter the Venerable's Toledan corpus; not a major author. Attribution of the Chronica mendosa text to him rests on the 1543 table of contents, not on a modern study I checked.",
+  "community": "Latin Christian (Cluniac/Toledan circle)"
+ },
+ {
+  "id": "ludovico-vives",
+  "name_es": "Juan Luis Vives (1492-1540)",
+  "name_en": "Juan Luis Vives (Ludovicus Vives)",
+  "name_orig": "Ioannes Ludovicus Vives",
+  "born": "1492",
+  "died": "1540",
+  "language": "Latin",
+  "role_place": "Humanist at Bruges and Oxford; his De veritate fidei christianae (printed 1543, Basel) contains the Mahomet censure reprinted in Bibliander 1543.",
+  "why_relevant": "His Latin excerpt names Aisha as Aiſſa, wife of Muhammad, in a Qur'anic textual-history passage, and contains an explicit sexual passage naming Aysa (excluded).",
+  "fame": "Well known humanist and educator; his Mahomet chapter is less studied than his other works.",
+  "community": "Latin Christian (Catholic humanist)"
+ }
+]

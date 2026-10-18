@@ -1,0 +1,18 @@
+[
+  {
+    "id": "vives_de_veritate_1543",
+    "figure": "vives",
+    "title_orig": "De veritate fidei Christianae: excerpt 'De Mahumete et Alcorano eius censura' (printed in Machumetis Saracenorum principis, eiusque successorum vitae, doctrina ac ipse Alcoran, Basileae 1543, Tomus II, 'Lodovici Vivis Valentini ... de Mahumete & Alcorano eius censura, ex libris eius de Veritate fidei Christianae decerpta')",
+    "title_es": "De la verdad de la fe cristiana (extracto: censura de Vives sobre Mahoma y el Corán)",
+    "title_en": "On the Truth of the Christian Faith (excerpt: Vives's censure of Muhammad and the Qur'an)",
+    "date": "1543 (c. 1543; the treatise was published posthumously in 1543 per SEP; Vives died 1540)",
+    "language": "Latin",
+    "genre": "Treatise (excerpt in a polemical anthology)",
+    "edition_original": "Machumetis Saracenorum principis, eiusque successorum vitae, doctrina, ac ipse Alcoran ... Basileae: Ioannes Oporinus, 1543 (Bibliander, ed.; Melanchthon's Praemonitio). Tomus II = Confutationes; Vives excerpt follows the Cusanus Cribratio and Riccoldo/Piceno items. Read: McGill Library RBSC copy (archive.org item McGillLibrary-rbsc_machumetis-saracenorum-principis_FOLIO-1379-19727), djvu OCR text, lines c. 19977-24000 of the text file. Cross-check: 1550 Basel reissue (Newberry Library copy, archive.org case_bp127_l3_1550), djvu OCR text, lines c. 17490-17525 of the text file.",
+    "edition_english": "",
+    "digital_url": "https://archive.org/download/McGillLibrary-rbsc_machumetis-saracenorum-principis_FOLIO-1379-19727/rbsc_machumetis-saracenorum-principis_FOLIO-1379_djvu.txt (item page: https://archive.org/details/McGillLibrary-rbsc_machumetis-saracenorum-principis_FOLIO-1379-19727). Second copy used only as cross-check: https://archive.org/download/case_bp127_l3_1550/case_bp127_l3_1550_djvu.txt (item page https://archive.org/details/case_bp127_l3_1550)",
+    "licence": "McGill item metadata: no licence field (rights not stated). The 1543 print is public domain by date; the 1550 Newberry item states 'All rights reserved by the Newberry Library ... Permission to reproduce in any format must be requested in writing'. The 1550 text is therefore NOT quoted here, only used to check readings.",
+    "authenticity_note": "The excerpt is attributed to Vives by the printed catalogue heading ('Lodovici Vivis Valentini ... censura ... ex libris eius de Veritate fidei Christianae decerpta', McGill djvu, Tomus II catalogue). Authenticity of the excerpt as Vives's wording is not verified against the Latin of De veritate fidei Christianae (not consulted). Bibliander's editorial framing may affect the excerpt. Not an interpolation check: not done.",
+    "notes": "Read as OCR only (no page image checked). The 1543 OCR of the age sentence is damaged ('Odim inter niroinem acceperat, et adhuc iuuenculà'); the 1550 OCR gives 'utpote quam uirginem acceperat, & adhuc iuuencutam', so 'uirginem' and 'iuuenculam' are the readings adopted. The spelling of the wife's name is printed as 'Ayssa' or 'Aysa' (1550 OCR 'Ayjfi', 1543 OCR 'A y sa'; long s is OCR-unstable). The same book (Tomus I) also has 'Aaifa' and Tomus II has 'Aijfa/Aiffa uxor Machumet' in the codex passage (see excluded.json). Printed page numbers of Tomus II were not established; the Source Library item (bph.sourcelibrary.org/book/alcoran) seems to cover only Tomus I (sampled pages 6, 60-220, 340-620 are Tomus I texts); I did not check every page, so it may not contain this Vives excerpt."
+  }
+]
