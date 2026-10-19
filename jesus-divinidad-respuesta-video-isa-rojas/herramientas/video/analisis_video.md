@@ -1,0 +1,24 @@
+# Vídeo a refutar (analizado el 19-oct-2026)
+
+TikTok @isarojasmx (Isa Rojas), «El Nuevo Testamento a examen, Capítulo 8 — ¿Jesús dijo que era Dios?», 7 min 21 s, 576×1024, 303 reproducciones. Enlace corto vm.tiktok.com/ZGdCXHYdB → tiktok.com/@isarojasmx/video/7698201603332967698. Texto: subtítulos automáticos de TikTok (spa-ES) + Whisper large-v3 (pendiente de terminar) + fotogramas (cada 6 s).
+Descripción del vídeo: «…por qué especialistas cristianos como Raymond E. Brown, James D. G. Dunn y Géza Vermes consideran que la cristología fue desarrollándose progresivamente y que no encontramos a Jesús proclamándose de manera directa: "Yo soy Dios, adórenme."… No rechazamos a Jesús; examinamos lo que se le atribuye.»
+
+## Estructura (rótulos en pantalla)
+0:00 «¿Lo dijo? ¿O se le atribuye?» — apertura: «la mayoría de los especialistas en el Jesús histórico, incluidos biblistas cristianos, tienen una respuesta diferente».
+0:27 «La metodología» — «un texto ambiguo se interpreta a la luz de textos claros, no al revés».
+P1 (0:40) «Juan 10:30 vs 17:21-22» — «yo y el Padre somos uno» frente a «para que todos sean uno, así como nosotros somos uno».
+P2 (1:01) «Salmo 82 y Juan 10:36» — ante la acusación de blasfemia Jesús cita el Sal 82 («Dioses sois») y concluye «Hijo de Dios soy», «bajando el tono».
+P3 (1:17) «Juan 8:56 [sic: 8:58] vs Juan 9:9 y Jeremías 1:5» — «antes que Abraham fuese, yo soy»: el ciego sanado dice «ego eimi» (Jn 9:9) y nadie lo toma por Dios; existir en el plan de Dios (Jer 1:5) no hace Dios.
+P4 (1:39) «Apocalipsis 1:8, 11 y 22:13 vs Daniel 2:37» — «Alfa y Omega» en Ap 1:11 (Reina-Valera) no está en Sinaítico ni Alejandrino (Pulpit Commentary); en 1:8 «el Señor Dios» y Bengel dice que es el Padre; compartir un título no hace Dios (Dn 2:37 «rey de reyes»); Jesús en Apocalipsis dice «mi Dios» cuatro veces en un versículo (Ap 3:12).
+P5 (2:25) «Verso donde se lo aplica un tercero» — Jn 20:28 (Tomás): cita a Raymond Brown, *Introducción a la cristología del NT*, p. 84 (ed. castellana): «El título "Dios" sería ciertamente característico, pero Jesús nunca se lo aplicó a sí mismo y en los relatos evangélicos sólo una vez (Jn 20,28) se lo aplica alguien a él en forma afirmativa». Y Jn 20:17 y 20:31 («Cristo, el Hijo de Dios», no «Dios»).
+P6 (3:13) «Marcos 2:5-7 vs Mateo 9:8 y Juan 20:23» — perdonar pecados: Mt 9:8 «Dios que había dado tal potestad a los hombres»; Jn 20:23 se la da a los discípulos.
+P7 (3:31) «Marcos 2:23-28 y 1 Samuel 21:1-7» — «Señor del sábado»: el sábado se hizo para el hombre; Jesús se defiende con David, no con «soy Dios» (nota lateral sobre Abiatar/Ajimélec); «Hijo del hombre» = como Dios llama a Ezequiel 90+ veces; «Brown: kyrios no es igual a "Dios"».
+P8 (4:22) «Veredicto de los académicos» — «¿es solo una lectura musulmana?»: se muestran (a) Dunn, *Christology in the Making* (frase «We cannot claim that Jesus believed himself to be the incarnate Son of God», subrayada hasta el punto y coma), (b) Vermes (reseña de *Christian Beginnings*, 2012, p. 60) y Renan, *Vida de Jesús* («esa idea no deja rastro en los sinópticos y solo aparece en algunos pasajes de Juan»), (c) Ehrman, *How Jesus Became God* («Jesús no se declaró a sí mismo Dios»), (d) Brown otra vez, (e) Brant Pitre, artículo «Jesus's Divinity and the Quest for the Historical Jesus» (feb. 2024): «the overwhelming majority… a resounding no», y el *Handbook for the Study of the Historical Jesus* (2011, 4 vols., 3.600 págs.) «no discute si Jesús hizo afirmaciones divinas».
+Cierre (6:08): «amplio consenso académico»; «saber quién es Dios es saber a quién debes adorar… se esperaría una declaración clara»; «Jesús nunca reclamó lo que no le pertenecía»; «¿por qué tú sí se lo atribuyes?».
+
+## Primeros hallazgos (por comprobar con los investigadores)
+- Dunn: la frase subrayada continúa tras el punto y coma («pero podemos afirmar que la enseñanza en ese sentido… fue, a la luz de todo el acontecimiento de Cristo, una reflexión adecuada y elaboración del propio sentido de filiación y misión escatológica de Jesús») y la frase anterior, en la misma página, dice que «una conciencia de autoridad divina, de intimidad única en su relación con Dios puede detectarse en el estrato más antiguo y probablemente auténtico de la tradición evangélica». (Leído en el fotograma; falta localizar edición y página.)
+- Brown: la frase habla del *título* «Dios» (theos), no de si Jesús se identificó con YHWH; Brown sí admite el «Yo soy» de Jn 8:58 como nombre divino (Anchor Bible, Apéndice IV) — por comprobar.
+- Pitre: el pasaje destacado parece ser la descripción del estado de la cuestión que su artículo discute; por comprobar con el texto completo.
+- Vermes: lo que se enseña es una reseña, no su página; la frase «no deja rastro en los sinópticos» se pone junto a Renan.
+- Ap 1:11 vs 22:13 / 1:17 / 2:8: la crítica textual afecta solo a 1:11; «el primero y el último» es título de YHWH en Is 44:6; 22:13 lo dice Jesús.

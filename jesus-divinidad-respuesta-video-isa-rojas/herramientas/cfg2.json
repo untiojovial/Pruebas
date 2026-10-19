@@ -1,0 +1,18 @@
+[
+ {"url":"https://churchlifejournal.nd.edu/articles/jesuss-divinity-and-the-quest-for-the-historical-jesus/","vw":980,"shots":[
+  {"out":"pg/pitre_top.png","marks":[{"t":"We should hold a funeral for the view that Jesus entertained no exalted thoughts about himself."},{"t":"the claim to Messiahship was also a claim to being a divine man"}],"ctx":[],"pad":16},
+  {"out":"pg/pitre_best.png","marks":[{"t":"best explanation for why the earliest Jewish followers of Jesus believed he was divine shortly after his death is because Jesus himself spoke and acted as if he were divine during his lifetime"},{"t":"a strong case can be made that the historical Jesus claimed to be divine"}],"ctx":[],"pad":16}
+ ]},
+ {"url":"https://ntwrightpage.com/2016/07/12/jesus-and-the-identity-of-god/","vw":980,"shots":[
+  {"out":"pg/wright_a.png","marks":[{"t":"Jesus believed that in doing so he was not just pointing to or talking about, but was actually embodying, the return of YHWH to Zion."}],"ctx":[],"pad":16},
+  {"out":"pg/wright_b.png","marks":[{"t":"And Jesus seems to have believed it about himself. The language was deeply coded, but the symbolic action was not. He was coming to Zion, doing what YHWH had promised to do."}],"ctx":[],"pad":16},
+  {"out":"pg/wright_c.png","marks":[{"t":"I do not think Jesus “knew he was God” in the same sense that one knows one is tired or happy, male or female.","c":"#a9d8f7"}],"ctx":[],"pad":16}
+ ]},
+ {"url":"https://larryhurtado.wordpress.com/2017/10/09/the-origin-of-divine-christology/","vw":980,"shots":[
+  {"out":"pg/hurtado_blog.png","marks":[{"t":"critical analysis of the historical traditions does not yield evidence that Jesus himself actually claimed to share in divine glory and status during his earthly career.","c":"#a9d8f7"}],"ctx":[],"pad":16}
+ ]},
+ {"url":"https://zondervanacademic.com/blog/did-jesus-claim-he-was-god-an-excerpt-from-how-god-became-jesus","vw":980,"shots":[
+  {"out":"pg/bird_a.png","marks":[{"t":"My objective,” Bird writes, “is to show that Jesus identified himself as a divine agent with a unique authority and a unique relationship with Israel’s God."}],"ctx":[],"pad":16},
+  {"out":"pg/bird_b.png","marks":[{"t":"The New Testament’s deification of Jesus Christ, as seen especially in the theologies of Paul and the fourth evangelist, has its roots in the words and activities of the historical Jesus."},{"t":"he most likely spoke to the effect that he believed that he was the figure of Dan 7:13 – 14 and that he was rightfully enthroned beside God"}],"ctx":[],"pad":16}
+ ]}
+]
