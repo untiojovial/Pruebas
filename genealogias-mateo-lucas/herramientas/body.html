@@ -1,0 +1,617 @@
+<title>Las dos genealogías de Jesús</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=IBM+Plex+Sans+Condensed:wght@500;600&family=Gentium+Book+Plus:ital@0;1&family=Frank+Ruhl+Libre:wght@400;500&display=swap">
+<style>
+/* Layout: una sola columna de lectura (≈68ch) con fichas de cita, silogismos y recortes de página a ancho completo de la columna. */
+:root{
+  --paper:#f2f3f5; --sheet:#ffffff; --ink:#1b2130; --muted:#5b6475; --rule:#d5d9e1;
+  --lapis:#2c4a86; --lapis-soft:#e6ebf5; --gold:#b7861f; --gold-soft:#fbf1d6;
+  --ox:#8a2d38; --ox-soft:#f6e5e7; --leaf:#2b6a4c; --leaf-soft:#e3f1ea;
+  --code:#eef0f4;
+  --f-display:"Cormorant Garamond", "Iowan Old Style", Georgia, serif;
+  --f-body:"Source Serif 4", "Iowan Old Style", Georgia, serif;
+  --f-ui:"IBM Plex Sans Condensed", "Arial Narrow", system-ui, sans-serif;
+  --f-greek:"Gentium Book Plus", "Gentium Plus", "Noto Serif", Georgia, serif;
+  --f-hebrew:"Frank Ruhl Libre", "SBL Hebrew", "Noto Serif Hebrew", "Times New Roman", serif;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+  --paper:#12161f; --sheet:#1a202c; --ink:#e7e9ee; --muted:#9aa3b5; --rule:#2e3646;
+  --lapis:#93acdf; --lapis-soft:#1f2a42; --gold:#e2b552; --gold-soft:#2f2816;
+  --ox:#e48f9a; --ox-soft:#3a1f24; --leaf:#7fc8a1; --leaf-soft:#18302a; --code:#222a38; color-scheme:dark } }
+:root[data-theme="dark"]{
+  --paper:#12161f; --sheet:#1a202c; --ink:#e7e9ee; --muted:#9aa3b5; --rule:#2e3646;
+  --lapis:#93acdf; --lapis-soft:#1f2a42; --gold:#e2b552; --gold-soft:#2f2816;
+  --ox:#e48f9a; --ox-soft:#3a1f24; --leaf:#7fc8a1; --leaf-soft:#18302a; --code:#222a38; color-scheme:dark }
+body{background:var(--paper);color:var(--ink);font-family:var(--f-body);font-size:17.5px;line-height:1.62;
+  padding-left:max(16px, env(safe-area-inset-left, 0px));padding-right:max(16px, env(safe-area-inset-right, 0px));padding-block:0 64px}
+.wrap{max-width:860px;margin:0 auto}
+a{color:var(--lapis)}
+a:focus-visible,button:focus-visible{outline:3px solid var(--gold);outline-offset:2px}
+h1,h2,h3{font-family:var(--f-display);text-wrap:balance;line-height:1.12;color:var(--ink)}
+h1{font-size:clamp(2.3rem,6vw,3.6rem);font-weight:700;margin:0 0 .3em;letter-spacing:-.01em}
+h2{font-size:clamp(1.7rem,4vw,2.3rem);font-weight:700;margin:2.2em 0 .5em;padding-top:.6em;border-top:1px solid var(--rule)}
+h3{font-size:1.45rem;font-weight:600;margin:1.6em 0 .4em}
+p{margin:.7em 0}
+.kicker{font-family:var(--f-ui);text-transform:uppercase;letter-spacing:.12em;font-size:.78rem;color:var(--lapis);font-weight:600}
+header.top{padding:48px 0 18px}
+.lede{font-size:1.15rem;color:var(--ink);max-width:62ch}
+.byline{font-family:var(--f-ui);font-size:.85rem;color:var(--muted);margin-top:.8em}
+.verdict{background:var(--sheet);border:1px solid var(--rule);border-radius:6px;padding:18px 22px;margin:22px 0}
+.verdict h3{margin-top:0}
+.verdict ul{margin:.4em 0 0;padding-left:1.2em}
+.verdict li{margin:.35em 0}
+nav.toc{background:var(--sheet);border:1px solid var(--rule);border-radius:6px;padding:14px 22px;margin:18px 0 8px;font-family:var(--f-ui);font-size:.95rem}
+nav.toc ol{margin:.3em 0;padding-left:1.4em;columns:2;column-gap:28px}
+nav.toc li{margin:.18em 0;break-inside:avoid}
+@media (max-width:640px){nav.toc ol{columns:1}}
+.gr{font-family:var(--f-greek);font-size:1.05em}
+.he{font-family:var(--f-hebrew);font-size:1.12em;direction:rtl;text-align:right}
+.la{font-style:italic}
+/* fichas de cita */
+figure.q{margin:18px 0;background:var(--sheet);border:1px solid var(--rule);border-radius:6px;overflow:hidden}
+figure.q .orig{padding:14px 18px;background:var(--gold-soft);border-bottom:1px solid var(--rule);line-height:1.55}
+figure.q .orig .tag,figure.q .es .tag{display:block;font-family:var(--f-ui);font-size:.7rem;letter-spacing:.12em;text-transform:uppercase;color:var(--gold);font-weight:600;margin-bottom:4px;direction:ltr;text-align:left;font-style:normal}
+figure.q .es{padding:12px 18px}
+figure.q .es .tag{color:var(--leaf)}
+figure.q figcaption{padding:8px 18px;background:var(--code);font-family:var(--f-ui);font-size:.82rem;color:var(--muted);line-height:1.45}
+figure.q figcaption b{color:var(--ink)}
+.st{display:inline-block;font-family:var(--f-ui);font-size:.7rem;font-weight:600;letter-spacing:.06em;padding:1px 7px;border-radius:10px;margin-left:4px;vertical-align:1px}
+.st.v{background:var(--leaf-soft);color:var(--leaf)} .st.p{background:var(--gold-soft);color:var(--gold)} .st.u{background:var(--ox-soft);color:var(--ox)}
+/* recortes */
+figure.scan{margin:20px 0;background:var(--sheet);border:1px solid var(--rule);border-radius:6px;overflow:hidden}
+figure.scan img{display:block;width:100%;max-width:100%;height:auto;background:#fff}
+figure.scan figcaption{padding:10px 16px;font-family:var(--f-ui);font-size:.85rem;color:var(--muted);line-height:1.45;border-top:1px solid var(--rule)}
+figure.scan figcaption b{color:var(--ink)}
+.scan-pair{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.scan-pair > *{min-width:0}
+@media (max-width:640px){.scan-pair{grid-template-columns:1fr}}
+/* objeciones y silogismos */
+.obj{border-left:5px solid var(--ox);background:var(--ox-soft);padding:12px 18px;border-radius:0 6px 6px 0;margin:18px 0}
+.obj .kicker{color:var(--ox)}
+.obj p{margin:.3em 0}
+.syl{border:1px solid var(--lapis);background:var(--lapis-soft);border-radius:6px;padding:14px 18px;margin:18px 0}
+.syl .kicker{color:var(--lapis)}
+.syl ol{margin:.4em 0;padding-left:0;list-style:none;counter-reset:pr}
+.syl li{counter-increment:pr;margin:.32em 0;padding-left:2.4em;position:relative}
+.syl li::before{content:"P" counter(pr);position:absolute;left:0;top:.05em;font-family:var(--f-ui);font-weight:600;font-size:.82rem;color:var(--lapis)}
+.syl .c{border-top:1px dashed var(--lapis);margin-top:.5em;padding-top:.5em;padding-left:2.4em;position:relative;font-weight:600}
+.syl .c::before{content:"∴";position:absolute;left:.3em;top:.35em;font-size:1.2rem;color:var(--lapis)}
+.syl .form{font-family:var(--f-ui);font-size:.8rem;color:var(--muted);margin-top:.5em}
+.ans{border-left:5px solid var(--leaf);background:var(--leaf-soft);padding:12px 18px;border-radius:0 6px 6px 0;margin:18px 0}
+.ans .kicker{color:var(--leaf)}
+.honest{border:1px dashed var(--gold);background:var(--gold-soft);border-radius:6px;padding:12px 18px;margin:18px 0}
+.honest .kicker{color:var(--gold)}
+/* tablas */
+.tw{overflow-x:auto;margin:16px 0;border:1px solid var(--rule);border-radius:6px;background:var(--sheet)}
+table{border-collapse:collapse;width:100%;font-size:.93rem;font-variant-numeric:tabular-nums}
+th,td{padding:7px 10px;border-bottom:1px solid var(--rule);vertical-align:top;text-align:left}
+th{font-family:var(--f-ui);font-size:.78rem;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);background:var(--code)}
+tr.node td{background:var(--gold-soft);font-weight:600}
+td.om{color:var(--ox);font-style:italic}
+td.n{color:var(--muted);width:2.5em;text-align:right}
+/* línea temporal */
+.tl{list-style:none;margin:16px 0;padding:0;border-left:2px solid var(--rule)}
+.tl li{position:relative;padding:6px 0 10px 22px}
+.tl li::before{content:"";position:absolute;left:-7px;top:13px;width:12px;height:12px;border-radius:50%;background:var(--sheet);border:2px solid var(--lapis)}
+.tl li.key::before{background:var(--gold);border-color:var(--gold)}
+.tl li.neg::before{border-color:var(--ox)}
+.tl .yr{font-family:var(--f-ui);font-weight:600;color:var(--lapis);font-size:.9rem;display:block}
+.tl li.neg .yr{color:var(--ox)}
+.small{font-size:.88rem;color:var(--muted)}
+footer{margin-top:3em;padding-top:1em;border-top:1px solid var(--rule);font-family:var(--f-ui);font-size:.85rem;color:var(--muted)}
+@media (prefers-reduced-motion: no-preference){ html{scroll-behavior:smooth} }
+</style>
+
+<div class="wrap">
+<header class="top">
+  <div class="kicker">Mateo 1:1-17 · Lucas 3:23-38 · estudio con fuentes</div>
+  <h1>Las dos genealogías de Jesús</h1>
+  <p class="lede">Qué dicen Mateo y Lucas, cómo las explicaron los cristianos desde el siglo II, y qué responder a cada objeción: la «contradicción», «solo José desciende de David», la maldición de Jeconías, la supuesta María levita, las omisiones de Mateo, Cainán, y la tesis de que «Mateo por José y Lucas por María» es un invento de hacia 1500.</p>
+  <p class="byline">Textos originales en griego, latín y hebreo con traducción española propia. Cada cita indica su edición y si la vi en la página. Los recortes de página llevan el subrayado añadido por mí.</p>
+</header>
+
+<section class="verdict" aria-labelledby="v">
+  <h3 id="v">Veredicto en una página</h3>
+  <ul>
+    <li><b>No hay contradicción lógica.</b> «José hijo de Jacob» (Mt) y «José hijo de Elí» (Lc) pueden ser verdad a la vez de varias maneras que la propia Biblia hebrea practica: paternidad natural y legal (levirato), adopción o yerno. La Biblia hebrea tiene el mismo caso con Zorobabel, «hijo de Salatiel» (Esd 3:2; Ag 2:23) e «hijo de Pedaías» (1 Cr 3:19).</li>
+    <li><b>Jesús es «hijo de David» por dos títulos.</b> Lo es por la ley, a través de José: Mt 1:20 lo llama «hijo de David», él da nombre al niño, y la ley judía reconoce la filiación declarada. Y lo es según la carne, a través de María: Lc 1:32, Rom 1:3 y Hch 2:30, y así lo leen Justino, Ireneo, Tertuliano y Agustín.</li>
+    <li><b>La maldición de Jeconías no cierra el paso; la objeción cae en un dilema.</b> Si la maldición se levantó (Ag 2:23; Levítico Rabá 10:5: «el arrepentimiento anuló el juramento y el decreto»), no hay problema. Si sigue en pie, afecta a la «semilla» de Jeconías, y Jesús no es semilla de José. Ireneo ya lo argumentó hacia el año 180.</li>
+    <li><b>Lo de «1500» es verdad a medias.</b> La fórmula explícita «la genealogía de Lucas es la de María; Elí es su padre» no la he encontrado antes de Annio de Viterbo (hacia 1490-1502), que la atribuía a un tratado pseudo-jeronimiano. Pero todas sus piezas son antiguas, desde el siglo II hasta el VIII:
+      <ul>
+        <li>María es de David.</li>
+        <li>Justino enumera la ascendencia de María y dice que el linaje pasa por las hijas.</li>
+        <li>La genealogía de José muestra el origen de María (Jerónimo, Crisóstomo, Eusebio, Beda).</li>
+        <li>La familia de María viene de Natán, la rama de Lucas (Juan Damasceno).</li>
+      </ul>
+      Y la respuesta cristiana no depende de esa fórmula: la de Julio Africano (hacia 220) resuelve la cuestión sin ella.</li>
+    <li><b>Lo que no hago:</b> no uso el supuesto «María hija de Elí» del Talmud. El texto dice «Miriam hija de ʿAli Betzalim», es decir «hoja de cebolla», y la identificación con María es una conjetura de Lightfoot (s. XVII).</li>
+  </ul>
+</section>
+
+<nav class="toc" aria-label="Contenido">
+  <div class="kicker">Contenido</div>
+  <ol>
+    <li><a href="#textos">Los dos textos, lado a lado</a></li>
+    <li><a href="#soluciones">Las cuatro explicaciones históricas</a></li>
+    <li><a href="#o1">Objeción 1: «se contradicen»</a></li>
+    <li><a href="#o2">Objeción 2: «Lucas por María es de 1500»</a></li>
+    <li><a href="#o3">Objeción 3: «solo José viene de David»</a></li>
+    <li><a href="#o4">Objeción 4: «María era levita»</a></li>
+    <li><a href="#o5">Objeción 5: la maldición de Jeconías</a></li>
+    <li><a href="#o6">Objeción 6: las omisiones y el 14 × 3</a></li>
+    <li><a href="#o7">Objeción 7: Cainán (Lc 3:36)</a></li>
+    <li><a href="#o8">Objeción 8: dos Salatieles y dos Zorobabeles</a></li>
+    <li><a href="#talmud">El mito de «María hija de Elí» en el Talmud</a></li>
+    <li><a href="#mapa">Mapa de respuestas</a></li>
+    <li><a href="#fuentes">Fuentes, método y límites</a></li>
+  </ol>
+</nav>
+
+<!-- ============ TEXTOS ============ -->
+<h2 id="textos">1. Los dos textos, lado a lado</h2>
+<p>Mateo baja de Abrahán a Jesús con el verbo <span class="gr">ἐγέννησεν</span> («engendró»). Lucas sube de Jesús a Adán con el genitivo <span class="gr">τοῦ</span> («[hijo] de»). Entre Abrahán y David coinciden. Desde David se separan: Mateo sigue la línea real de <b>Salomón</b> y Lucas la de su hermano <b>Natán</b>. Vuelven a tocarse en <b>Salatiel y Zorobabel</b> y terminan en <b>José</b>, con dos padres distintos: Jacob en Mateo, Elí en Lucas.</p>
+
+<div class="tw"><table>
+<thead><tr><th class="n">#</th><th>Mateo 1:6-16 (de David abajo)</th><th class="n">#</th><th>Lucas 3:23-31 (de David abajo, invertido)</th></tr></thead>
+<tbody>
+<tr class="node"><td class="n">—</td><td>David</td><td class="n">—</td><td>David</td></tr>
+<tr><td class="n">1</td><td>Salomón</td><td class="n">1</td><td>Natán</td></tr>
+<tr><td class="n">2</td><td>Roboam</td><td class="n">2</td><td>Matatá</td></tr>
+<tr><td class="n">3</td><td>Abías</td><td class="n">3</td><td>Mená</td></tr>
+<tr><td class="n">4</td><td>Asaf (= Asá)</td><td class="n">4</td><td>Meleá</td></tr>
+<tr><td class="n">5</td><td>Josafat</td><td class="n">5</td><td>Eliaquim</td></tr>
+<tr><td class="n">6</td><td>Joram</td><td class="n">6</td><td>Jonam</td></tr>
+<tr><td class="n">—</td><td class="om">[Ocozías, Joás, Amasías: omitidos; cf. 1 Cr 3:11-12]</td><td class="n">7</td><td>José</td></tr>
+<tr><td class="n">7</td><td>Ozías</td><td class="n">8</td><td>Judá</td></tr>
+<tr><td class="n">8</td><td>Jotam</td><td class="n">9</td><td>Simeón</td></tr>
+<tr><td class="n">9</td><td>Acaz</td><td class="n">10</td><td>Leví</td></tr>
+<tr><td class="n">10</td><td>Ezequías</td><td class="n">11</td><td>Matat</td></tr>
+<tr><td class="n">11</td><td>Manasés</td><td class="n">12</td><td>Jorim</td></tr>
+<tr><td class="n">12</td><td>Amós (= Amón)</td><td class="n">13</td><td>Eliezer</td></tr>
+<tr><td class="n">13</td><td>Josías</td><td class="n">14</td><td>Jesús (Josué)</td></tr>
+<tr><td class="n">—</td><td class="om">[Joaquim / Jehoiakim: omitido; cf. 1 Cr 3:15-16]</td><td class="n">15</td><td>Er</td></tr>
+<tr><td class="n">14</td><td>Jeconías «y sus hermanos»</td><td class="n">16–19</td><td>Elmadam, Cosam, Addí, Melquí</td></tr>
+<tr><td class="n">—</td><td></td><td class="n">20</td><td>Nerí</td></tr>
+<tr class="node"><td class="n">15</td><td>Salatiel</td><td class="n">21</td><td>Salatiel</td></tr>
+<tr class="node"><td class="n">16</td><td>Zorobabel</td><td class="n">22</td><td>Zorobabel</td></tr>
+<tr><td class="n">17</td><td>Abiud</td><td class="n">23</td><td>Resá</td></tr>
+<tr><td class="n">18–23</td><td>Eliaquim, Azor, Sadoc, Aquim, Eliud, Eleazar</td><td class="n">24–38</td><td>Joanán, Judá, José (Josec), Semeí, Matatías, Maat, Nagai, Eslí, Nahúm, Amós, Matatías, José, Janai, Melquí, Leví</td></tr>
+<tr><td class="n">24</td><td>Matán</td><td class="n">39</td><td>Matat</td></tr>
+<tr><td class="n">25</td><td><b>Jacob</b></td><td class="n">40</td><td><b>Elí</b></td></tr>
+<tr class="node"><td class="n">26</td><td>José, «el esposo de María, de la cual nació Jesús»</td><td class="n">41</td><td>José, de quien Jesús era hijo «según se pensaba»</td></tr>
+</tbody></table></div>
+<p class="small">Nombres de Lucas leídos en la página de Westcott-Hort 1881 (p. 124; recorte abajo). Entre David y José, Mateo da 26 generaciones y Lucas 41. Para unos 1000 años (David hacia el 1000 a. C.), 41 generaciones son unos 25 años por generación, lo realista. Mateo, en cambio, abrevia a propósito, como se ve en la objeción 6. El cálculo es mío.</p>
+
+<figure class="q">
+  <div class="orig gr" lang="grc"><span class="tag">Griego · Westcott-Hort 1881</span>Ἰακὼβ δὲ ἐγέννησεν τὸν Ἰωσὴφ τὸν ἄνδρα Μαρίας, ἐξ ἧς ἐγεννήθη Ἰησοῦς ὁ λεγόμενος Χριστός.</div>
+  <div class="es"><span class="tag">Español</span>Jacob engendró a José, el esposo de María, <b>de la cual</b> (<span class="gr">ἐξ ἧς</span>, femenino) fue engendrado Jesús, llamado Cristo.</div>
+  <figcaption><b>Mateo 1:16</b> · Westcott-Hort, <i>The New Testament in the Original Greek</i> (1881), p. 4; leído en la imagen <span class="st v">verificado</span></figcaption>
+</figure>
+<figure class="q">
+  <div class="orig gr" lang="grc"><span class="tag">Griego · Westcott-Hort 1881</span>Καὶ αὐτὸς ἦν Ἰησοῦς ἀρχόμενος ὡσεὶ ἐτῶν τριάκοντα, ὢν υἱός, ὡς ἐνομίζετο, Ἰωσήφ τοῦ Ἠλεί</div>
+  <div class="es"><span class="tag">Español</span>Y Jesús mismo, al comenzar, tenía unos treinta años, siendo hijo, <b>según se pensaba</b>, de José, [hijo] de Elí…</div>
+  <figcaption><b>Lucas 3:23</b> · Westcott-Hort 1881, p. 124; leído en la imagen. El nombre <span class="gr">Ἰωσήφ</span> va <b>sin artículo</b> y todos los demás nombres llevan <span class="gr">τοῦ</span> <span class="st v">verificado</span></figcaption>
+</figure>
+
+<div class="scan-pair">
+<figure class="scan">{{IMG wh_mt116.jpg|Westcott-Hort 1881, Mateo 1:12-17}}<figcaption><b>Westcott-Hort 1881, p. 4 (Mt 1:12-17).</b> Subrayado: «Jacob engendró a José, el esposo de María, de la cual fue engendrado Jesús». El verbo cambia a pasiva y el relativo es femenino.</figcaption></figure>
+<figure class="scan">{{IMG wh_lk323.jpg|Westcott-Hort 1881, Lucas 3:22-34}}<figcaption><b>Westcott-Hort 1881, p. 124 (Lc 3:23-34).</b> Subrayado: <span class="gr">ὢν υἱός, ὡς ἐνομίζετο, Ἰωσήφ / τοῦ Ἠλεί</span> y <span class="gr">τοῦ Ναθάμ</span>. La lista sube por Natán, no por Salomón.</figcaption></figure>
+</div>
+
+<!-- ============ SOLUCIONES ============ -->
+<h2 id="soluciones">2. Las cuatro explicaciones históricas</h2>
+<p>Desde el siglo III los cristianos han propuesto cuatro maneras de armonizar las listas. Basta con que <b>una</b> sea posible para que la acusación de contradicción caiga (objeción 1). Las expongo con su primera fecha documentada.</p>
+
+<h3>A. Paternidad natural y legal por levirato (Julio Africano, hacia 220-240)</h3>
+<p>En su <i>Carta a Arístides</i>, que conserva Eusebio, Africano propone esto: Matán (de la línea de Salomón) y Melquí (de la de Natán) se casaron uno tras otro con la misma mujer, Esta. Jacob y Elí fueron así hermanos de madre. Elí murió sin hijos y Jacob, por la ley del levirato (Dt 25:5-6), «levantó descendencia» a su hermano. José es hijo de Jacob <b>por naturaleza</b> y de Elí <b>por ley</b>.</p>
+<figure class="q">
+  <div class="orig gr" lang="grc"><span class="tag">Griego · Eusebio, HE 1.7.9 (Loeb 1926)</span>οὕτω δὴ διαφόρων δύο γενῶν εὑρήσομεν τόν τε Ἰακὼβ καὶ τὸν Ἡλὶ ὁμομητρίους ἀδελφούς, ὧν ὁ ἕτερος, Ἰακὼβ, ἀτέκνου τοῦ ἀδελφοῦ τελευτήσαντος Ἡλί, τὴν γυναῖκα παραλαβών, ἐγέννησεν ἐξ αὐτῆς τρίτον τὸν Ἰωσήφ, κατὰ φύσιν μὲν ἑαυτῷ (καὶ κατὰ λόγον, δι' ὃ γέγραπται ‘Ἰακὼβ δὲ ἐγέννησεν τὸν Ἰωσήφ’), κατὰ νόμον δὲ τοῦ Ἡλὶ υἱὸς ἦν· ἐκείνῳ γὰρ ὁ Ἰακώβ, ἀδελφὸς ὢν, ἀνέστησεν σπέρμα.</div>
+  <div class="es"><span class="tag">Español</span>Así encontraremos que Jacob y Elí, de dos linajes distintos, eran hermanos de madre. Uno de ellos, Jacob, al morir sin hijos su hermano Elí, tomó a su mujer y engendró de ella al tercero, José: hijo suyo <b>por naturaleza</b> (y con razón, por eso está escrito «Jacob engendró a José»), pero <b>según la ley</b> era hijo de Elí, porque Jacob, siendo su hermano, le levantó descendencia.</div>
+  <figcaption><b>Julio Africano en Eusebio, <i>Historia eclesiástica</i> 1.7.9</b> · griego del Loeb (K. Lake, 1926), p. 58, visto en la página (recorte abajo) <span class="st v">verificado</span></figcaption>
+</figure>
+<figure class="scan">{{IMG euseb_he1_7_9.jpg|Eusebio, HE 1.7, Loeb p. 58}}<figcaption><b>Eusebio, <i>Historia eclesiástica</i> 1.7.6-9, Loeb 1926, p. 58.</b> Subrayado: «hermanos de madre… José, hijo suyo <i>por naturaleza</i>… <i>por ley</i> hijo de Elí». Al margen, las referencias del editor: Mt 1:15-16 y Lc 3:23-24.</figcaption></figure>
+<div class="honest"><div class="kicker">Lo que Africano admite</div><p>Africano no presenta su tesis como documentada: «aunque no tenga testimonio» (<span class="gr">εἰ καὶ ἀμάρτυρός ἐστιν</span>, HE 1.7.15), «no tenemos nada mejor ni más verdadero que decir; en todo caso, el Evangelio dice la verdad». Atribuye el dato a los parientes de Jesús (<i>desposynoi</i>, 1.7.14). Su valor está en mostrar que la armonización es <b>posible</b> y que ya se planteaba en el siglo III, no en probar cada eslabón. En el texto de Lucas que cita, Elí es hijo de Melquí (1.7.10). Nuestros manuscritos ponen entre ambos a Matat y Leví.</p></div>
+
+<h3>B. Adopción (Agustín, hacia 400) y su corrección</h3>
+<p>En <i>De consensu evangelistarum</i> 2.3.5 Agustín propone que José tuvo «dos padres, uno por quien fue engendrado y otro por quien fue adoptado». Luego, en las <i>Retractationes</i> 2.16 (según la nota de NPNF; no leí el latín), se corrige a favor del levirato de Africano. Explica por qué Lucas no escribe «Elí engendró a José», sino «que fue de Elí»:</p>
+<figure class="q">
+  <div class="orig la" lang="la"><span class="tag">Latín · Agustín</span>Lucas vero, quia non proprie dicitur genitus, qui vel adoptione efficitur filius, vel in successione mortui ex illa quam uxor ejus fuit nascitur, non dixit: Heli genuit Joseph; aut, Joseph quem genuit Heli: sed qui fuit, inquit, filius Heli; sive adoptando, sive a propinquo genitus in mortui successione nascendo.</div>
+  <div class="es"><span class="tag">Español</span>Lucas, como no se dice propiamente «engendrado» de quien se hace hijo por adopción o nace, para suceder al muerto, de la que fue su mujer, no dijo «Elí engendró a José» ni «José, a quien engendró Elí», sino «que fue hijo de Elí»: ya por adopción, ya engendrado por un pariente para suceder al difunto.</div>
+  <figcaption><b>Agustín, <i>De consensu evangelistarum</i> 2.4.11</b> (numeración de la página BKV) · latín leído por un investigador en texto digital; columna de Migne no fijada <span class="st p">parcial</span></figcaption>
+</figure>
+
+<h3>C. Mateo da la línea de José; Lucas, la de María (Elí como padre de María y suegro de José)</h3>
+<p>Elí sería el padre de María, y José sería «de Elí» como yerno o heredero por matrimonio con una hija heredera. El griego de Lc 3:23 lo permite: <span class="gr">Ἰωσήφ</span> va sin artículo, entre paréntesis lógico con «según se pensaba». Godet y Robertson (1922) defienden esta lectura, y Lutero, Bengel y Lightfoot la sostuvieron antes. Plummer (1896) y Machen (1930) la rechazan. Su historia es la objeción 2.</p>
+<figure class="q">
+  <div class="orig"><span class="tag">Inglés · Godet</span>This want of the article puts the name Joseph outside the genealogical series properly so called, and assigns to it a peculiar position.</div>
+  <div class="es"><span class="tag">Español</span>Esta falta del artículo pone el nombre de José fuera de la serie genealógica propiamente dicha y le asigna una posición peculiar.</div>
+  <figcaption><b>F. Godet, <i>Commentary on Luke</i>, pp. 198-199</b> (trad. inglesa, PDF archive.org pp. 214-216) <span class="st v">verificado</span></figcaption>
+</figure>
+
+<h3>D. Línea real (Mateo) y línea natural (Lucas)</h3>
+<p>Mateo daría la sucesión al trono y Lucas la descendencia física de José. Edersheim lo resume en su <i>Life and Times</i> (pp. 148-149) como la opción «más probable»: ambas de José, «su descendencia natural y su descendencia legal». Hervey (1853) propuso una variante: Jacob, sin hijos varones, sería el padre de María, y José, hijo de Elí, heredero de Jacob al casarse con su prima (Hervey, p. 130).</p>
+
+<!-- ============ O1 ============ -->
+<h2 id="o1">3. Objeción 1: «Las genealogías se contradicen»</h2>
+<div class="obj"><div class="kicker">La objeción</div><p>José no puede tener dos padres; si Mateo dice Jacob y Lucas dice Elí, uno de los dos se equivoca. Es una objeción antigua. Según Jerónimo (en la <i>Catena</i> de Aquino), ya la planteó el emperador Juliano hacia el 362 en su <i>Discrepancia de los evangelistas</i>. Robertson recuerda a Porfirio y Celso. En el siglo XIX la repitió Strauss («es imposible aplicar a María la genealogía del tercer evangelista»).</p></div>
+
+<div class="syl"><div class="kicker">Silogismo 1 · la carga de la prueba lógica</div>
+<ol>
+  <li>Dos enunciados se <b>contradicen</b> solo si es imposible que ambos sean verdaderos a la vez; basta un modelo coherente en que ambos lo sean para que no haya contradicción.</li>
+  <li>«José es hijo de Jacob» y «José es hijo de Elí» son ambos verdaderos en al menos un modelo coherente. Sirven el levirato (Dt 25:5-6), la adopción, el yerno heredero (Esd 2:61) o la doble línea real y natural, y todos son prácticas atestiguadas en Israel.</li>
+</ol>
+<div class="c">Entre Mt 1:16 y Lc 3:23 no hay contradicción lógica, solo información incompleta para nosotros.</div>
+<div class="form">Forma: refutación por modelo. Quien afirma la contradicción tiene que mostrar que <i>todos</i> los modelos posibles son imposibles, y no basta con que uno le parezca improbable.</div></div>
+
+<div class="syl"><div class="kicker">Silogismo 2 · paridad con la Biblia hebrea</div>
+<ol>
+  <li>Si dar a un mismo hombre dos padres distintos fuera una contradicción, la Biblia hebrea se contradiría en Zorobabel: «Zorobabel <b>hijo de Salatiel</b>» (Esd 3:2; Ag 2:23) y «los hijos de <b>Pedaías</b>: Zorobabel y Simeí» (1 Cr 3:19).</li>
+  <li>Ni el judaísmo ni el cristianismo leen ahí una contradicción, sino filiación legal y natural (u otra relación familiar).</li>
+</ol>
+<div class="c">Quien acepta 1 Cr 3:19 junto a Esd 3:2 no puede rechazar Mt 1:16 junto a Lc 3:23 por el mismo motivo. Además, el caso hebreo cae en la misma familia: los descendientes de Jeconías que están en ambas listas.</div>
+<div class="form">Forma: argumento de paridad (lo que vale para A vale para B si comparten el rasgo relevante).</div></div>
+
+<figure class="q">
+  <div class="orig he" lang="he"><span class="tag">Hebreo · 1 Crónicas 3:17-19</span>וּבְנֵי֙ יְכׇנְיָ֣ה אַסִּ֔ר שְׁאַלְתִּיאֵ֖ל בְּנֽוֹ׃ וּמַלְכִירָ֥ם וּפְדָיָ֖ה וְשֶׁנְאַצַּ֑ר יְקַמְיָ֥ה הוֹשָׁמָ֖ע וּנְדַבְיָֽה׃ וּבְנֵ֣י פְדָיָ֔ה זְרֻבָּבֶ֖ל וְשִׁמְעִ֑י</div>
+  <div class="es"><span class="tag">Español</span>Los hijos de Jeconías, el cautivo: Salatiel su hijo, Malquirán, <b>Pedaías</b>, Senasar, Jecamías, Hosamá y Nedabías. Los hijos de Pedaías: <b>Zorobabel</b> y Simeí.</div>
+  <figcaption><b>1 Cr 3:17-19</b> frente a <b>Esd 3:2</b> (<span class="he" lang="he">זְרֻבָּבֶ֤ל בֶּן־שְׁאַלְתִּיאֵל֙</span>) y <b>Ag 2:23</b> · texto masorético en Sefaria <span class="st v">verificado</span></figcaption>
+</figure>
+
+<div class="syl"><div class="kicker">Silogismo 3 · el propio Lucas avisa</div>
+<ol>
+  <li>Un autor que quisiera presentar a José como padre natural de Jesús no añadiría «según se pensaba» (<span class="gr">ὡς ἐνομίζετο</span>).</li>
+  <li>Lucas lo añade (3:23) y además ha narrado una concepción sin varón (1:34-35).</li>
+  <li>Mateo rompe su propia fórmula en el último eslabón: no «José engendró a Jesús», sino «María, de la cual fue engendrado Jesús» (1:16, pasiva y relativo femenino).</li>
+</ol>
+<div class="c">Ninguno de los dos evangelistas pretende que la lista dé la paternidad biológica de Jesús por José. La «contradicción» supone una intención que ambos niegan en el mismo texto.</div></div>
+
+<!-- ============ O2 ============ -->
+<h2 id="o2">4. Objeción 2: «Que Mateo es por José y Lucas por María es una interpretación del año 1500»</h2>
+<div class="obj"><div class="kicker">La objeción</div><p>La lectura «Lucas = genealogía de María» la inventaron teólogos del Renacimiento (Annio de Viterbo hacia 1490-1502, luego Lutero) para tapar la contradicción. La Iglesia antigua no la conocía. Luego es un parche tardío.</p></div>
+
+<div class="honest"><div class="kicker">Primero, lo que tiene de verdad</div>
+<p>La <b>fórmula explícita</b> «la lista de Lucas es la genealogía de María» o «Elí es el padre de María» no la he encontrado en ningún texto anterior a 1500. Los ocho investigadores la buscaron en Africano, Eusebio, Ambrosio, Agustín, Jerónimo, Crisóstomo, Beda, Juan Damasceno y Aquino, sin éxito. Plummer (1896, p. 103) escribe: «esta solución no la sugiere nadie hasta que Annio de Viterbo la propuso, hacia el 1490». La nota de la ANF vol. 6 la data en 1502 (no da fuente). Maldonado (siglo XVI, citado por Hervey) dice que Annio la atribuía a un tratado <i>De ortu Beatae Virginis</i> falsamente atribuido a Jerónimo. No he visto ese tratado: si es medieval, la fórmula sería algo anterior a Annio, pero no puedo afirmarlo.</p></div>
+
+<figure class="scan">{{IMG plummer103.jpg|Plummer, ICC Luke, p. 103}}<figcaption><b>A. Plummer, <i>The Gospel according to S. Luke</i> (ICC, 1896), p. 103.</b> Subrayado: «But this solution is not suggested by anyone until Annius of Viterbo propounded it, c. A.D. 1490». Plummer rechaza la lectura.</figcaption></figure>
+<figure class="scan">{{IMG hervey354.jpg|Hervey 1853, nota a la p. 354}}<figcaption><b>Lord A. Hervey, <i>The Genealogies of our Lord</i> (1853), nota a la p. 354.</b> Recoge a Maldonado: la opinión de que María era hija de Elí viene del tratado <i>De ortu Beatae Virginis</i>, «falsely ascribed to St. Jerome», que Annio citaba como de Jerónimo. Maldonado añade: «Mihi quoque placeret, nisi viderem evangelistas verum Josephi genus describere voluisse» («a mí también me agradaría, si no viera que los evangelistas quisieron describir el verdadero linaje de José»).</figcaption></figure>
+
+<p>Hasta aquí la parte verdadera. La objeción concluye mucho más de lo que esto permite.</p>
+
+<div class="syl"><div class="kicker">Silogismo 4 · la falacia genética</div>
+<ol>
+  <li>La verdad de una interpretación depende de su ajuste al texto y a los hechos, no de la fecha en que alguien la formuló por primera vez.</li>
+  <li>El dato más fuerte a favor de la lectura «Lucas por María» está en el texto del siglo I, no en el siglo XV. Es el «según se pensaba» de Lc 3:23 con José sin artículo, y la concepción virginal narrada por el propio Lucas.</li>
+</ol>
+<div class="c">«Se formuló explícitamente hacia 1500» no implica «es falsa». A lo sumo implica «no es la lectura tradicional».</div>
+<div class="form">Forma: refutación de un non sequitur. Con el mismo criterio habría que rechazar toda lectura nueva de cualquier texto antiguo, también las de los críticos modernos.</div></div>
+
+<div class="syl"><div class="kicker">Silogismo 5 · las piezas son antiguas</div>
+<ol>
+  <li>La lectura «Lucas por María» se compone de tres tesis. (a) María desciende de David. (b) Una genealogía puede trazarse a través de una mujer o de su marido, porque «los padres de las mujeres son padres de los hijos de sus hijas». (c) La genealogía que trae un evangelista muestra también el origen de María.</li>
+  <li>(a) está en el siglo II: Justino, Ireneo, Tertuliano, Protoevangelio de Santiago. (b) está explícita en Justino (<i>Diálogo</i> 100.3, hacia 155-160). (c) está en Eusebio, Jerónimo, Ambrosio, Crisóstomo y Beda (siglos IV-VIII). Y la familia de María en la rama de Natán, la de Lucas, está en Juan Damasceno (hacia 743).</li>
+</ol>
+<div class="c">Lo que aparece hacia 1500 es solo la combinación explícita «Elí = padre de María». Sus elementos se apoyan en testigos de los siglos II-VIII. Llamarla «invento de 1500» es falso como descripción histórica.</div></div>
+
+<div class="syl"><div class="kicker">Silogismo 6 · la respuesta cristiana no depende de esa lectura</div>
+<ol>
+  <li>Si la armonía de las genealogías dependiera solo de «Lucas por María», mostrar que esa lectura es tardía pondría en duda la armonía.</li>
+  <li>No depende solo de ella. La solución de Africano (hacia 220) armoniza las listas como dos genealogías de José, y la dan por buena Eusebio, Agustín (en sus <i>Retractationes</i>), Juan Damasceno y Aquino.</li>
+</ol>
+<div class="c">Aunque la lectura «Lucas por María» fuera falsa, la objeción no alcanza a la armonía de las genealogías.</div>
+<div class="form">Forma: modus tollens sobre la dependencia (si A dependiera de B…; no depende…).</div></div>
+
+<h3>Línea temporal de los testigos (verificados en página o texto)</h3>
+<ul class="tl">
+  <li class="key"><span class="yr">hacia 155-160 · Justino, <i>Diálogo con Trifón</i> 100.3</span>La Virgen «es del linaje de David, Jacob, Isaac y Abrahán» y estos son los «enumerados» de los que «María trae su linaje». Añade un principio: «sabemos que los padres de las mujeres son también padres de los hijos que dan a luz sus hijas».</li>
+  <li class="key"><span class="yr">hacia 180 · Ireneo, <i>Contra las herejías</i> 3.21.5 y 3.21.9</span>Nace «de la Virgen, que es ella misma del linaje de David». Y usa la maldición de Jeconías para probar que Cristo no es semilla de José.</li>
+  <li><span class="yr">hacia 150-200 · <i>Protoevangelio de Santiago</i> 10.1</span>María «era de la familia de David».</li>
+  <li><span class="yr">hacia 207-210 · Tertuliano, <i>De carne Christi</i> 21; <i>Adv. Marcionem</i> 5.8</span>«Maria ex David»; «Virgine generis David».</li>
+  <li><span class="yr">hacia 220-240 · Julio Africano (en Eusebio, HE 1.7)</span>Levirato: ambas listas son de José, una por naturaleza y otra por ley. No menciona a María.</li>
+  <li><span class="yr">hacia 310-325 · Eusebio, HE 1.7.17 y <i>Cuestiones a Esteban</i> (epítome, PG 22)</span>«Con la genealogía de José se muestra también virtualmente María de la misma tribu». Y: «María… consta que es de la semilla de David».</li>
+  <li class="neg"><span class="yr">hacia 362-363 · Juliano el Apóstata (según Jerónimo)</span>La objeción de la «contradicción» ya existe.</li>
+  <li><span class="yr">hacia 377-389 · Ambrosio, <i>Expositio in Lucam</i> 3</span>José, «varón justo», tomó esposa «de su tribu y de su patria»: la línea de José contiene la de María.</li>
+  <li><span class="yr">hacia 383 · Jerónimo, <i>Adversus Helvidium</i>; hacia 398, <i>In Matthaeum</i> 1</span>«Por la genealogía de José, de quien María era pariente, se muestra también el origen de María».</li>
+  <li><span class="yr">hacia 390 · Juan Crisóstomo, <i>Homilías sobre Mateo</i> 2</span>La ley no permitía tomar mujer de otra tribu; por eso la genealogía de José prueba que la Virgen también es de David.</li>
+  <li class="neg"><span class="yr">hacia 400 · Fausto el maniqueo (en Agustín, <i>Contra Faustum</i> 23.4)</span>Objeta que María era levita. Agustín responde: «creemos que también María fue del parentesco de David».</li>
+  <li><span class="yr">hacia 400 · Agustín, <i>De consensu evangelistarum</i> 2.2.4</span>«No debemos dudar de que la propia María tuvo algún parentesco de sangre con la estirpe de David».</li>
+  <li><span class="yr">hacia 709-716 · Beda, <i>In Lucam</i> 2</span>«Por la generación de José se muestra también el origen de María».</li>
+  <li class="key"><span class="yr">hacia 743 · Juan Damasceno, <i>De fide orthodoxa</i> 4.14</span>Da la ascendencia de María por Natán: «Leví engendró a Melquí y a Pantera; Pantera a Barpantera; Barpantera a Joaquín; Joaquín a la Madre de Dios». Melquí, hermano de Pantera, es el padre de Elí. La familia de María queda dentro de la rama de Lucas.</li>
+  <li><span class="yr">hacia 1273 · Tomás de Aquino, <i>Suma</i> III q.31 a.2</span>«Creemos que María fue también de la familia de David».</li>
+  <li class="neg"><span class="yr">hacia 1490-1502 · Annio de Viterbo</span>Fórmula explícita «María hija de Elí», que él atribuía a un tratado pseudo-jeronimiano (Maldonado en Hervey).</li>
+  <li><span class="yr">siglos XVI-XIX · Lutero, Galatino, Bengel, Lightfoot, Godet, Robertson</span>Defensores de «Lucas por María» (Robertson, <i>Harmony</i>, p. 261; Hervey, p. 9, citando a Mill).</li>
+</ul>
+
+<figure class="q">
+  <div class="orig gr" lang="grc"><span class="tag">Griego · Justino, Diálogo 100.3</span>υἱὸν οὖν ἀνθρώπου ἑαυτὸν ἔλεγεν, ἤτοι ἀπὸ τῆς γεννήσεως τῆς διὰ παρθένου, ἥτις ἦν, ὡς ἔφην, ἀπὸ τοῦ Δαυεὶδ καὶ Ἰακὼβ καὶ Ἰσαὰκ καὶ Ἀβραὰμ γένους, ἢ διὰ τὸ εἶναι αὐτὸν τὸν Ἀβραὰμ πατέρα καὶ τούτων τῶν κατηριθμημένων, ἐξ ὧν κατάγει ἡ Μαρία τὸ γένος· καὶ γὰρ πατέρας τῶν γεννωμένων ταῖς θυγατράσιν αὐτῶν τέκνων τοὺς τῶν θηλειῶν γεννήτορας ἐπιστάμεθα.</div>
+  <div class="es"><span class="tag">Español</span>Se llamaba a sí mismo Hijo del hombre, ya por el nacimiento a través de la virgen, que era, como dije, <b>del linaje de David, de Jacob, de Isaac y de Abrahán</b>; ya porque Abrahán es padre de él y de estos <b>enumerados, de los cuales María trae su linaje</b>. Porque sabemos que <b>los que engendraron a las mujeres son padres de los hijos que nacen de sus hijas</b>.</div>
+  <figcaption><b>Justino Mártir, <i>Diálogo con Trifón</i> 100.3</b> (hacia 155-160) · griego de la Bibliothek der Kirchenväter (bkv.unifr.ch); inglés ANF vol. 1 (ed. CCEL), visto en la página (recorte) <span class="st v">verificado</span>. Nota textual: el manuscrito dice «Abrahán». La ANF traduce «Adán» por una enmienda de Thirlby y Maranus, como explica su propia nota. Strauss (1846) reconoce que aquí Justino «aplicó a María una de nuestras genealogías».</figcaption>
+</figure>
+<div class="scan-pair">
+<figure class="scan">{{IMG justin100.jpg|ANF vol. 1, Diálogo 100}}<figcaption><b>ANF vol. 1 (ed. CCEL), Justino, <i>Diálogo</i> 100.</b> Subrayado: «the Virgin, who was… of the family of David… from whom Mary derives her descent. For we know that the fathers of women are the fathers likewise of those children whom their daughters bear».</figcaption></figure>
+<figure class="scan">{{IMG strauss101.jpg|Strauss, Life of Jesus, p. 101}}<figcaption><b>D. F. Strauss, <i>The Life of Jesus Critically Examined</i> (trad. Eliot), p. 101.</b> Un crítico reconoce el dato. Subrayado: Justino, «whose expression, that the virgin was of the race of David, Jacob, Isaac, and Abraham, may be considered an indication that he applied to Mary one of our genealogies».</figcaption></figure>
+</div>
+
+<figure class="q">
+  <div class="orig gr" lang="grc"><span class="tag">Griego · Eusebio, Cuestiones a Esteban (epítome)</span>Δεδεῖχθαι τοίνυν σαφῶς ἡγοῦμαι, ὅτι μὴ μάτην ὁ Ἰωσὴφ ἐγενεαλογεῖτο παρὰ τοῖς θαυμασίοις τοῦ Σωτῆρος ἡμῶν ἀποστόλοις, καὶ ὅπως ἡ Μαρία ἐκ σπέρματος οὖσα τοῦ Δαβὶδ συνίσταται, ὅ τε ἐξ αὐτῆς γεγεννημένος Ἰησοῦς ὁ Χριστὸς τοῦ Θεοῦ.</div>
+  <div class="es"><span class="tag">Español</span>Considero, pues, claramente demostrado que no en vano los admirables apóstoles de nuestro Salvador trazaron la genealogía de José, y cómo <b>consta que María es de la semilla de David</b>, y el que nació de ella, Jesús, el Cristo de Dios.</div>
+  <figcaption><b>Eusebio, <i>Quaestiones evangelicae ad Stephanum</i>, epítome, cuestión 1</b> · Migne PG 22, cols. 891-892, visto en la página (recorte) <span class="st v">verificado</span>. En la misma obra Eusebio enuncia la objeción: «ningún texto prueba que María venga de David» (<span class="gr">τὴν Μαρίαν οὐδεὶς λόγος ἀποδείκνυσιν ἀπὸ Δαβὶδ γενομένην</span>). Es decir, la pregunta de la objeción ya se discutía en el siglo IV.</figcaption>
+</figure>
+<figure class="scan">{{IMG pg22_891.jpg|Migne PG 22, col. 892}}<figcaption><b>Migne, <i>Patrologia Graeca</i> 22, col. 892.</b> Subrayado: <span class="gr">ἡ Μαρία ἐκ σπέρματος οὖσα τοῦ Δαβὶδ συνίσταται</span>. Encima, el argumento de Lc 2:4-5: José subió a Belén con María «por ser de la casa y familia de David».</figcaption></figure>
+
+<figure class="q">
+  <div class="orig la" lang="la"><span class="tag">Latín · Beda (copia el argumento de Jerónimo, In Matthaeum 1)</span>Deinde ex una tribu fuisse Joseph et Mariam, unde et lege eam accipere cogebatur, ut propinquam. Et quod simul censentur in Bethlehem, ut de una videlicet stirpe generati, atque ideo per generationem Joseph, origo quoque Mariae monstretur.</div>
+  <div class="es"><span class="tag">Español</span>Además, José y María eran de una sola tribu, por lo que también la ley le obligaba a tomarla como pariente cercana. Y que se empadronan juntos en Belén, como nacidos de una misma estirpe; y por eso, <b>por la generación de José, se muestra también el origen de María</b>.</div>
+  <figcaption><b>Beda, <i>In Lucae evangelium expositio</i> 2, sobre Lc 3:23</b> · Migne PL 92 (columna no fijada), texto digital <span class="st p">parcial</span>. El OCR de Jerónimo, <i>In Matthaeum</i> 1 (PL 26), trae la misma frase («Deinde ex una tribu fuisse Joseph et Mariam…»).</figcaption>
+</figure>
+<div class="scan-pair">
+<figure class="scan">{{IMG jerome_helv.jpg|Jerónimo, Adversus Helvidium}}<figcaption><b>Jerónimo, <i>Adversus Helvidium</i> (NPNF2 vol. 6).</b> Subrayado: «that by the genealogy of Joseph, whose kinswoman Mary was, Mary's origin might also be shown».</figcaption></figure>
+<figure class="scan">{{IMG chrys2.jpg|Crisóstomo, Homilía 2 sobre Mateo}}<figcaption><b>Juan Crisóstomo, <i>Homilía 2 sobre Mateo</i> (NPNF1 vol. 10).</b> Subrayado: «there was a law, which bade that it should not be lawful to take a wife from any other stock, but from the same tribe».</figcaption></figure>
+</div>
+
+<figure class="q">
+  <div class="orig"><span class="tag">Inglés · NPNF2 vol. 9 (S. D. F. Salmond)</span>Born then of the line of Nathan, the son of David, Levi begat Melchi and Panther: Panther begat Barpanther, so called. This Barpanther begat Joachim: Joachim begat the holy Mother of God. […] Melchi, of the tribe of Nathan, the son of Levi and brother of Panther, married the wife of Mathan, Jacob's mother, of whom he begat Heli. […] Joseph, therefore, is by nature the son of Jacob, of the line of Solomon, but by law he is the son of Heli of the line of Nathan.</div>
+  <div class="es"><span class="tag">Español</span>De la línea de Natán, hijo de David, nació Leví, que engendró a Melquí y a Pantera. Pantera engendró al llamado Barpantera, este a Joaquín, y Joaquín a la santa Madre de Dios. […] Melquí, de la tribu de Natán, hijo de Leví y hermano de Pantera, se casó con la mujer de Matán, madre de Jacob, y engendró de ella a Elí. […] José es, pues, por naturaleza hijo de Jacob, de la línea de Salomón, y por ley hijo de Elí, de la línea de Natán.</div>
+  <figcaption><b>Juan Damasceno, <i>De fide orthodoxa</i> 4.14</b> (hacia 743) · NPNF2 vol. 9 (ed. CCEL, PDF p. 748), visto en la página <span class="st v">verificado</span>; griego no leído. Para el Damasceno, Lucas da la línea de José («ambos callan el origen de la Virgen»). Pero hace a María descendiente de Natán y prima segunda de Elí: su familia queda dentro de la lista de Lucas.</figcaption>
+</figure>
+<figure class="scan">{{IMG damasc.jpg|Juan Damasceno, De fide orthodoxa 4.14}}<figcaption><b>Juan Damasceno, <i>De fide orthodoxa</i> 4.14 (NPNF2 vol. 9).</b> Subrayado: la línea Natán, Leví, Pantera, Barpantera, Joaquín, María; y Melquí, hermano de Pantera, padre de Elí.</figcaption></figure>
+
+<div class="ans"><div class="kicker">Respuesta en una frase</div><p>La fórmula explícita es del Renacimiento. La tesis de fondo, que Jesús es de David también por María y que su linaje se puede trazar por ella, es del siglo II. La explicación cristiana más antigua de las dos listas (Africano) no necesita esa fórmula.</p></div>
+
+<!-- ============ O3 ============ -->
+<h2 id="o3">5. Objeción 3: «Solo José viene de David, y Jesús no es hijo de José»</h2>
+<div class="obj"><div class="kicker">La objeción</div><p>Si Jesús nació de una virgen, no tiene sangre de José. Las genealogías trazan a José. Luego Jesús no es descendiente de David y no puede ser el Mesías. Eusebio ya la formulaba así (<i>Cuestiones a Esteban</i> 1): «si querían la genealogía de Cristo, había que trazar la de María, no la de José».</p></div>
+
+<div class="syl"><div class="kicker">Silogismo 7 · la filiación legal es filiación real en Israel</div>
+<ol>
+  <li>En el derecho judío la declaración «este es mi hijo» establece la filiación con efectos de herencia (Misná, Bava Batra 8:6). Y «a quien cría un huérfano en su casa, la Escritura se lo cuenta como si lo hubiera engendrado» (Talmud, Sanedrín 19b).</li>
+  <li>José recibe a María y al niño y le pone el nombre (Mt 1:20-25). Es el acto de reconocimiento paterno, y el ángel le llama «José, hijo de David» (<span class="gr">Ἰωσὴφ υἱὸς Δαυείδ</span>, 1:20).</li>
+  <li>La realeza davídica se transmite por la línea legal del padre: la casa paterna es «la familia» (Bava Batra 109b).</li>
+</ol>
+<div class="c">Jesús es hijo legal y heredero de José, y con ello heredero de los derechos davídicos de la casa de José.</div>
+<div class="form">Forma: silogismo categórico con premisa normativa tomada del derecho del objetor.</div></div>
+
+<figure class="q">
+  <div class="orig he" lang="he"><span class="tag">Hebreo · Misná, Bava Batra 8:6</span>הָאוֹמֵר זֶה בְּנִי, נֶאֱמָן. זֶה אָחִי, אֵינוֹ נֶאֱמָן וְנוֹטֵל עִמּוֹ בְּחֶלְקוֹ.</div>
+  <div class="es"><span class="tag">Español</span>El que dice: «Este es mi hijo», es creído. «Este es mi hermano», no es creído, y [el otro] toma con él en su parte.</div>
+  <figcaption><b>Misná, Bava Batra 8:6</b> · Sefaria <span class="st v">verificado</span></figcaption>
+</figure>
+<figure class="q">
+  <div class="orig he" lang="he"><span class="tag">Hebreo · Talmud de Babilonia, Sanedrín 19b</span>מֵירַב יָלְדָה וּמִיכַל גִּידְּלָה, לְפִיכָךְ נִקְרְאוּ עַל שְׁמָהּ. לְלַמֶּדְךָ שֶׁכׇּל הַמְגַדֵּל יָתוֹם בְּתוֹךְ בֵּיתוֹ מַעֲלֶה עָלָיו הַכָּתוּב כְּאִילּוּ יְלָדוֹ.</div>
+  <div class="es"><span class="tag">Español</span>Merab los dio a luz y Micol los crió; por eso se les llama por el nombre de ella. Para enseñarte que <b>a todo el que cría un huérfano en su casa, la Escritura se lo cuenta como si lo hubiera engendrado</b>.</div>
+  <figcaption><b>Sanedrín 19b</b> (sobre 2 Sam 21:8) · Sefaria <span class="st v">verificado</span></figcaption>
+</figure>
+
+<div class="syl"><div class="kicker">Silogismo 8 · el Nuevo Testamento exige también la descendencia por la carne</div>
+<ol>
+  <li>Pablo dice que el Hijo «nació del linaje de David <b>según la carne</b>» (<span class="gr">ἐκ σπέρματος Δαυεὶδ κατὰ σάρκα</span>, Rom 1:3). Pedro, que Dios juró sentar en el trono a uno «del fruto de sus lomos» (<span class="gr">ἐκ καρποῦ τῆς ὀσφύος αὐτοῦ</span>, Hch 2:30).</li>
+  <li>El mismo Nuevo Testamento afirma que Jesús no tuvo padre humano (Mt 1:18-25; Lc 1:34-35).</li>
+  <li>El ángel promete al hijo de María, concebido sin varón, «el trono de David <b>su padre</b>» (Lc 1:32). El único progenitor humano de ese niño es María.</li>
+</ol>
+<div class="c">Para el Nuevo Testamento, la descendencia davídica «según la carne» de Jesús pasa necesariamente por María. Es la lectura de Plummer: «de 1:27, 32 y 69 podemos inferir con probabilidad que Lucas considera a María descendiente de David».</div>
+<div class="form">Forma: silogismo disyuntivo. La carne de Jesús viene de José o de María; no de José (P2); luego de María.</div></div>
+
+<figure class="q">
+  <div class="orig la" lang="la"><span class="tag">Latín · Agustín, Contra Faustum 23.4</span>Nos ergo credimus etiam Mariam fuisse in cognatione David, quia Scripturis eis credimus, quae utrumque dicunt, et Christum ex semine David secundum carnem, et ejus matrem Mariam, non cum viro concumbendo, sed virginem.</div>
+  <div class="es"><span class="tag">Español</span>Nosotros, pues, creemos que también María fue del parentesco de David, porque creemos a esas Escrituras que dicen ambas cosas: que Cristo es de la semilla de David según la carne, y que su madre María [lo concibió] no uniéndose a varón, sino virgen.</div>
+  <figcaption><b>Agustín, <i>Contra Faustum</i> 23.4</b> (hacia 400) · PL 42, texto digital <span class="st p">parcial</span></figcaption>
+</figure>
+<figure class="q">
+  <div class="orig la" lang="la"><span class="tag">Latín · Tertuliano, De carne Christi 21</span>virga ex radice, Maria ex David? Flos ex virga, filius Mariae, qui dicitur Jesus Christus, ipse erit et fructus.</div>
+  <div class="es"><span class="tag">Español</span>¿La vara que sale de la raíz, María, de David? La flor que sale de la vara, el hijo de María, que se llama Jesucristo, será también el fruto.</div>
+  <figcaption><b>Tertuliano, <i>De carne Christi</i> 21</b> (hacia 207-210) · latín leído por un investigador; ANF vol. 3 <span class="st v">verificado</span></figcaption>
+</figure>
+
+<div class="syl"><div class="kicker">Silogismo 9 · la línea por una hija está en la propia Biblia hebrea</div>
+<ol>
+  <li>La Biblia hebrea registra linajes que continúan por una hija y su marido. Sesán no tuvo hijos varones, dio su hija a Jarhá y el linaje sigue en Atay (1 Cr 2:34-35). Un sacerdote «tomó mujer de las hijas de Barzilai y fue llamado por el nombre de ellos» (Esd 2:61; Neh 7:63).</li>
+  <li>La ley de las hijas de Zelofehad manda que la hija heredera se case «con uno de la familia de la tribu de su padre» (Nm 36:6-8). Así, el marido de la heredera queda inscrito en la casa del suegro.</li>
+</ol>
+<div class="c">Que José sea llamado «de Elí» por ser el yerno de Elí y el marido de su hija heredera tiene precedentes en la ley y en la práctica genealógica de Israel. No es un recurso inventado.</div></div>
+
+<figure class="q">
+  <div class="orig he" lang="he"><span class="tag">Hebreo · Esdras 2:61</span>וּמִבְּנֵי֙ הַכֹּ֣הֲנִ֔ים בְּנֵ֥י חֳבַיָּ֖ה בְּנֵ֣י הַקּ֑וֹץ בְּנֵ֣י בַרְזִלַּ֗י אֲשֶׁ֣ר לָ֠קַ֠ח מִבְּנ֞וֹת בַּרְזִלַּ֤י הַגִּלְעָדִי֙ אִשָּׁ֔ה וַיִּקָּרֵ֖א עַל־שְׁמָֽם׃</div>
+  <div class="es"><span class="tag">Español</span>Y de los hijos de los sacerdotes: los hijos de Habaías, los hijos de Hacós, los hijos de Barzilai, <b>el que tomó mujer de las hijas de Barzilai el galaadita y fue llamado por el nombre de ellos</b>.</div>
+  <figcaption><b>Esd 2:61</b> (= Neh 7:63) · texto masorético, Sefaria <span class="st v">verificado</span></figcaption>
+</figure>
+<figure class="q">
+  <div class="orig he" lang="he"><span class="tag">Hebreo · Números 36:8</span>וְכׇל־בַּ֞ת יֹרֶ֣שֶׁת נַחֲלָ֗ה מִמַּטּוֹת֮ בְּנֵ֣י יִשְׂרָאֵל֒ לְאֶחָ֗ד מִמִּשְׁפַּ֛חַת מַטֵּ֥ה אָבִ֖יהָ תִּהְיֶ֣ה לְאִשָּׁ֑ה לְמַ֗עַן יִֽירְשׁוּ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל אִ֖ישׁ נַחֲלַ֥ת אֲבֹתָֽיו׃</div>
+  <div class="es"><span class="tag">Español</span>Toda hija que herede una heredad de las tribus de los hijos de Israel será mujer de uno de la familia de la tribu de su padre, para que los hijos de Israel posean cada uno la heredad de sus padres.</div>
+  <figcaption><b>Nm 36:8</b> · Sefaria <span class="st v">verificado</span>. Es la ley en que Eusebio (HE 1.7.17), Ambrosio, Crisóstomo, Jerónimo y Beda apoyan que María era de la tribu, y de la casa, de José.</figcaption>
+</figure>
+<div class="honest"><div class="kicker">Contrapeso honesto</div><p>El Talmud dice también que «la familia del padre se llama familia; la familia de la madre no se llama familia» (Bava Batra 109b, sobre la herencia). El objetor puede usarlo. Las respuestas son tres. Es una regla de herencia y no niega la descendencia física. La propia Biblia registra excepciones (1 Cr 2:34-35; Esd 2:61). Y en el caso de Jesús la línea paterna legal la cubre José (silogismo 7): el linaje por María añade la descendencia «según la carne», no sustituye a la legal.</p></div>
+
+<!-- ============ O4 ============ -->
+<h2 id="o4">6. Objeción 4: «María era levita, pariente de Isabel»</h2>
+<div class="obj"><div class="kicker">La objeción</div><p>Isabel es «de las hijas de Aarón» (Lc 1:5) y el ángel la llama «tu pariente» (<span class="gr">συγγενίς</span>, Lc 1:36). Luego María era de Leví, no de Judá. Fausto el maniqueo lo objetaba ya hacia el 400 («la Virgen parece haber pertenecido no a Judá… sino a la tribu sacerdotal de Leví»), y Crisóstomo lo reconoce como «otro punto difícil» (<i>Hom. Mt</i> 1.14).</p></div>
+<div class="syl"><div class="kicker">Silogismo 10 · el parentesco no fija la tribu</div>
+<ol>
+  <li>La tribu se hereda por el padre; el parentesco (<span class="gr">συγγένεια</span>) puede venir por cualquiera de los dos padres o por matrimonio.</li>
+  <li>Los matrimonios entre tribus estaban permitidos salvo para la hija heredera (Nm 36). El primer sumo sacerdote los practicó: «Aarón tomó por mujer a Eliseba, hija de Aminadab, <b>hermana de Naasón</b>» (Éx 6:23), y Naasón era el príncipe de <b>Judá</b> (Nm 1:7).</li>
+</ol>
+<div class="c">Una sacerdotisa «hija de Aarón» tenía por fuerza sangre de Judá, porque la madre de todos los aaronitas era de Judá. Que Isabel sea pariente de María no hace levita a María. Es lo que responde Machen: «el matrimonio entre la tribu de Leví y las otras tribus estaba perfectamente permitido por la ley».</div>
+<div class="form">Forma: contraejemplo a la premisa oculta «parientes ⇒ misma tribu».</div></div>
+<figure class="q">
+  <div class="orig he" lang="he"><span class="tag">Hebreo · Éxodo 6:23 y Números 1:7</span>וַיִּקַּ֨ח אַהֲרֹ֜ן אֶת־אֱלִישֶׁ֧בַע בַּת־עַמִּינָדָ֛ב אֲח֥וֹת נַחְשׁ֖וֹן ל֣וֹ לְאִשָּׁ֑ה … לִֽיהוּדָ֕ה נַחְשׁ֖וֹן בֶּן־עַמִּינָדָֽב׃</div>
+  <div class="es"><span class="tag">Español</span>Aarón tomó por mujer a Eliseba, hija de Aminadab, hermana de Naasón… [príncipe] de Judá: Naasón, hijo de Aminadab.</div>
+  <figcaption><b>Éx 6:23; Nm 1:7</b> · Sefaria (JPS) <span class="st v">verificado</span>. El nombre de la mujer de Aarón, Eliseba, es el mismo que el de Isabel (Elisabet) en griego.</figcaption>
+</figure>
+<figure class="scan">{{IMG machen127.jpg|Machen, The Virgin Birth of Christ, p. 127}}<figcaption><b>J. G. Machen, <i>The Virgin Birth of Christ</i> (1930), p. 127.</b> Subrayado: «intermarriage between the tribe of Levi, to which Elisabeth belonged, and the other tribes was perfectly permissible under the law». En la nota 19, p. 128, Machen cita a W. Bauer: «antes de Orígenes, María no aparece claramente en ninguna parte como hija de Leví».</figcaption></figure>
+<p>El epítome de Eusebio da la misma respuesta: «toda la nación de los judíos era de un solo linaje, y todas las tribus eran parientes entre sí» (<i>Cuestiones a Esteban</i> 1.8, PG 22). Aquino propone que el padre de Isabel tomara mujer de la casa de David, o al revés (<i>Suma</i> III q.31 a.2 ad 2).</p>
+
+<!-- ============ O5 ============ -->
+<h2 id="o5">7. Objeción 5: la maldición de Jeconías</h2>
+<div class="obj"><div class="kicker">La objeción</div><p>Jeremías maldijo a Jeconías (Conías): «Escribid a este hombre sin descendencia… ninguno de su semilla prosperará sentándose en el trono de David» (Jer 22:30). Y de su padre Joaquim: «no tendrá quien se siente en el trono de David» (36:30). Mateo pone a Jesús en la línea de Jeconías (1:11-12). Luego Jesús queda excluido del trono.</p></div>
+<figure class="q">
+  <div class="orig he" lang="he"><span class="tag">Hebreo · Jeremías 22:30</span>כֹּ֣ה ׀ אָמַ֣ר יְהֹוָ֗ה כִּתְב֞וּ אֶת־הָאִ֤ישׁ הַזֶּה֙ עֲרִירִ֔י גֶּ֖בֶר לֹא־יִצְלַ֣ח בְּיָמָ֑יו כִּי֩ לֹ֨א יִצְלַ֜ח מִזַּרְע֗וֹ אִ֚ישׁ יֹשֵׁב֙ עַל־כִּסֵּ֣א דָוִ֔ד וּמֹשֵׁ֥ל ע֖וֹד בִּיהוּדָֽה׃</div>
+  <div class="es"><span class="tag">Español</span>Así dice el Señor: inscribid a este hombre como sin hijos, un varón que no prosperará en sus días; porque <b>ninguno de su semilla</b> (<span class="he" lang="he">מִזַּרְעוֹ</span>) prosperará sentándose en el trono de David y gobernando otra vez en Judá.</div>
+  <figcaption><b>Jer 22:30</b> · texto masorético, Sefaria <span class="st v">verificado</span></figcaption>
+</figure>
+
+<div class="syl"><div class="kicker">Silogismo 11 · dilema constructivo</div>
+<ol>
+  <li>O la maldición fue levantada después, o sigue en pie.</li>
+  <li>Si fue levantada, no excluye a ningún descendiente de Jeconías. Lo dicen la Escritura (Ag 2:23, a su nieto Zorobabel: «te pondré como anillo de sello», invirtiendo Jer 22:24) y la tradición rabínica (Pesikta de-Rav Kahana 24:11; Levítico Rabá 10:5; Sanedrín 37b).</li>
+  <li>Si sigue en pie, recae sobre su <b>semilla</b> (<span class="he" lang="he">זֶרַע</span>), y Jesús no es semilla de José (Mt 1:16, 18-25). Recibe de José el derecho legal sin la sangre maldita, y la carne davídica por otra vía (María).</li>
+</ol>
+<div class="c">En ambos casos la maldición de Jeconías no impide que Jesús sea el heredero de David. La concepción virginal, lejos de ser un problema, es lo que deja intacto el derecho legal sin heredar la maldición.</div>
+<div class="form">Forma: dilema constructivo (A ∨ B; A → C; B → C; ∴ C). Ireneo usa el segundo cuerno hacia el 180.</div></div>
+
+<figure class="q">
+  <div class="orig he" lang="he"><span class="tag">Hebreo · Ageo 2:23</span>בַּיּ֣וֹם הַה֣וּא נְאֻם־יְהֹוָ֣ה צְבָא֡וֹת אֶ֠קָּחֲךָ֠ זְרֻבָּבֶ֨ל בֶּן־שְׁאַלְתִּיאֵ֤ל עַבְדִּי֙ נְאֻם־יְהֹוָ֔ה וְשַׂמְתִּ֖יךָ כַּֽחוֹתָ֑ם כִּֽי־בְךָ֣ בָחַ֔רְתִּי נְאֻ֖ם יְהֹוָ֥ה צְבָאֽוֹת׃</div>
+  <div class="es"><span class="tag">Español</span>En aquel día, dice el Señor de los ejércitos, te tomaré, Zorobabel hijo de Salatiel, siervo mío, dice el Señor, y <b>te pondré como anillo de sello</b>, porque yo te he escogido, dice el Señor de los ejércitos.</div>
+  <figcaption><b>Ag 2:23</b> · Sefaria <span class="st v">verificado</span>. Jer 22:24 decía de Jeconías: «aunque fueras el anillo de sello de mi mano derecha, de allí te arrancaría».</figcaption>
+</figure>
+<figure class="q">
+  <div class="orig he" lang="he"><span class="tag">Hebreo · Levítico Rabá 10:5</span>גָּדוֹל הוּא כֹּחָהּ שֶׁל תְּשׁוּבָה שֶׁמְבַטֶּלֶת גְּזֵרָה וּמְבַטֶּלֶת שְׁבוּעָה … שְׁאַלְתִּיאֵל בְּנוֹ, שֶׁמִּמֶּנּוּ הוּשְׁתְּלָה מַלְכוּת בֵּית דָּוִד.</div>
+  <div class="es"><span class="tag">Español</span>Grande es el poder del arrepentimiento, que <b>anula el decreto y anula el juramento</b> […] «Salatiel su hijo»: de él <b>fue replantado el reino de la casa de David</b>.</div>
+  <figcaption><b>Vayikrá Rabá 10:5</b> (Palestina, hacia el s. V) · Sefaria <span class="st v">verificado</span>. Lo mismo en Pesikta de-Rav Kahana 24:11 (<span class="he" lang="he">שביטלה את השבועה וביטלה את הגזירה</span>). El Talmud (Sanedrín 37b) dice, sobre el mismo versículo: «el destierro expía todo».</figcaption>
+</figure>
+
+<figure class="q">
+  <div class="orig la" lang="la"><span class="tag">Latín · Ireneo, Contra las herejías 3.21.9</span>Super hæc autem nec rex esse posset, si quidem Joseph filius fuisset; nec hæres, secundum Hieremiam. […] Propter hoc enim dicta sunt hæc de Jechonia, Spiritu præsciente ea quæ a malis doctoribus dicuntur; uti discant, quoniam ex semine ejus, id est ex Joseph, non erit natus, sed secundum repromissionem Dei de ventre David suscitatur Rex æternus, qui recapitulatur omnia in se.</div>
+  <div class="es"><span class="tag">Español</span>Además, si hubiera sido hijo de José, no podría ser rey ni heredero, según Jeremías. […] Por eso se dijeron estas cosas de Jeconías, previendo el Espíritu lo que dirían los malos maestros: para que aprendan que <b>no nacerá de su semilla, es decir, de José</b>, sino que, según la promesa de Dios, del vientre de David se levanta el Rey eterno, que lo recapitula todo en sí.</div>
+  <figcaption><b>Ireneo, <i>Adversus haereses</i> 3.21.9</b> (hacia 180) · latín de Harvey, vol. 2, p. 119 (1857), visto en la página (recorte) <span class="st v">verificado</span></figcaption>
+</figure>
+<figure class="scan">{{IMG ireneo_harvey119.jpg|Harvey 1857, Ireneo 3.21.9}}<figcaption><b>Ireneo, <i>Adversus haereses</i>, ed. Harvey (Cambridge 1857), vol. 2, p. 119.</b> Subrayado: el título «Ostensio quoniam si Joseph filius fuisset Dominus, non rex esse potuisset», la primera frase y la conclusión «ex semine ejus, id est ex Joseph, non erit natus… de ventre David suscitatur Rex æternus».</figcaption></figure>
+<div class="honest"><div class="kicker">Matiz</div><p>Ireneo usa la maldición <b>contra</b> quienes hacían a Jesús hijo natural de José. No dice que la línea de Lucas sea de María. Si Salatiel y Zorobabel de Lc 3:27 son los mismos que los de Mt 1:12 (objeción 8), la línea de Lucas también pasa por Jeconías, aunque por una vía legal. El dilema del silogismo 11 funciona en cualquier caso.</p></div>
+
+<!-- ============ O6 ============ -->
+<h2 id="o6">8. Objeción 6: las omisiones de Mateo y el «14 × 3»</h2>
+<div class="obj"><div class="kicker">La objeción</div><p>Mateo omite a tres reyes entre Joram y Ozías (Ocozías, Joás y Amasías, que sí están en 1 Cr 3:11-12) y a Joaquim entre Josías y Jeconías. Aun así afirma que «todas las generaciones» suman 14 + 14 + 14. Luego se equivoca o manipula.</p></div>
+<figure class="q">
+  <div class="orig gr" lang="grc"><span class="tag">Griego · Mateo 1:8 (WH 1881)</span>Ἰωσαφὰτ δὲ ἐγέννησεν τὸν Ἰωράμ, Ἰωρὰμ δὲ ἐγέννησεν τὸν Ὀζείαν</div>
+  <div class="es"><span class="tag">Español</span>Josafat engendró a Joram, Joram engendró a Ozías…</div>
+  <figcaption><b>Mt 1:8</b> frente a <b>1 Cr 3:11-12</b> (<span class="he" lang="he">יוֹרָ֥ם בְּנ֛וֹ אֲחַזְיָ֥הוּ בְנ֖וֹ יוֹאָ֥שׁ בְּנֽוֹ׃ אֲמַצְיָ֧הוּ בְנ֛וֹ עֲזַרְיָ֥ה בְנ֖וֹ</span>: «Joram su hijo, Ocozías su hijo, Joás su hijo, Amasías su hijo, Azarías su hijo») <span class="st v">verificado</span></figcaption>
+</figure>
+<div class="syl"><div class="kicker">Silogismo 12 · «engendró» y «hijo» significan «ascendiente» y «descendiente»</div>
+<ol>
+  <li>En las genealogías bíblicas «X engendró a Y» o «Y hijo de X» puede saltar generaciones. Esdras se presenta como «hijo de Seraías» (Esd 7:1), y Seraías, el sumo sacerdote, fue ejecutado en Riblá en el 586 a. C. (2 R 25:18-21), unos 128 años antes de Esdras. Y la lista de Esd 7:1-5 omite seis nombres de la de 1 Cr 5:29-41 (Amarías, Ajitub, Sadoc, Ajimaas, Azarías, Johanán).</li>
+  <li>Mateo construye una lista mnemónica de tres bloques de 14. El número 14 es el valor de las letras de David en hebreo (ד=4, ו=6, ד=4), y el título de la lista es «hijo de David». Esto es una observación mía; muchos comentaristas la recogen, pero ningún investigador la verificó en una fuente antigua.</li>
+</ol>
+<div class="c">Omitir eslabones en una genealogía con estructura no es error ni engaño, sino una convención que la Biblia hebrea usa en el mismo género. Mateo cuenta «las generaciones» de su esquema, como él mismo dice al hacer el total (1:17).</div>
+<div class="form">Forma: argumento por el uso (el significado de un término lo fija su uso en el género literario).</div></div>
+<div class="tw"><table>
+<thead><tr><th>1 Crónicas 5:29-41 (línea completa)</th><th>Esdras 7:1-5 (Esdras «hijo de»)</th></tr></thead>
+<tbody>
+<tr><td>Aarón, Eleazar, Finés, Abisúa, Buquí, Uzí, Zeraías, Meraiot</td><td>Aarón, Eleazar, Finés, Abisúa, Buquí, Uzí, Zeraías, Meraiot</td></tr>
+<tr><td><b>Amarías, Ajitub, Sadoc, Ajimaas, Azarías, Johanán</b></td><td class="om">[omitidos]</td></tr>
+<tr><td>Azarías, Amarías, Ajitub, Sadoc, Salum, Jilquías, Azarías, Seraías, Josadac</td><td>Azarías, Amarías, Ajitub, Sadoc, Salum, Jilquías, Azarías, Seraías → <b>Esdras</b></td></tr>
+</tbody></table></div>
+<p class="small">Listas leídas en Sefaria (JPS, Esd 7:1-5 y 1 Cr 5:29-41, numeración hebrea = 1 Cr 6:3-15 en las Biblias castellanas). Robertson ya lo señalaba: «such omissions were very common in the Old Testament genealogies» (<i>Harmony</i>, p. 259). Burkitt, citado por Machen (p. 129), sostiene que en Mateo «engendró» indica la transmisión del derecho legal de herencia, no la paternidad física.</p>
+<div class="honest"><div class="kicker">Lo que queda abierto</div><p>Contando los nombres de Mateo salen 41, no 42. Para cuadrar los tres catorces hay que contar a David o a Jeconías dos veces. Se han propuesto varias cuentas y ninguna es concluyente. Esto afecta a la cuenta del esquema de Mateo, no a la ascendencia de Jesús.</p></div>
+
+<!-- ============ O7 ============ -->
+<h2 id="o7">9. Objeción 7: Cainán (Lc 3:36), que no está en Génesis</h2>
+<div class="obj"><div class="kicker">La objeción</div><p>Lucas pone a «Cainán» entre Arfaxad y Selá, pero el Génesis hebreo dice que Arfaxad engendró a Selá (Gn 11:12). Luego Lucas inventa o se equivoca.</p></div>
+<div class="syl"><div class="kicker">Silogismo 13 · Lucas cita fielmente la Biblia de sus lectores</div>
+<ol>
+  <li>La Biblia griega de los Setenta, la que usaban los lectores griegos de Lucas, dice: «Arfaxad… engendró a <b>Cainán</b>» (Gn 11:12-13 LXX) y «Arfaxad engendró a Cainán, y Cainán engendró a Selá» (Gn 10:24 LXX).</li>
+  <li>Reproducir correctamente el texto bíblico que uno cita no es inventar.</li>
+</ol>
+<div class="c">El «Cainán» de Lucas viene de su fuente bíblica. La pregunta de fondo (si el texto masorético o la Septuaginta conservan la forma original de Gn 11) es de crítica textual del Génesis, no un error de Lucas.</div></div>
+<figure class="q">
+  <div class="orig gr" lang="grc"><span class="tag">Griego · Génesis 11:12-13 LXX</span>Καὶ ἔζησεν Ἀρφαξὰδ ἑκατὸν τριάκοντα πέντε ἔτη, καὶ ἐγέννησεν τὸν Καινάν. Καὶ ἔζησεν Ἀρφαξὰδ μετὰ τὸ γεννῆσαι αὐτὸν τὸν Καινὰν ἔτη τετρακόσια τριάκοντα, καὶ ἐγέννησεν υἱοὺς καὶ θυγατέρας, καὶ ἀπέθανεν.</div>
+  <div class="es"><span class="tag">Español</span>Y vivió Arfaxad ciento treinta y cinco años, y engendró a Cainán. Y vivió Arfaxad, después de engendrar a Cainán, cuatrocientos treinta años, y engendró hijos e hijas, y murió.</div>
+  <figcaption><b>Gn 11:12-13 (LXX)</b> · edición Brenton, PDF archive.org p. 15 <span class="st p">parcial</span>. Frente al hebreo: <span class="he" lang="he">וְאַרְפַּכְשַׁ֣ד חַ֔י חָמֵ֥שׁ וּשְׁלֹשִׁ֖ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־שָֽׁלַח׃</span> («Arfaxad vivió treinta y cinco años y engendró a Selá»).</figcaption>
+</figure>
+
+<!-- ============ O8 ============ -->
+<h2 id="o8">10. Objeción 8: Salatiel «hijo de Jeconías» (Mt) e «hijo de Nerí» (Lc)</h2>
+<div class="obj"><div class="kicker">La objeción</div><p>Las dos listas coinciden en Salatiel y Zorobabel, pero Mateo hace a Salatiel hijo de Jeconías y Lucas hijo de Nerí. Si son las mismas personas, hay otra contradicción. Si son distintas, la coincidencia es sospechosa.</p></div>
+<figure class="q">
+  <div class="orig gr" lang="grc"><span class="tag">Griego · Mt 1:12 y Lc 3:27 (WH 1881)</span>Μετὰ δὲ τὴν μετοικεσίαν Βαβυλῶνος Ἰεχονίας ἐγέννησεν τὸν Σαλαθιήλ, Σαλαθιὴλ δὲ ἐγέννησεν τὸν Ζοροβάβελ … τοῦ Ῥησά τοῦ Ζοροβάβελ τοῦ Σαλαθιήλ τοῦ Νηρεί</div>
+  <div class="es"><span class="tag">Español</span>Después de la deportación a Babilonia, Jeconías engendró a Salatiel, Salatiel engendró a Zorobabel… / …[hijo] de Resá, de Zorobabel, de Salatiel, de Nerí.</div>
+  <figcaption><b>Mt 1:12; Lc 3:27</b> · Westcott-Hort 1881, pp. 4 y 124 <span class="st v">verificado</span></figcaption>
+</figure>
+<div class="syl"><div class="kicker">Silogismo 14 · dos salidas, las dos con precedente</div>
+<ol>
+  <li>Si son personas distintas, los nombres Salatiel y Zorobabel no eran únicos. Lucas repite «José», «Matatías», «Melquí» y «Leví» en su propia lista, y nada obliga a identificarlos.</li>
+  <li>Si son las mismas personas, Salatiel tendría un padre natural y otro legal (Jeconías, «sin hijos» según Jer 22:30, pudo recibir un heredero de la línea de Natán). Y la Biblia hebrea ya da dos padres a Zorobabel: Salatiel (Esd 3:2) y Pedaías (1 Cr 3:19). Es el mismo tipo de doble filiación en el mismo punto de la misma familia.</li>
+</ol>
+<div class="c">Las dos hipótesis son coherentes con los datos. Ninguna obliga a ver contradicción.</div>
+<div class="form">Forma: disyunción exhaustiva con ambos miembros consistentes.</div></div>
+
+<!-- ============ TALMUD ============ -->
+<h2 id="talmud">11. El mito de «María hija de Elí» en el Talmud</h2>
+<p>Muchos libros apologéticos dicen que el Talmud llama a María «hija de Elí», lo que confirmaría a Lucas. Lo dicen Godet (que cita «Chagiga 77.4»), la Cyclopaedia de Kitto y otros. Lo comprobé en el texto del Talmud de Jerusalén, Hagigá 2:2 (Sefaria, edición Guggenheimer):</p>
+<figure class="q">
+  <div class="orig he" lang="he"><span class="tag">Arameo · Talmud de Jerusalén, Hagigá 2:2 (77d)</span>וַחֲמָא לְמִרְיָם בְּרַת עֲלֵי בְצָלִים. רִבִּי לָעְזָר בַּר יוֹסֵה אָמַר. תַּלְיָיא בְחִיטֵּי בִיזַיָיא.</div>
+  <div class="es"><span class="tag">Español</span>Y vio a <b>Miriam, hija de ʿAli Betzalim</b> [«hojas de cebolla»]. Rabí Eleazar bar Yosé dijo: colgaba de los pezones de sus pechos…</div>
+  <figcaption><b>y. Hagigá 2:2</b> (= y. Sanedrín 6:6 en Sefaria) · Sefaria; traducción inglesa de H. Guggenheimer: «Miriam, Onion-leaf's daughter» <span class="st v">verificado</span></figcaption>
+</figure>
+<div class="honest"><div class="kicker">Veredicto</div><p>El texto no nombra a Jesús, ni a David, ni a ninguna genealogía. «ʿAli» va unido a «betzalim» (cebollas), y en la historia es una mujer castigada en el más allá hasta que llegue Simeón ben Shétaj (siglo I a. C.). La identificación con María de Nazaret es una conjetura de John Lightfoot (s. XVII), y él mismo escribe: «which I would render thus, but shall willingly stand corrected if under a mistake». <b>No es prueba</b> y no la uso en ningún silogismo.</p></div>
+<figure class="scan">{{IMG lightfoot55.jpg|Lightfoot, Horae Hebraicae, Lucas, p. 55}}<figcaption><b>J. Lightfoot, <i>Horae Hebraicae et Talmudicae</i>, sobre Lucas 3:23 (vol. 3, p. 55).</b> Subrayado: «which I would render thus, but shall willingly stand corrected if under a mistake; He saw Mary the daughter of Heli…». Es el origen de la afirmación, presentada por su propio autor como conjetura.</figcaption></figure>
+
+<!-- ============ MAPA ============ -->
+<h2 id="mapa">12. Mapa de respuestas</h2>
+<div class="tw"><table>
+<thead><tr><th>Objeción</th><th>Respuesta principal</th><th>Testigo más antiguo</th><th>Fuerza</th></tr></thead>
+<tbody>
+<tr><td>1. Contradicción Jacob / Elí</td><td>Basta un modelo coherente: levirato, adopción, yerno, línea real y natural. Hay paridad con Zorobabel (1 Cr 3:19 / Esd 3:2).</td><td>Africano, hacia 220</td><td>Fuerte</td></tr>
+<tr><td>2. «Lucas por María es de 1500»</td><td>La fórmula explícita sí es de hacia 1490-1502, pero sus piezas son de los siglos II-VIII. Es una falacia genética, y la armonía no depende de esa fórmula.</td><td>Justino, <i>Diál.</i> 100.3, hacia 155</td><td>Fuerte; admite el dato de la fecha</td></tr>
+<tr><td>3. Solo José es de David</td><td>Filiación legal (m. BB 8:6; Sanh 19b; Mt 1:20-25) más descendencia según la carne por María (Rom 1:3; Lc 1:32).</td><td>Ignacio, Justino, Ireneo</td><td>Fuerte</td></tr>
+<tr><td>4. María levita</td><td>El parentesco no fija la tribu, y Aarón se casó con una mujer de Judá (Éx 6:23).</td><td>Eusebio; Agustín contra Fausto</td><td>Fuerte</td></tr>
+<tr><td>5. Jeconías</td><td>Dilema: o maldición levantada (Ag 2:23; Lev. Rabá 10:5), o recae en la «semilla», y Jesús no es semilla de José.</td><td>Ireneo, hacia 180</td><td>Fuerte</td></tr>
+<tr><td>6. Omisiones y 14 × 3</td><td>Convención del género (Esd 7 omite seis nombres) y esquema mnemónico.</td><td>Jerónimo; Crisóstomo</td><td>Fuerte; la cuenta de 41/42 queda abierta</td></tr>
+<tr><td>7. Cainán</td><td>Lucas sigue a la Septuaginta (Gn 10:24; 11:12-13).</td><td>Texto de los LXX</td><td>Fuerte</td></tr>
+<tr><td>8. Dos Salatieles</td><td>Personas distintas, o doble filiación con precedente en el mismo Zorobabel.</td><td>Africano (por analogía)</td><td>Media-fuerte</td></tr>
+<tr><td>«Talmud: María hija de Elí»</td><td>No se usa: es una conjetura de Lightfoot.</td><td>—</td><td>Descartado</td></tr>
+</tbody></table></div>
+
+<!-- ============ FUENTES ============ -->
+<h2 id="fuentes">13. Fuentes, método y límites</h2>
+<p><b>Método.</b> Ocho investigadores trabajaron en paralelo:</p>
+<ul>
+  <li>G1: Africano y Eusebio.</li>
+  <li>G2: la objeción de «1500».</li>
+  <li>G3: fuentes y ley judías.</li>
+  <li>G4: Jeconías.</li>
+  <li>G5: Mateo.</li>
+  <li>G6: Lucas.</li>
+  <li>G7: Padres sobre María.</li>
+  <li>G8: estudiosos.</li>
+</ul>
+<p>Reunieron 185 registros con texto original, traducción, edición y estado. Yo verifiqué en la imagen de la página estos testigos, y sus recortes están arriba:</p>
+<ul>
+  <li>Eusebio en el Loeb, Migne PG 22 e Ireneo en Harvey.</li>
+  <li>Mateo y Lucas en Westcott-Hort.</li>
+  <li>Justino (ANF y griego de la BKV) y Juan Damasceno (NPNF).</li>
+  <li>Plummer, Hervey, Lightfoot, Strauss y Machen.</li>
+</ul>
+<p>Los textos hebreos (Biblia, Misná, Talmud, midrás) los leí en Sefaria. Las traducciones al español son mías.</p>
+<p><b>Correcciones que hice a los investigadores y al encargo:</b></p>
+<ul>
+  <li>Un investigador afirmó que <i>Diálogo</i> 100 no menciona a David; sí lo menciona («of the family of David»).</li>
+  <li>El «Adán» de la ANF en <i>Diálogo</i> 100.3 es una enmienda; el manuscrito dice «Abrahán».</li>
+  <li>El «Miriam bat Eli» del Talmud existe en el texto, pero no se refiere a María. Los investigadores se contradecían en esto y lo resolví leyendo Sefaria.</li>
+  <li>Las fuentes rabínicas sí dicen que el arrepentimiento «anuló» el decreto sobre Jeconías (Pesikta 24:11; Levítico Rabá 10:5). Un investigador había escrito que ninguna lo decía.</li>
+  <li>La fecha de Annio es «hacia 1490» en Plummer y «1502» en la ANF.</li>
+</ul>
+<p><b>Lo que no pude comprobar:</b></p>
+<ul>
+  <li>El tratado pseudo-jeronimiano <i>De ortu Beatae Virginis</i>, ni el texto de Annio. Solo los conozco por Maldonado vía Hervey y por un índice.</li>
+  <li>El griego de Juan Damasceno y de Crisóstomo, ni el latín de las <i>Retractationes</i> de Agustín (solo la nota de NPNF).</li>
+  <li>El griego del Protoevangelio.</li>
+  <li>Hilario, Epifanio (<i>Panarion</i> 78), Nicolás de Lira, Teofilacto y Eutimio: no se leyeron, y alguno de ellos podría cambiar la fecha más antigua de la fórmula «María hija de Elí».</li>
+  <li>Los estudios modernos con derechos (R. Brown, <i>The Birth of the Messiah</i>; Fitzmyer; Marshall; M. D. Johnson; Bauckham).</li>
+</ul>
+<p>La crítica textual de Gn 11 (Cainán) y la cuenta exacta de Mateo (41/42) siguen discutidas.</p>
+
+<footer>
+  <p>Ediciones citadas:</p>
+  <ul>
+    <li>Westcott y Hort, <i>The New Testament in the Original Greek</i> (1881).</li>
+    <li>Eusebio, <i>Ecclesiastical History</i>, Loeb (K. Lake, 1926).</li>
+    <li>Migne, <i>Patrologia Graeca</i> 22.</li>
+    <li>Ireneo, ed. W. W. Harvey (Cambridge 1857).</li>
+    <li>ANF vols. 1, 3, 6 y 8; NPNF1 vols. 4, 6 y 10; NPNF2 vols. 1, 6 y 9.</li>
+    <li>Plummer, ICC Luke (1896); Godet, <i>Commentary on Luke</i>; Hervey, <i>The Genealogies of our Lord</i> (1853).</li>
+    <li>Lightfoot, <i>Horae Hebraicae</i>; Strauss, <i>Life of Jesus</i> (trad. Eliot); Robertson, <i>Harmony of the Gospels</i> (1922); Machen, <i>The Virgin Birth of Christ</i> (1930).</li>
+    <li>Sefaria: Biblia (JPS), Misná, Bavli (William Davidson), Yerushalmi (Guggenheimer), Vayikrá Rabá, Pesikta de-Rav Kahana.</li>
+    <li>Bibliothek der Kirchenväter (Justino).</li>
+  </ul>
+  <p>Escaneos de dominio público de archive.org y CCEL. Subrayados y traducciones propios.</p>
+</footer>
+</div>
