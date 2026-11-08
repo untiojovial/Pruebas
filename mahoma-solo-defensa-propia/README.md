@@ -1,6 +1,6 @@
 # ¿Mahoma solo luchó en defensa propia? (vídeo TikTok)
 
-Vídeo vertical 1080×1920, 8 min 13 s, en [`video/yihad_tiktok.mp4`](video/yihad_tiktok.mp4). Tiene monigotes en estilo dibujo (tinta con trazo temblón, acuarela y sombreado a plumilla), voz, subtítulos palabra a palabra y recortes de página con zoom a la frase subrayada.
+Vídeo vertical 1080×1920, 8 min 13 s, 65 MB, en [`video/yihad_tiktok.mp4`](video/yihad_tiktok.mp4). Tiene monigotes en estilo dibujo (tinta con trazo temblón, acuarela y sombreado a plumilla), voz, subtítulos palabra a palabra y recortes de página con zoom a la frase subrayada.
 
 Continúa la tesis de un TikTok en inglés (@yahxhazel). Ese vídeo trataba de los críticos asesinados: Ka'b ibn al-Ashraf, 'Asma' bint Marwan y Abu 'Afak. Este pasa a las guerras, las razias, los hadices, los tafsires y el derecho clásico, y se apoya solo en fuentes musulmanas, salvo Watt y los Evangelios.
 
