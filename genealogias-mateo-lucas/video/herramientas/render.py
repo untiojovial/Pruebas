@@ -4,12 +4,15 @@ import numpy as np
 from PIL import Image, ImageDraw
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from engine import *
-from script import SCENES
+from script import SCENES, VOICES
+import hashlib
+def hkey(spk,text):
+    v,r_,p=VOICES[spk]; return hashlib.sha1(f'{v}|{r_}|{p}|{text}'.encode()).hexdigest()[:12]
 
 FPS = 24
-GAP = 0.32      # pausa entre segmentos
-LEAD = 0.55     # entrada de escena
-TAIL = 0.45     # salida de escena
+GAP = 0.27      # pausa entre segmentos
+LEAD = 0.45     # entrada de escena
+TAIL = 0.40     # salida de escena
 PG = B + '/pg'
 
 # ---------- línea de tiempo ----------
@@ -23,10 +26,10 @@ def build_timeline():
         sc = dict(i=si, start=t, id=s['id'], title=s['title'], vis=s['vis'], segs=[])
         t += LEAD
         for gi, (spk, text) in enumerate(s['segs']):
-            key = f'{si:02d}_{gi}'
-            a, sr = wav_info(f'{B}/aud/{key}.wav')
+            key = hkey(spk, text)
+            a, sr = wav_info(f'{B}/audh/{key}.wav')
             dur = len(a) / sr
-            words = json.load(open(f'{B}/aud/{key}.json'))
+            words = json.load(open(f'{B}/audh/{key}.json'))
             # envolvente para la boca
             hop = int(sr / FPS); env = []
             for k in range(0, len(a), hop):
@@ -73,7 +76,7 @@ def img(name, w=None, crop=None):
     return IMGS[k]
 
 BG = dict(hook=(255, 236, 214), tree=(226, 238, 252), logic=(236, 232, 252), levir=(232, 246, 236), scan_euseb=(244, 238, 226), zoro=(252, 240, 222),
-          greek=(230, 242, 250), roads=(238, 246, 230), aaron=(250, 236, 236), jecon=(232, 232, 244), scan_ireneo=(244, 238, 226), y1500=(255, 232, 226),
+          greek=(230, 242, 250), roads=(238, 246, 230), aaron=(250, 236, 236), jecon=(232, 232, 244), scan_ireneo=(244, 238, 226), y1500=(255, 232, 226), scan_fort=(236, 244, 240),
           justino=(240, 236, 226), timeline=(232, 240, 250), omis=(244, 240, 228), cainan=(230, 244, 244), talmud=(250, 238, 230), end=(228, 244, 236))
 
 class Ctx:
@@ -379,18 +382,44 @@ def v_scan_ireneo(d, im, ctx):
 def v_y1500(d, im, ctx):
     if ctx.seg == 0 or ctx.talk('E'):
         esc(d, ctx, 230, 1340); bubble(d, 330, 960, 560, '¡Eso se inventó hacia el 1500!', tail=(280, 1080))
-    pA = ctx.on(1, 0.5)
-    if pA:
-        figure(d, 760, 1000, 0.7, PAL['brown'], 0, ctx.gt, 'Annio de Viterbo', ('hat', 'cloak'), phase=0.7)
-        pill(d, 760, slide(pA, 620), 'c. 1490', PAL['red'], F('title', 44))
-        if ctx.on(1, 5.0):
-            card(d, 70, slide(ctx.on(1, 5.0), 360), 560, ['Verdad: la FÓRMULA', '«Elí = padre de María»', 'no aparece antes.'], F('bold', 38), bg=(255, 248, 225), border=PAL['gold'])
-    p2 = ctx.on(2, 0.3)
+    pA = ctx.on(1, 0.3)
+    if pA and ctx.seg == 1:
+        figure(d, 500, 1000, 0.75, PAL['brown'], 0, ctx.gt, 'Annio de Viterbo', ('hat', 'cloak'), phase=0.7)
+        pill(d, 500, slide(pA, 600), 'c. 1490', PAL['brown'], F('title', 44))
+        card(d, 90, slide(pA, 360), 820, '«Lo inventó Annio de Viterbo»', F('title', 46), align='c')
+        if ctx.on(1, 4.2): stamp(d, 500, 1150, 'FALSO', PAL['red'], 90)
+    p2 = ctx.on(2, 0.2)
     if p2:
-        card(d, 70, slide(p2, 1060), 860, ['tarde ≠ falso  (falacia genética)'], F('title', 44), title='1 · La conclusión no se sigue', tfont=F('title', 32), tcolor=PAL['purple'], align='c')
-    if ctx.on(2, 5.0):
-        pill(d, 500, 1300, '2 · Las piezas son antiquísimas →', PAL['green'], F('bold', 38))
-    if ctx.seg >= 1: nar(d, ctx, 200, 1400, 0.55, face=1)
+        figure(d, 250, 1050, 0.8, PAL['teal'], 0, ctx.gt, 'Fortunaciano', ('beard', 'mitre', 'cloak'), phase=0.3)
+        pill(d, 250, slide(p2, 560), 'c. 350', PAL['teal'], F('title', 48))
+        card(d, 430, slide(p2, 400), 500, ['obispo de Aquilea', '(Italia)'], F('bold', 38), title='Fortunaciano', tfont=F('title', 40), tcolor=PAL['teal'])
+    if ctx.on(2, 6.0):
+        card(d, 430, slide(ctx.on(2, 6.0), 680), 500, ['Comentario a los Evangelios', 'perdido > 1000 años', 'redescubierto en 2012', '(Colonia, Dombibl. 17)'], F('bold', 32), bg=(255, 248, 225), border=PAL['gold'])
+    if ctx.seg >= 1: nar(d, ctx, 820, 1400, 0.55)
+
+def v_scan_fort(d, im, ctx):
+    p = ctx.on(0, -0.3)
+    sim = img('fort32.jpg', 860, (150, 690, 820, 870))
+    y = int(slide(p, 330))
+    rrect(d, (52, y - 14, 52 + 896, y + sim.height + 14), 20, (255, 255, 255), INK, 5)
+    im.paste(sim, (70, y))
+    sim2 = img('fort33.jpg', 860, (150, 120, 820, 200))
+    im.paste(sim2, (70, y + sim.height + 2))
+    yb = y + sim.height + sim2.height
+    d.text((500, yb + 40), 'Fortunaciano, Coment. Evang., M. long. I · trad. Houghton 2017, pp. 6-7', font=F('semi', 27), fill=INK, anchor='mm')
+    if ctx.seg >= 1:
+        p1 = ctx.on(1, 0.0)
+        card(d, 70, slide(p1, yb + 80), 860, ['«MUCHOS» · siglo IV', 'él la rechaza: prefiere el levirato'], F('bold', 40), bg=(255, 248, 225), border=PAL['gold'], align='c')
+    if ctx.seg >= 2:
+        p2 = ctx.on(2, 0.0)
+        e = img('ensayo2021.jpg', 860, (340, 0, 1080, 550))
+        e = e.resize((560, int(e.height * 560 / e.width)))
+        yy = int(slide(p2, 960))
+        rrect(d, (212, yy - 10, 212 + 576, yy + e.height + 10), 16, (255, 255, 255), INK, 4)
+        im.paste(e, (220, yy))
+        d.text((500, yy + e.height + 34), 'Verheyden–Nicklas (eds.), Early Christian Commentators, 2021', font=F('semi', 26), fill=INK, anchor='mm')
+    figure(d, 150, 1400, 0.6, PAL['teal'], ctx.talk('P'), ctx.gt, 'Fortunaciano', ('beard', 'mitre', 'cloak'), arms='up' if ctx.talk('P') else None, phase=0.6)
+    nar(d, ctx, 860, 1400, 0.55)
 
 def v_justino(d, im, ctx):
     figure(d, 180, 1000, 0.8, PAL['gold'], ctx.talk('P'), ctx.gt, 'Justino', ('beard', 'cloak'), arms='up' if ctx.talk('P') else None, phase=0.6)
@@ -421,21 +450,21 @@ def v_timeline(d, im, ctx):
              (0, 0.6, '180', 'Ireneo', '«ella misma del linaje de David»', PAL['gold'], ('mitre',)),
              (0, 3.4, '210', 'Tertuliano', '«Maria ex David»', PAL['gold'], ()),
              (1, 0.3, 's. IV', 'Eusebio · Jerónimo · Crisóstomo', 'la genealogía de José muestra la de María', PAL['teal'], ('beard',)),
+             (1, 4.0, '350', 'Fortunaciano de Aquilea', '«muchos»: Lucas = genealogía de María', PAL['green'], ('mitre',)),
              (2, 0.3, '743', 'Juan Damasceno', 'María por Natán, familia de Elí', PAL['purple'], ('beard',)),
-             (3, 0.3, 'c. 1490', 'Annio de Viterbo', 'fórmula explícita', PAL['red'], ('hat',))]
+             (3, 6.5, 'c. 1490', 'Annio de Viterbo', '¿«inventor»? Falso', PAL['red'], ('hat',))]
     for k, (sg, dt, yr, who, what, c, acc) in enumerate(items):
         p = ctx.on(sg, dt)
         if not p: continue
-        y = 400 + k * 160
+        y = 390 + k * 138
         xx = x0 + (1 - p) * -60
         d.ellipse((x0 - 16, y - 16, x0 + 16, y + 16), fill=c, outline=INK, width=4)
         d.text((x0 - 30, y), yr, font=F('title', 34), fill=c, anchor='rm')
         figure(d, x0 + 90, y + 70, 0.36, c, 0, ctx.gt, None, acc, phase=k)
         d.text((x0 + 160, y - 22), who, font=F('title', 38), fill=INK, anchor='lm')
         d.text((x0 + 160, y + 24), what, font=F('semi', 32), fill=mix(INK, (255, 255, 255), 0.2), anchor='lm')
-    if ctx.on(3, 3.0):
-        pill(d, 680, 1295, 'piezas: siglos II–VIII', PAL['green'], F('bold', 32))
-        stamp(d, 470, 1385, 'Africano (c. 220) no la necesita', PAL['green'], 40)
+    if ctx.on(3, 9.0):
+        stamp(d, 470, 1400, 'Africano (c. 220) no la necesita', PAL['green'], 40)
 
 def v_omis(d, im, ctx):
     if ctx.seg == 0 or ctx.talk('E'):
@@ -497,7 +526,7 @@ def v_talmud(d, im, ctx):
     nar(d, ctx, 500, 1390, 0.65)
 
 def v_end(d, im, ctx):
-    items = ['No hay contradicción: padre natural y legal', 'Hijo de David por ley (José) y por carne (María)', 'Jeconías: dilema sin salida para la objeción', '«1500» = solo la fórmula; piezas de los s. II-VIII']
+    items = ['No hay contradicción: padre natural y legal', 'Hijo de David por ley (José) y por carne (María)', 'Jeconías: dilema sin salida para la objeción', '«1500» es falso: c. 350 «muchos» ya leían Lucas = María']
     for k, t in enumerate(items):
         sg = 0 if k == 0 else (1 if k == 1 else 2)
         dt = 0.3 if k != 3 else 4.2
@@ -513,7 +542,7 @@ def v_end(d, im, ctx):
     nar(d, ctx, 500, 1420, 0.75, arms='up' if ctx.seg == 3 else None)
 
 VIS = dict(hook=v_hook, tree=v_tree, logic=v_logic, levir=v_levir, scan_euseb=v_scan_euseb, zoro=v_zoro, greek=v_greek, roads=v_roads, aaron=v_aaron,
-           jecon=v_jecon, scan_ireneo=v_scan_ireneo, y1500=v_y1500, justino=v_justino, timeline=v_timeline, omis=v_omis, cainan=v_cainan, talmud=v_talmud, end=v_end)
+           jecon=v_jecon, scan_ireneo=v_scan_ireneo, y1500=v_y1500, scan_fort=v_scan_fort, justino=v_justino, timeline=v_timeline, omis=v_omis, cainan=v_cainan, talmud=v_talmud, end=v_end)
 
 SPK_COL = dict(N=PAL['blue'], E=PAL['red'], P=PAL['gold'])
 def captions(d, sc, ctx):
@@ -568,7 +597,7 @@ def mix_audio(T, total, sr=48000):
     out = np.zeros(int((total + 1) * sr), dtype=np.float32)
     for sc in T:
         for g in sc['segs']:
-            a, _ = wav_info(f"{B}/aud/{g['key']}.wav")
+            a, _ = wav_info(f"{B}/audh/{g['key']}.wav")
             i = int(g['t0'] * sr); out[i:i + len(a)] += a
     out = np.clip(out * 0.95, -1, 1)
     w = wave.open(f'{B}/out/voz.wav', 'wb'); w.setnchannels(1); w.setsampwidth(2); w.setframerate(sr)

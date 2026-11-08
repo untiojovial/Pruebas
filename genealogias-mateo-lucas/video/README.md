@@ -1,8 +1,8 @@
 # Vídeo TikTok: «¿José tenía dos padres?»
 
-`genealogias_tiktok.mp4`: 8 min 58 s, vertical 1080×1920, 24 fps, H.264 + AAC, audio normalizado a unos −14 LUFS.
+`genealogias_tiktok.mp4`: 9 min 11 s (versión 2, con Fortunaciano de Aquilea, hacia 350), vertical 1080×1920, 24 fps, H.264 + AAC, audio normalizado a unos −14 LUFS.
 
-- **Contenido:** 18 escenas con monigotes que resumen el estudio de las genealogías (`../genealogias_mateo_lucas.html`).
+- **Contenido:** 19 escenas con monigotes que resumen el estudio de las genealogías (`../genealogias_mateo_lucas.html`).
 - **Voces sintéticas de Microsoft Edge (edge-tts):** narrador es-ES Álvaro, escéptico es-MX Jorge, Padres citados es-CO Gonzalo.
 - **Subtítulos:** quemados en el vídeo y sincronizados por palabra; la palabra que se pronuncia sale en color.
 - **Recortes de página:** Eusebio (Loeb), Ireneo (Harvey), Westcott-Hort y Strauss.

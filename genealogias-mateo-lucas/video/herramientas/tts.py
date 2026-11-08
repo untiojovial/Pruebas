@@ -1,11 +1,13 @@
-import certifi, asyncio, json, os, subprocess, sys
+import certifi, asyncio, json, os, subprocess, sys, hashlib
 certifi.where = lambda: '/root/.ccr/ca-bundle.crt'
 import edge_tts
 sys.path.insert(0,'.')
 from script import SCENES, VOICES
-os.makedirs('aud',exist_ok=True)
+os.makedirs('audh',exist_ok=True)
+def hkey(spk,text):
+    v,r,p=VOICES[spk]; return hashlib.sha1(f'{v}|{r}|{p}|{text}'.encode()).hexdigest()[:12]
 async def one(key,spk,text):
-    mp3=f'aud/{key}.mp3'; js=f'aud/{key}.json'
+    mp3=f'audh/{key}.mp3'; js=f'audh/{key}.json'
     if os.path.exists(js) and os.path.getsize(mp3)>0: return
     v,r,p=VOICES[spk]
     for attempt in range(4):
@@ -22,12 +24,13 @@ async def one(key,spk,text):
 async def main():
     for si,s in enumerate(SCENES):
         for gi,(spk,text) in enumerate(s['segs']):
-            await one(f'{si:02d}_{gi}',spk,text)
+            await one(hkey(spk,text),spk,text)
 asyncio.run(main())
 tot=0
-for f in sorted(os.listdir('aud')):
-    if f.endswith('.mp3'):
-        subprocess.run(['ffmpeg','-y','-loglevel','error','-i','aud/'+f,'-ar','48000','-ac','1','aud/'+f[:-4]+'.wav'])
-        d=float(subprocess.run(['ffprobe','-v','error','-show_entries','format=duration','-of','csv=p=0','aud/'+f[:-4]+'.wav'],capture_output=True,text=True).stdout)
-        tot+=d
+for si,s in enumerate(SCENES):
+    for gi,(spk,text) in enumerate(s['segs']):
+        k=hkey(spk,text)
+        if not os.path.exists(f'audh/{k}.wav'):
+            subprocess.run(['ffmpeg','-y','-loglevel','error','-i',f'audh/{k}.mp3','-ar','48000','-ac','1',f'audh/{k}.wav'])
+        tot+=float(subprocess.run(['ffprobe','-v','error','-show_entries','format=duration','-of','csv=p=0',f'audh/{k}.wav'],capture_output=True,text=True).stdout)
 print('total seconds',round(tot,1),'min',round(tot/60,2))

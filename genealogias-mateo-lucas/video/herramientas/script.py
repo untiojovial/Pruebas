@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # Guion del vídeo: escenas con segmentos (hablante, texto). N = narrador, E = escéptico, P = Padre citado.
-VOICES = {'N': ('es-ES-AlvaroNeural', '+11%', '+0Hz'), 'E': ('es-MX-JorgeNeural', '+9%', '+0Hz'), 'P': ('es-CO-GonzaloNeural', '-4%', '-4Hz')}
+VOICES = {'N': ('es-ES-AlvaroNeural', '+14%', '+0Hz'), 'E': ('es-MX-JorgeNeural', '+9%', '+0Hz'), 'P': ('es-CO-GonzaloNeural', '-4%', '-4Hz')}
 SCENES = [
  dict(id='hook', title='¿José tenía DOS padres?', vis='hook', segs=[
   ('E', '¡Las genealogías de Jesús se contradicen! Mateo dice que el padre de José es Jacob. Lucas dice que es Elí. ¡Un hombre no puede tener dos padres!'),
@@ -26,7 +26,7 @@ SCENES = [
  ]),
  dict(id='euseb', title='Eusebio lo conserva', vis='scan_euseb', segs=[
   ('P', 'Jacob engendró a José, hijo suyo por naturaleza; pero según la ley, era hijo de Elí.'),
-  ('N', 'Lo cuenta Eusebio de Cesarea, en su Historia de la Iglesia. Y ojo: Africano es honesto. Admite que no tiene documentos que lo prueben. Pero no hace falta probar cada eslabón. Basta con mostrar que es posible.'),
+  ('N', 'Lo conserva Eusebio de Cesarea. Y Africano es honesto: admite que no tiene documentos que lo prueben. Pero basta con mostrar que es posible.'),
  ]),
  dict(id='zoro', title='La Biblia hebrea hace lo mismo', vis='zoro', segs=[
   ('N', '¿Te parece raro un hombre con dos padres? La propia Biblia hebrea lo hace. Esdras y Ageo llaman a Zorobabel hijo de Salatiel. Primero de Crónicas lo llama hijo de Pedaías.'),
@@ -61,11 +61,16 @@ SCENES = [
  ]),
  dict(id='y1500', title='¿Un invento del año 1500?', vis='y1500', segs=[
   ('E', 'Bueno, ¿y lo de que Lucas da la línea de María? ¡Eso se lo inventaron hacia el mil quinientos!'),
-  ('N', 'Vamos a ser honestos. La frase exacta, la lista de Lucas es la de María, y Elí es su padre, no la he encontrado antes de Annio de Viterbo, hacia el mil cuatrocientos noventa. Eso es verdad.'),
-  ('N', 'Pero la conclusión no se sigue. Primero: que una idea se formule tarde no la hace falsa. Eso es una falacia genética. Segundo: las piezas de esa idea son antiquísimas.'),
+  ('N', 'Se repite mucho que esa idea la inventó Annio de Viterbo, hacia el mil cuatrocientos noventa. Pues es falso.'),
+  ('N', 'Hacia el año trescientos cincuenta, Fortunaciano, obispo de Aquilea, en Italia, escribió un comentario a los evangelios. Estuvo perdido más de mil años, hasta que se redescubrió en un manuscrito de Colonia en dos mil doce. Y dice esto:'),
+ ]),
+ dict(id='fortun', title='Fortunaciano, año 350', vis='scan_fort', segs=[
+  ('P', 'Muchos intérpretes quieren que la genealogía que da Mateo se tenga por la de José, y la que da Lucas, por la de María.'),
+  ('N', 'Muchos. En el siglo cuarto. Más de mil cien años antes de Annio. Fortunaciano no la sigue: él prefiere la ley del levirato, como Africano. Pero da fe de que muchos la defendían.'),
+  ('N', 'Y un estudio de dos mil veintiuno sobre Fortunaciano opina que entre esos muchos estaban, sin duda, Justino Mártir e Ireneo de Lyon. Eso lo deduce el estudioso; el obispo no da nombres.'),
  ]),
  dict(id='justino', title='Justino Mártir, año 155', vis='justino', segs=[
-  ('N', 'Hacia el año ciento cincuenta y cinco, Justino Mártir dice que la Virgen es del linaje de David, Jacob, Isaac y Abrahán. Habla de los antepasados enumerados de los que María trae su linaje. Y añade:'),
+  ('N', 'Y es verosímil: hacia el año ciento cincuenta y cinco, Justino Mártir dice que la Virgen es del linaje de David, Jacob, Isaac y Abrahán. Habla de los antepasados enumerados de los que María trae su linaje. Y añade:'),
   ('P', 'Sabemos que los padres de las mujeres son también padres de los hijos que dan a luz sus hijas.'),
   ('N', 'Hasta el crítico alemán Strauss, nada sospechoso, reconoce que Justino aplicaba a María una de las genealogías.'),
  ]),
@@ -73,13 +78,13 @@ SCENES = [
   ('N', 'Hacia el ciento ochenta, Ireneo: María es del linaje de David. Hacia el doscientos diez, Tertuliano, lo mismo.'),
   ('N', 'En el siglo cuarto, Eusebio, Jerónimo y Crisóstomo explican que la genealogía de José muestra también el origen de María, porque la ley mandaba casarse dentro de la tribu.'),
   ('N', 'Y en el siglo octavo, Juan Damasceno hace descender a María de Natán, la rama de Lucas, y la pone en la misma familia que Elí.'),
-  ('N', 'Lo que aparece hacia el mil quinientos es solo la combinación explícita. Y la explicación cristiana más antigua, la de Africano, ni siquiera la necesita.'),
+  ('N', 'Y hacia el trescientos cincuenta, Fortunaciano da fe de que muchos leían a Lucas como la genealogía de María. Lo del mil quinientos, por tanto, es falso. Y la explicación más antigua, la de Africano, ni siquiera la necesita.'),
  ]),
  dict(id='omis', title='¿Mateo se salta reyes?', vis='omis', segs=[
   ('E', '¡Mateo se salta reyes! Ocozías, Joás, Amasías... ¡y luego dice catorce, catorce y catorce!'),
   ('N', 'Los omite, es verdad. Pero en las genealogías bíblicas, hijo de significa descendiente de. Esdras se llama hijo de Seraías, que murió más de un siglo antes. Y la lista de Esdras se salta seis generaciones de la de Crónicas.'),
   ('N', 'Mateo hace tres bloques de catorce para memorizar. Y catorce es el valor de David en hebreo: dálet, vav, dálet. Cuatro, seis, cuatro.'),
-  ('N', 'Un detalle honesto: contando, salen cuarenta y un nombres, no cuarenta y dos. Cómo contaba Mateo exactamente se sigue discutiendo.'),
+  ('N', 'Un detalle honesto: salen cuarenta y un nombres, no cuarenta y dos, y se sigue discutiendo cómo contaba Mateo.'),
  ]),
  dict(id='cainan', title='¿Y Cainán?', vis='cainan', segs=[
   ('E', '¿Y Cainán? Lucas mete un Cainán que no está en el Génesis.'),
@@ -92,7 +97,7 @@ SCENES = [
  dict(id='end', title='Resumen', vis='end', segs=[
   ('N', 'Resumen. Uno: no hay contradicción lógica. Hay paternidad natural y legal.'),
   ('N', 'Dos: Jesús es hijo de David por la ley, a través de José, y por la carne, a través de María.'),
-  ('N', 'Tres: la maldición de Jeconías cae en un dilema. Cuatro: lo del mil quinientos es solo la fórmula. Sus piezas son de los siglos segundo al octavo.'),
+  ('N', 'Tres: la maldición de Jeconías cae en un dilema. Cuatro: lo del mil quinientos es falso. En el siglo cuarto, muchos ya leían a Lucas como la genealogía de María.'),
   ('N', 'Si te ha servido, compártelo con quien te ponga esta objeción. Y si quieres las fuentes, con sus páginas, pídelas en comentarios.'),
  ]),
 ]

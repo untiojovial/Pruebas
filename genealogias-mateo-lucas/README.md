@@ -7,13 +7,13 @@ Página HTML en español: [`genealogias_mateo_lucas.html`](genealogias_mateo_luc
 - Las cuatro explicaciones históricas: levirato (Julio Africano, hacia 220), adopción (Agustín), «Lucas por María», línea real y natural.
 - Ocho objeciones con 14 silogismos: contradicción; «Lucas por María es de 1500»; «solo José es de David»; María levita; maldición de Jeconías; omisiones y 14 × 3; Cainán; dos Salatieles.
 - Línea temporal de testigos (siglos II-XVI) y el mito del Talmud «María hija de Elí».
-- 16 recortes subrayados: Westcott-Hort, Eusebio (Loeb y Migne PG 22), Ireneo (Harvey), Justino, Juan Damasceno, Jerónimo, Crisóstomo, Plummer, Hervey, Strauss, Machen y Lightfoot.
+- 19 recortes subrayados: Fortunaciano (Houghton 2017) y el ensayo de 2021, Westcott-Hort, Eusebio (Loeb y Migne PG 22), Ireneo (Harvey), Justino, Juan Damasceno, Jerónimo, Crisóstomo, Plummer, Hervey, Strauss, Machen y Lightfoot.
 
 ## Veredicto
 - No hay contradicción lógica entre las dos listas.
 - Jesús es hijo de David por la ley (José) y según la carne (María).
 - La maldición de Jeconías cae en un dilema que la deja sin efecto.
-- La fórmula explícita «Elí es el padre de María» no aparece antes de Annio de Viterbo (hacia 1490-1502), pero todas sus piezas están en los siglos II-VIII. Destaca Justino, *Diálogo* 100.3: María «trae su linaje» de los enumerados, y «los padres de las mujeres son padres de los hijos de sus hijas». La explicación de Africano no la necesita.
+- «Lucas por María» no es un invento de 1500. Hacia el 350, Fortunaciano de Aquilea (*Comentario a los Evangelios*, redescubierto en 2012; trad. Houghton 2017, pp. 6-7) escribe que «muchos intérpretes» quieren que la genealogía de Mateo sea la de José y la de Lucas la de María. Él la rechaza y prefiere el levirato. Sus piezas están en los siglos II-VIII. Destaca Justino, *Diálogo* 100.3: María «trae su linaje» de los enumerados, y «los padres de las mujeres son padres de los hijos de sus hijas». La explicación de Africano ni siquiera la necesita.
 - El «María hija de Elí» del Talmud es una conjetura de Lightfoot y no se usa.
 
 ## Cómo se hizo
