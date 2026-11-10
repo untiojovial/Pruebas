@@ -1,10 +1,39 @@
-# ¿Mahoma solo luchó en defensa propia? (vídeo TikTok)
+# ¿Mahoma solo luchó en defensa propia? (vídeos TikTok)
 
-Vídeo vertical 1080×1920, 8 min 13 s, 65 MB, en [`video/yihad_tiktok.mp4`](video/yihad_tiktok.mp4). Tiene monigotes en estilo dibujo (tinta con trazo temblón, acuarela y sombreado a plumilla), voz, subtítulos palabra a palabra y recortes de página con zoom a la frase subrayada.
+Dos vídeos verticales (1080×1920) con el mismo guion y las mismas fuentes:
 
-Continúa la tesis de un TikTok en inglés (@yahxhazel). Ese vídeo trataba de los críticos asesinados: Ka'b ibn al-Ashraf, 'Asma' bint Marwan y Abu 'Afak. Este pasa a las guerras, las razias, los hadices, los tafsires y el derecho clásico, y se apoya solo en fuentes musulmanas, salvo Watt y los Evangelios.
+| Vídeo | Formato | Archivo |
+|-------|---------|---------|
+| **Versión 2 (la actual)** | Papel recortado, al estilo del vídeo de referencia que pasó el usuario | [`video/defensa_papel.mp4`](video/defensa_papel.mp4) · 8 min 52 s (en render) |
+| Versión 1 | Monigotes dibujados a tinta y acuarela | [`video/yihad_tiktok.mp4`](video/yihad_tiktok.mp4) · 8 min 13 s · 65 MB |
 
-**Mahoma no aparece dibujado.** En las escenas solo salen sus compañeros, las caravanas, los ejércitos, un narrador y un objetor.
+Continúan la tesis de un TikTok en inglés (@yahxhazel). Ese vídeo trataba de los críticos asesinados: Ka'b ibn al-Ashraf, 'Asma' bint Marwan y Abu 'Afak. Estos pasan a las guerras, las razias, los hadices, los tafsires y el derecho clásico, y se apoyan solo en fuentes musulmanas, salvo Watt y los Evangelios.
+
+**Mahoma no aparece dibujado** en ninguna de las dos versiones. En las escenas solo salen sus compañeros, las caravanas, los ejércitos, los comentaristas, un narrador y un objetor.
+
+## Versión 2: formato «papel recortado»
+
+Rehace el vídeo entero imitando el formato de un vídeo de referencia (1 min 54 s) que pasó el usuario. Lleva toda la información de la versión 1.
+
+**Qué se ha copiado del formato**
+- **Dibujo**: figuras de papel recortado por capas (abrigo abierto, túnica con ribete dorado, cabeza redondeada sin rostro, turbante), con contorno oscuro, grano de papel y sombra proyectada. Fondos de desierto en degradado, suelo de tablas, viñeta y motas de polvo flotando.
+- **Pantalla**: escena arriba y panel de papel abajo, con el subtítulo en mayúsculas condensadas, una raya, la fuente en letra pequeña y una cinta negra que se desliza.
+- **Subtítulos**: la frase aparece en gris y cada palabra se oscurece al decirse; las palabras clave se ponen en rojo.
+- **Recursos**: rótulos negros y rojos torcidos, palabra gigante en rojo con flecha curva, tarjeta de cita con comillas rojas, cursiva y marcador amarillo, hojas con marco blanco y cinta adhesiva, tablero de calendario con hoja que se arranca, mapa clavado en un tablero, balanza, botones con cursor.
+- **Animación**: los elementos caen, rebotan o entran deslizándose al ritmo de la palabra que se dice; corte con desenfoque y golpe de zoom entre planos; barrido lateral con desenfoque entre escenas; acercamiento lento continuo.
+- **Voz**: un solo narrador masculino grave. El original ronda los 100 Hz de tono y 2,5 palabras por segundo; aquí se usa la voz española `es-ES-AlvaroNeural` bajada de tono (108 Hz, 2,5 palabras por segundo).
+- **Sonido**: fondo musical grave con golpes y soplidos en los cortes, sintetizado desde cero.
+
+**Qué no se ha copiado, y por qué**
+- El nombre del canal, su usuario, la marca de agua, el panel de «seguir» y los logotipos de redes del original: son la identidad de otro creador. La cinta inferior lleva el título del vídeo («¿Solo en defensa propia? · Lo que dicen las fuentes islámicas»).
+- La música del original: no se puede reutilizar; el fondo es propio.
+- La voz exacta: es otra voz sintética. Se ha buscado la más parecida entre las disponibles, sin poder compararlas de oído.
+- Los camellos y fotos reales del original: aquí los camellos son también de papel recortado, y en lugar de fotos salen los recortes reales de las páginas citadas.
+
+**Diferencias de guion respecto a la versión 1**
+- Un solo narrador en lugar de tres voces. La objeción la introduce el narrador («Eso te dirán», «Te responderán»).
+- El cierre añade una pregunta al espectador, como en el original: «¿de verdad fue todo en defensa propia? Comenta tu postura».
+- El resto del texto, las citas y las cifras son los mismos.
 
 ## Guion (15 escenas)
 
@@ -23,7 +52,7 @@ Continúa la tesis de un TikTok en inglés (@yahxhazel). Ese vídeo trataba de l
 | 11 | El versículo de la espada (9:5) y al-Qurtubi sobre 2:193 | Ibn Kathir vol. 4; al-Qurtubi (quran.com) |
 | 12 | Derecho clásico | *Reliance of the Traveller* o9.8-o9.9; Ibn Qudama; Ibn Rushd |
 | 13 | La objeción coránica (2:190, 22:39) y la respuesta | Ibn Kathir; Watt, *Muhammad at Medina* (1956) p. 231; Ibn Sa'd |
-| 14 | Jesús: Mt 26:52, Jn 18:36, Lc 9:54-56 | — |
+| 14 | Jesús: Mt 26:52, Jn 18:36, Lc 9:54-56 | Evangelios |
 | 15 | Resumen y cierre respetuoso | — |
 
 ## Lo que se concede (por honradez)
@@ -48,6 +77,7 @@ Continúa la tesis de un TikTok en inglés (@yahxhazel). Ese vídeo trataba de l
 - **Tabuk**: los 30.000 hombres salen de la misma página de Ibn Kathir. Los «~700 km» son la distancia aproximada Medina-Tabuk, no una cita.
 - **Ibn Sa'd** (*Tabaqat*, vol. 2, trad. inglesa) da 27 expediciones dirigidas y 47 enviadas, con combate en 9.
 - **Moderación de TikTok**: el guion dice «matar» y «matad» porque cita las fuentes. El vídeo original usaba «unalive» para esquivar el filtro, así que existe riesgo de que lo limiten.
+- **Lucas 9:55-56**: la frase «el Hijo del Hombre no ha venido a destruir vidas, sino a salvarlas» falta en los manuscritos griegos más antiguos; figura en muchos posteriores, en el Textus Receptus y en la Vulgata clementina. El vídeo original en inglés también la usa.
 - **Traducciones al español**: son propias, hechas desde el inglés de Guillaume, Muhsin Khan, Ibn Kathir (Darussalam), Keller y Watt. Para al-Qurtubi se partió del árabe.
 
 ## Cómo se hizo
@@ -63,10 +93,18 @@ Continúa la tesis de un TikTok en inglés (@yahxhazel). Ese vídeo trataba de l
 
   Hay unos 230 registros en `herramientas/datos_agentes/` y los encargos están en `herramientas/briefs_agentes/`.
 - **Páginas**: las clave las verifiqué yo en imagen antes de recortarlas. Están en `paginas/`, a resolución de vídeo.
-- **Herramientas** (`herramientas/`):
+- **Herramientas de la versión 1** (`herramientas/`):
   - `script.py`: guion y voces;
   - `tts.py`: voz con edge-tts y tiempos por palabra;
   - `sketch.py`: motor de dibujo;
   - `render2.py`: escenas, zoom a la frase subrayada, subtítulos y montaje;
   - `hl.py` y `caps.py`: subrayado de frases en PDF;
   - `webshot.js`: capturas de quran.com.
+- **Herramientas de la versión 2** (`herramientas/papel/`):
+  - `script3.py`: guion para un narrador, con las palabras clave marcadas;
+  - `tts3.py`: voz y tiempos por palabra;
+  - `paper.py`: motor de papel recortado (figuras, objetos, fondos, rótulos, tarjetas, panel inferior);
+  - `render3.py`: línea de tiempo, coreografía de las 15 escenas, transiciones, sonido y montaje;
+  - `pv.py` y `seq.py`: vistas previas;
+  - `fonts/`: Bebas Neue, Anton y Lora (licencia SIL OFL 1.1).
+- **Recortes en alta resolución** para el zoom: `paginas_hd/`.
