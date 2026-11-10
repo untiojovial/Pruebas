@@ -5,6 +5,7 @@ Dos vídeos verticales (1080×1920) con el mismo guion y las mismas fuentes:
 | Vídeo | Formato | Archivo |
 |-------|---------|---------|
 | **Versión 2 (la actual)** | Papel recortado, al estilo del vídeo de referencia que pasó el usuario | [`video/defensa_papel.mp4`](video/defensa_papel.mp4) · 8 min 52 s · 76 MB |
+| **Corto: «¿Qué pasó con los poetas?»** | Papel recortado, 3 min 36 s | [`video/poetas_papel.mp4`](video/poetas_papel.mp4) |
 | Versión 1 | Monigotes dibujados a tinta y acuarela | [`video/yihad_tiktok.mp4`](video/yihad_tiktok.mp4) · 8 min 13 s · 65 MB |
 
 Continúan la tesis de un TikTok en inglés (@yahxhazel). Ese vídeo trataba de los críticos asesinados: Ka'b ibn al-Ashraf, 'Asma' bint Marwan y Abu 'Afak. Estos pasan a las guerras, las razias, los hadices, los tafsires y el derecho clásico, y se apoyan solo en fuentes musulmanas, salvo Watt y los Evangelios.
@@ -34,6 +35,35 @@ Rehace el vídeo entero imitando el formato de un vídeo de referencia (1 min 54
 - Un solo narrador en lugar de tres voces. La objeción la introduce el narrador («Eso te dirán», «Te responderán»).
 - El cierre añade una pregunta al espectador, como en el original: «¿de verdad fue todo en defensa propia? Comenta tu postura».
 - El resto del texto, las citas y las cifras son los mismos.
+
+## Corto: «¿Qué pasó con los poetas?»
+
+Vídeo breve en el mismo formato de papel recortado, sobre los críticos que el vídeo largo solo menciona.
+
+| Caso | Fuente (página comprobada en imagen) |
+|------|--------------------------------------|
+| Ka'b ibn al-Ashraf: viaja a La Meca, llora en verso a los muertos de Badr y compone versos ofensivos sobre las musulmanas | Ibn Ishaq (Guillaume), pp. 365 y 367 |
+| «¿Quién matará a Ka'b…?», con permiso para engañarlo | Bujari 4037 (Muhsin Khan) |
+| «¡Golpead al enemigo de Dios!» y «Matad a cualquier judío…» (muerte de Ibn Sunayna) | Guillaume pp. 368-369 |
+| Abu Afak: «¿Quién se ocupará de este canalla por mí?» | Guillaume p. 675 |
+| Asma bint Marwán: «¿Quién me librará de la hija de Marwán?», «Has ayudado a Dios y a su apóstol», «Ni dos cabras…» | Guillaume p. 676 |
+| Las dos cantoras de La Meca: una muerta, otra con inmunidad | Guillaume p. 551 |
+| El ciego que mató a su esclava | Abu Dawud 4361 |
+| «No mata a quien acude a él arrepentido»; perdón de Ka'b ibn Zuhayr | Guillaume pp. 597-598 |
+| Jesús | Mateo 5:44; 1 Pedro 2:23 |
+
+**Lo que se concede en el corto**
+- Ka'b no era solo un poeta: animaba a Quraysh después de Badr.
+- Los relatos de Abu Afak y de Asma están en Ibn Ishaq sin cadena de transmisores, y muchos estudiosos musulmanes los rechazan por débiles. El de Ka'b sí está en Bujari y en Muslim.
+- Ibn Ishaq dice que no mataba al que acudía arrepentido, y una de las cantoras obtuvo inmunidad.
+
+**Límites del corto**
+- **Debilidad de los relatos de Abu Afak y Asma**: la falta de cadena se ve en la propia página de Ibn Ishaq. Que muchos estudiosos los rechacen lo afirmo de conocimiento general; los investigadores no lo documentaron con cita.
+- **Abu Dawud 4361**: el texto del espejo estaba cortado antes de la frase final. La traducción «por su sangre no se debe nada» la doy de memoria del árabe (*damuha hadar*) y no tiene recorte. Conviene confirmarla en sunnah.com.
+- **Perdón de Ka'b ibn Zuhayr** (p. 598): leído solo en el texto reconocido por OCR. La frase de la p. 597 sí está comprobada en imagen.
+- **«La colección de hadices más respetada»** (Bujari) y **«el biógrafo más antiguo»** (Ibn Ishaq) son valoraciones habituales, no citas.
+- **Edad de Abu Afak**: Ibn Ishaq solo dice que era anciano («a pesar de tu edad»); la cifra de 120 años es de otras fuentes y no se usa.
+- Herramientas: `herramientas/papel/script4.py`, `tts4.py` y `render4.py` (reutiliza `render3.py`).
 
 ## Guion (15 escenas)
 
