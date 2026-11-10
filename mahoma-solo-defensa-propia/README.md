@@ -5,7 +5,7 @@ Dos vídeos verticales (1080×1920) con el mismo guion y las mismas fuentes:
 | Vídeo | Formato | Archivo |
 |-------|---------|---------|
 | **Versión 2 (la actual)** | Papel recortado, al estilo del vídeo de referencia que pasó el usuario | [`video/defensa_papel.mp4`](video/defensa_papel.mp4) · 8 min 52 s · 76 MB |
-| **Corto: «¿Qué pasó con los poetas?»** | Papel recortado, 3 min 36 s | [`video/poetas_papel.mp4`](video/poetas_papel.mp4) |
+| **Corto: «¿Qué pasó con los poetas?»** | Papel recortado, 3 min 36 s, 39 MB | [`video/poetas_papel.mp4`](video/poetas_papel.mp4) |
 | Versión 1 | Monigotes dibujados a tinta y acuarela | [`video/yihad_tiktok.mp4`](video/yihad_tiktok.mp4) · 8 min 13 s · 65 MB |
 
 Continúan la tesis de un TikTok en inglés (@yahxhazel). Ese vídeo trataba de los críticos asesinados: Ka'b ibn al-Ashraf, 'Asma' bint Marwan y Abu 'Afak. Estos pasan a las guerras, las razias, los hadices, los tafsires y el derecho clásico, y se apoyan solo en fuentes musulmanas, salvo Watt y los Evangelios.
