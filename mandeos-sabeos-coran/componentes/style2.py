@@ -8,7 +8,7 @@ import paper as P
 from paper import Cut, Sp, one, stack, put, F, W, H, SH, clamp, ease, eout, lerp, mix, shade, grain, SPAD
 
 INK2 = (38, 34, 44)
-TEAL = (64, 168, 164); GOLDK = (240, 178, 72); REDK = (214, 64, 70)
+TEAL = (54, 96, 156); GOLDK = (198, 158, 84); REDK = (156, 38, 44)
 SKIN2 = [(236, 196, 160), (214, 168, 128), (176, 128, 92), (242, 214, 188), (150, 104, 74)]
 
 # ------------------------------------------------------------------ figuras con cara
@@ -153,13 +153,13 @@ def card2(title, body, w=880, col=TEAL, tcol=(250, 248, 240), fs=46, h=None):
         if f.getlength(' '.join(lines[-1] + [wd])) > w - 80 and lines[-1]: lines.append([])
         lines[-1].append(wd)
     hh = h or (110 + len(lines) * int(fs * 1.06) + 30)
-    c = Cut(w + 10, hh + 10, 5, 5); c.rr((0, 0, w, hh), 22, (30, 34, 44), 0); c.rr((0, 0, w, 74), 22, col, 0, corners=(True, True, False, False))
+    c = Cut(w + 10, hh + 10, 5, 5); c.rr((0, 0, w, hh), 22, (28, 27, 29), 0); c.rr((0, 0, w, 74), 22, col, 0, corners=(True, True, False, False))
     c.text((36, 38), title, 'bebas', 50, tcol, anchor='lm')
     y = 110 + fs * 0.5
     for ln in lines: c.text((40, y), ' '.join(ln), 'bebas', fs, (236, 234, 228), anchor='lm'); y += fs * 1.06
     return one(c.out(0.02), (w + 10) / 2, (hh + 10) / 2, off=(5, 8), blur=8, op=.45)
 @memo
-def tag2(text, size=54, bg=(26, 30, 38), fg=(244, 242, 236), accent=TEAL):
+def tag2(text, size=54, bg=(24, 23, 25), fg=(242, 236, 222), accent=GOLDK):
     f = F('bebas', size); tw = f.getlength(text); w, h = int(tw + 64), int(size * 1.36)
     c = Cut(w + 10, h + 10, 5, 5); c.rr((0, 0, w, h), 10, bg, 0); c.rr((0, 0, 12, h), 6, accent, 0, corners=(True, False, False, True))
     c.text((w / 2 + 6, h / 2 + size * 0.05), text, 'bebas', size, fg)
@@ -189,7 +189,7 @@ def bg2(kind):
             m = (ys >= y0) & (ys <= y1); t = ((ys[m] - y0) / max(1, y1 - y0))[:, None]; a[m] = np.array(c0) * (1 - t) + np.array(c1) * t
         return np.repeat(a[:, None, :], W, axis=1)
     if kind == 'river':
-        a = grad([(0, (246, 196, 146)), (560, (250, 226, 186)), (700, (198, 176, 140)), (760, (120, 156, 160)), (1100, (70, 116, 128)), (SH - 1, (44, 78, 92))])
+        a = grad([(0, (236, 200, 150)), (560, (246, 228, 196)), (700, (190, 170, 136)), (760, (60, 98, 140)), (1100, (32, 64, 108)), (SH - 1, (18, 36, 66))])
         im = Image.fromarray(a.clip(0, 255).astype(np.uint8)); d = ImageDraw.Draw(im, 'RGBA')
         g = Image.new('L', (W, SH), 0); ImageDraw.Draw(g).ellipse((620, 340, 960, 680), fill=255); g = g.filter(ImageFilter.GaussianBlur(50))
         im.paste(Image.new('RGB', (W, SH), (255, 236, 200)), (0, 0), g.point(lambda v: int(v * .8)))
@@ -201,7 +201,7 @@ def bg2(kind):
             for a_ in range(6): ang = math.radians(200 + a_ * 28); d.line([(x + 8, y - hgt), (x + 8 + math.cos(ang) * 70, y - hgt + math.sin(ang) * 34 + 26)], fill=col, width=6)
         d.rectangle((0, 760, W, 778), fill=(230, 220, 190, 90))
     elif kind == 'study':
-        a = grad([(0, (34, 40, 54)), (900, (52, 60, 76)), (901, (96, 66, 46)), (SH - 1, (64, 42, 30))])
+        a = grad([(0, (28, 27, 30)), (900, (44, 42, 44)), (901, (82, 58, 40)), (SH - 1, (54, 38, 28))])
         im = Image.fromarray(a.clip(0, 255).astype(np.uint8)); d = ImageDraw.Draw(im, 'RGBA')
         for row in range(3):
             y0 = 140 + row * 230; d.rectangle((40, y0 + 190, W - 40, y0 + 204), fill=(80, 58, 40, 255))
@@ -209,19 +209,19 @@ def bg2(kind):
             while x < W - 70:
                 bw = r.randint(26, 46); bh = r.randint(130, 185); col = [(120, 60, 50), (60, 80, 110), (90, 110, 70), (150, 120, 70), (80, 60, 90)][r.randint(0, 4)]
                 d.rectangle((x, y0 + 190 - bh, x + bw, y0 + 190), fill=col + (150,)); x += bw + r.randint(2, 6)
-        d.rectangle((0, 0, W, 900), fill=(20, 24, 34, 120))
+        d.rectangle((0, 0, W, 900), fill=(14, 14, 16, 130))
         g = Image.new('L', (W, SH), 0); ImageDraw.Draw(g).ellipse((90, 300, 990, 1300), fill=255); g = g.filter(ImageFilter.GaussianBlur(120))
         im.paste(Image.new('RGB', (W, SH), (255, 220, 160)), (0, 0), g.point(lambda v: int(v * .18)))
         d = ImageDraw.Draw(im, 'RGBA'); y = 960
         while y < SH: d.line([(0, y), (W, y)], fill=(40, 26, 18, 90), width=3); y += 90
     elif kind == 'court':
-        a = grad([(0, (18, 22, 32)), (SH - 1, (30, 36, 50))])
+        a = grad([(0, (16, 16, 18)), (SH - 1, (30, 30, 34))])
         im = Image.fromarray(a.clip(0, 255).astype(np.uint8))
         g = Image.new('L', (W, SH), 0); ImageDraw.Draw(g).polygon([(420, 0), (660, 0), (1000, SH), (80, SH)], fill=255); g = g.filter(ImageFilter.GaussianBlur(60))
-        im.paste(Image.new('RGB', (W, SH), (120, 136, 160)), (0, 0), g.point(lambda v: int(v * .32)))
+        im.paste(Image.new('RGB', (W, SH), (180, 160, 120)), (0, 0), g.point(lambda v: int(v * .26)))
         d = ImageDraw.Draw(im, 'RGBA'); d.ellipse((140, 1300, 940, 1440), fill=(140, 160, 190, 50))
     elif kind == 'map':
-        a = grad([(0, (60, 70, 80)), (SH - 1, (34, 40, 50))]); im = Image.fromarray(a.clip(0, 255).astype(np.uint8))
+        a = grad([(0, (26, 44, 76)), (SH - 1, (14, 24, 44))]); im = Image.fromarray(a.clip(0, 255).astype(np.uint8))
     elif kind == 'garden':
         a = grad([(0, (196, 214, 222)), (640, (236, 230, 206)), (700, (150, 164, 118)), (SH - 1, (106, 120, 84))]); im = Image.fromarray(a.clip(0, 255).astype(np.uint8))
         d = ImageDraw.Draw(im, 'RGBA'); pts = [(x, 640 + 40 * math.sin(x / 200 + 1)) for x in range(-20, W + 40, 20)]; d.polygon(pts + [(W + 20, 760), (-20, 760)], fill=(140, 156, 108, 255))
@@ -242,11 +242,11 @@ _PB = {}
 def panel_base():
     if 'b' not in _PB:
         h = H - SH; a = np.zeros((h, W, 3), np.float32)
-        top = np.array((30, 34, 44)); bot = np.array((18, 20, 28)); t = np.linspace(0, 1, h)[:, None, None]
+        top = np.array((30, 29, 30)); bot = np.array((16, 15, 16)); t = np.linspace(0, 1, h)[:, None, None]
         a[:] = top * (1 - t) + bot * t
         n = np.random.RandomState(4).normal(0, 1, (h, W)).astype(np.float32); a *= (1 + n * 0.02)[..., None]
         im = Image.fromarray(a.clip(0, 255).astype(np.uint8)); d = ImageDraw.Draw(im)
-        d.rectangle((0, 0, W, 5), fill=TEAL); d.line([(80, 236), (1000, 236)], fill=(70, 76, 90), width=2)
+        d.rectangle((0, 0, W, 5), fill=GOLDK); d.line([(80, 236), (1000, 236)], fill=(70, 76, 90), width=2)
         _PB['b'] = im
     return _PB['b']
 def wave_icon(d, x, y, col, s=1.0):
@@ -274,7 +274,7 @@ def draw_panel(frame, t, toks, source, ch, nch, chname, chprog):
             fs -= 4
         x = W / 2 - tw / 2; yy = SH + 118
         for w, stt in toks:
-            col = ((92, 98, 112), (244, 242, 236), GOLDK)[stt]
+            col = ((96, 92, 88), (242, 236, 222), GOLDK)[stt]
             d.text((x, yy), w, font=f, fill=col, anchor='lm'); x += f.getlength(w) + sp
 
 @memo

@@ -2,7 +2,8 @@ import certifi, asyncio, json, os, subprocess, sys, hashlib
 certifi.where = lambda: '/root/.ccr/ca-bundle.crt'
 import edge_tts
 os.chdir(os.path.dirname(os.path.abspath(__file__))); sys.path.insert(0, '.')
-from script5 import SCENES, VOICE, clean
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'escenas'))
+from guion_datos import SCENES, VOICE, clean
 def hkey(text):
     v, r, p = VOICE; return hashlib.sha1(f'{v}|{r}|{p}|{text}'.encode()).hexdigest()[:12]
 async def one(text):
