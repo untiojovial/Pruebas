@@ -5,6 +5,9 @@ Uso:
   python3 pm.py fetch <PMID> [<PMID> ...]                  -> registro completo con resumen (abstract)
   python3 pm.py epmc '<consulta Europe PMC>' [n=25]        -> incluye preprints (añade 'SRC:PPR' para solo preprints)
   python3 pm.py ctgov '<consulta>' [n=20]                  -> estudios registrados en ClinicalTrials.gov
+  python3 pm.py oa <PMID> ...                              -> ¿hay texto completo en acceso abierto? (PMCID, isOpenAccess)
+  python3 pm.py ft <PMID> ...                              -> descarga el texto completo abierto a ft/<PMID>.txt (léelo con Read)
+  python3 pm.py ftgrep <PMID> '<regex>'                    -> busca en el texto completo y muestra el contexto
 """
 import sys, os, json, time, hashlib, fcntl, urllib.request, urllib.parse, ssl, re
 import xml.etree.ElementTree as ET
@@ -45,6 +48,43 @@ def records(pmids):
                             volume=txt(j.find('.//Volume')), issue=txt(j.find('.//Issue')), pages=txt(art.find('.//MedlinePgn')) or txt(art.find('.//ELocationID')), doi=doi,
                             types=[txt(t) for t in art.findall('.//PublicationTypeList/PublicationType')], abstract=ab))
     return out
+
+def oa(pmid):
+    """Estado de acceso abierto según Europe PMC: dict(pmcid, isOpenAccess, inEPMC, license, doi)."""
+    d = json.loads(get('https://www.ebi.ac.uk/europepmc/webservices/rest/search?format=json&resultType=core&pageSize=1&query=' + urllib.parse.quote('EXT_ID:' + str(pmid) + ' AND SRC:MED')))
+    r = (d.get('resultList', {}).get('result') or [{}])[0]
+    return {'pmid': str(pmid), 'pmcid': r.get('pmcid'), 'isOpenAccess': r.get('isOpenAccess'), 'inEPMC': r.get('inEPMC'), 'license': r.get('license'), 'doi': r.get('doi')}
+def fulltext(pmid):
+    """Texto completo (solo si Europe PMC lo sirve en acceso abierto). Devuelve (ruta_txt, n_caracteres) o (None, motivo)."""
+    o = oa(pmid)
+    if not o['pmcid']: return None, 'sin PMCID: texto completo no disponible en PubMed Central'
+    p = B + '/ft/' + str(pmid) + '.txt'
+    if os.path.exists(p): return p, os.path.getsize(p)
+    url = 'https://www.ebi.ac.uk/europepmc/webservices/rest/' + o['pmcid'] + '/fullTextXML'
+    k = C + '/' + hashlib.sha1(url.encode()).hexdigest()
+    if not os.path.exists(k):
+        try:
+            time.sleep(0.4); x = urllib.request.urlopen(urllib.request.Request(url, headers={'User-Agent': 'lit-review-tool/1.0'}), context=ctx, timeout=90).read().decode('utf8', 'replace')
+        except Exception as e:
+            return None, 'Europe PMC no sirve el XML (' + str(e)[:60] + '): ' + o['pmcid']
+        open(k, 'w', encoding='utf8').write(x)
+    x = open(k, encoding='utf8').read()
+    try: root = ET.fromstring(x)
+    except Exception as e: return None, 'XML no legible'
+    out = []
+    def walk(e, depth=0):
+        tag = e.tag.split('}')[-1]
+        if tag in ('ref-list', 'back', 'front'): return
+        if tag == 'title': out.append('\n' + '#' * min(depth, 4) + ' ' + txt(e))
+        elif tag == 'p': out.append(txt(e))
+        elif tag in ('table-wrap', 'fig'):
+            out.append('[' + tag.upper() + '] ' + re.sub(r'\s+', ' ', txt(e))[:2500])
+        else:
+            for c in e: walk(c, depth + (1 if tag == 'sec' else 0))
+    body = root.find('.//body')
+    if body is None: return None, 'XML sin cuerpo (solo metadatos): ' + o['pmcid']
+    walk(body); t = '\n'.join(out)
+    os.makedirs(B + '/ft', exist_ok=True); open(p, 'w', encoding='utf8').write(t); return p, len(t)
 if __name__ == '__main__':
     cmd = sys.argv[1]
     if cmd == 'search':
@@ -56,6 +96,17 @@ if __name__ == '__main__':
         for r in records(sys.argv[2:]):
             print('=' * 100); print('PMID', r['pmid'], '| DOI', r['doi']); print(r['title']); print(', '.join(r['authors'][:8]) + (' et al.' if len(r['authors']) > 8 else ''))
             print(f"{r['journal']}. {r['year']};{r['volume']}({r['issue']}):{r['pages']} | tipos: {'; '.join(r['types'])}"); print('RESUMEN:', r['abstract'] or '(sin resumen en PubMed)')
+    elif cmd == 'oa':
+        for p in sys.argv[2:]: print(oa(p))
+    elif cmd == 'ft':
+        for p in sys.argv[2:]:
+            a, b = fulltext(p); print(p, '->', a, '|', b)
+    elif cmd == 'ftgrep':
+        a, b = fulltext(sys.argv[2])
+        if not a: print('NO DISPONIBLE:', b)
+        else:
+            t = open(a, encoding='utf8').read()
+            for m in re.finditer(sys.argv[3], t, flags=re.I): print('...' + t[max(0, m.start() - 250):m.end() + 350].replace('\n', ' ') + '...\n')
     elif cmd == 'epmc':
         n = sys.argv[3] if len(sys.argv) > 3 else '25'
         d = json.loads(get('https://www.ebi.ac.uk/europepmc/webservices/rest/search?format=json&resultType=core&pageSize=' + n + '&query=' + urllib.parse.quote(sys.argv[2])))

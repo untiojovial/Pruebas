@@ -1,18 +1,30 @@
 # Inteligencia artificial en las enfermedades de depósito lisosomal (revisión para en-LISOS)
 
-Estado: **Fase 1 (mapa de evidencia) y Fase 2 (propuesta editorial) terminadas. Pendiente de validación.** El manuscrito (Fases 3 a 5) no se ha redactado todavía, como pedía el encargo.
+**Título:** *Inteligencia artificial en las enfermedades de depósito lisosomal: qué está demostrado, qué es prometedor y qué falta para llegar a la práctica clínica.*
 
+**Estado:** manuscrito completo, listo para que los autores lo revisen, rellenen la primera parte (autores, filiaciones, financiación y conflictos de intereses) y lo envíen.
+
+## Para enviar a la revista
 | Archivo | Contenido |
 |---|---|
-| [`Fase1_Fase2_mapa_y_propuesta.docx`](Fase1_Fase2_mapa_y_propuesta.docx) | Documento principal: método, mapa, estudios nucleares, evidencia transferible, marcos, lagunas, avisos de calidad, propuesta editorial y decisiones por validar |
-| [`fase1_fase2_mapa_y_propuesta.md`](fase1_fase2_mapa_y_propuesta.md) | Lo mismo en Markdown |
-| [`fase1_mapa_evidencia/todos_los_registros.csv`](fase1_mapa_evidencia/todos_los_registros.csv) | Los 190 registros recogidos, con la cita literal del resumen y el estado de verificación |
-| `fase1_mapa_evidencia/datos_investigadores/` | Salida de cada documentalista (JSON) y `verificado.json` (cada registro cotejado con PubMed) |
-| `herramientas/` | `pm.py` (búsqueda), `verify.py` (verificación), `core.py` (selección y grados), `build12.py` (genera el documento), `BRIEF.md` (instrucciones a los documentalistas) |
-| `revista/` | Instrucciones oficiales para autores (nº 10, p. 35) y el texto del encargo |
+| [`manuscrito/Manuscrito_IA_enfermedades_lisosomales_enLISOS.docx`](manuscrito/Manuscrito_IA_enfermedades_lisosomales_enLISOS.docx) | Manuscrito en Word con el formato de la revista: Arial 11, doble espacio, cada sección en página nueva y tres partes. Texto: 2.495 palabras. Resumen: 227. Abstract: 200. 99 referencias, 2 tablas y 2 figuras |
+| `manuscrito/figuras/Figura_1.pdf` y `.jpg` | Cómo aprende y cómo se valida un modelo, con el sobreajuste |
+| `manuscrito/figuras/Figura_2.pdf` y `.jpg` | La IA en el recorrido del paciente, por niveles de evidencia |
+| `manuscrito/Manuscrito_IA_enfermedades_lisosomales_enLISOS.pdf` | Vista previa del Word en PDF (no es para enviar) |
+
+## Para los autores
+| Archivo | Contenido |
+|---|---|
+| [`Informe_revision_mapa_y_critica.docx`](Informe_revision_mapa_y_critica.docx) (también en [`informe.md`](informe.md)) | Mapa ampliado (59 estudios), discrepancias entre resumen y texto completo, barreras, índice y palabras, figuras y tablas, qué entra y qué queda fuera, y crítica como revisor externo con los problemas pendientes |
+| [`Fase1_Fase2_mapa_y_propuesta.docx`](Fase1_Fase2_mapa_y_propuesta.docx) | Primer mapa de evidencia y propuesta editorial (primera ronda) |
+| `manuscrito/referencias.txt` | Las 99 referencias en formato Vancouver/ICMJE |
+| `fase1_mapa_evidencia/` y `fase2b_mapa_ampliado/` | Salida de los documentalistas (JSON) y verificación contra PubMed de cada registro |
+| `herramientas/` | Búsqueda (`pm.py`), verificación, selección de estudios, generación del Word (`build_ms.py`, con el texto en `ms_content.py`) y de las figuras (`fig1.py`, `fig2.py`, `svg2out.js`) |
+| `revista/` | Instrucciones oficiales para autores (nº 10, p. 35), encargo original e instrucciones de continuación |
 
 ## Límites
-- Búsqueda del 16 de noviembre de 2026 en PubMed, Europe PMC (preprints) y ClinicalTrials.gov. **No se consultaron** Embase, Scopus, Web of Science, Cochrane ni Google Scholar (sin acceso).
-- Los datos proceden de los resúmenes, no de los textos completos.
-- Los 146 PMID existen en PubMed y coinciden en título, primer autor y año. Los grados A a D son una valoración provisional.
-- Los 28 preprints y registros de ensayos no se han cotejado uno a uno más allá de lo que anotó el documentalista.
+- La búsqueda es del 16 de noviembre de 2026 y solo usa PubMed, Europe PMC y ClinicalTrials.gov. No se consultaron Embase, Scopus, Web of Science ni Google Scholar.
+- Cada referencia se verificó automáticamente contra PubMed: existe, coincide en título, primer autor y año, no está retractada y tiene una cita literal localizada en el resumen o en el texto completo.
+- Las cifras del manuscrito se comprobaron en los textos completos abiertos cuando existían. Un estudio de la tabla 1 solo pudo leerse en resumen y lleva asterisco.
+- El trabajo se ha hecho con un asistente de IA. Los autores deben revisar el contenido y declarar ese uso; la primera parte del Word incluye un texto propuesto.
+- Los scripts de `herramientas/` se escribieron para la carpeta de trabajo original y esperan los datos en `out/` y `out2/`. Para ejecutarlos de nuevo hay que copiar ahí los JSON de las carpetas de datos.
