@@ -1,0 +1,763 @@
+{
+ "ambito": "R1: inteligencia artificial y aprendizaje automático en la enfermedad de Gaucher (con incursiones a LSD solo cuando el texto trata Gaucher).",
+ "consultas": [
+  "Q1 (ML/DL/IA/NN/RF/NLP/algorithm[ti] AND Gaucher[tiab]) (TOTAL 33)",
+  "Q2 (Gaucher AND EHR/claims/screening algorithm/early diagnosis AND algorithm/ML/predict*) (TOTAL 22)",
+  "Q3 (Gaucher AND radiomics/DL/segmentation/volumetry AND MRI/spleen/bone) (TOTAL 3)",
+  "Q4 (GBA/GBA1/glucocerebrosidase AND ML/DL/variant effect/AlphaFold/in silico AND Gaucher/variant*) (TOTAL 43)",
+  "Q5 (Gaucher AND lyso-Gb1/glucosylsphingosine/CCL18/metabolom*/lipidom*/proteom* AND ML/classifier/RF/predictive model) (TOTAL 2)",
+  "Q6 (Gaucher AND point-scoring/GED-C/scoring system) (TOTAL 31)",
+  "Q7 (Gaucher AND drug repurposing/virtual screening/molecular dynamics AND ML/DL/IA) (TOTAL 1)",
+  "Q8 (Gaucher AND ChatGPT/LLM/generative) (TOTAL 1)",
+  "Q9 extra MeSH (\"Gaucher Disease\"[mh] AND (\"Machine Learning\"[mh] OR \"Artificial Intelligence\"[mh])) (TOTAL 12)",
+  "Q10 extra (Gaucher AND (artificial intelligence OR machine learning OR deep learning OR neural network OR algorithm)) (TOTAL 68; 60 mostrados)",
+  "Q11 extra (Gaucher AND (review[pt] OR systematic[sb]) AND (AI/ML/DL/digital health/decision support)) (TOTAL 2)",
+  "X1 extra (Gaucher AND random forest/SVM/XGBoost/gradient boosting/logistic regression/NN/classification model) (TOTAL 25)",
+  "X2 extra (Gaucher AND NLP/text mining/data mining/big data/LLM/EMR) (TOTAL 7)",
+  "X3 extra (Gaucher AND digital pathology/image analysis/computer vision/CNN/facial recognition/photogrammetry) (TOTAL 3)",
+  "X4 extra (Gaucher AND smartphone/app/digital health/telemedicine/decision support AND algorithm/ML/AI/predictive) (TOTAL 5)",
+  "X5 extra (Gaucher AND transcriptomic/single-cell/RNA-seq/multiomic AND ML/DL/classifier/AI) (TOTAL 1)",
+  "X6 extra (Gaucher[mh/tiab] AND Deep Learning/Supervised ML/NN/NLP/Decision Support/CAD/Predictive Value[mh]) (TOTAL 43)",
+  "X7 extra ((lysosomal storage/rare disease) AND Gaucher AND ML/DL/AI) (TOTAL 17)",
+  "T1 extra (Gaucher AND ERT/eliglustat/SRT/miglustat/venglustat/treatment AND ML/DL/AI/predictive model/predict*) (TOTAL 122; 60 mostrados)",
+  "T2 extra (Gaucher AND newborn screening/DBS/screening AND ML/algorithm/AI/predictive) (TOTAL 25)",
+  "EPMC: Gaucher AND (\"machine learning\" OR \"deep learning\" OR \"artificial intelligence\") AND SRC:PPR (TOTAL 11)",
+  "EPMC extra (Gaucher AND (ML/DL/AI/NN/LLM)) sin filtro de fuente (TOTAL 898; solo se revisaron los títulos de los 25 primeros)",
+  "CTGOV: 'Gaucher machine learning' (0 estudios devueltos)",
+  "CTGOV: 'Gaucher artificial intelligence' (1 estudio: NCT06050967)",
+  "CTGOV extra: 'Gaucher algorithm' (6 estudios), 'Gaucher digital' (7 estudios), 'Gaucher deep learning' (0 estudios devueltos)"
+ ],
+ "estudios": [
+  {
+   "pmid": "37629403",
+   "doi": "10.1556/oh.2008.28337",
+   "primer_autor": "Azuri I",
+   "anio": "2023",
+   "revista": "J Clin Med",
+   "titulo": "A Deep-Learning Approach to Spleen Volume Estimation in Patients with Gaucher Disease.",
+   "tipo_publicacion": "original revisado por pares",
+   "enfermedad": "Enfermedad de Gaucher",
+   "nivel_evidencia": "directa LSD",
+   "area": "4.4 imagen",
+   "objetivo": "Mejorar la estimación del volumen esplénico en GD con deep learning frente a la fórmula clínica habitual en RM.",
+   "algoritmo": "Deep learning para segmentación esplénica (el resumen no especifica arquitectura).",
+   "muestra_y_datos": "Conjunto de prueba de 20 pacientes con GD; tamaño de entrenamiento NO CONSTA EN EL RESUMEN.",
+   "variables": "Volumen esplénico calculado a partir de RM; error relativo respecto al método de referencia.",
+   "resultados_metricas": "Error medio 3,6 ± 2,7% con deep learning frente a 13,9 ± 9,6% con la fórmula.",
+   "validacion": "NO CONSTA EN EL RESUMEN",
+   "limitaciones": "Muestra de prueba pequeña (20 pacientes; dato del resumen). Validación externa no descrita en el resumen (NO CONSTA EN EL RESUMEN). Partición entrenamiento/prueba no descrita.",
+   "aplicabilidad": "investigación",
+   "cita_literal": "To this end, we employed deep-learning techniques, to achieve a more accurate spleen segmentation and, subsequently, calculate the resulting spleen volume with higher accuracy on a testing set cohort of 20 patients with GD.",
+   "relevancia": "alta"
+  },
+  {
+   "pmid": "38834102",
+   "doi": "10.1016/j.bone.2024.117142",
+   "primer_autor": "Yu B",
+   "anio": "2024",
+   "revista": "Bone",
+   "titulo": "Deep learning-based quantification of osteonecrosis using magnetic resonance images in Gaucher disease.",
+   "tipo_publicacion": "original revisado por pares",
+   "enfermedad": "Enfermedad de Gaucher (osteonecrosis)",
+   "nivel_evidencia": "directa LSD",
+   "area": "4.4 imagen",
+   "objetivo": "Cuantificar osteonecrosis en RM T1w mediante segmentación con deep learning y extraer parámetros morfológicos.",
+   "algoritmo": "Dos modelos U-Net independientes (columna y fémur) para segmentar osteonecrosis y médula no afectada.",
+   "muestra_y_datos": "364 imágenes T1w anotadas manualmente para entrenamiento (176 columna, 188 fémur); modelos aplicados a 917 imágenes T1w de la base del estudio Gaucherite (Reino Unido).",
+   "variables": "Volumen de osteonecrosis, volumen de médula no afectada, fracción de médula ocupada por osteonecrosis; esplenectomía; intervalo síntoma-tratamiento.",
+   "resultados_metricas": "No se encontró correlación fuerte entre los parámetros y el bone marrow burden score; la esplenectomía se asocia con la fracción de osteonecrosis y el retraso de tratamiento con los valores cuantificados. Métricas de segmentación (p. ej. Dice): NO CONSTA EN EL RESUMEN.",
+   "validacion": "NO CONSTA EN EL RESUMEN",
+   "limitaciones": "Estudio retrospectivo sobre base de datos (diseño). No se describe partición de validación ni métricas de segmentación en el resumen. Correlación con BMB score no fuerte.",
+   "aplicabilidad": "investigación",
+   "cita_literal": "Then, we examined the correlation between calculated features and the bone marrow burden score for marrow infiltration of the corresponding image, and no strong correlation was found.",
+   "relevancia": "alta"
+  },
+  {
+   "pmid": "39245415",
+   "doi": "10.1016/j.jclinepi.2024.111517",
+   "primer_autor": "Tenenbaum A",
+   "anio": "2024",
+   "revista": "J Clin Epidemiol",
+   "titulo": "A machine learning model for early diagnosis of type 1 Gaucher disease using real-life data.",
+   "tipo_publicacion": "original revisado por pares",
+   "enfermedad": "Enfermedad de Gaucher tipo 1",
+   "nivel_evidencia": "directa LSD",
+   "area": "4.1 diagnóstico/retraso/HCE-NLP",
+   "objetivo": "Desarrollar un modelo de ML para cribado y diagnóstico precoz de GD con datos del mundo real.",
+   "algoritmo": "Modelo de machine learning (el algoritmo concreto NO CONSTA EN EL RESUMEN).",
+   "muestra_y_datos": "Base Maccabi Healthcare Services (1998-2022, ~2,6 millones de pacientes): 264 pacientes con GD y 3.429 controles emparejados (1:13) por año de nacimiento, sexo y nivel socioeconómico; partición 75% entrenamiento / 25% prueba.",
+   "variables": "Signos y síntomas conocidos de GD, rasgos clínicos no conocidos previamente, códigos administrativos y datos de laboratorio.",
+   "resultados_metricas": "AUROC 0,95 ± 0,03; AUPRC 0,80 ± 0,08 en prueba; detección mediana 2,78 años antes del diagnóstico clínico (P25-P75: 1,29-4,53).",
+   "validacion": "interna",
+   "limitaciones": "Datos de una sola organización sanitaria (Maccabi). Diseño caso-control con controles emparejados. Validación interna por partición; sin validación externa en el resumen.",
+   "aplicabilidad": "investigación",
+   "cita_literal": "Using an ML approach on real-world data led to excellent discrimination between GD patients and controls, with the ability to detect GD significantly earlier than the time of actual diagnosis.",
+   "relevancia": "alta"
+  },
+  {
+   "pmid": "39617306",
+   "doi": "10.1016/j.jclinepi.2024.111619",
+   "primer_autor": "Takefuji Y",
+   "anio": "2025",
+   "revista": "J Clin Epidemiol",
+   "titulo": "Addressing feature importance biases in machine learning models for early diagnosis of type 1 Gaucher disease.",
+   "tipo_publicacion": "editorial/opinión",
+   "enfermedad": "Enfermedad de Gaucher tipo 1",
+   "nivel_evidencia": "directa LSD",
+   "area": "4.1 diagnóstico/retraso/HCE-NLP",
+   "objetivo": "Carta que comenta los modelos de ML de diagnóstico precoz de GD1 (según el título; el registro no tiene resumen).",
+   "algoritmo": "NO CONSTA EN EL RESUMEN",
+   "muestra_y_datos": "NO CONSTA EN EL RESUMEN",
+   "variables": "NO CONSTA EN EL RESUMEN",
+   "resultados_metricas": "NO CONSTA EN EL RESUMEN",
+   "validacion": "NO CONSTA EN EL RESUMEN",
+   "limitaciones": "Registro sin resumen en PubMed: el contenido solo se conoce por el título (sesgos en la importancia de variables de modelos de ML). Hay que leer el texto completo.",
+   "aplicabilidad": "investigación",
+   "cita_literal": "NO CONSTA EN EL RESUMEN",
+   "relevancia": "media"
+  },
+  {
+   "pmid": "39201273",
+   "doi": "10.1074/mcp.M112.022566",
+   "primer_autor": "Cebolla JJ",
+   "anio": "2024",
+   "revista": "Int J Mol Sci",
+   "titulo": "Machine Learning-Driven Biomarker Discovery for Skeletal Complications in Type 1 Gaucher Disease Patients.",
+   "tipo_publicacion": "original revisado por pares",
+   "enfermedad": "Enfermedad de Gaucher tipo 1 (complicaciones óseas)",
+   "nivel_evidencia": "directa LSD",
+   "area": "4.3 biomarcadores/ómicas",
+   "objetivo": "Identificar biomarcadores proteicos que predigan el diagnóstico precoz de complicaciones óseas en GD1 mediante IA.",
+   "algoritmo": "Modelos matemáticos en el sistema Therapeutic Performance Mapping System (TPMS) más una estrategia de ciencia de datos para identificar clasificadores (algoritmo concreto NO CONSTA EN EL RESUMEN).",
+   "muestra_y_datos": "Estudio in silico; tamaño de cohorte de pacientes NO CONSTA EN EL RESUMEN.",
+   "variables": "Actividad proteica predicha por modelo para cada proteína.",
+   "resultados_metricas": "18 candidatos; se destacan PDGFB, IL1R2, PTH y CCL3 (MIP-1α). Métricas de rendimiento NO CONSTA EN EL RESUMEN.",
+   "validacion": "NO CONSTA EN EL RESUMEN",
+   "limitaciones": "Estudio in silico. El resumen indica que es necesario confirmar los resultados in vitro y/o in vivo. Sin métricas de rendimiento en el resumen.",
+   "aplicabilidad": "investigación",
+   "cita_literal": "Statistical criteria were used to prioritize the most promising candidates, and 18 candidates were identified.",
+   "relevancia": "media"
+  },
+  {
+   "pmid": "37689674",
+   "doi": "10.1186/s12911-022-01752-6",
+   "primer_autor": "Wilson A",
+   "anio": "2023",
+   "revista": "Orphanet J Rare Dis",
+   "titulo": "Development of a rare disease algorithm to identify persons at risk of Gaucher disease using electronic health records in the United States.",
+   "tipo_publicacion": "original revisado por pares",
+   "enfermedad": "Enfermedad de Gaucher",
+   "nivel_evidencia": "directa LSD",
+   "area": "4.1 diagnóstico/retraso/HCE-NLP",
+   "objetivo": "Desarrollar un algoritmo de ML para identificar pacientes con GD a partir de historias clínicas electrónicas (claims).",
+   "algoritmo": "Dos algoritmos de ML: uno basado en la edad de aparición de rasgos (age-based) y otro en la prevalencia de rasgos (prevalence-based); comparados con una adaptación del algoritmo clínico diagnóstico.",
+   "muestra_y_datos": "Base Optum Integrated Claims-Clinical (2007-2019); tamaño de cohorte NO CONSTA EN EL RESUMEN.",
+   "variables": "Rasgos clínicos de GD: esplenomegalia (predictor más importante), localización geográfica (noreste de EE. UU.), trombocitopenia, osteonecrosis, trastornos de densidad ósea, dolor óseo.",
+   "resultados_metricas": "Para identificar 28 pacientes diagnosticados con GD: 1.204 (edad) y 2.862 (prevalencia) pacientes a evaluar frente a 20.743 con el algoritmo clínico; eficiencia 10-20 veces mayor. AUC/sensibilidad NO CONSTA EN EL RESUMEN.",
+   "validacion": "NO CONSTA EN EL RESUMEN",
+   "limitaciones": "Datos de claims de EE. UU. (diseño). Sin métricas de discriminación (AUC, sensibilidad) en el resumen. Partición de entrenamiento/prueba no descrita. Comparación con un algoritmo clínico adaptado, no con diagnóstico confirmado de cohorte externa.",
+   "aplicabilidad": "investigación",
+   "cita_literal": "Overall, 1204 and 2862 patients, respectively, would need to be assessed with the age- and prevalence-based algorithms, compared with 20,743 with the clinical diagnostic algorithm, to identify 28 patients with diagnosed GD in the integrated dataset.",
+   "relevancia": "alta"
+  },
+  {
+   "pmid": "32962737",
+   "doi": "10.3390/ijms21041247",
+   "primer_autor": "Andrade-Campos MM",
+   "anio": "2020",
+   "revista": "Orphanet J Rare Dis",
+   "titulo": "Identification of risk features for complication in Gaucher's disease patients: a machine learning analysis of the Spanish registry of Gaucher disease.",
+   "tipo_publicacion": "original revisado por pares",
+   "enfermedad": "Enfermedad de Gaucher (tipos 1 y 3)",
+   "nivel_evidencia": "directa LSD",
+   "area": "4.5 pronóstico/estratificación",
+   "objetivo": "Identificar factores de riesgo de complicaciones tardías en pacientes del registro español de GD.",
+   "algoritmo": "Redes de correlación y análisis con árboles de decisión.",
+   "muestra_y_datos": "358 pacientes del registro español (340 GD1, 18 GD3).",
+   "variables": "Esplenectomía, IgA, IgG, edad al diagnóstico y al inicio de terapia, enfermedad ósea avanzada, complicaciones.",
+   "resultados_metricas": "La esplenectomía previa se correlaciona con complicaciones óseas (p = 0,005); IgG > 1750 mg/dL y edad > 60 años con cáncer. En el árbol de decisión, los pacientes con diagnóstico y terapia tardíos son los más graves. Rendimiento del modelo NO CONSTA EN EL RESUMEN.",
+   "validacion": "NO CONSTA EN EL RESUMEN",
+   "limitaciones": "Registro retrospectivo (diseño). Análisis de correlación y árbol; sin métricas de rendimiento predictivo ni validación externa en el resumen. Muestra pequeña para análisis de riesgo (18 GD3).",
+   "aplicabilidad": "investigación",
+   "cita_literal": "When modelling the decision tree, patients with a delayed diagnosis and therapy were the most severe and with higher risk of complications.",
+   "relevancia": "media"
+  },
+  {
+   "pmid": "27109052",
+   "doi": "10.1016/j.jbiomech.2016.04.010",
+   "primer_autor": "Sharma GB",
+   "anio": "2016",
+   "revista": "J Biomech",
+   "titulo": "Machine learning based analytics of micro-MRI trabecular bone microarchitecture and texture in type 1 Gaucher disease.",
+   "tipo_publicacion": "original revisado por pares",
+   "enfermedad": "Enfermedad de Gaucher tipo 1 (afectación ósea)",
+   "nivel_evidencia": "directa LSD",
+   "area": "4.4 imagen",
+   "objetivo": "Discriminar pacientes con GD1 de controles sanos y entre genotipos mediante textura y microarquitectura trabecular en micro-RM.",
+   "algoritmo": "PCA y SVM (análisis predictivo), junto a modelos lineales generales.",
+   "muestra_y_datos": "20 pacientes con GD1 y 10 controles sanos; micro-RM del radio distal.",
+   "variables": "15 medidas estereológicas y de textura.",
+   "resultados_metricas": "Discriminación GD vs. controles: precisión máxima 73%; AUC 0,79.",
+   "validacion": "NO CONSTA EN EL RESUMEN",
+   "limitaciones": "Muestra pequeña (30 sujetos, según el resumen). Validación interna/externa no descrita. El resumen indica que el trabajo continúa para evaluar carga de enfermedad y respuesta al tratamiento.",
+   "aplicabilidad": "investigación",
+   "cita_literal": "PCA and SVM predictive analyses discriminated between GD and HC with maximum accuracy of 73% and area under ROC curve of 0.79.",
+   "relevancia": "media"
+  },
+  {
+   "pmid": "30808805",
+   "doi": "10.1073/pnas.1818411116",
+   "primer_autor": "Romero R",
+   "anio": "2019",
+   "revista": "Proc Natl Acad Sci U S A",
+   "titulo": "Mechanism of glucocerebrosidase activation and dysfunction in Gaucher disease unraveled by molecular dynamics and deep learning.",
+   "tipo_publicacion": "original revisado por pares",
+   "enfermedad": "Enfermedad de Gaucher (mecanismo de GCase)",
+   "nivel_evidencia": "directa LSD",
+   "area": "4.2 genética/variantes",
+   "objetivo": "Explicar mecanísticamente la activación de GCase por saposina C y cómo N370S y L444P causan la enfermedad.",
+   "algoritmo": "Docking basado en conocimiento, dinámica molecular multiescala y deep learning para proponer un modelo de activación (arquitectura NO CONSTA EN EL RESUMEN).",
+   "muestra_y_datos": "Estudio computacional; sin pacientes en el resumen.",
+   "variables": "Estabilidad de bucles del sitio de unión al sustrato, interacciones con saposina C.",
+   "resultados_metricas": "N370S y L444P desestabilizan el complejo y reducen la activación de GCase (sin métricas numéricas en el resumen).",
+   "validacion": "NO CONSTA EN EL RESUMEN",
+   "limitaciones": "Estudio in silico; el resumen no detalla validación experimental ni el papel concreto del deep learning.",
+   "aplicabilidad": "investigación",
+   "cita_literal": "Notably, we find that conformational changes in the loops at the entrance of the substrate-binding site are stabilized by direct interactions with SAPC and that the loss of such interactions induced by N370S and another common mutation, L444P, result in destabilization of the complex and reduced GCase activation.",
+   "relevancia": "media"
+  },
+  {
+   "pmid": "41159846",
+   "doi": "10.1016/j.ymgme.2004.04.011",
+   "primer_autor": "Saini A",
+   "anio": "2025",
+   "revista": "CPT Pharmacometrics Syst Pharmacol",
+   "titulo": "QSP-Copilot: An AI-Augmented Platform for Accelerating Quantitative Systems Pharmacology Model Development.",
+   "tipo_publicacion": "original revisado por pares",
+   "enfermedad": "Enfermedad de Gaucher (demostración junto con un trastorno de la coagulación)",
+   "nivel_evidencia": "directa LSD",
+   "area": "4.7 IA generativa/LLM",
+   "objetivo": "Acelerar el desarrollo de modelos de farmacología de sistemas cuantitativa (QSP) con un sistema multiagente basado en LLM.",
+   "algoritmo": "Sistema multiagente con modelos de lenguaje grandes (LLM) para extracción de interacciones y estructuración del modelo.",
+   "muestra_y_datos": "Gaucher: cribado de 9 artículos que produjeron 151 pares, consolidados en 68 interacciones distintas.",
+   "variables": "Pares de entidades biológicas e interacciones extraídas de la literatura.",
+   "resultados_metricas": "Precisión de extracción en Gaucher 100,0%; reducción del tiempo de desarrollo del modelo aprox. 40% (dato general de la plataforma).",
+   "validacion": "NO CONSTA EN EL RESUMEN",
+   "limitaciones": "Demostración con 9 artículos en Gaucher. La precisión se refiere a extracción, no a validez biológica. Sin validación externa descrita en el resumen.",
+   "aplicabilidad": "investigación",
+   "cita_literal": "The extraction precision for blood coagulation and Gaucher disease is 99.1% and 100.0%, respectively.",
+   "relevancia": "media"
+  },
+  {
+   "pmid": "34529671",
+   "doi": "10.1016/S0022-2836(05)80360-2",
+   "primer_autor": "Woodard J",
+   "anio": "2021",
+   "revista": "PLoS Comput Biol",
+   "titulo": "Protein structural features predict responsiveness to pharmacological chaperone treatment for three lysosomal storage disorders.",
+   "tipo_publicacion": "original revisado por pares",
+   "enfermedad": "Gaucher, Fabry y Pompe (predicción para variantes de Gaucher)",
+   "nivel_evidencia": "directa LSD",
+   "area": "4.2 genética/variantes",
+   "objetivo": "Predecir la respuesta a chaperonas farmacológicas a partir de características estructurales de variantes en tres enzimopatías lisosomales.",
+   "algoritmo": "Un árbol de decisión único y un enfoque de ML avanzado (nombre NO CONSTA EN EL RESUMEN), entrenados con el conjunto de Fabry.",
+   "muestra_y_datos": "Conjuntos de datos de variantes de Fabry y Pompe; tres variantes de Gaucher para predicción (tamaño total NO CONSTA EN EL RESUMEN).",
+   "variables": "ΔΔG predicho de la mutación; rasgo topológico de contactos del plegamiento.",
+   "resultados_metricas": "Predicción correcta de la respuesta de tres variantes de GD; predicciones para variantes no probadas. Métricas NO CONSTA EN EL RESUMEN.",
+   "validacion": "NO CONSTA EN EL RESUMEN",
+   "limitaciones": "Solo tres variantes de Gaucher con respuesta conocida. Modelo entrenado con datos de Fabry y aplicado a Gaucher (transferencia entre enfermedades). Predicciones sobre variantes sin ensayo.",
+   "aplicabilidad": "investigación",
+   "cita_literal": "Using both a single decision tree and an advanced machine learning approach based on the larger Fabry dataset, we correctly predict responsiveness of three Gaucher disease variants, and we provide predictions for untested variants.",
+   "relevancia": "alta"
+  },
+  {
+   "pmid": "41661224",
+   "doi": "10.3389/fmed.2021.747612",
+   "primer_autor": "Spreafico AM",
+   "anio": "2026",
+   "revista": "J Med Internet Res",
+   "titulo": "Artificial Intelligence, Connected Care, and Enabling Digital Health Technologies in Rare Diseases With a Focus on Lysosomal Storage Disorders: Scoping Review.",
+   "tipo_publicacion": "revisión",
+   "enfermedad": "Enfermedades de depósito lisosomal (predominio de Gaucher y Fabry)",
+   "nivel_evidencia": "directa LSD",
+   "area": "4.1 diagnóstico/retraso/HCE-NLP",
+   "objetivo": "Mapear las tecnologías digitales de salud, con foco en IA y atención conectada, en el cuidado de las LSD.",
+   "algoritmo": "No aplica (revisión de alcance). En la revisión, 40 registros describen DHT impulsadas por IA.",
+   "muestra_y_datos": "1.751 registros recuperados; 245 incluidos (2015-2024), 92,2% revisados por pares.",
+   "variables": "Población LSD, clase de intervención (IA, atención conectada, otras DHT), dominios de resultado, fase del recorrido asistencial.",
+   "resultados_metricas": "40 registros con DHT de IA; 89 con atención conectada; 144 con otras DHT (algunos multietiquetados). La evidencia se concentra en Gaucher y Fabry. No se identificaron ECA publicados completados ni revisiones sistemáticas específicas de LSD.",
+   "validacion": "NO CONSTA EN EL RESUMEN",
+   "limitaciones": "Según el resumen, evidencia dominada por estudios observacionales pequeños y unicéntricos; sin valoración de riesgo de sesgo; búsqueda en PubMed, Google Scholar y ClinicalTrials.gov.",
+   "aplicabilidad": "investigación",
+   "cita_literal": "no completed and published randomized controlled trials or LSD-specific systematic reviews were identified, with evidence dominated by small, single-center observational studies.",
+   "relevancia": "alta"
+  },
+  {
+   "pmid": "36384353",
+   "doi": "10.1080/17446651.2022.2144229",
+   "primer_autor": "D'Souza A",
+   "anio": "2022",
+   "revista": "Expert Rev Endocrinol Metab",
+   "titulo": "Facial features of lysosomal storage disorders.",
+   "tipo_publicacion": "revisión",
+   "enfermedad": "LSD (incluye Gaucher, mucolipidosis IV y Fabry)",
+   "nivel_evidencia": "directa LSD",
+   "area": "4.1 diagnóstico/retraso/HCE-NLP",
+   "objetivo": "Revisar los fenotipos faciales de las LSD y el uso de reconocimiento facial con IA para identificarlas.",
+   "algoritmo": "Reconocimiento facial con IA (software no especificado en el resumen).",
+   "muestra_y_datos": "NO CONSTA EN EL RESUMEN",
+   "variables": "Rasgos faciales de las LSD.",
+   "resultados_metricas": "Gaucher, mucolipidosis IV y Fabry han sido distinguidas recientemente con software de reconocimiento facial (sin métricas en el resumen).",
+   "validacion": "NO CONSTA EN EL RESUMEN",
+   "limitaciones": "Revisión con opinión experta (el resumen incluye 'expert opinion'). Sin métricas cuantitativas en el resumen.",
+   "aplicabilidad": "investigación",
+   "cita_literal": "Specific LSDs, including Gaucher disease, Mucolipidosis IV and Fabry disease have recently been distinguished using facial recognition software.",
+   "relevancia": "media"
+  },
+  {
+   "pmid": "34663554",
+   "doi": "10.1016/j.ymgme.2021.09.008",
+   "primer_autor": "Daykin E",
+   "anio": "2021",
+   "revista": "Mol Genet Metab",
+   "titulo": "Investigation of a dysmorphic facial phenotype in patients with Gaucher disease types 2 and 3.",
+   "tipo_publicacion": "original revisado por pares",
+   "enfermedad": "Enfermedad de Gaucher tipos 2 y 3",
+   "nivel_evidencia": "directa LSD",
+   "area": "4.1 diagnóstico/retraso/HCE-NLP",
+   "objetivo": "Comprobar si una plataforma de reconocimiento facial con IA distingue fotos de pacientes con GD2, GD3 y controles.",
+   "algoritmo": "Plataforma de reconocimiento facial con IA (algoritmo propietario no detallado en el resumen).",
+   "muestra_y_datos": "Más de 100 fotos por cohorte (GD2, GD3 y controles sanos).",
+   "variables": "Rasgos faciales en fotografías.",
+   "resultados_metricas": "Comparaciones binarias: correctas al menos en 89% de los casos. Multiclase GD2/GD3/controles: precisión media 76,6% frente a 37,7% por azar.",
+   "validacion": "interna",
+   "limitaciones": "Validación cruzada interna sin cohorte externa en el resumen. Pocos pacientes con GD2 y GD3 (el resumen indica más de 100 fotos por cohorte). El propio resumen indica que la IA no sustituye otros métodos diagnósticos.",
+   "aplicabilidad": "investigación",
+   "cita_literal": "Multiclass comparison between GD2, GD3, and healthy controls demonstrated a mean accuracy of 76.6%, compared to a 37.7% chance for random comparison.",
+   "relevancia": "alta"
+  },
+  {
+   "pmid": "37250646",
+   "doi": "10.1186/s13023-017-0592-6",
+   "primer_autor": "Valero-Tena E",
+   "anio": "2023",
+   "revista": "Front Med (Lausanne)",
+   "titulo": "Advantages of digital technology in the assessment of bone marrow involvement in Gaucher's disease.",
+   "tipo_publicacion": "original revisado por pares",
+   "enfermedad": "Enfermedad de Gaucher (afectación de médula ósea)",
+   "nivel_evidencia": "directa LSD",
+   "area": "4.5 pronóstico/estratificación",
+   "objetivo": "Aplicar ML a RM de médula ósea estructurada para predecir la evolución de la enfermedad ósea.",
+   "algoritmo": "Random forest.",
+   "muestra_y_datos": "441 estudios de RM digitalizados de 131 pacientes (69 varones, 62 mujeres), con reevaluación por radiólogo experto cegado.",
+   "variables": "Datos demográficos, genética, biomarcadores, datos clínicos, años acumulados de terapia, grado de infiltración de médula, fémur, S-MRI.",
+   "resultados_metricas": "El random forest identificó como factores más importantes el grado de infiltración medular, la edad al inicio de la terapia y la infiltración femoral. Métricas de rendimiento NO CONSTA EN EL RESUMEN.",
+   "validacion": "NO CONSTA EN EL RESUMEN",
+   "limitaciones": "Cohorte única española (diseño). Sin métricas de rendimiento en el resumen. Modelo descrito como importancia de variables más que como predicción validada.",
+   "aplicabilidad": "investigación",
+   "cita_literal": "A random forest machine-learning model identified that BM infiltration degree, age at the start of therapy, and femur infiltration were the most important factors to predict the risk and severity of the bone disease.",
+   "relevancia": "alta"
+  },
+  {
+   "pmid": "41155380",
+   "doi": "10.1186/s13023-017-0592-6",
+   "primer_autor": "Serrano-Gonzalo I",
+   "anio": "2025",
+   "revista": "Int J Mol Sci",
+   "titulo": "Clinical Variability and Genotype-Phenotype Correlation in Spanish Patients with Type 1 Gaucher Disease: A Focus on Non-c.[1226A>G]; [1448T>C] Genotypes.",
+   "tipo_publicacion": "original revisado por pares",
+   "enfermedad": "Enfermedad de Gaucher tipo 1",
+   "nivel_evidencia": "directa LSD",
+   "area": "4.5 pronóstico/estratificación",
+   "objetivo": "Estudiar la correlación genotipo-fenotipo en GD1 con genotipos heterocigotos distintos de N370S/L444P.",
+   "algoritmo": "Regresión logística y árboles de decisión (dudoso como ML; el resumen usa 'predictive models').",
+   "muestra_y_datos": "374 pacientes con GD1 del registro español (195 con combinaciones alternativas).",
+   "variables": "Genotipo, puntuación de carga medular S-MRI, enfermedad ósea avanzada, parkinsonismo.",
+   "resultados_metricas": "Enfermedad ósea avanzada 59,9% en N370S/L444P frente a 38,3% (homocigoto N370S) y 41,0% (N370S;L444P) (p = 0,002). El árbol de decisión identifica S-MRI como predictor más fuerte de osteopenia/osteoporosis al diagnóstico. Métricas NO CONSTA EN EL RESUMEN.",
+   "validacion": "NO CONSTA EN EL RESUMEN",
+   "limitaciones": "Diseño retrospectivo de registro. Modelos clásicos (regresión logística y árbol); el carácter de ML es dudoso. Sin métricas de rendimiento ni validación externa en el resumen.",
+   "aplicabilidad": "investigación",
+   "cita_literal": "Decision tree analysis identified the bone marrow burden score (S-MRI) as the strongest predictor of osteopenia/osteoporosis at diagnosis.",
+   "relevancia": "baja"
+  },
+  {
+   "pmid": "37384616",
+   "doi": "10.1111/j.1346-8138.1992.tb03266.x",
+   "primer_autor": "Liévin V",
+   "anio": "2023",
+   "revista": "PLOS Digit Health",
+   "titulo": "FindZebra online search delving into rare disease case reports using natural language processing.",
+   "tipo_publicacion": "original revisado por pares",
+   "enfermedad": "Enfermedades raras (validación con datos de Gaucher y Fabry)",
+   "nivel_evidencia": "directa LSD",
+   "area": "4.1 diagnóstico/retraso/HCE-NLP",
+   "objetivo": "Ampliar el buscador de enfermedades raras FindZebra con resúmenes de casos clínicos de PubMed.",
+   "algoritmo": "Motor de búsqueda Apache Solr con extracción de edad, sexo y rasgos clínicos mediante segmentación de texto (NLP).",
+   "muestra_y_datos": "Validación retrospectiva con datos de Outcomes Survey del mundo real en pacientes con Gaucher y Fabry (n NO CONSTA EN EL RESUMEN).",
+   "variables": "Relevancia clínica de los resultados de búsqueda valorada por expertos.",
+   "resultados_metricas": "Expertos: resultados clínicamente relevantes para Fabry y menos relevantes para Gaucher; la diferencia se atribuye a la literatura antigua de PubMed sobre Gaucher. Se añadió filtro de fecha en la versión final.",
+   "validacion": "NO CONSTA EN EL RESUMEN",
+   "limitaciones": "Valoración por expertos retrospectiva, sin métricas cuantitativas en el resumen. Peor rendimiento en Gaucher por el contenido de PubMed (dice el resumen).",
+   "aplicabilidad": "prototipo validado",
+   "cita_literal": "Medical experts evaluated the search results as being clinically relevant for the Fabry patients and less clinically relevant for the Gaucher patients.",
+   "relevancia": "media"
+  },
+  {
+   "pmid": "42936285",
+   "doi": "10.1093/pnasnexus/pgag348",
+   "primer_autor": "Chai Z",
+   "anio": "2026",
+   "revista": "PNAS Nexus",
+   "titulo": "A multiscale signaling-biophysical framework reveals mechanisms of macrophage-mediated RBC clearance in sickle cell and Gaucher disease.",
+   "tipo_publicacion": "original revisado por pares",
+   "enfermedad": "Enfermedad de Gaucher y anemia falciforme",
+   "nivel_evidencia": "directa LSD",
+   "area": "4.8 investigación clínica/fármacos",
+   "objetivo": "Explicar mecanismos de la fagocitosis de eritrocitos por macrófagos en SCD y GD, y simular perturbaciones terapéuticas.",
+   "algoritmo": "Modelo híbrido: señalización de sistemas biológicos, DPD, y PINNs (y PIKANs como alternativa) para inferencia de parámetros.",
+   "muestra_y_datos": "Estudio computacional; sin pacientes en el resumen.",
+   "variables": "Señalización CD47-SIRPα-SHP1, difusión de anticuerpos, interacciones de membrana.",
+   "resultados_metricas": "El modelo capta respuestas fagocíticas diferenciales entre eritrocitos sanos y alterados en ambas enfermedades. Métricas NO CONSTA EN EL RESUMEN.",
+   "validacion": "NO CONSTA EN EL RESUMEN",
+   "limitaciones": "Estudio in silico; la validación experimental no se describe en el resumen. El componente de ML se usa para inferencia de parámetros.",
+   "aplicabilidad": "investigación",
+   "cita_literal": "The model accurately captures differential phagocytic responses between healthy and altered RBCs, revealing diminished inhibitory signaling and changes in SHP1-mediated pathways in both SCD and GD.",
+   "relevancia": "media"
+  },
+  {
+   "pmid": "42079214",
+   "doi": "10.64898/2026.04.20.719505",
+   "primer_autor": "Chai Z",
+   "anio": "2026",
+   "revista": "bioRxiv (preprint)",
+   "titulo": "A Multiscale Signaling-Biophysical Framework Reveals Mechanisms of Macrophage-Mediated RBC Clearance in Sickle Cell and Gaucher Disease.",
+   "tipo_publicacion": "preprint",
+   "enfermedad": "Enfermedad de Gaucher y anemia falciforme",
+   "nivel_evidencia": "directa LSD",
+   "area": "4.8 investigación clínica/fármacos",
+   "objetivo": "Versión preprint del mismo estudio (ver 42936285).",
+   "algoritmo": "Modelo híbrido con PINNs (y PIKANs como alternativa).",
+   "muestra_y_datos": "Estudio computacional; sin pacientes en el resumen.",
+   "variables": "Señalización CD47-SIRPα-SHP1, unión de anticuerpos a receptores.",
+   "resultados_metricas": "Mismo resultado que la versión publicada: respuestas fagocíticas diferenciales en SCD y GD. Métricas NO CONSTA EN EL RESUMEN.",
+   "validacion": "NO CONSTA EN EL RESUMEN",
+   "limitaciones": "Preprint sin revisión por pares. Duplicado de 42936285 (y de EPMC PPR1213755).",
+   "aplicabilidad": "investigación",
+   "cita_literal": "The model accurately captures differential phagocytic responses between healthy and altered RBCs, revealing diminished inhibitory signaling and changes in SHP1-mediated pathways in both SCD and GD.",
+   "relevancia": "media"
+  },
+  {
+   "pmid": "NO CONSTA (preprint EPMC PPR1311167)",
+   "doi": "10.64898/2026.08.26.747394",
+   "primer_autor": "Nguyen-Tran T",
+   "anio": "2026",
+   "revista": "bioRxiv (preprint)",
+   "titulo": "Intelligent differential ion mobility spectrometry (iDMS): A deep neural network that predicts optimal space-resolved ion mobility parameters for isomeric monoglycosphingolipids.",
+   "tipo_publicacion": "preprint",
+   "enfermedad": "Gaucher (motivación; el estudio analítico no incluye pacientes)",
+   "nivel_evidencia": "población general/extrapolación",
+   "area": "4.3 biomarcadores/ómicas",
+   "objetivo": "Predecir parámetros de separación FAIMS/DMS para resolver isómeros de monoglicoesfingolípidos (relevantes en Gaucher, Parkinson y Krabbe).",
+   "algoritmo": "Red neuronal supervisada (iDMS).",
+   "muestra_y_datos": "Conjunto de entrenamiento de intensidades de señal medidas para 12 lípidos en un rango de SV y CoV.",
+   "variables": "SV, CoV, tipo de azúcar, longitud y grado de insaturación de la cadena N-acilo.",
+   "resultados_metricas": "NO CONSTA EN EL RESUMEN",
+   "validacion": "NO CONSTA EN EL RESUMEN",
+   "limitaciones": "Método analítico sin pacientes; Gaucher solo como motivación. Resumen leído truncado (primeros caracteres de EPMC).",
+   "aplicabilidad": "investigación",
+   "cita_literal": "iDMS predicts the SV and CoV combinations capable of resolving any stereoisomer pair from a training dataset of composed of measured signal intensities across a range of SVs and CoVs of 12 lipids.",
+   "relevancia": "baja"
+  },
+  {
+   "pmid": "NCT05908656",
+   "doi": "NO CONSTA EN EL RESUMEN",
+   "primer_autor": "NO CONSTA (registro ClinicalTrials.gov)",
+   "anio": "2024",
+   "revista": "ClinicalTrials.gov",
+   "titulo": "Implementation and Evaluation of a Rare Disease Algorithm to Identify Persons at Risk of Gaucher Disease Using Data From Electronic Health Records (EHRs) in the United States (Project Searchlight).",
+   "tipo_publicacion": "registro de ensayo",
+   "enfermedad": "Enfermedad de Gaucher",
+   "nivel_evidencia": "directa LSD",
+   "area": "4.1 diagnóstico/retraso/HCE-NLP",
+   "objetivo": "Implantar y evaluar el algoritmo de identificación de riesgo de GD a partir de HCE (ver 37689674).",
+   "algoritmo": "El registro habla de 'rare disease algorithm'; que sea ML NO CONSTA EN EL RESUMEN en el extracto leído (el extracto se corta).",
+   "muestra_y_datos": "Estudio de tres fases, retrospectivo y prospectivo (tamaño NO CONSTA EN EL RESUMEN).",
+   "variables": "NO CONSTA EN EL RESUMEN",
+   "resultados_metricas": "Sin resultados en el registro leído (estado COMPLETED).",
+   "validacion": "NO CONSTA EN EL RESUMEN",
+   "limitaciones": "Solo registro; resultados no leídos. Extracto truncado; hay que comprobar en ClinicalTrials.gov si el algoritmo es ML.",
+   "aplicabilidad": "investigación",
+   "cita_literal": "This is a three-phase study comprising both retrospective and prospective components, as follows:",
+   "relevancia": "media"
+  }
+ ],
+ "descartes": [
+  {
+   "pmid": "38893036",
+   "motivo": "DUDOSO. Se llama 'AI-based' pero el algoritmo ofrece regímenes de dosis aleatorios dentro de un rango fijado por el médico; el resumen no describe un modelo entrenado ni predictivo. Estudio de 5 pacientes. Si el revisor acepta la etiqueta de IA, pasa a estudios (área 4.6)."
+  },
+  {
+   "pmid": "NCT06050967",
+   "motivo": "DUDOSO. Registro del mismo ensayo que 38893036 (algoritmo de dosis aleatorias). Mismo criterio."
+  },
+  {
+   "pmid": "34490253",
+   "motivo": "DUDOSO. Text-mining y análisis de redes de citocinas en GD, ASMD y Fabry; no hay modelo de aprendizaje ni predicción. Es NLP de literatura; el revisor decide si entra en 4.1/4.3."
+  },
+  {
+   "pmid": "33510429",
+   "motivo": "DUDOSO. Ecuación que predice la probabilidad de GD1 con 3 variables (plaquetas, ferritina, saturación de transferrina), con algoritmo diagnóstico y test de actividad en DBS. El resumen no declara ML; probablemente regresión, a comprobar en el texto completo."
+  },
+  {
+   "pmid": "24904648",
+   "motivo": "DUDOSO. Predicción in silico de SNP con siete herramientas ya existentes (SIFT, MutPred, PANTHER, PROVEAN, SNPs&GO, etc.). No hay entrenamiento propio declarado; algunas herramientas usan ML internamente, pero el resumen no lo dice."
+  },
+  {
+   "pmid": "30384423",
+   "motivo": "DUDOSO. Análisis in silico de mutaciones missense en dos esfingolipidosis con PROVEAN, PolyPhen-2, SNAP2 y ExPASy; el resumen no declara ML propio. Gaucher solo es una de las dos enfermedades."
+  },
+  {
+   "pmid": "36808692",
+   "motivo": "Diseño de estabilidad con el algoritmo PROSS (diseño computacional, no aprendizaje automático según el resumen)."
+  },
+  {
+   "pmid": "40929301",
+   "motivo": "Simulación DPD de reología sanguínea en GD; sin ML en el resumen leído. Duplicado con 39713391 (mismo DOI en PubMed)."
+  },
+  {
+   "pmid": "39713391",
+   "motivo": "Duplicado de 40929301 (mismo estudio, mismo resumen)."
+  },
+  {
+   "pmid": "33823526",
+   "motivo": "Regresión logística y Kaplan-Meier: estadística clásica sin modelo de aprendizaje."
+  },
+  {
+   "pmid": "37249220",
+   "motivo": "Modelo logístico mixto y AUC 0,894 para AVN durante el tratamiento: estadística clásica sin ML."
+  },
+  {
+   "pmid": "42123312",
+   "motivo": "Regresión logística multivariable sobre lyso-Gb1: estadística clásica."
+  },
+  {
+   "pmid": "37685353",
+   "motivo": "Valor predictivo de lyso-Gb1 en LYSO-PROOF: el resumen no describe un método de ML."
+  },
+  {
+   "pmid": "34957594",
+   "motivo": "Modelo farmacocinético poblacional con elementos de Markov: farmacometría clásica, sin ML."
+  },
+  {
+   "pmid": "41205343",
+   "motivo": "Correlación de lyso-GL1 con fenotipo: estadística descriptiva."
+  },
+  {
+   "pmid": "36443133",
+   "motivo": "Algoritmo diagnóstico de consenso de expertos (flujograma), sin ML."
+  },
+  {
+   "pmid": "37328863",
+   "motivo": "Estudio de cribado con el algoritmo de Di Rocco y test DBS: sin ML."
+  },
+  {
+   "pmid": "40897212",
+   "motivo": "Algoritmo de cribado en DBS con Lyso-Gb1 y umbrales: sin ML."
+  },
+  {
+   "pmid": "38365689",
+   "motivo": "GED-C PSS: escala de puntuación clínica, sin modelo de aprendizaje."
+  },
+  {
+   "pmid": "33174353",
+   "motivo": "GED-C PSS (escala de puntuación): sin ML."
+  },
+  {
+   "pmid": "36092251",
+   "motivo": "GED-C PSS con biobancos y HCE (Finlandia): escala de puntuación, sin ML en el resumen leído."
+  },
+  {
+   "pmid": "33604241",
+   "motivo": "GED-C PSS prototipo en Finlandia: escala de puntuación, sin ML."
+  },
+  {
+   "pmid": "41214801",
+   "motivo": "GED-C PSS en Corea: escala de puntuación, sin ML."
+  },
+  {
+   "pmid": "30414226",
+   "motivo": "Consenso Delphi GED-C (signos y covariables): sin IA ni ML."
+  },
+  {
+   "pmid": "40611398",
+   "motivo": "Revisión general de GD; la IA solo se menciona como perspectiva futura en el resumen. No es revisión sobre IA."
+  },
+  {
+   "pmid": "41527340",
+   "motivo": "Revisión de historia natural de GD con propuesta de modelos multiestado; el resumen no menciona IA ni ML."
+  },
+  {
+   "pmid": "40194983",
+   "motivo": "Revisión de farmacogenómica en enfermedades raras; sin IA en el resumen."
+  },
+  {
+   "pmid": "40775785",
+   "motivo": "Farmacovigilancia FAERS de imiglucerasa: análisis de desproporcionalidad, sin ML (según el título; resumen no leído completo)."
+  },
+  {
+   "pmid": "42006891",
+   "motivo": "Señales FAERS de enzimas de GD: análisis de desproporcionalidad, sin ML (según el título)."
+  },
+  {
+   "pmid": "42984907",
+   "motivo": "FAERS de osteonecrosis con glucocorticoides: no es Gaucher ni IA."
+  },
+  {
+   "pmid": "22388998",
+   "motivo": "GWAS en GD: estadística genética clásica, sin ML."
+  },
+  {
+   "pmid": "40874831",
+   "motivo": "Fuera de ámbito: Fabry (JMIR AI). Anotar para la revisión de Fabry."
+  },
+  {
+   "pmid": "32370284",
+   "motivo": "Fuera de ámbito: proteómica en Fabry con modelo predictivo. Anotar para Fabry."
+  },
+  {
+   "pmid": "34930374",
+   "motivo": "Fuera de ámbito: ML en Fabry (solo por título)."
+  },
+  {
+   "pmid": "40922551",
+   "motivo": "Fuera de ámbito: XGBoost/SHAP para GBA1 en Parkinson, no en enfermedad de Gaucher. Anotar para la revisión de GBA."
+  },
+  {
+   "pmid": "41301891",
+   "motivo": "Fuera de ámbito: transcriptómica GBA1 en Parkinson con ML."
+  },
+  {
+   "pmid": "40753162",
+   "motivo": "Fuera de ámbito: score in silico de variantes GBA1 en Parkinson."
+  },
+  {
+   "pmid": "42566020",
+   "motivo": "Fuera de ámbito: DLB con genotipo GBA1 y PET con ML multiclase; no es enfermedad de Gaucher."
+  },
+  {
+   "pmid": "41957555",
+   "motivo": "Editorial sobre QSP y IA agéntica sin Gaucher en el texto leído (sin resumen en PubMed)."
+  },
+  {
+   "pmid": "41251527",
+   "motivo": "Editorial sobre in silico en enfermedades raras pediátricas (sin resumen en PubMed); sin Gaucher."
+  },
+  {
+   "pmid": "42589322",
+   "motivo": "Editorial de número especial de ML en bioinformática; sin Gaucher."
+  },
+  {
+   "pmid": "41818305",
+   "motivo": "LLM para cuantificar necesidad médica no cubierta en todas las enfermedades; no trata Gaucher de forma específica en el resumen leído."
+  },
+  {
+   "pmid": "41249457",
+   "motivo": "Revisión general de in silico en enfermedades raras; sin Gaucher específico en el resumen."
+  },
+  {
+   "pmid": "42656821",
+   "motivo": "IA en desarrollo clínico de fármacos, general; sin Gaucher."
+  },
+  {
+   "pmid": "42453397",
+   "motivo": "IA en fármacos biológicos, general; sin Gaucher."
+  },
+  {
+   "pmid": "41555430",
+   "motivo": "Metabolómica en errores innatos del metabolismo; no es IA y no trata Gaucher de forma específica."
+  },
+  {
+   "pmid": "42506399",
+   "motivo": "Revisión sistemática de errores innatos del metabolismo; sin IA en el resumen leído."
+  },
+  {
+   "pmid": "42855792",
+   "motivo": "Análisis de frontera de Pareto de precios de terapias de GD en Brasil: sin IA."
+  },
+  {
+   "pmid": "42602593",
+   "motivo": "Legibilidad de contenidos online y de LLM en ortopedia pediátrica: no es Gaucher."
+  },
+  {
+   "pmid": "40283070",
+   "motivo": "IA en síndrome coronario agudo: no es Gaucher."
+  },
+  {
+   "pmid": "42628009",
+   "motivo": "ML en dolor torácico en urgencias: no es Gaucher."
+  },
+  {
+   "pmid": "42337128",
+   "motivo": "IA en mejora vegetal: no es Gaucher."
+  },
+  {
+   "pmid": "41328009",
+   "motivo": "ML en anemia microcítica: no es Gaucher (aparece en la búsqueda general)."
+  },
+  {
+   "pmid": "40212086",
+   "motivo": "ML en diabetes: no es Gaucher (coincidencia de texto completo en EPMC)."
+  },
+  {
+   "pmid": "42675103",
+   "motivo": "ML en diabetes: no es Gaucher (coincidencia de texto completo en EPMC)."
+  },
+  {
+   "pmid": "31164476",
+   "motivo": "Carta sobre coordenadas atómicas de modelos moleculares: no es IA ni trata Gaucher de forma específica (solo por título)."
+  },
+  {
+   "pmid": "31164477",
+   "motivo": "Respuesta a carta sobre dinámica molecular de GCase-saposina C: sin IA en el título ni en el resumen (solo por título)."
+  },
+  {
+   "pmid": "PPR1083652",
+   "motivo": "DUDOSO. Multiómica y ML en lisosomas del cerebro de ratón envejecido. Gaucher solo aparece como comparación en la discusión, no es enfermedad de Gaucher."
+  },
+  {
+   "pmid": "PPR367517",
+   "motivo": "Duplicado preprint de 34529671 (bioRxiv 2021)."
+  },
+  {
+   "pmid": "PPR1213755",
+   "motivo": "Duplicado EPMC de 42079214 / 42936285 (mismo DOI 10.64898/2026.04.20.719505)."
+  },
+  {
+   "pmid": "PPR940254",
+   "motivo": "Correctores alostéricos de GCase: sin IA."
+  },
+  {
+   "pmid": "PPR38989",
+   "motivo": "Coincidencia de autor 'Gaucher EA'; no es enfermedad de Gaucher ni IA."
+  },
+  {
+   "pmid": "PPR1052176",
+   "motivo": "Coincidencia de autor 'Gaucher EA'; no es enfermedad de Gaucher ni IA."
+  },
+  {
+   "pmid": "PPR1226811",
+   "motivo": "Coincidencia de autor 'Gaucher EA' en fagos intestinales; no es enfermedad de Gaucher ni IA."
+  }
+ ],
+ "lagunas": [
+  "4.3 biomarcadores/ómicas con ML: sin estudios de ML en pacientes con GD. Solo 39201273 (in silico) y PPR1083652 (ratón). Consultas Q5 (TOTAL 2, ninguno de GD) y X5 (TOTAL 1, PD).",
+  "4.6 tratamiento: ningún modelo de ML que prediga respuesta a ERT/SRT/eliglustat en GD. Solo 38893036 (dudoso). Consulta T1 (TOTAL 122, sin ML específico de GD) y Q7.",
+  "4.8 investigación clínica/fármacos: sin cribado virtual, repurposing ni IA sobre GD salvo 30808805 (mecanístico) y 42936285. Consulta Q7 (TOTAL 1) y Q8.",
+  "4.7 IA generativa/LLM: solo 41159846 (demostración). Consultas Q8 (TOTAL 1) y X2 (TOTAL 7).",
+  "4.2 genética/variantes con ML o AlphaFold: sin estudios de ML/AlphaFold en GD; solo 34529671. Consulta Q4 (TOTAL 43, dominado por PD) y X1.",
+  "4.4 imagen: sin radiómica de GD con ML. Consulta Q3 (TOTAL 3). Hay segmentación de bazo y médula (37629403, 38834102, 27109052).",
+  "4.1 HCE/NLP: sin estudios de NLP sobre notas clínicas de GD en la búsqueda. Consultas X2 (TOTAL 7) y Q2 (TOTAL 22).",
+  "Cribado neonatal con ML o algoritmo: sin estudios de ML en GD. Consulta T2 (TOTAL 25)."
+ ],
+ "notas": "1) DOI sospechosos (se conservan los de PubMed/EPMC sin corregir; comprobar a mano): 37629403 (PubMed da 10.1556/oh.2008.28337; el artículo es J Clin Med 2023;12:5361); 39201273 (10.1074/mcp.M112.022566; el artículo es IJMS 2024;25:8586); 41159846 (10.1016/j.ymgme.2004.04.011); 34529671 (10.1016/S0022-2836(05)80360-2); 41661224 (10.3389/fmed.2021.747612, con año 2026 en PubMed); 37250646 y 41155380 comparten 10.1186/s13023-017-0592-6; 32962737 (10.3390/ijms21041247, la revista es Orphanet J Rare Dis); 37384616 (10.1111/j.1346-8138.1992.tb03266.x); 40929301 y 39713391 comparten 10.1182/blood.V79.8.2154. 2) Duplicados/versiones: 42936285 (PNAS Nexus) = 42079214 (bioRxiv) = PPR1213755; 34529671 = PPR367517; 40929301 = 39713391; 38893036 = NCT06050967. 3) 39617306 (carta) no tiene resumen en PubMed: los campos vienen solo del título. 4) Casos dudosos a decidir por el revisor: 38893036/NCT06050967 (IA declarada, algoritmo de dosis aleatorias), 41155380 (árboles de decisión, incluido con relevancia baja), 34490253 (text-mining), 33510429 (ecuación predictiva). 5) NCT05908656 se leyó solo en el extracto truncado de ClinicalTrials.gov. 6) PMC13649980 (Front Pediatr, EPMC) apareció en la búsqueda y no se pudo leer con pm.py (solo PubMed); revisar a mano. 7) PPR1311167 se leyó en el extracto de EPMC, truncado. 8) Las búsquedas EPMC sin filtro SRC:PPR (TOTAL 898) son ruido de texto completo; solo se revisaron títulos. 9) CTGOV 'Gaucher machine learning' devolvió 0 estudios. 10) Ningún resumen de estudio incluido se ha omitido ni inventado; los campos marcados 'NO CONSTA EN EL RESUMEN' lo están porque el resumen leído no lo da."
+}

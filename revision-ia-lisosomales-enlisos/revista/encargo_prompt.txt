@@ -1,0 +1,349 @@
+PROMPT: Redacción de un artículo de revisión científica sobre aplicaciones de inteligencia artificial en las enfermedades de depósito lisosomal
+1. Rol y perfil científico
+Actúa como un equipo multidisciplinar integrado por:
+Un investigador principal especializado en enfermedades de depósito lisosomal (LSD), especialmente enfermedad de Gaucher, enfermedad de Fabry y enfermedad de Pompe.
+Un especialista en inteligencia artificial aplicada a la biomedicina, con experiencia en Machine Learning (ML), Deep Learning (DL), redes neuronales, procesamiento del lenguaje natural (NLP), modelos multimodales e inteligencia artificial generativa.
+Un especialista en investigación clínica y medicina de precisión.
+Un documentalista científico experto en búsquedas bibliográficas en PubMed, MEDLINE, Embase, Scopus y Web of Science.
+Un editor científico con experiencia en la preparación de manuscritos biomédicos conforme a las recomendaciones ICMJE y al estilo Vancouver.
+Tu objetivo es desarrollar un artículo de revisión científica riguroso, actual, crítico y potencialmente publicable en la revista española en-LISOS, especializada en enfermedades de depósito lisosomal.
+El manuscrito debe estar redactado en español científico, con terminología médica precisa, estilo académico natural y nivel de profundidad adecuado para una revista biomédica especializada. Debe evitar expresiones genéricas, afirmaciones exageradas sobre las capacidades de la IA y cualquier apariencia de texto promocional o generado automáticamente.
+2. Tema y enfoque del artículo
+Desarrolla una revisión sobre las aplicaciones actuales y emergentes de la inteligencia artificial en el diagnóstico, caracterización, seguimiento y tratamiento de las enfermedades de depósito lisosomal.
+El artículo debe responder a la siguiente pregunta central:
+¿Cómo están contribuyendo los modelos de inteligencia artificial y aprendizaje automático a mejorar el diagnóstico, la estratificación de pacientes, la predicción de la evolución clínica y la toma de decisiones terapéuticas en las enfermedades de depósito lisosomal, y cuáles son las limitaciones que dificultan su aplicación clínica?
+Incluye, como mínimo, las siguientes patologías:
+Enfermedad de Gaucher.
+Enfermedad de Fabry.
+Enfermedad de Pompe.
+Cuando exista evidencia científica suficiente, incorpora también otras enfermedades lisosomales, como Niemann-Pick, mucopolisacaridosis, enfermedad de Wolman, deficiencia de lipasa ácida lisosomal o deficiencia de esfingomielinasa ácida.
+No fuerces la inclusión de patologías para las que no existan estudios relevantes. Diferencia claramente la evidencia específica de cada enfermedad de los resultados obtenidos en otras enfermedades raras o en poblaciones generales que puedan tener aplicaciones potenciales en este ámbito.
+3. Investigación bibliográfica: actualidad y rigor
+Realiza una búsqueda bibliográfica exhaustiva y estructurada de la literatura científica disponible hasta el 31 de diciembre de 2026.
+La búsqueda debe abarcar, preferentemente:
+PubMed/MEDLINE.
+Embase.
+Scopus.
+Web of Science.
+Cochrane Library.
+Google Scholar, únicamente como fuente complementaria.
+ClinicalTrials.gov y otros registros públicos de ensayos clínicos.
+Preprints científicos, identificándolos expresamente como evidencia no revisada por pares.
+Utiliza combinaciones de términos como:
+"Artificial intelligence" AND "lysosomal storage disorders".
+"Machine learning" AND "Gaucher disease".
+"Deep learning" AND "Fabry disease".
+"Artificial intelligence" AND "Pompe disease".
+"Machine learning" AND "rare diseases".
+"Clinical decision support" AND "lysosomal diseases".
+"Radiomics" AND "Fabry disease".
+"Natural language processing" AND "rare disease diagnosis".
+"Genomic variant prioritization" AND "lysosomal storage disorders".
+"Predictive modelling" AND "lysosomal storage diseases".
+Amplía la búsqueda con sinónimos, términos MeSH y estrategias específicas para cada enfermedad.
+Para cada estudio relevante, identifica:
+Autores y año de publicación.
+Revista científica y DOI o PMID.
+Enfermedad estudiada.
+Objetivo del modelo.
+Tipo de algoritmo utilizado.
+Características de la muestra y procedencia de los datos.
+Variables clínicas, bioquímicas, genéticas, radiológicas o moleculares utilizadas.
+Resultados cuantitativos principales, cuando estén disponibles.
+Métricas de rendimiento (sensibilidad, especificidad, AUC-ROC, precisión, F1-score, etc.).
+Limitaciones metodológicas.
+Nivel de validación: interna, externa, multicéntrica o prospectiva.
+Grado de aplicabilidad clínica actual.
+No inventes estudios, autores, resultados, tamaños muestrales, métricas, DOI ni referencias bibliográficas.
+Comprueba que cada publicación citada existe y que su contenido respalda realmente la afirmación correspondiente. Distingue entre estudios específicos de enfermedades lisosomales, investigaciones realizadas en otras enfermedades raras y desarrollos tecnológicos todavía no validados en pacientes con LSD.
+Separa explícitamente:
+Estudios publicados y revisados por pares.
+Artículos aceptados pendientes de publicación.
+Preprints.
+Ensayos clínicos o estudios registrados todavía en desarrollo.
+Propuestas teóricas o aplicaciones potenciales.
+Si no puedes verificar una referencia, no la incluyas como evidencia confirmada.
+4. Áreas de investigación que debe abordar el artículo
+Organiza el desarrollo del manuscrito alrededor de aplicaciones científicamente relevantes. No es necesario que todas las áreas tengan el mismo peso: prioriza aquellas que cuenten con mayor evidencia específica en Gaucher, Fabry y Pompe.
+4.1. Inteligencia artificial para mejorar el diagnóstico y reducir el retraso diagnóstico
+Investiga el uso de algoritmos de ML y NLP para:
+Identificar patrones clínicos compatibles con enfermedades raras.
+Detectar combinaciones de síntomas, signos y antecedentes que puedan sugerir una enfermedad lisosomal.
+Analizar historias clínicas electrónicas y facilitar la identificación de pacientes infradiagnosticados.
+Reconocer fenotipos complejos y presentaciones clínicas atípicas.
+Reducir el retraso diagnóstico y orientar la derivación a unidades especializadas.
+Priorizar pruebas bioquímicas, enzimáticas y genéticas.
+Analiza las posibilidades de los modelos de procesamiento del lenguaje natural aplicados a informes médicos, notas clínicas y registros hospitalarios.
+4.2. Diagnóstico molecular, genético y bioinformático
+Explora aplicaciones de IA en:
+Interpretación y priorización de variantes genéticas.
+Clasificación de variantes de significado incierto (VUS).
+Análisis de datos de secuenciación masiva (NGS).
+Predicción del efecto funcional de variantes.
+Integración de información genómica, transcriptómica y proteómica.
+Identificación de relaciones genotipo-fenotipo.
+Valora las posibilidades de los modelos de aprendizaje profundo y las herramientas de predicción estructural de proteínas, distinguiendo sus capacidades demostradas de las aplicaciones todavía experimentales.
+4.3. Biomarcadores y modelos predictivos
+Examina la utilización de algoritmos para integrar:
+Actividad enzimática.
+Biomarcadores plasmáticos y urinarios.
+Perfiles metabolómicos y lipidómicos.
+Biomarcadores de daño orgánico.
+Parámetros hematológicos y bioquímicos.
+Variables clínicas longitudinales.
+Presta especial atención a biomarcadores relevantes para estas enfermedades, como Lyso-Gb1 y CCL18 en Gaucher, lyso-Gb3 en Fabry y biomarcadores relacionados con el metabolismo del glucógeno y el daño muscular en Pompe.
+Analiza si los modelos pueden ayudar a diferenciar fenotipos, identificar pacientes con mayor riesgo de progresión o detectar cambios antes de que sean evidentes clínicamente.
+No presupongas que un biomarcador o una combinación de ellos constituye una herramienta diagnóstica validada por el mero hecho de que un algoritmo consiga clasificar pacientes en un estudio.
+4.4. Diagnóstico por imagen y radiología computacional
+Investiga aplicaciones de Deep Learning, visión artificial y radiomics en:
+Resonancia magnética.
+Cuantificación de infiltración grasa muscular.
+Evaluación de afectación cardíaca.
+Detección y cuantificación de fibrosis.
+Volumetría hepática y esplénica.
+Evaluación de afectación neurológica.
+Seguimiento de cambios estructurales a lo largo del tiempo.
+Relaciona estas aplicaciones con las manifestaciones de Gaucher, Fabry y Pompe.
+4.5. Predicción de evolución clínica y estratificación de pacientes
+Examina modelos capaces de:
+Predecir progresión de la enfermedad.
+Estimar riesgo de afectación renal, cardíaca, neurológica o musculoesquelética.
+Identificar pacientes con evolución más grave.
+Diferenciar fenotipos clásicos y variantes de presentación tardía.
+Analizar trayectorias clínicas longitudinales.
+Identificar factores asociados a complicaciones y mortalidad.
+Valora el potencial de los modelos de supervivencia, los modelos de series temporales y el aprendizaje automático supervisado y no supervisado.
+4.6. Personalización y monitorización del tratamiento
+Investiga las posibles aplicaciones de IA en:
+Predicción de respuesta al tratamiento enzimático sustitutivo.
+Evaluación de respuesta a terapias de reducción de sustrato.
+Seguimiento de terapias farmacológicas y nuevas aproximaciones terapéuticas.
+Identificación de pacientes con respuesta subóptima.
+Detección temprana de pérdida de respuesta o progresión.
+Optimización de la frecuencia de seguimiento.
+Identificación de factores asociados a adherencia y tolerabilidad.
+Incluye, cuando exista evidencia, las posibilidades de integrar datos clínicos, analíticos, farmacológicos y de calidad de vida.
+Distingue entre herramientas que predicen respuesta y herramientas que realmente han demostrado mejorar resultados clínicos.
+4.7. IA generativa y modelos multimodales
+Analiza el papel emergente de:
+Grandes modelos de lenguaje (LLM).
+Modelos multimodales que integran texto, imagen y datos estructurados.
+Sistemas de apoyo a la decisión clínica.
+Extracción automática de información de historias clínicas.
+Generación y estructuración de informes médicos.
+Asistentes para investigación clínica y gestión de datos.
+Sistemas de recuperación aumentada mediante generación (RAG) aplicados a documentación científica y clínica.
+Valora su posible utilidad en enfermedades raras, donde la información clínica está dispersa y el número de pacientes por centro suele ser reducido.
+Incluye una discusión crítica sobre alucinaciones, errores de interpretación, trazabilidad, privacidad, sesgos y necesidad de supervisión profesional.
+4.8. Inteligencia artificial en investigación clínica y desarrollo de terapias
+Explora las aplicaciones en:
+Identificación y reclutamiento de pacientes para ensayos clínicos.
+Búsqueda de pacientes elegibles mediante historias clínicas.
+Optimización del diseño de ensayos clínicos en enfermedades con baja prevalencia.
+Identificación de variables de resultado y biomarcadores.
+Datos del mundo real (RWD) y evidencia del mundo real (RWE).
+Modelización de historia natural de la enfermedad.
+Diseño de cohortes y controles externos.
+Descubrimiento y reposicionamiento de fármacos.
+Predicción de interacciones moleculares y diseño de tratamientos.
+Analiza los retos específicos de los ensayos clínicos en enfermedades ultrarraras, especialmente el reducido tamaño muestral y la heterogeneidad clínica.
+5. Comparación entre enfermedades
+Incluye un apartado específico que compare Gaucher, Fabry y Pompe.
+Para cada patología, identifica:
+Qué aplicaciones de IA cuentan con evidencia específica.
+Qué tipos de datos se están utilizando.
+Qué objetivos clínicos persiguen los modelos.
+Qué resultados se han obtenido.
+Qué aplicaciones siguen siendo experimentales.
+Qué barreras dificultan su implementación.
+No atribuyas a una enfermedad resultados obtenidos exclusivamente en otra.
+Si la evidencia específica es escasa, indícalo claramente. La ausencia de publicaciones no debe rellenarse con hipótesis presentadas como resultados.
+6. Limitaciones y desafíos para su implementación
+Desarrolla una discusión crítica sobre:
+Escasez de cohortes amplias.
+Heterogeneidad fenotípica y genética.
+Desequilibrios entre pacientes y controles.
+Sesgo de selección.
+Falta de validación externa.
+Sobreajuste.
+Problemas de interpretabilidad.
+Reproducibilidad.
+Calidad y estandarización de datos.
+Interoperabilidad de historias clínicas.
+Privacidad y protección de datos.
+Sesgos poblacionales.
+Dificultades regulatorias.
+Responsabilidad profesional.
+Integración en los flujos de trabajo asistenciales.
+Incluye referencias a marcos metodológicos y regulatorios relevantes, como TRIPOD+AI, CONSORT-AI, SPIRIT-AI, STARD-AI, PROBAST-AI, el Reglamento Europeo de Inteligencia Artificial y la normativa europea de productos sanitarios cuando corresponda.
+Distingue las recomendaciones aplicables a estudios de predicción, diagnóstico, ensayos clínicos y herramientas de apoyo a la decisión.
+7. Estructura editorial del manuscrito
+Adopta la modalidad de artículo de revisión y sigue las instrucciones editoriales de en-LISOS proporcionadas a continuación.
+PARTE 1. Página de título e identificación
+Incluye:
+Título en español.
+Título en inglés.
+Autores: deja campos editables para nombre, apellidos, departamento e institución.
+Autor de correspondencia: campos editables para nombre, dirección y correo electrónico.
+Agradecimientos: campo editable.
+Financiación: declaración correspondiente, sin inventar financiación.
+Conflictos de interés: declaración editable y explícita.
+No inventes autores, afiliaciones, financiación ni conflictos de interés.
+PARTE 2. Cuerpo del artículo
+Resumen estructurado en español, máximo 250 palabras.
+Abstract en inglés, fiel al resumen español.
+Entre 3 y 6 palabras clave en español, preferentemente MeSH/DeCS.
+Keywords en inglés.
+Introducción.
+Desarrollo de la revisión, organizado mediante los apartados científicos anteriores.
+Conclusiones.
+La introducción debe explicar la relevancia de las enfermedades lisosomales, la dificultad diagnóstica y de seguimiento, el potencial de la IA y el objetivo de la revisión.
+El desarrollo debe sintetizar y comparar la evidencia, no limitarse a enumerar publicaciones.
+Las conclusiones deben responder directamente a la pregunta central y diferenciar claramente las aplicaciones consolidadas, prometedoras y todavía experimentales.
+PARTE 3. Tablas, figuras y material gráfico
+Propón tablas y figuras que aporten valor real al manuscrito.
+Como mínimo, considera:
+Tabla 1. Aplicaciones de inteligencia artificial en las enfermedades de depósito lisosomal: enfermedad, objetivo clínico, datos utilizados, modelo, resultados y nivel de evidencia.
+Tabla 2. Comparación de las aplicaciones de IA en Gaucher, Fabry y Pompe, incluyendo áreas con evidencia específica y lagunas de investigación.
+Tabla 3. Principales limitaciones metodológicas y regulatorias para la aplicación clínica de modelos de IA en enfermedades lisosomales.
+Figura 1. Esquema conceptual del flujo de integración de datos clínicos, bioquímicos, genéticos, metabolómicos y radiológicos mediante modelos de IA para apoyar el diagnóstico y seguimiento de enfermedades lisosomales.
+Figura 2. Mapa de aplicaciones de IA a lo largo del recorrido asistencial: sospecha clínica, diagnóstico, caracterización fenotípica, predicción pronóstica, selección terapéutica y monitorización.
+Las figuras deben ser originales, científicamente precisas y acompañarse de pies descriptivos que permitan interpretarlas de forma autónoma.
+No presentes esquemas conceptuales como si fueran resultados experimentales.
+8. Referencias bibliográficas
+Utiliza el estilo Vancouver/ICMJE.
+Numera las citas en el texto mediante números arábigos entre corchetes, según orden de aparición.
+Incluye las referencias completas al final.
+Si hay más de seis autores, incluye los seis primeros seguidos de et al.
+Añade DOI o PMID cuando estén disponibles.
+Comprueba la correspondencia exacta entre cada cita y su referencia.
+No incluyas bibliografía ficticia ni referencias que no hayas podido verificar.
+Prioriza artículos originales, revisiones sistemáticas, estudios multicéntricos y publicaciones recientes, sin excluir trabajos fundamentales anteriores.
+9. Criterios de calidad científica
+El manuscrito debe cumplir los siguientes criterios:
+Rigor científico y precisión terminológica.
+Actualidad bibliográfica hasta el 31 de diciembre de 2026.
+Diferenciación entre evidencia específica y extrapolaciones.
+Análisis crítico de los resultados.
+Identificación de lagunas de conocimiento.
+Equilibrio entre las tres enfermedades principales.
+Ausencia de afirmaciones no respaldadas.
+Referencias verificables.
+Coherencia entre objetivos, desarrollo y conclusiones.
+Redacción original, fluida y propia de una publicación biomédica.
+Evita:
+Presentar la IA como una solución universal.
+Confundir asociación estadística con causalidad.
+Equiparar rendimiento retrospectivo con utilidad clínica.
+Confundir modelos de investigación con herramientas autorizadas para uso asistencial.
+Repetir conceptos entre apartados.
+Introducir tecnologías de moda sin explicar su utilidad real.
+Inventar resultados para completar tablas.
+Utilizar referencias bibliográficas inexistentes.
+10. Forma de trabajo y entregables
+No redactes inmediatamente el artículo completo sin haber realizado antes la investigación bibliográfica.
+Trabaja en cinco fases:
+Fase 1. Mapa de evidencia científica.Identifica las publicaciones relevantes, clasifícalas por enfermedad y aplicación, verifica las referencias y señala las áreas con evidencia insuficiente.
+Fase 2. Propuesta editorial.Propón tres títulos científicos, el objetivo principal, la pregunta de revisión y un índice definitivo. Recomienda el enfoque que tenga mayor interés científico y posibilidades de publicación.
+Fase 3. Síntesis crítica.Construye las tablas comparativas y sintetiza los resultados de los estudios, señalando las limitaciones y el grado de evidencia.
+Fase 4. Redacción del manuscrito.Redacta el artículo completo siguiendo la estructura editorial de en-LISOS, con citas numéricas y bibliografía Vancouver.
+Fase 5. Revisión editorial y científica.Actúa como revisor externo de la revista. Identifica errores científicos, afirmaciones no respaldadas, referencias dudosas, redundancias, problemas de estructura y aspectos que podrían motivar un rechazo editorial. Propón las correcciones necesarias.
+Si la evidencia específica sobre IA en Gaucher, Fabry o Pompe resulta limitada, adapta el alcance del artículo para mantener su rigor y valor científico. Es preferible una revisión más delimitada y sólida que un manuscrito extenso basado en extrapolaciones.
+Comienza ahora por la Fase 1 y no avances a la redacción completa hasta presentar el mapa de evidencia y la propuesta editorial.
+AMPLIACIÓN DEL PROMPT ORIGINAL: ALCANCE BIBLIOGRÁFICO, DIVULGACIÓN CIENTÍFICA Y ADAPTACIÓN EDITORIAL A EN-LISOS
+Estas instrucciones complementan y amplían el prompt original. Debes conservar todos sus requisitos científicos, metodológicos, bibliográficos y editoriales, incorporando además las siguientes directrices. En caso de conflicto, prioriza el rigor científico y las instrucciones oficiales de la revista.
+1. Ampliación del alcance bibliográfico: recurrir a otras enfermedades raras cuando sea necesario
+El artículo debe centrarse prioritariamente en las aplicaciones de inteligencia artificial (IA) en las enfermedades de depósito lisosomal, con especial atención a Gaucher, Fabry y Pompe. Sin embargo, debes evitar que la revisión quede excesivamente limitada si la bibliografía disponible sobre estas tres patologías es escasa.
+Por tanto:
+Realiza primero una búsqueda específica y exhaustiva de estudios sobre IA, aprendizaje automático (machine learning), aprendizaje profundo (deep learning), procesamiento del lenguaje natural (NLP) y otras técnicas computacionales aplicadas a Gaucher, Fabry y Pompe.
+Si la evidencia es insuficiente para desarrollar determinados apartados, amplía la búsqueda a otras enfermedades raras, especialmente aquellas que compartan características relevantes: baja prevalencia, retraso diagnóstico, heterogeneidad fenotípica, complejidad genética, biomarcadores específicos, afectación multiorgánica o necesidad de seguimiento longitudinal.
+Considera, entre otras, enfermedades metabólicas hereditarias, trastornos neuromusculares, enfermedades neurodegenerativas raras, inmunodeficiencias primarias y otras enfermedades de depósito lisosomal.
+Selecciona ejemplos que aporten valor real al argumento del artículo, no simplemente por disponer de publicaciones sobre ellos.
+Es imprescindible diferenciar tres niveles de evidencia:
+Evidencia directa: estudios que aplican IA específicamente a Gaucher, Fabry, Pompe u otras enfermedades de depósito lisosomal.
+Evidencia en otras enfermedades raras: estudios realizados en patologías distintas que permitan ilustrar aplicaciones potencialmente transferibles.
+Aplicaciones potenciales o extrapolaciones: propuestas que podrían tener utilidad en enfermedades lisosomales, pero que todavía no han sido validadas en ellas.
+Nunca presentes resultados obtenidos en otra enfermedad como si se hubieran demostrado en Gaucher, Fabry o Pompe. Explica expresamente cuándo se está extrapolando una aplicación y cuáles serían las limitaciones de dicha extrapolación.
+Cuando utilices ejemplos de otras patologías, justifica brevemente por qué resultan relevantes para las enfermedades lisosomales y qué aprendizaje puede extraerse de ellos.
+El objetivo no es aparentar que existe una evidencia más abundante de la que realmente hay, sino construir una revisión sólida que muestre tanto los avances específicos como las oportunidades que ofrecen otras experiencias en enfermedades raras.
+2. Adaptación del lenguaje al público médico y biosanitario hispanohablante
+El artículo se publicará en en-LISOS, una revista dirigida a lectores hispanohablantes del ámbito médico, clínico, biomédico y biosanitario.
+Debes asumir que una parte importante de estos lectores puede tener conocimientos limitados sobre inteligencia artificial, programación, estadística computacional o desarrollo de algoritmos. No obstante, probablemente sí estarán familiarizados con conceptos médicos, biológicos, genéticos, diagnósticos y terapéuticos.
+Por ello, el texto debe actuar como un puente entre la IA y la práctica clínica, permitiendo que un profesional sanitario comprenda no solo qué tecnologías existen, sino también cómo funcionan, qué problemas clínicos pueden resolver y cuáles son sus limitaciones.
+Principios de redacción
+Utiliza un lenguaje científico, preciso y profesional, pero accesible.
+No presupongas que el lector conoce los fundamentos de la IA.
+Introduce los conceptos técnicos progresivamente, empezando por su significado y utilidad antes de profundizar en su funcionamiento.
+Define cada término especializado la primera vez que aparezca.
+Evita acumular siglas, anglicismos y nombres de algoritmos sin explicar su significado.
+Cuando utilices términos como machine learning, deep learning, redes neuronales, procesamiento del lenguaje natural, modelos supervisados, aprendizaje no supervisado, redes convolucionales o modelos generativos, explica brevemente qué significan y para qué sirven.
+Prioriza las denominaciones en español cuando sean habituales y mantén el término inglés entre paréntesis cuando facilite la identificación de la tecnología en la bibliografía.
+Evita explicaciones excesivamente matemáticas, fórmulas, código o detalles de programación que no aporten valor al lector clínico.
+Uso de metáforas y analogías
+Puedes utilizar metáforas, comparaciones y ejemplos cotidianos para facilitar la comprensión de conceptos complejos, siempre que sean científicamente correctos y no simplifiquen en exceso la realidad.
+Algunas orientaciones:
+Explicar el aprendizaje automático como un proceso mediante el cual un sistema aprende a reconocer patrones a partir de numerosos ejemplos, de forma comparable a cómo un profesional adquiere experiencia al revisar múltiples casos clínicos.
+Describir una red neuronal como un sistema de unidades interconectadas que procesa información por etapas, sin equipararla literalmente al cerebro humano.
+Explicar el entrenamiento de un algoritmo como un proceso de aprendizaje basado en ejemplos conocidos y la validación como una comprobación de si realmente funciona con pacientes o datos que no ha utilizado previamente.
+Presentar un modelo predictivo como una herramienta que identifica patrones asociados a un determinado riesgo, pero no como un instrumento capaz de anticipar con certeza el futuro de un paciente.
+Estas analogías son orientativas. Puedes proponer otras más adecuadas a cada concepto.
+Regla fundamental: toda metáfora debe ir acompañada, cuando sea necesario, de una explicación técnica breve que evite interpretaciones erróneas. No utilices comparaciones que atribuyan conciencia, razonamiento humano, comprensión real o capacidad diagnóstica autónoma a los algoritmos.
+3. Enfoque clínico: explicar la utilidad antes que la tecnología
+La estructura argumental debe partir de los problemas reales que afrontan los profesionales sanitarios en las enfermedades raras y, a partir de ellos, introducir las herramientas de IA que podrían ayudar a resolverlos.
+Evita organizar todo el artículo como un catálogo de algoritmos.
+Siempre que sea posible, desarrolla cada aplicación siguiendo esta secuencia:
+Problema clínico: ¿qué dificultad existe actualmente en el diagnóstico, seguimiento o tratamiento de estos pacientes?
+Aplicación de la IA: ¿qué tipo de herramienta puede ayudar y qué información necesita?
+Funcionamiento comprensible: ¿cómo realiza esa tarea el sistema, explicado sin tecnicismos innecesarios?
+Ejemplo científico: ¿qué estudio ha demostrado esta aplicación y en qué enfermedad se ha realizado?
+Relevancia clínica: ¿cómo podría ayudar al médico, al laboratorio, al investigador o al paciente?
+Limitaciones: ¿qué obstáculos impiden su utilización generalizada y qué validaciones serían necesarias?
+Incluye ejemplos clínicos hipotéticos únicamente cuando ayuden a comprender una aplicación, identificándolos expresamente como ilustrativos y sin presentarlos como casos reales o resultados de investigación.
+4. Diseño visual y recursos gráficos para facilitar la comprensión
+La dimensión visual debe ser una parte importante del artículo, no un complemento decorativo.
+El lector debe poder comprender las principales ideas incluso sin tener conocimientos previos de IA. Por ello, utiliza entre 2 y 3 elementos visuales principales, siempre que aporten información y sean compatibles con la extensión editorial prevista.
+Prioriza:
+Diagramas de flujo: para representar cómo se utilizan los datos clínicos, genéticos, bioquímicos o de imagen en un sistema de IA.
+Esquemas conceptuales: para explicar visualmente las diferencias entre aprendizaje automático, aprendizaje profundo y otras técnicas.
+Infografías clínicas: para mostrar cómo podría integrarse la IA en el recorrido de un paciente con una enfermedad lisosomal, desde la sospecha diagnóstica hasta el seguimiento.
+Tablas comparativas: para resumir aplicaciones, enfermedades estudiadas, tipo de algoritmo, resultados y grado de evidencia.
+Esquemas de transferencia de conocimiento: para diferenciar qué aplicaciones se han demostrado en enfermedades lisosomales y cuáles proceden de otras enfermedades raras.
+No intentes introducir demasiada información en una única figura. Cada elemento visual debe tener un propósito claro, ser legible y poder interpretarse de manera autónoma.
+Para cada figura o tabla propuesta, proporciona:
+Número y título.
+Objetivo comunicativo.
+Contenido que debe incluir.
+Estructura visual sugerida.
+Texto de etiquetas y leyendas.
+Pie de figura completo, comprensible sin necesidad de consultar el cuerpo del artículo.
+Indicación de si se trata de una figura original propuesta o si se basa/adapta en una publicación previa, especificando la referencia y la necesidad de solicitar permiso cuando corresponda.
+No inventes resultados, porcentajes, relaciones ni datos para completar esquemas. Las figuras conceptuales deben identificarse como tales.
+5. Extensión y adaptación a las características editoriales de en-LISOS
+Utiliza como orientación editorial la información recopilada sobre la revista:
+Los artículos de revisión y originales suelen ocupar aproximadamente entre 3 y 6 páginas en su versión final maquetada.
+Una revisión estándar de 4–5 páginas, con 2–3 elementos visuales, podría corresponder orientativamente a un manuscrito de entre 1.500 y 2.500 palabras.
+Las figuras y tablas pueden ocupar una parte considerable del espacio final.
+El manuscrito debe prepararse en Word, con fuente Arial 11 y doble espacio, de acuerdo con las instrucciones editoriales recopiladas.
+Las figuras deben entregarse como archivos independientes en JPG o PDF, no únicamente insertadas en el Word.
+Los pies de figura deben aparecer en una sección final del manuscrito y las figuras y tablas deben citarse en el texto de forma correlativa.
+Objetivo de extensión: plantea una revisión de aproximadamente 2.000 palabras, con un margen orientativo de 1.500–2.500 palabras para el cuerpo del artículo, sin contar necesariamente título, resumen, abstract, palabras clave y referencias. Ajusta la extensión según la densidad científica y el espacio disponible para los elementos visuales.
+No sacrifiques explicaciones necesarias para alcanzar artificialmente un número de palabras. Tampoco amplíes el texto con descripciones repetitivas, definiciones innecesarias o ejemplos poco relevantes.
+La información sobre extensión y maquetación debe considerarse una estimación orientativa recopilada, no una norma oficial confirmada. Antes de cerrar el manuscrito, comprueba las instrucciones vigentes de en-LISOS y señala cualquier discrepancia.
+6. Equilibrio entre rigor, accesibilidad y profundidad
+El resultado debe cumplir simultáneamente tres objetivos:
+Rigor científico: bibliografía verificable, interpretación crítica de los resultados y distinción clara entre evidencia demostrada e hipótesis.
+Accesibilidad: explicaciones comprensibles para profesionales sanitarios sin formación específica en IA.
+Aplicabilidad clínica: ejemplos que permitan visualizar cómo estas tecnologías podrían contribuir a mejorar el diagnóstico, la estratificación, el seguimiento y la investigación en enfermedades raras.
+Evita que el artículo parezca un texto de informática dirigido a especialistas en programación o, en el extremo contrario, un artículo divulgativo superficial sin suficiente profundidad científica.
+La finalidad es que un hematólogo, internista, pediatra, genetista, bioquímico clínico, investigador biomédico o profesional de un laboratorio especializado pueda terminar la lectura con una idea clara de qué puede aportar actualmente la IA, qué aplicaciones se están investigando y qué falta para incorporarla de forma fiable a la práctica asistencial.
+7. Instrucciones adicionales para la fase de trabajo
+Antes de redactar la versión definitiva:
+Identifica qué aplicaciones de IA cuentan con evidencia específica en Gaucher, Fabry y Pompe.
+Detecta los apartados en los que la bibliografía sea insuficiente.
+Selecciona ejemplos de otras enfermedades raras que permitan completar esos apartados de forma justificada.
+Clasifica la evidencia según su procedencia y grado de madurez.
+Propón una estructura que permita explicar los conceptos técnicos de forma progresiva.
+Diseña una propuesta de 2–3 figuras o tablas que aporten valor real.
+Presenta una estimación de palabras por sección para respetar la extensión editorial.
+Solo después de validar esta estructura y el mapa bibliográfico, redacta el manuscrito completo.
+Resultado esperado: una revisión científica breve, visual, rigurosa y clínicamente relevante, que acerque la inteligencia artificial a los profesionales biosanitarios hispanohablantes y muestre su potencial en las enfermedades de depósito lisosomal, sin ocultar las limitaciones actuales de la evidencia.
